@@ -13,11 +13,11 @@
 
 ---
 
-0. Definitions
-    - __TermEval 2020__: a platform for researchers to work on ATE.
-    - __ATE__: the automated process of identifying terminology from a corpus
+<!-- 0. Definitions -->
+- __TermEval 2020__: a platform for researchers to work on ATE.
+- __ATE__: the automated process of identifying terminology from a corpus
     of specialised texts.
-    - __Terms__: lexical items that represent concepts of a domain.
+- __Terms__: lexical items that represent concepts of a domain.
 
 1.  [Shared Task on Automatic Term Extraction Using the
 Annotated Corpora for Term Extraction Research (ACTER) Dataset](https://www.aclweb.org/anthology/2020.computerm-1.12.pdf).
@@ -82,26 +82,23 @@ Annotated Corpora for Term Extraction Research (ACTER) Dataset](https://www.aclw
     - F1-score: harmonic mean (gold standard with only terms and with both terms and Named Entities).
 
 - ### __Methodology__: 
-    - __NYU__: English only - Termolator.
+    - __NYU__: Termolator on English version.
         - Select candidate terms based on chunking and abbreviations.
-        - Calculate distribution metrics, well-formedness.
-        - Calculate relevance score.
+        - Calculate distribution metrics, well-formedness, relevance score.
 
-    - __RACAI__: English only
-        - Combine several statistical approachs and vote to generate results
-            - TextRank, TFIDF, clustering, termhood features.
+    - __RACAI__: Combine several statistical approachs and vote to generate results on English version only.
+        - TextRank, TFIDF, clustering, termhood features.
 
-    - __e-Terminology__: All 3 languages
-        - TSR (Token Slot Recognition) technique in TBXTools
+    - __e-Terminology__: 
+        - TSR (Token Slot Recognition) technique in TBXTools.
             - Dutch: statistical version
             - Enlish, French: linguistic version
-        - Filter out stopwords and f(terms) <= 2
+        - Filter out stopwords and f(terms) <= 2.
         - Terminological reference: IATE database for 12-Law.
 
-    - __MLPLab_UQAM__:  All 3 languages
-        - Bidirectional LSTM with GloVe embeddings
+    - __MLPLab_UQAM__: Bidirectional LSTM with GloVe embeddings on 3 languages.
 
-    - __TALN-LS2N__: only English, French (described in next paper)
+    - __TALN-LS2N__: only English, French (described in next paper).
         
 - ### __Notes__:
     - TALN-LS2N’s system
