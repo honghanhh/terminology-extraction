@@ -151,7 +151,7 @@ outperforms all others in the English and French tracks.
             <ol>
                 <li>Formats:
                     <ul>
-                        <li>Input: The sentence contains the term (4-grams) </li>
+                        <li>Input: All the context/term pairs in the corpus as positive examples, negative examples are  generated randomly (n-grams).</li>
                         <li>Output: The term</li>
                     </ul>
                 </li>
