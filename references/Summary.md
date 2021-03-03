@@ -158,13 +158,9 @@ outperforms all others in the English and French tracks.
                 <li>Models</li>
                 <ul>
                     <li>English: RoBERTa</li>
-                    <ul>
-                        <li>Modify key hyperparams in original BERT </li>
-                        <li>Eliminate its next sentence pretraining objective </li>
-                        <li>Train the model with much larger mini-batches and more substantial learning rates </li>
-                    </ul>
                     <li>French: CamemBERT</li>
                     <li>Use pre-trained models and fine-tuned during the classification</li>
+                    <li>Use simpleTransformer library for finetuning</
                 </ul>
             </ol>
         </td>
