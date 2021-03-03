@@ -151,7 +151,11 @@ outperforms all others in the English and French tracks.
             <ol>
                 <li>Formats:
                     <ul>
-                        <li>Input: All the context/term pairs in the corpus as positive examples, negative examples are  generated randomly (n-grams).</li>
+                        <li>Input: The sentence that contains term candidates.
+                        <ul>
+                            <li>Positive examples: Context/term pairs in the corpus</li>
+                            <li>Negative examples: Non-term generated randomly (n-grams)</li>
+                        </ul>
                         <li>Output: The term</li>
                     </ul>
                 </li>
@@ -160,7 +164,7 @@ outperforms all others in the English and French tracks.
                     <li>English: RoBERTa</li>
                     <li>French: CamemBERT</li>
                     <li>Use pre-trained models and fine-tuned during the classification</li>
-                    <li>Use simpleTransformer library for finetuning</
+                    <li>Use simpleTransformer library for finetuning</li>
                 </ul>
             </ol>
         </td>
@@ -170,6 +174,7 @@ outperforms all others in the English and French tracks.
 - ### __Notes__:
     - BERT outperforms classical methods
     - New, simple and strong baseline for terminology extraction
+    - [SimpleTransformers](https://github.com/ThilinaRajapakse/simpletransformers)
 ---
 
 ## Contributors:
