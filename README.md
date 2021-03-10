@@ -95,9 +95,9 @@ python format_data.py
 ```
 
 - Evaluation metrics:
-    - Precision
-    - Recall
-    - F1-score
+    - Precision = TP/(TP+FP)
+    - Recall = TP/(TP+FN)
+    - F1-score = 2 * (Precision * Recall )/ (Precision+Recall)
 
 
 - Results on English dataset (train/val - 80/20):
@@ -106,10 +106,10 @@ python format_data.py
     |               Models                 | Precision | Recall | F1-score |
     |               :----:                 |   :---:   | :----: |  :-----: |
     |        BERT (bert-base-cased)        |   52.85   |  22.36 |   31.42  |
-    |       BERT (bert-base-uncased)       |   52.85   |  22.36 |   31.42  |
     |       RoBERTa (roberta-base)         |   56.11   |  29.56 |   38.72  |
-    |           DistilledBERT              |   53.29   |  21.94 |   31.08  |
-    |         Baseline (TALN-LS2N)         |   34.78   |  70.87 |   46.66  |
+    |DistiledBERT (distilbert-base-uncased)|   53.29   |  21.94 |   31.08  |
+    |       XLNet (xlnet-base-cased)       |      |   |    |
+    |       __Baseline (TALN-LS2N)__       |   34.78   |  70.87 |   46.66  |
 
     - English terms with Named Entities (NEs)
 ## References
