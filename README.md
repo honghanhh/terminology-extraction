@@ -108,10 +108,13 @@ python format_data.py
     |        BERT (bert-base-cased)        |   52.85   |  22.36 |   31.42  |
     |       RoBERTa (roberta-base)         |   56.11   |  29.56 |   38.72  |
     |DistiledBERT (distilbert-base-uncased)|   53.29   |  21.94 |   31.08  |
-    |       XLNet (xlnet-base-cased)       |      |   |    |
-    |       __Baseline (TALN-LS2N)__       |   34.78   |  70.87 |   46.66  |
+    |       XLNet (xlnet-base-cased)       | __55.72__ |  30.54 |   39.45  |
+    |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|__46.66__|
 
     - English terms with Named Entities (NEs)
+
+
+## Issues
 ## References
 - [Shared Task on Automatic Term Extraction Using the
 Annotated Corpora for Term Extraction Research (ACTER) Dataset](https://www.aclweb.org/anthology/2020.computerm-1.12.pdf).
