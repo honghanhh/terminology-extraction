@@ -95,6 +95,6 @@ class ActerDataset():
         return sentences, labels, all_token, terms
 
 if __name__ == '__main__':
-    dataset = ActerDataset()
-    with open("../processed_data/wind.pkl", "wb") as output_file:
+    dataset = ActerDataset(term = "wind", nes=True)
+    with open("../processed_nes_data/wind.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
