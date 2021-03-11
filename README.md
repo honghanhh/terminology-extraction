@@ -76,7 +76,7 @@ python format_data.py
 ```
 
 ### 3. Train model & evaluation
-- Models:
+- Models trained on [Collab](https://colab.research.google.com/drive/1ZoiQRj_z-V0Pd6ek9VDYxpvg50eD_DA5?usp=sharing)
     - Variants of BERTs: BERT, RoBERTa, DistilledBERT
     - XLNet
 
@@ -105,6 +105,7 @@ python format_data.py
 
     |               Models                 | Precision | Recall | F1-score |
     |               :----:                 |   :---:   | :----: |  :-----: |
+    |        BERT (bert-base-uncased)      |   58.22   |  32.11 |   41.39  |
     |        BERT (bert-base-cased)        |   52.85   |  22.36 |   31.42  |
     |       RoBERTa (roberta-base)         |   56.11   |  29.56 |   38.72  |
     |DistiledBERT (distilbert-base-uncased)|   53.29   |  21.94 |   31.08  |
@@ -112,6 +113,15 @@ python format_data.py
     |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|__46.66__|
 
     - English terms with Named Entities (NEs)
+
+    |               Models                 | Precision | Recall | F1-score |
+    |               :----:                 |   :---:   | :----: |  :-----: |
+    |        BERT (bert-base-uncased)      | __59.24__ |  31.99 |   41.55  |
+    |        BERT (bert-base-cased)        |   54.36   |  30.60 |   39.16  |
+    |       RoBERTa (roberta-base)         |   56.57   |  29.83 |   39.06  |
+    |DistiledBERT (distilbert-base-uncased)|   58.64   |  32.42 |   41.76  |
+    |       XLNet (xlnet-base-cased)       |   58.35   |  29.48 |   39.17  |
+    |       __Baseline (TALN-LS2N)__       |   32.58   |__72.68__|__44.99__|
 
 
 ## Issues
