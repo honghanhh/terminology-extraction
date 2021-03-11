@@ -103,26 +103,30 @@ python format_data.py
 - Results on English dataset (train/val - 80/20):
     - English terms only
 
-    |               Models                 | Precision | Recall | F1-score |
-    |               :----:                 |   :---:   | :----: |  :-----: |
-    |        BERT (bert-base-uncased)      |   77.36   |  46.17 |  57.83   |
-    |        BERT (bert-base-cased)        |   72.77   |  42.91 |  53.99   |
-    |       RoBERTa (roberta-base)         |   69.53   |  40.11 |  50.87   |
-    |DistiledBERT (distilbert-base-uncased)|    |   |    |
-    |       XLNet (xlnet-base-cased)       |  |   |    |
-    |       __Baseline (TALN-LS2N)__       |   34.78   |  70.87  |  46.66  |
+    |               Models                 | Precision | Recall  | F1-score |
+    |               :----:                 |   :---:   | :----:  | :-----:  |
+    |        BERT (bert-base-uncased)      | __77.36__ |  46.17  |__57.83__ |
+    |        BERT (bert-base-cased)        |   72.77   |  42.91  |  53.99   |
+    |       RoBERTa (roberta-base)         |   69.53   |  40.11  |  50.87   |
+    |DistiledBERT (distilbert-base-uncased)|   75.53   |  44.05  |  55.65   |
+    | DistiledBERT (distilbert-base-cased) |   67.44   |  44.22  |  53.42   |   
+    |       XLNet (xlnet-base-cased)       |   70.39   |  41.59  |  52.29   |   
+    |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|  46.66   |
 
     - English terms with Named Entities (NEs)
 
-    |               Models                 | Precision | Recall | F1-score |
-    |               :----:                 |   :---:   | :----: |  :-----: |
-    |        BERT (bert-base-uncased)      |   77.48   | 44.99  |   56.93  |
-    |        BERT (bert-base-cased)        |   71.27   | 42.13  |   52.96  |
-    |       RoBERTa (roberta-base)         |   |   |    |
-    |DistiledBERT (distilbert-base-uncased)|    |   |    |
-    |       XLNet (xlnet-base-cased)       |    |   |    |
-    |       __Baseline (TALN-LS2N)__       |   32.58   |  72.68 |  44.99  |
-## Issues
+    |               Models                 | Precision | Recall  | F1-score |
+    |               :----:                 |   :---:   | :----:  |  :-----: |
+    |        BERT (bert-base-uncased)      | __77.48__ | 44.99   | __56.93__|
+    |        BERT (bert-base-cased)        |   71.27   | 42.13   |   52.96  |
+    |       RoBERTa (roberta-base)         |   69.38   | 39.54   |   50.37  |
+    |DistiledBERT (distilbert-base-uncased)|   75.23   | 44.29   |   55.76  |
+    | DistiledBERT (distilbert-base-cased) |   67.98   | 42.79   |   52.52  | 
+    |       XLNet (xlnet-base-cased)       |   72.62   | 38.68   |   50.48  |
+    |       __Baseline (TALN-LS2N)__       |   32.58   |__72.68__|   44.99  |
+
+
+## Discussion
 ## References
 - [Shared Task on Automatic Term Extraction Using the
 Annotated Corpora for Term Extraction Research (ACTER) Dataset](https://www.aclweb.org/anthology/2020.computerm-1.12.pdf).
