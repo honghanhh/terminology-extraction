@@ -105,25 +105,23 @@ python format_data.py
 
     |               Models                 | Precision | Recall | F1-score |
     |               :----:                 |   :---:   | :----: |  :-----: |
-    |        BERT (bert-base-uncased)      |   58.22   |  32.11 |   41.39  |
-    |        BERT (bert-base-cased)        |   52.85   |  22.36 |   31.42  |
-    |       RoBERTa (roberta-base)         |   56.11   |  29.56 |   38.72  |
-    |DistiledBERT (distilbert-base-uncased)|   53.29   |  21.94 |   31.08  |
-    |       XLNet (xlnet-base-cased)       | __55.72__ |  30.54 |   39.45  |
-    |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|__46.66__|
+    |        BERT (bert-base-uncased)      |   77.36   |  46.17 |  57.83   |
+    |        BERT (bert-base-cased)        |   72.77   |  42.91 |  53.99   |
+    |       RoBERTa (roberta-base)         |   69.53   |  40.11 |  50.87   |
+    |DistiledBERT (distilbert-base-uncased)|    |   |    |
+    |       XLNet (xlnet-base-cased)       |  |   |    |
+    |       __Baseline (TALN-LS2N)__       |   34.78   |  70.87  |  46.66  |
 
     - English terms with Named Entities (NEs)
 
     |               Models                 | Precision | Recall | F1-score |
     |               :----:                 |   :---:   | :----: |  :-----: |
-    |        BERT (bert-base-uncased)      | __59.24__ |  31.99 |   41.55  |
-    |        BERT (bert-base-cased)        |   54.36   |  30.60 |   39.16  |
-    |       RoBERTa (roberta-base)         |   56.57   |  29.83 |   39.06  |
-    |DistiledBERT (distilbert-base-uncased)|   58.64   |  32.42 |   41.76  |
-    |       XLNet (xlnet-base-cased)       |   58.35   |  29.48 |   39.17  |
-    |       __Baseline (TALN-LS2N)__       |   32.58   |__72.68__|__44.99__|
-
-
+    |        BERT (bert-base-uncased)      |   77.48   | 44.99  |   56.93  |
+    |        BERT (bert-base-cased)        |   71.27   | 42.13  |   52.96  |
+    |       RoBERTa (roberta-base)         |   |   |    |
+    |DistiledBERT (distilbert-base-uncased)|    |   |    |
+    |       XLNet (xlnet-base-cased)       |    |   |    |
+    |       __Baseline (TALN-LS2N)__       |   32.58   |  72.68 |  44.99  |
 ## Issues
 ## References
 - [Shared Task on Automatic Term Extraction Using the

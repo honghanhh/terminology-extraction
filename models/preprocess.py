@@ -4,7 +4,7 @@ import spacy
 import pickle
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes = False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', term = "corp", nes = True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -52,7 +52,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nes=True):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         self.sentences = []
@@ -95,6 +95,6 @@ class ActerDataset():
         return sentences, labels, all_token, terms
 
 if __name__ == '__main__':
-    dataset = ActerDataset(nes=True)
-    with open("../processed_nes_data/equi.pkl", "wb") as output_file:
+    dataset = ActerDataset()
+    with open("../processed_nes_data/corp.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
