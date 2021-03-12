@@ -103,7 +103,7 @@ python format_data.py
 ```
 
 ### 3. Train model & evaluation
-- Models trained using SimpleTransformers on English dataset on [Collab](https://colab.research.google.com/drive/1ZoiQRj_z-V0Pd6ek9VDYxpvg50eD_DA5?usp=sharing).
+- Models trained using SimpleTransformers on English dataset on Collab.
     - Variants of BERTs: BERT, RoBERTa, DistiledBERT
     - XLNet
 
