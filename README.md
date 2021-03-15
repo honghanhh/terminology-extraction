@@ -130,7 +130,7 @@ python format_data.py
     - F1-score = 2 * (Precision * Recall )/ (Precision+Recall)
 
 
-- Results on heart failure English dataset:
+- Results on heart failure dataset:
     - For English terms only
 
     |               Models                 | Precision | Recall  | F1-score |
@@ -140,8 +140,8 @@ python format_data.py
     |       RoBERTa (roberta-base)         |   69.53   |  40.11  |  50.87   |
     |DistiledBERT (distilbert-base-uncased)|   75.53   |  44.05  |  55.65   |
     | DistiledBERT (distilbert-base-cased) |   67.44   |  44.22  |  53.42   |   
-    |       XLNet (xlnet-base-cased)       |   70.39   |  41.59  |  52.29   |   
-    |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|  46.66   |
+    |       XLNet (xlnet-base-cased)       |   70.39   |  41.59  |  52.29   | 
+    |       __Baseline (TALN-LS2N)__       |   32.58   |__72.68__|   44.99  |  
 
     - For English terms with Named Entities (NEs)
 
@@ -153,7 +153,7 @@ python format_data.py
     |DistiledBERT (distilbert-base-uncased)|   75.23   | 44.29   |   55.76  |
     | DistiledBERT (distilbert-base-cased) |   67.98   | 42.79   |   52.52  | 
     |       XLNet (xlnet-base-cased)       |   72.62   | 38.68   |   50.48  |
-    |       __Baseline (TALN-LS2N)__       |   32.58   |__72.68__|   44.99  |
+    |       __Baseline (TALN-LS2N)__       |   34.78   |__70.87__|  46.66   |
 
 - Analyze BERT model results:
 
@@ -205,6 +205,8 @@ python format_data.py
   </tr>
 </tbody>
 </table>
+
+
 
 ## Discussion
 - Why our models outperform TALN-LS2N?
