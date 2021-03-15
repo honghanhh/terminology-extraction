@@ -4,7 +4,7 @@ import spacy
 import pickle
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'nl', term = "equi", nes = True):
+    def __init__(self, data_dir = "../ACTER", language = 'nl', term = "wind", nes=True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -13,6 +13,7 @@ class KeyTerm():
 
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
         self.keys = self.df['word'].to_list()
+        self.keys = [str(x) for x in self.keys]
     
     def extract(self, tokens, text = None):
         if text == None:
@@ -103,5 +104,5 @@ if __name__ == '__main__':
     path = "../processed_data/nl/processed_nes_data/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "equi.pkl", "wb") as output_file:
+    with open(path + "wind.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
