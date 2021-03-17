@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 from tqdm import tqdm
 
-train = ['../processed_data/nl/processed_nes_data/corp.pkl','../processed_data/nl/processed_nes_data/equi.pkl','../processed_data/nl/processed_nes_data/wind.pkl']
+train = ['../processed_data/fr/spacy-sm/processed_nes_data/corp.pkl','../processed_data/fr/spacy-sm/processed_nes_data/equi.pkl','../processed_data/fr/spacy-sm/processed_nes_data/wind.pkl']
 train_df = pd.DataFrame(columns=["sentence_id", "words", "labels"])
 final_train_df = pd.DataFrame()
 
@@ -24,4 +24,4 @@ for i in train:
     final_train_df = final_train_df.append(train_df, ignore_index=True)
 
 
-final_train_df.to_csv('../processed_data/nl/processed_nes_data/train.csv', index=False)
+final_train_df.to_csv('../processed_data/fr//spacy-sm/processed_nes_data/train.csv', index=False)
