@@ -1,0 +1,1415 @@
+,predictions
+0,epidemiologie
+1,probnp
+2,klepafwijkingen
+3,ß1-adrenerge
+4,nyha-klasse
+5,functionele
+6,hartfalen
+7,natriumarm
+8,revalidatie
+9,lcz696
+10,casussen
+11,hartfalenspreekuur
+12,intraventriculaire geleidingsvertraging
+13,bucindolol
+14,huisartspraktijk
+15,metformine
+16,anamnese
+17,isosorbidedinitraat
+18,opioïden
+19,hartkamers
+20,chirurgie
+21,ramipril
+22,hartgeruis
+23,antihypertensieve
+24,hals
+25,angiotensineconverterendenzymremmers
+26,correlatie
+27,levervenen
+28,ntprobnp
+29,medische
+30,coronairangiografie
+31,opname
+32,ergometrietest
+33,standaardtherapie
+34,einddoeltherapie
+35,vitale organen
+36,biomarker
+37,ras
+38,"r-2,5"
+39,kamerstimulatie
+40,ischemische hartziekte
+41,bloeddrukverlagende
+42,klepgebreken
+43,capecitabine
+44,patiënten
+45,genetische
+46,glitazones
+47,st-segmentelevatie
+48,pneumokokkenvaccinatie
+49,psychologische
+50,coronaire
+51,artsen
+52,evidence-based
+53,creatinineklaring
+54,pijn
+55,auscultatie
+56,dyspnoe
+57,c-statistiek
+58,antihypertensivum
+59,p=0.707
+60,epifenomenen
+61,digitalispreparaten
+62,griepvaccinatie
+63,kunstharten
+64,eerstelijnsbehandeling
+65,βètablokkers
+66,batista-procedure
+67,klinische studies
+68,acute episode
+69,zuurstofsaturatiemeting
+70,implanteerbare cardioverter-defibrillator
+71,hartrevalidatie
+72,matig
+73,spirometrie
+74,prostaathypertrofie
+75,bijwerkingen
+76,angiotensine ii
+77,voorschrift
+78,lv-diameter
+79,statinehype
+80,heart attack
+81,geneeskunde
+82,hb
+83,methode
+84,left ventricular assist device
+85,operatie
+86,calciuretisch
+87,nierinsufficiëntie
+88,copd-exacerbaties
+89,nifedipine
+90,ß-blokkers
+91,zieke
+92,medicamenteus
+93,colofon
+94,ventrikelfrequentie
+95,donoren
+96,elektrolytstoornissen
+97,s3
+98,angiotensine-ii-antagonisten
+99,klepdisfunctie
+100,controles
+101,contractiele
+102,vaccinatie
+103,pretransplantatiekandidaten
+104,open hartchirurgie
+105,pathologie
+106,rechtvaardigen
+107,polsfrequentie
+108,ischemische cardiomyopathie
+109,veneuze longvaatbed
+110,multidisciplinaire richtlijn
+111,kernsymptomen
+112,thiazides
+113,internist
+114,parasympatische activiteit
+115,hartmassae
+116,bnp-plasmaspiegels
+117,pleiotrope
+118,intra-aortale ballonpomp
+119,gezondheidszorgvoorzieningen
+120,uitgangswaarde
+121,angio-oedeem
+122,gerandomiseerde
+123,kaliumsparende diuretica
+124,rookstop
+125,overvulling
+126,pulmonale crepitaties
+127,vaatafwijkingen
+128,bloedige
+129,cerebrale
+130,exacerberend
+131,chirurgische
+132,longoedeem
+133,borstkanker
+134,lipidenverlagende
+135,gedialyseerd
+136,bronchoconstrictie
+137,cox 2-remmers
+138,bloeddruk
+139,valsartan
+140,linkerventrikelfunctie
+141,v. cava inferior
+142,β-blokker
+143,hartaandoening
+144,dyspneu
+145,ß1-adrenerge receptoren
+146,antracyclinegebruik
+147,criteriumvaliditeit
+148,tricuspidalisklepplastiek
+149,consultatie
+150,hart
+151,natriumbeperking
+152,bètablokkeerders
+153,vasodilaterende
+154,palpabel
+155,nierschade
+156,reversibele luchtwegobstructie
+157,inspanningsvermogen
+158,oestrogeenagonistische
+159,bètablokker
+160,arts
+161,volumedepletie
+162,echocardiogram
+163,symptomatische hypotensie
+164,natriumsuppletie
+165,angiotensine-receptorantagonisten
+166,hartklepgebreken
+167,systolische functiestoornis
+168,ace-remmer
+169,risicofactoren
+170,isosorbidemononitraat
+171,angiotensine-ii-antagonist
+172,nt-anp
+173,medicijn
+174,swan-ganz-katheter
+175,neurohormonale
+176,ischemische beroerte
+177,crepitaties
+178,cachexie
+179,ischaemische beroerte
+180,radionuclidemetingen
+181,linkerventrikeldruk
+182,volemische
+183,receptor
+184,verplegen
+185,veneuze druk
+186,obstructief longlijden
+187,ná
+188,negatief voorspellende
+189,syndromen
+190,infecties
+191,pathofysiologisch
+192,longarts
+193,plaatjesremmers
+194,systolische disfunctie
+195,gerandomiseerd
+196,lage bloeddruk
+197,dpp-iv-remmers
+198,diagnosen
+199,symptoom
+200,insufficiëntie
+201,ziekenhuizen
+202,palliatieve zorg
+203,co2-retentie
+204,hartfrequentie
+205,antiarrhythmica
+206,peptide
+207,glp-1-analogen
+208,placebopillen
+209,vesiculair ademgeruis
+210,negatief inotroop
+211,prospectief
+212,digoxine
+213,dilatatoire cardiomyopathie
+214,copd
+215,röntgenthoraxfotografie
+216,galwegen
+217,longvaatbed
+218,meta-analyse
+219,asymptomatisch
+220,arni's
+221,herseninfarct
+222,spironolactongroep
+223,aldosteronantagonist
+224,thalidomide
+225,qs-complexen
+226,leverfalen
+227,lisdiureticum
+228,farmacokinetische
+229,casuïstische
+230,patiënt b
+231,echocardiografie
+232,fysisch-diagnostisch
+233,arteriële systeem
+234,ace-remmers
+235,hemodynamische
+236,turgor
+237,chloorhexidine
+238,echografie
+239,geneesmiddelonderzoeken
+240,non-steroidal anti-inflammatory drugs
+241,behoudens
+242,celkweek
+243,perioperatieve
+244,monogenetische erfelijke aandoeningen
+245,glomerulaire filtratierate
+246,hypokaliëmie/hypomagnesiëmie
+247,patiëntendossiers
+248,infarct
+249,angiotensine converting enzyme
+250,echocardiografisch
+251,antihypertensiva
+252,echo
+253,rosuvastatine
+254,heropnamen
+255,neurohumorale systemen
+256,coumarine
+257,apoptosis
+258,ventrikelrespons
+259,hypercapnie
+260,vene
+261,hartaanval
+262,colorectaal carcinoom
+263,eindpunt
+264,oncologische
+265,kaliumsupplementen
+266,renine
+267,hebben
+268,viscerale organen
+269,follow-upduur
+270,crepiteren
+271,arb's
+272,maximale zuurstofopnamevermogen
+273,reflextachycardie
+274,nt-probnp-bepaling
+275,hartklepafwijkingen
+276,medisch
+277,perindopril
+278,sublinguaal
+279,pulsaties
+280,calciumantagonisten
+281,of
+282,insulinegevoeligheid
+283,cvd
+284,enkele
+285,levensverwachting
+286,hf
+287,nierdoorstroming
+288,lvef
+289,at-ii-receptorantagonisten
+290,diabetesbehandeling
+291,angiotensine-ii
+292,aii-antagonisten
+293,rule-out
+294,parasympathische inhibitie
+295,therapeuticum
+296,lvesd
+297,apoptose
+298,resynchronisatietherapie
+299,hemodialyse
+300,polsdruk
+301,cardiac index
+302,combinatietherapie
+303,alogliptinebehandelde
+304,diagnoses
+305,renine-angiotensine-aldosteron-systeem
+306,opgenomen
+307,galblaas
+308,vitamine e
+309,wikkelhart
+310,hartfalenpatiënten
+311,follow-up
+312,crt
+313,bnp-
+314,bèta-2-adrenoceptoren
+315,cardiomyocytkernen
+316,clopidogrel
+317,relaxatietijd
+318,donororganen
+319,in-vitro-opstelling
+320,derde harttoon
+321,lever
+322,vasopeptidase-remmer
+323,amiodaron
+324,na
+325,pathologieën
+326,ion-kanalen
+327,trombo-embolie
+328,ziektebeloop
+329,digotoxine
+330,diabetes type-2
+331,antidiabetische
+332,prognostische
+333,derdegraads av-blok
+334,renaal
+335,colonoscopie
+336,radioloog
+337,diabetesrichtlijn
+338,hf-pef
+339,nt-probnp-plasmaspiegels
+340,terminale
+341,hypertensiebehandeling
+342,mi
+343,naproxen
+344,intraveneuze bolus
+345,geneesmiddel
+346,ventrikelfibrillatie
+347,thuiszorgverpleegkundigen
+348,angiotensine-converterend-enzym
+349,hartvaataandoening
+350,long
+351,leverziekten
+352,ß2-receptoren
+353,voorgeschiedenis
+354,bronchospasme
+355,elektrocardiografisch
+356,bloedige drukmeting
+357,leerpunten
+358,lactaatacidose
+359,nt-probnp-bepalingen
+360,steriele
+361,plantkundige
+362,prognose
+363,hartfalenpolikliniek
+364,renine-angiotensine-aldosteron systeem
+365,tachycardie
+366,rattencardiomyocyten
+367,health literacy
+368,perifere vaten
+369,losartan
+370,definitie
+371,meta-analyses
+372,bnp-bepaling
+373,chf
+374,huisartsenpraktijk
+375,hartfalenverpleegkundige
+376,warfarin
+377,mammacarcinoom
+378,diabetes mellitus
+379,arg389-variant
+380,cardiovasculaire
+381,health
+382,multivariate analyse
+383,costofrenische sinus
+384,niet-dihydropyridine
+385,sterftereductie
+386,patiëntenzorg
+387,biomedische
+388,natriumuitscheiding
+389,myocardfibrose
+390,cns
+391,leukocyten
+392,orthopnoe
+393,druggebruik
+394,myocardinfarct
+395,pacemaker
+396,radioimmunoassaytechnieken
+397,buikpijn
+398,dpp4-remming
+399,kaplan-meier-methode
+400,sterfte
+401,mitralisklep
+402,ureumconcentratie
+403,mitralisklepafwijking
+404,ß1-
+405,basistherapie
+406,hfbef
+407,gedilateerde cardiomyopathie
+408,expressie
+409,dobutamine
+410,calciuminflux
+411,betablokkers
+412,einddiastolische
+413,diabetespatiënten
+414,necrotische
+415,aspirine
+416,overdiagnostiek
+417,hypotensie
+418,nierperfusie
+419,hyperlipidemie
+420,inverse agonistische
+421,sterfgeval
+422,cardiologische
+423,doelstelling
+424,tachypneu
+425,astma
+426,zelfmedicatie
+427,cardiale-resynchronisatietherapie
+428,speckle-echo
+429,myocardfunctie
+430,amlodipine
+431,propafenon
+432,zieken
+433,kaliumexcretie
+434,niet-medicamenteus
+435,morfologische
+436,renine-angiotensine-antagonisten
+437,nitroglycerine
+438,implantatieprocedure
+439,metoprololonderzoek
+440,morbiditeit
+441,rechtszijdig hartfalen
+442,darmwand
+443,ontspannen
+444,gastroscopie
+445,normale
+446,invasiviteit
+447,tumor
+448,sympathicus-tonus
+449,v. jugularis externa
+450,ventricular assist devices
+451,serumkaliumconcentratie
+452,indicatie
+453,reanimeren
+454,nyha
+455,tachycard
+456,spironolactone
+457,vaatlijden
+458,patiënte
+459,bumetanide
+460,rct
+461,renine-angiotensine-aldosteronsysteem
+462,nabelasting
+463,beleid
+464,inotropicum
+465,mdr
+466,systolisch
+467,niet-farmacologische
+468,disfunctie
+469,po2
+470,spoedeisendehulpafdeling
+471,diabetische cardiomyopathie
+472,ziekteprogressie
+473,aldosteronproductie.1
+474,spiercelverlies
+475,hypomagnesiëmie
+476,idiopathische dilaterende cardiomyopathie
+477,inotropica
+478,shock
+479,bloeding
+480,collapspunt
+481,rekatheterisatie
+482,trombi
+483,coronairlijden
+484,verpleegkundigen
+485,diagnostisch
+486,ziekenhuisopnamen
+487,k
+488,sick sinus syndrome
+489,cardiomegalie
+490,diagnosticum
+491,antracyclinederivaten
+492,implanteerbare defibrillator
+493,hartafwijking
+494,tsh
+495,serumkaliumgehalte
+496,conclusie
+497,cardiologie
+498,prostaglandinesynthese
+499,vochtbeperking
+500,cardiotoxiciteit
+501,angiotensine-ii-receptorblokker
+502,orale
+503,mortaliteitsafname
+504,v. cava superior
+505,neurohormonale systemen
+506,verapamil
+507,internisten
+508,coronarialijden
+509,seksuele
+510,prospectieve cohortonderzoek
+511,fibrinolytica
+512,antibioticagebruik
+513,ziekenhuistherapie
+514,drukbelasting
+515,hospitalisatie
+516,longcrepitaties
+517,onbloedige
+518,atriumgrootte
+519,thyreotoxicose
+520,statine
+521,perfunderen
+522,halve
+523,hartfalenbehandeling
+524,dehydratie
+525,natriuretische
+526,ventriculectomie
+527,angiotensine ii-receptorblokkers
+528,stemi
+529,stabiele
+530,enzymremmers
+531,nt-probnp
+532,plasma
+533,elektrolyten
+534,systemische bloeddruk.1
+535,serumelektrolyten
+536,herhospitalisaties
+537,diagnose
+538,contractiliteit
+539,terminale zorg
+540,geneesmiddelen
+541,intraveneuze inotropica
+542,downregulatie
+543,st-elevaties
+544,patiëntengroep
+545,echografisch
+546,lineaire
+547,cardiale
+548,hartfalenzorgprogramma's
+549,bètablokkers
+550,sympathicusactiviteit
+551,bloeddrukwaarde
+552,mitralisklepinsufficiëntie
+553,cytotoxisch
+554,fdh
+555,natriumintake
+556,oplaaddosis
+557,euvolemie
+558,differentiaaldiagnose
+559,aldosteronantagonisten
+560,een
+561,ß1-adrenerge receptor
+562,biventriculaire stimulator
+563,hypertensief
+564,digoxinegebruik
+565,cytostatica
+566,antagoneren
+567,pneumonie
+568,pompfunctie
+569,hartfalers
+570,linkerbundeltakblok
+571,fietsergometertest
+572,benauwdheid
+573,multifactoriële aandoeningen
+574,cv aandoeningen
+575,plasmaspiegel
+576,hartslag
+577,cardiomyocytdiameter
+578,amiloride
+579,ascites
+580,jicht
+581,oedeem
+582,belangenconflict
+583,placebo
+584,familieanamnese
+585,eindpunten
+586,farmacotherapie
+587,linkerventrikelhypertrofie
+588,behandeling
+589,diclofenac
+590,sympatholytisch
+591,gamma-gt
+592,angiotensinereceptorblokkers
+593,cva's
+594,cholesterolverlagers
+595,contractieverloop
+596,orthopneu
+597,medicine
+598,palliatieve
+599,multidisciplinaire ketenzorg
+600,hulpverlening
+601,hyperthyreoïdie
+602,katheterpunt
+603,cardiochirurgie
+604,systolische bloeddruk
+605,systolisch functieverlies
+606,transplantatie
+607,diureticumdosis
+608,hypokaliëmie
+609,atherosclerotische aandoeningen
+610,angiotensineconverterend-enzym
+611,hr
+612,gso
+613,geneesmiddeleffecten
+614,resuscitation
+615,stolselvorming
+616,hartkleplijden
+617,vochtsuppletie
+618,p
+619,cross-sectioneel
+620,patiënt
+621,multidisciplinaire
+622,alogliptine
+623,dpp-4 remmers
+624,dihydropyridines
+625,harfalen
+626,p450-systeem
+627,echocardiografische
+628,zuurstofopnamekinetiek
+629,morfine-analogen
+630,farmacokinetiek
+631,bypassoperatie
+632,druk-volumerelaties
+633,kernboodschappen
+634,anaesthetica
+635,insuline
+636,natriumarme
+637,alat
+638,cardiomyoplastiek
+639,epd's
+640,trandolapril
+641,dosisverhoging
+642,sinusritme
+643,av-blok
+644,als
+645,klasse
+646,hazardratio
+647,valsalva-manoeuvre
+648,defibrillatie
+649,linker atrium
+650,digitalis
+651,polikliniek
+652,nierarteriestenose
+653,adjuvante systeemtherapie
+654,farmacogenetica
+655,prostaglandinen
+656,staken
+657,farmacologie
+658,rechter atrium
+659,thoraxfoto
+660,maligniteit
+661,antracyclinen
+662,hartfalenonderzoeken
+663,vaatziekte
+664,raas
+665,anp
+666,clopidogreltherapie
+667,ct
+668,venepols
+669,biologische
+670,implanteerbare
+671,batista-operatie
+672,bètareceptorblokkade
+673,","
+674,doorbloeding
+675,zuurstof
+676,diuretisch
+677,cardiovasculair
+678,symptomatologie
+679,polyfarmacie
+680,ibuprofen
+681,galopritme
+682,huisartsenzorg
+683,urine
+684,ace
+685,vaatziekten
+686,osteosarcoom
+687,v. jugularis
+688,digitalisintoxicatie
+689,etiologie
+690,percutane
+691,hormoon
+692,cardiomyocyten
+693,bèta-2-adrenoceptor
+694,serumkaliumstijging
+695,spieren
+696,flecaïnide
+697,uitgangswaarden
+698,angiotensin converting enzyme inhibition
+699,poliklinisch
+700,hartgeruisen
+701,hartminuutvolume
+702,hartpomp
+703,diltiazem
+704,bloedvaten
+705,angiotensine
+706,nieren
+707,veneuze stuwing
+708,onbloedig
+709,spoedopvang
+710,klinisch hartfalen
+711,rx-thorax
+712,bij
+713,vaatwandeigenschappen
+714,sd
+715,voor-achterwaartse thoraxdiameter
+716,glomerulaire perfusiedruk
+717,intraveneuze
+718,systole
+719,diagnostiek
+720,hyponatriëmie
+721,complicaties
+722,mitralis-aortaklepinsufficiëntie
+723,cor-thoraxratio
+724,sexual adjustment scale
+725,contractie
+726,cvd-metingen
+727,complicatie
+728,elektronische monitoring
+729,metoprolol
+730,intraveneus
+731,linker-ventrikel-ejectiefractie
+732,npv
+733,necrose
+734,chemotherapeutische
+735,lv-ejectiefractie
+736,chemotherapie
+737,linkerventrikel-ejectiefractie
+738,asat
+739,vaatverwijders
+740,arg389
+741,negatief
+742,compressies
+743,prevalentie
+744,therapieprotocol
+745,ibopamine
+746,multifactoriële aandoening
+747,angiotensine-ii-receptorblokkers
+748,nurse practitioner
+749,perioperatief
+750,voorwandafleidingen
+751,cva
+752,nitraten
+753,ritmestoornissen
+754,perfusie
+755,vesnarinon
+756,warfarine
+757,st-t-afwijkingen
+758,nyha-klasse iii
+759,hartrevalidatieprogramma
+760,standaardlab
+761,operaties
+762,bcl2
+763,vo2-piek
+764,recidiefhartfalen
+765,myocardischemie
+766,ritmestoornis
+767,matrixverval
+768,dubbelblinde
+769,onderzoeksvraag
+770,klepafwijking
+771,dosisresponsrelatie
+772,klinisch
+773,symptomatisch
+774,perifere
+775,digoxine-spiegels
+776,digoxine-intoxicatie
+777,bundeltakblokpatroon
+778,met
+779,longmaligniteit
+780,invasief
+781,alogliptine-
+782,cardiale functie
+783,bisoprolol
+784,bloedvat
+785,longaandoeningen
+786,myocyt
+787,enzym
+788,hartritme
+789,methodologie
+790,nierfalen
+791,titreer
+792,thuiszorgprogramma
+793,negatief inotrope
+794,plaatjesaggregatieremmer
+795,polymorfisme
+796,metabole acidose
+797,non-invasief
+798,first
+799,patiëntenvoorlichting
+800,kalium
+801,ß-blokker
+802,vasculaire
+803,ß-blokkade
+804,cvz
+805,veneuze
+806,groenewegen
+807,hartdood
+808,hypertensie
+809,hartinfarct
+810,kransvatomleidingsoperatie
+811,lipid-lowering
+812,ferritinewaarde
+813,weefselperfusie
+814,kamerfunctie
+815,spironalactone
+816,creatinine
+817,voorbelasting
+818,coronairaandoeningen
+819,geneesmiddellen
+820,bètareceptorantagonisten
+821,pathogene mutatie
+822,serumkalium
+823,immunomodulerend
+824,genetisch
+825,x-thorax
+826,aandoening
+827,hartfalen.1
+828,placebopil
+829,wandspanning
+830,β-blokkers
+831,ventrikel
+832,bloeddrukmeting
+833,antibiotica
+834,randomiseerden
+835,coumarines
+836,linkerventrikeldysfunctie
+837,accidentele celdood
+838,ecg
+839,astmapatiënten
+840,longfunctieonderzoek
+841,hemodynamiek
+842,niet-gerandomiseerd
+843,fluorouracil
+844,angiotensine-ii-receptorblockers
+845,werkdiagnose
+846,hartfalenpoli's
+847,functionele capaciteit
+848,röntgenonderzoek
+849,aspirin
+850,hartinfact
+851,psychopathologie
+852,ventrikeldiastole
+853,rechterventrikelfalen
+854,chloortalidon
+855,significantieniveau
+856,optitreren
+857,ht
+858,harttoon
+859,troponine t
+860,systolische
+861,cardiothoracale
+862,diagnostische
+863,apoptotische
+864,candesartangroep
+865,diureticabeleid
+866,vitamine-e-suppletie
+867,mortality
+868,epidemiologische
+869,natrium
+870,cholesterolsyntheseremmer
+871,atrioventriculair blok
+872,aortadruk
+873,inhoudsvaliditeit
+874,neprilysine-receptoren
+875,angiotensine-receptor-blokkers
+876,kortademigheidsklachten
+877,cytokinen
+878,levenskwaliteit
+879,candesartan
+880,neurohormonen
+881,exacerbaties
+882,zuurstofsaturatie
+883,gezonde
+884,infusietherapie
+885,perifere weerstand
+886,crp
+887,bijwerking
+888,torasemide
+889,nauwgezette
+890,copd-patiënten
+891,bradycardieën
+892,inleiding
+893,maligniteiten
+894,linker kamer
+895,baseline
+896,antihypertensive
+897,hypoalbuminemie
+898,stabiel
+899,nsaid
+900,dosisoptitratie
+901,nct
+902,diuretische
+903,chz
+904,receptorstructuur
+905,fluorouracil-prodrugs
+906,prognostisch
+907,serumdigoxineconcentratie
+908,medisch-technische
+909,constructvaliditeit
+910,dokters
+911,systolische functie
+912,harttransplantatie
+913,bilirubinewaarde
+914,enkels
+915,intravasculair volume
+916,cardiologen
+917,bijwerkingenprofiel
+918,pleura-effusie
+919,vullingsdrukken
+920,symptomatische
+921,gynaecomastie
+922,dobutaminethuisinfusie
+923,lvsd
+924,ventrikel.1
+925,carotispols
+926,diabetes mellitus type 2
+927,hypoglykemie
+928,hydrochloorthiazide
+929,positief
+930,genetische ontrafeling
+931,classificatie
+932,diastolisch hartfalen
+933,systolisch hartfalen
+934,obesitas
+935,β-receptorblokkerende sympathicolytica
+936,longcapaciteit
+937,cardiac output
+938,gezondheidszorginstanties
+939,pioglitazon
+940,anticoagulantia
+941,sensitiviteit
+942,neprilysine inhibitors
+943,eerstehulpafdeling
+944,cardiale insufficiëntie
+945,perifeer oedeem
+946,invasieve
+947,vasodilatatie
+948,hartspiercelverval
+949,placebogroep
+950,voorkamerfibrillatie
+951,gereanimeerd
+952,glucose
+953,zoutrestrictie
+954,bloedige meting
+955,gelegenheidssteekproef
+956,slaapapneu
+957,farmacodynamische
+958,ontstekingsremmende
+959,pulmonale
+960,medicatie
+961,infusie
+962,perindoprilgebruik
+963,significant
+964,voorlopige
+965,digoxinespiegel
+966,visusstoornissen
+967,spironolacton
+968,palliatie
+969,klinische
+970,aliskiren
+971,at
+972,souffles
+973,st-segmentdepressie
+974,chf-prevalentie
+975,hartklepaandoening
+976,hartsouffle
+977,magnesiumsupplementen
+978,rehospitalisatie
+979,biomarkers
+980,ictus cordis
+981,midclaviculairlijn
+982,achtergronden
+983,voorgeschreven
+984,cardioselectieve
+985,hartritmestoornissen
+986,kliniek
+987,medioclaviculaire lijn
+988,positieve
+989,dilatatie
+990,diuretica
+991,hba1c
+992,chronische aandoeningen
+993,reversibele cardiomyopathieën
+994,metoprololsuccinaat
+995,hartfalenonderzoek
+996,kleplijden
+997,defecatiepatroon
+998,raad
+999,vochtrestrictie
+1000,bradycardie
+1001,linkerkamerdisfunctie
+1002,endomyocardfibrose
+1003,melkzuuracidose
+1004,gestratificeerd
+1005,hersenbloeding
+1006,triamtereen
+1007,vochtretentie
+1008,swt
+1009,diagnostische onderzoek
+1010,geleidingsstoornis
+1011,thiazolidinedionderivaten
+1012,huisarts
+1013,shuttle wandel test
+1014,waterzucht
+1015,pleuravocht
+1016,angiotensine-2-receptorblokker
+1017,relaxatieverloop
+1018,diabetes
+1019,rhonchi
+1020,medicament
+1021,hyper-
+1022,orthosympathisch zenuwstelsel
+1023,pathofysiologische
+1024,ß-receptor
+1025,neprilysine
+1026,hydralazine
+1027,acra
+1028,acuut
+1029,niet-medicamenteuze
+1030,aldosteron
+1031,boezemfibrilleren
+1032,creatinineconcentratie
+1033,antagonisten
+1034,evidence-based medicine
+1035,ms
+1036,nierfunctie
+1037,receptoren
+1038,comorbiditeiten
+1039,thuisinfusie
+1040,sociaaleconomische
+1041,endotheline
+1042,dossieronderzoek
+1043,chronische
+1044,ziektegeschiedenissen
+1045,nt-pro-bnp
+1046,mild
+1047,halfwaardetijd
+1048,hypercholesterolemie
+1049,bnp
+1050,titrerend
+1051,carvedilol
+1052,chf-diagnose
+1053,coronaire bypass-
+1054,hyperkaliëmie
+1055,prospectief longitudinaal multipel gevalsonderzoek
+1056,diureticatoediening
+1057,symptomen
+1058,veneuze systeem
+1059,vad
+1060,peripartum cardiomyopathie
+1061,rechter
+1062,hartschade
+1063,hartziekte
+1064,genen
+1065,acenocoumarol
+1066,remodellering
+1067,na-
+1068,elektrische asynchronie
+1069,verminderde
+1070,buikpijnklachten
+1071,tripeltherapie
+1072,hyperglykemische ontregeling
+1073,ziekte
+1074,ace-inhibitoren
+1075,n-terminaal
+1076,ervaren
+1077,angina pectoris
+1078,diastolisch
+1079,acs
+1080,lvedd
+1081,nsaid's
+1082,aortastenose
+1083,pci
+1084,saxagliptine
+1085,specificiteit
+1086,centraalveneuze druk
+1087,metoprololgroep
+1088,huisartsen
+1089,rosiglitazon
+1090,atriumpeptiden
+1091,herseninfarcten
+1092,glomerulaire filtratiesnelheid
+1093,chronische bronchitis
+1094,hartstilstand
+1095,ziekten
+1096,huisartsencontract
+1097,micromanometerkatheters
+1098,arbeidsvermogen
+1099,intraventriculaire geleidingstijd
+1100,dna
+1101,palpitaties
+1102,tumoren
+1103,adrenaline
+1104,omapatrilaat
+1105,ziektebeeld
+1106,vena-cava-superiorisyndroom
+1107,bloed
+1108,veneuze pulsaties
+1109,medicijngebruik
+1110,evidencebased
+1111,ischemie
+1112,training
+1113,troglitazon
+1114,gerechtvaardigd
+1115,factoranalyse
+1116,ejectiefractie
+1117,body mass index
+1118,enzymwerking
+1119,intrathoracale druk
+1120,palliatief
+1121,resuscitatie
+1122,natriuminname
+1123,rechteratriumdruk
+1124,ontsteking
+1125,gezondheidsvaardigheden
+1126,at ii
+1127,vullingsdynamiek
+1128,fibrose
+1129,pathofysiologie
+1130,antioxidantia
+1131,diagnose hartfalen
+1132,chronisch
+1133,ace)-remmers
+1134,neurohumorale
+1135,single group measurement design
+1136,intoxicatie
+1137,elektroforese
+1138,etiologisch
+1139,symptoomverbetering
+1140,collapsneiging
+1141,steunhart
+1142,body-mass index
+1143,hartritmestoornis
+1144,lipidenprofiel
+1145,pulmonaal
+1146,materiaal
+1147,bnp-concentratie
+1148,rr
+1149,arteriële
+1150,ketenzorg
+1151,chronisch obstructieve longziekte
+1152,kwaliteit
+1153,ß1-receptor
+1154,ernstig
+1155,opzet
+1156,hartfunctie
+1157,bmi
+1158,diureticaresistentie
+1159,hypovolemie/dehydratie
+1160,resultaat
+1161,hart-
+1162,harten
+1163,ziektegeschiedenis
+1164,beta-blokkers
+1165,reanimatierichtlijnen
+1166,longen
+1167,coronaire hartziekten
+1168,gfr
+1169,angiotensinogeen
+1170,telemoni-
+1171,thiazolidinedionen
+1172,abdomen
+1173,hartfalenpatiënt
+1174,cholesterol
+1175,hyperglykemie
+1176,het
+1177,hartafwijkingen
+1178,coronaire interventie
+1179,ontwatering
+1180,evaluatie
+1181,hartgrootte
+1182,telemonitoring
+1183,ventriculaire aritmieën
+1184,positief voorspellende
+1185,uremie
+1186,enalapril
+1187,acetylsalicylaat
+1188,linker-ventrikel
+1189,exacerbatie
+1190,cumarines
+1191,hypovolemie
+1192,arteriole
+1193,bloeddrukverlaging
+1194,dotterbehandeling
+1195,begrippen
+1196,cardiovasculaire aandoeningen
+1197,angiotensine-i
+1198,gestructureerde telefonische
+1199,hulpverleners
+1200,zwangerschap
+1201,cabg
+1202,comorbiditeit
+1203,plasmaconcentratie
+1204,controleharten
+1205,bloedonderzoek
+1206,farmaceutische
+1207,depressie
+1208,captoprilgebruik
+1209,farmacogenetisch
+1210,slaapstoornissen
+1211,digoxineconcentratiespiegel
+1212,goudenstandaarddiagnose
+1213,at1-receptor
+1214,borst
+1215,mitralisklepplastiek
+1216,gevoelsstoornissen
+1217,icd
+1218,kaliumrijk
+1219,ictus
+1220,renale
+1221,clinicus
+1222,lisdiureticuma
+1223,ziekenhuis
+1224,atriumnatriuretische factor.1
+1225,diastolische druk
+1226,epidemiologisch
+1227,diastolische functie
+1228,angulus sterni
+1229,coronairziekte
+1230,significante
+1231,mswt
+1232,cardiale schade
+1233,vaatanatomie
+1234,chronisch hartfalen
+1235,verpleegkundige
+1236,ventrikelfibrilleren
+1237,diastolische disfunctie
+1238,at-ii-antagonist
+1239,eindstadiumhartfalen
+1240,diureticagebruik
+1241,digoxinebepaling
+1242,nesiritide
+1243,gediagnosticeerd
+1244,financiële
+1245,compliance
+1246,betablokker
+1247,kern
+1248,medicamenteuze
+1249,klepoperaties
+1250,prevalentiecijfers
+1251,ischemische
+1252,macroalbuminurie
+1253,one-stop shop
+1254,nierfunctieverslechtering
+1255,cerebrovasculaire aandoeningen
+1256,geneeskundige
+1257,decompensatio cordis
+1258,ziekenhuisopname
+1259,hartfalenverpleegkundigen
+1260,slagvolume
+1261,hartpatiënten
+1262,lichamelijk onderzoek
+1263,trastuzumab
+1264,adjuvante
+1265,eplerenon
+1266,richtlijn
+1267,angioneurotisch oedeem
+1268,heropnames
+1269,transferrinesaturatie
+1270,cardioloog
+1271,aii-antagonist
+1272,dorpsarts
+1273,ziekenhuismaterialen
+1274,therapie
+1275,patienten
+1276,therapeutische
+1277,kaliumsuppletie
+1278,r
+1279,matig hartfalen
+1280,prospectieve
+1281,q-toppen
+1282,harttonen
+1283,starttherapie
+1284,myocyten
+1285,angiotensine-ii-receptorantagonist
+1286,hospitalisaties
+1287,ziekenhuisopnames
+1288,polymorfismen
+1289,medicamenten
+1290,hartziekten
+1291,nyha-klasse iv
+1292,aandoeningen
+1293,gedilateerd
+1294,acetylsalicylzuur
+1295,morfine
+1296,chronische aandoening
+1297,acute
+1298,vullingsdruk
+1299,hartfalen?1
+1300,hartklachten
+1301,anemie
+1302,sacrum
+1303,coronairvaten
+1304,linkerventrikeldisfunctie
+1305,offspring
+1306,ace-inhibitor
+1307,bloeddrukdaling
+1308,cardiomyopathie
+1309,defibrilleren
+1310,syndroom
+1311,incidentie
+1312,ppv
+1313,vierde
+1314,ventrikelfunctie
+1315,halsvenen
+1316,studiepatiënten
+1317,linkerventrikelvolume
+1318,follow-upprogramma's
+1319,cox
+1320,atriumfibrillatie
+1321,recidiefmyocardinfarct
+1322,derde
+1323,dobutaminetherapie
+1324,thiazidediuretica
+1325,captopril
+1326,hartrevalidatiearts
+1327,serumcreatinine
+1328,diureticum
+1329,cardiaal
+1330,veneuze boog
+1331,cholecystitis
+1332,atriumfibrilleren
+1333,statines
+1334,hartfalenprogramma's
+1335,klepfunctie
+1336,aortaklepstenose
+1337,venen
+1338,qrs-duur
+1339,omega-3-vetzuren
+1340,optitratie
+1341,resonance
+1342,kerley-b-lijntjes
+1343,ziekbed
+1344,peptiden
+1345,vaatverwijdende
+1346,hartspier
+1347,lager
+1348,pro-bnp
+1349,therapietrouw
+1350,hartfalenteam
+1351,internistisch
+1352,5fu
+1353,gezondheidsvaardigheid
+1354,nebivolol
+1355,buikklachten
+1356,therapiekeuze
+1357,niet-ischemische cardiomyopathie
+1358,basisreanimatie
+1359,lisinopril
+1360,thiazide
+1361,pericardaandoeningen
+1362,mortaliteit
+1363,furosemide
+1364,tricuspidalisklep
+1365,aldosteronreceptoren
+1366,mesangium
+1367,bronchitis
+1368,sublinguale
+1369,carvedilolgroep
+1370,medicijnen
+1371,bèta-2- agonisten
+1372,fysiologische
+1373,hyperuricemie
+1374,implanteerbare automatische defibrillator
+1375,inspanningstolerantie
+1376,obsoleet
+1377,diureticadoseringen
+1378,kortademigheid
+1379,antracyclinechemotherapie
+1380,bèta-adrenoceptorblokker
+1381,nierinsufficientie
+1382,dubbelblind
+1383,cv
+1384,a. carotis
+1385,sinusbradycardie
+1386,dihydropyrimidinedehydrogenase
+1387,optitreerfase
+1388,postoperatief
+1389,endotheelfunctie
+1390,cerebrovasculair accident
+1391,waterretentie
+1392,oraal
+1393,angiotensine-converterend-enzymremmers
+1394,longstuwing
+1395,natriuretisch
+1396,geleidingsstoornissen
+1397,myocard
+1398,linkerventrikelejectiefractie
+1399,huisartsenpraktijken
+1400,lisdiuretica
+1401,coumarinegroep
+1402,lv)-schade
+1403,plasma-bnp-concentratie
+1404,rule-in
+1405,postacute
+1406,palliatiezorgteam
+1407,nierfunctiestoornis
+1408,elektrocardiografie
+1409,spiercellen
+1410,gezondheidszorgsysteem
+1411,huisartsenregistraties
+1412,angineuze
+1413,qrs-complex
