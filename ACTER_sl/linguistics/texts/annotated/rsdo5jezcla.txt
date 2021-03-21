@@ -1,0 +1,242 @@
+Strokovnjaki in drugi uporabniki terminologije kot naslovniki terminoloških slovarjev 
+
+V članku smo opredelili uporabnike terminologije, ki se s terminologijo ukvarjajo vsak s svojega vidika, zaradi česar imajo kot naslovniki terminoloških slovarjev različne potrebe.
+Osnovna razlika med skupinami uporabnikov je, da samo strokovnjaki terminologijo razumejo kot nabor poimenovanj za pojme iz pojmovnega sistema posameznega strokovnega področja.
+Terminologijo prepoznavajo kot poimenovanja za specializirano vsebino, ki jo poimenujejo.
+Ostale skupine uporabnikov terminologije se s terminologijo ne ukvarjajo na pojmovni ravni, ampak na izrazni.
+Terminološki slovar oz. informacije, ki jih vsebuje, morajo biti zato prilagojene naslovnikom slovarja.
+
+Ključne besede: terminologija, terminološki slovar, uporabniki terminologije, naslovniki terminoloških slovarjev 
+
+V slovenskem prostoru so naslovniki terminoloških slovarjev tipično strokovnjaki, ki imajo vsaj diplomo s svojega strokovnega področja oz. študentje stroke, ki jo uslovarja slovar.
+Terminološki slovarji naj bi predstavljali pojmovni sistem stroke in medsebojna razmerja med pojmi, pri čemer se predvideva, da naslovnik pojmovni sistem stroke že bolj ali manj pozna.
+
+V članku se bomo osredotočili na strokovnjake kot naslovnike slovarja in ugotavljali, kakšen terminološki slovar potrebujejo.
+Ali je smiselno slovar zasnovati za točno definiranega naslovnika ali je ustrezneje slovar predvideti za heterogeno skupino naslovnikov?
+Na vprašanje smo poskušali odgovoriti z raziskavo, katere izhodišče je bila predpostavka, da obstaja bistvena razlika v dojemanju terminologije med strokovnjaki in nestrokovnjaki (z nestrokovnjaki označujemo vse druge skupine uporabnikov terminologije, ki ne poznajo pojmovnega sistema konkretnega strokovnega področja, seveda pa so strokovnjaki na svojem področju, npr. prevajalci, dokumentalisti, terminologi).
+Raziskava je vključevala dve skupini strokovnjakov, in sicer s področja avtomatike in tiflopedagogike, na drugi strani pa skupino terminologov, ki so ena od skupin uporabnikov terminologije.
+
+V članku bomo najprej opredelili različne skupine uporabnikov terminologije, nato pa se bomo posvetili naslovnikom terminoloških slovarjev.
+V središču našega zanimanja bo strokovnjak kot naslovnik terminološkega slovarja.
+Glede na to, da pri svojem delu izhaja iz pojmovnega sveta svoje stroke, je njegovo dojemanje terminologije drugačno od dojemanja terminologije nestrokovnjaka, ki termine prepoznava le na izrazni ravni, vsebine, ki jo ti termini označujejo, pa ne (pre)pozna.
+
+Š. Vintar (2008: 46, 47) natančneje opredeli štiri skupine uporabnikov terminologije, to so strokovnjaki, dokumentalisti, prevajalci in terminologi.
+Pri tem je treba omeniti, da te skupine terminologijo uporabljajo na različen način.
+Primarna skupina uporabnikov terminologije so gotovo strokovnjaki, ki terminologijo uporabljajo za sporočanje strokovnih vsebin.
+Prav tako se s terminologijo pogosto srečujejo prevajalci strokovnih besedil.
+Terminologi se s terminologijo ukvarjajo posredno pri izdelavi terminoloških virov.
+Četrta skupina uporabnikov terminologije pa so dokumentalisti, ki pri svojem delu (npr. v knjižnicah ali arhivih) označujejo dokumente s ključnimi besedami ali klasifikatorji.
+Ta skupina uporabnikov se od ostalih loči po tem, da posamezne termine uporabi kot označevalce, ki omogočajo iskanje po zbirkah dokumentov.
+
+Tem štirim skupinam lahko dodamo še zelo heterogeno skupino uporabnikov jezika, ki se s posameznimi termini srečajo naključno, npr. novinarji pri pisanju člankov, ki se navezujejo na strokovno tematiko, posamezniki, ki bi radi izvedeli, kaj pomeni kakšen specializiran termin, ki ga ne najdejo v splošnih jezikovnih priročnikih, literati, ki v okviru literarnega dela pišejo tudi o strokovnih vsebinah, itd.
+To je skupina uporabnikov, ki jo zelo težko opredelimo, zaradi česar je težko predvideti njihove potrebe.
+
+Glede na to, da dokumentalisti niso neposredni uporabniki terminologije, da se terminologi z njo ukvarjajo z jeziko(slo)vnega vidika, skupino potencialnih uporabnikov terminologije pa je težko zamejiti, si bomo na tem mestu podrobneje ogledali dve skupini uporabnikov terminologije, in sicer strokovnjake in prevajalce.
+
+Kot že omenjeno, strokovnjaki terminologijo uporabljajo za učinkovito strokovno komunikacijo, pri čemer morda niso tako pozorni na jezikovni vidik terminologije, ker je zanje bistvena strokovna vsebina, torej pojmi, ki jih termini označujejo.
+Pri tem je pomembno, da so termini gospodarni, nedvoumni in ustaljeni, saj to zagotavlja nemoteno strokovno komunikacijo.
+Za razliko od strokovnjakov prevajalci pri rabi terminologije ne izhajajo iz pojmovnega vidika, ampak iz jezikovnega oz. besedilnega, saj prenašajo v drug jezik celotna besedila, ki so sestavljena iz specializiranih in nespecializiranih leksikalnih enot.
+V idealnem primeru bi strokovna besedila prevajal strokovnjak s prevajalskim znanjem oz. prevajalec s poglobljenim strokovnim znanjem, žal pa to pogosto ni mogoče, zlasti pri jezikih z manjšim številom govorcev, kot je slovenščina.
+
+Očitno je torej, da so potrebe prevajalcev drugačne od potreb strokovnjakov (in seveda tudi od potreb drugih potencialnih skupin uporabnikov terminologije).
+Š. Vintar ugotavlja, da upoštevanje potreb različnih skupin uporabnikov terminologije pomeni, da »vsak posamezni glosarski projekt vnaprej definira ciljne skupine uporabnikov ter v skladu s tem zasnuje tudi terminografsko metodologijo.« (Vintar 2008: 49).
+S tem se strinjamo in na osnovi tega menimo, da ima slovar, zasnovan in izpeljan z mislijo na konkretno skupino uporabnikov kot naslovnikov slovarja, manjšo uporabno vrednost za skupino uporabnikov, ki ji slovar ni bil primarno namenjen.
+To seveda pomeni, da so slovarji, namenjeni primarno npr. prevajalcem, za strokovnjake manj uporabni kot slovarji, namenjeni primarno strokovnjakom.
+Seveda velja tudi obratno.
+Upoštevanje ciljne skupine uporabnikov terminološkega priročnika je torej bistveno za vsako resno terminološko delo.
+
+Terminološki slovarji lahko torej nagovarjajo različne skupine uporabnikov, ki imajo različne potrebe.
+Vprašanje je, ali lahko posamezen terminološki slovar zadosti pričakovanjem in potrebam vseh uporabnikov terminologije.
+Da je to mogoče, menita npr. N. Logar in Š. Vintar: »Naloga terminografa je zadovoljiti čim več poizvedb različnih uporabnikov slovarja, to pa pomeni, da je treba termine vključiti tako, da bosta celovito terminološko informacijo dobila dokumentalist in prevajalec, pa tudi vsi drugi« (Logar in Vintar 2008: 13).
+N. Logar Berginc meni, da ne moremo pričakovati specializacije slovenskih terminoloških slovarjev glede na več vrst naslovnikov, »zato je treba zasnovo [terminoloških slovarjev] oblikovati tako, da bodo vključene informacije čim bolj celovite za vse (npr. tako, da so v geselskem članku tudi kolokacije, primeri rabe, ne preveč specializirane razlage, prevodi v vsaj en tuji jezik, da so navedene vse sopomenke z normativno usmeritvijo ipd.).« (Logar Berginc 2009: 230).
+V slovenskem prostoru so terminološki slovarji običajno namenjeni strokovnjakom, kar pomeni, da skušajo upoštevati njihove potrebe.
+Ker so avtorji teh slovarjev večinoma strokovnjaki sami, nastali pa so iz potrebe po poenotenju terminologije znotraj stroke, je razumljivo, da potrebe nestrokovnjakov (torej drugih skupin uporabnikov) niso upoštevane.
+Vprašanje pa je, če ne bi upoštevanje potreb nestrokovnjakov bistveno zmanjšalo uporabnosti terminoloških slovarjev za strokovnjake.
+Če je razlaga oz. definicija popolnoma razumljiva nestrokovnjaku, je velika verjetnost, da je za strokovnjaka premalo natančna in zaradi tega morda celo strokovno neustrezna.
+
+V skladu z idejo, da naj konkretni slovarski projekt poskuša upoštevati potrebe različnih uporabnikov terminologije, postane aktualno vprašanje vključevanja besedilnega okolja v terminološki slovar.
+»Pri besedilnem okolju ne gre zgolj za dodajanje več podatkov o terminu, ampak gre hkrati za način preseganja terminološke meje oz. njeno »mehčanje«.
+Z vključitvijo (tipičnega) besedilnega okolja, tj. kolokacij in zgledov rabe, se tako poveča verjetnost, da bomo zadostili uporabnikovemu subjektivnemu občutku za terminološkost oz. da bodo različni uporabniki, ki iščejo informacije v terminološki podatkovni zbirki, iskano tam tudi našli.« (Logar Berginc 2013: 249).
+Kot že omenjeno, je lahko tudi »mehčanje« terminološke meje problematično z vidika ene od najpomembnejših skupin uporabnikov terminologije, tj. strokovnjakov.
+
+Če naslovniki terminološkega slovarja niso le strokovnjaki, ampak tudi druge skupine uporabnikov, je v slovar verjetno smiselno vključiti čim več informacij (tudi zglede rabe in kolokacije), saj nestrokovnjaki pojma, ki ga posamezen termin označuje, navadno ne poznajo, zanima pa jih, kaj termin pomeni oz. kako se obnaša v besedilu.
+Kadar pa je naslovnik slovarja strokovnjak, pa tipično besedilno okolje za samo razumevanje pojmov ni bistveno.
+Strokovnjaki namreč izhajajo iz pojmovnega sistema stroke, ki ga praviloma poznajo, prav tako poznajo povezave med posameznimi pojmi in termini.
+
+Glede na to, da so bili terminološki slovarji tradicionalno namenjeni strokovnjakom, je zanimivo, da raziskovalci v zadnjem času ugotavljajo, da potrebe strokovnjakov kot skupine naslovnikov terminoloških slovarjev niso podrobneje raziskane (Fathi 2014: 13).
+V zvezi s tem sta zanimivi dve raziskavi.
+
+V raziskavi, ki so jo izvedli N. Logar, P. Gantar in I. Kosem (2014), je avtorje zanimala smiselnost vključitve besedilnega okolja v terminološko podatkovno zbirko odnosov z javnostmi.
+Raziskava je vključevala 24 strokovnjakov s področja odnosov z javnostmi.
+Na tem mestu nas zanimajo predvsem odgovori na vprašanje: »Ali menite, da so informacije o tipičnem besedilnem okolju termina koristne v terminološkem slovarju odnosov z javnostmi?« Strokovnjakom so ponudili tri odgovore (A: Da, te informacije mi pomagajo popolnoma razumeti termin, njegov pomen in vlogo v kontekstu; B: Da in ne; C: Ne, dovolj je, če preberem samo prvi del vnosa (definicija, prevod, dva primera).
+Strokovnjaki so največkrat izbrali odgovor A (58 %), ki mu sledi odgovor B (38 %) (Logar, Gantar in Kosem 2014: 53–55).
+Avtorji v zaključku članka ugotavljajo, »da kolokacije krepijo terminološko definicijo in/ali olajšajo njeno razumevanje /…/ – skupaj s primeri omogočajo hitrejše razumevanje pojma leksem (v našem primeru termina)«.
+Ta sklep velja za nestrokovnjake, ki ne poznajo pojmovnega sistema stroke, zato od slovarja pričakujejo čim več informacij, ki jim bodo pomagale razumeti, kaj leksem (oz. termin) pomeni.
+Po drugi strani pa je taka ugotovitev vprašljiva z vidika strokovnjakov in njihovega razumevanja terminologije.
+Zanje je najpomembnejša informacija v slovarju definicija, ki pojem umesti v pojmovni sistem stroke, zato mora biti strokovno natančna in ne prilagojena nestrokovnjaku.
+Vključitev besedilnega okolja v slovar strokovnjaku ne olajša razumevanja definicije, ampak samo prikaže tipično obnašanje termina v besedilu.
+B. Fathi (2014) npr. ugotavlja, da manj kot polovica strokovnjakov v terminološkem slovarju išče kolokacije in primere rabe.
+
+Raziskava, ki jo je izvedla B. Fathi (2014), je vključevala 40 strokovnjakov z različnih strokovnih področij, ki poleg svojega maternega jezika aktivno uporabljajo vsaj en tuj jezik.
+Avtorico je zanimalo, katere informacije strokovnjaki pričakujejo v terminoloških slovarjih in kako ocenjujejo obstoječe terminološke slovarje.
+Rezultati raziskave so pokazali, da strokovnjaki pri svojem delu najpogosteje uporabljajo enojezične terminološke slovarje, ki jim sledijo dvojezični slovarji in enciklopedije.
+Vsi strokovnjaki jih uporabljajo pri recepciji besedil, večina pa tudi pri produkciji besedil.
+Le četrtina strokovnjakov slovarje uporablja pri prevajanju besedil.
+Avtorica opozarja, da je ta podatek treba upoštevati pri sestavljanju slovarjev za strokovnjake, saj določa tip informacij, ki naj bodo vključene v slovar (Fathi 2014: 17).
+
+Eno od vprašanj v raziskavi se je nanašalo tudi na tip informacij, ki jih strokovnjaki pričakujejo v terminoloških slovarjih in drugih virih.
+93,3 % strokovnjakov v slovarjih išče definicije, 90 % medsebojna razmerja med termini (npr. sinonimijo), 66,6 % jih išče področno oznako, 60 % grafične ponazoritve, 58,3 % slovnične podatke, 56,6 % pa normativne podatke.
+Najmanjši delež strokovnjakov (41,6 %) je označil, da v slovarjih išče kolokacije in primere rabe (Fathi 2014: 18).
+
+Strokovnjaki uporabljajo terminološke slovarje zato, da potrdijo svoje znanje in da so pri pisanju besedil karseda natančni.
+To je razlog, da strokovnjaki kljub svojemu obsežnemu znanju v terminoloških slovarjih iščejo oz. preverjajo definicije.
+Težnja po natančnosti se še poveča pri interdisciplinarnih področjih, ki so jih strokovnjaki omenjali kot najbolj problematična.
+Definicije so koristne tudi pri novih pojmih.
+Strokovnjaki želijo, da so normativne informacije vključene tudi v terminološke slovarje in jih ni treba iskati posebej (Fathi 2014: 19).
+
+Avtorico so še posebej zanimali vzroki za to, da dajejo strokovnjaki prednost enojezičnim terminološkim slovarjem, čeprav večina strokovnjakov, ki so sodelovali v raziskavi, kot svoj drugi jezik uporablja angleščino.
+Strokovnjaki dvojezičnim terminološkim slovarjem ne zaupajo, ker se jim pogosto ne zdijo dovolj natančni.
+Mnogi dvojezični terminološki slovarji so bili namreč izdelani za študente, zaradi česar pojmovne povezave v teh slovarjih ne ustrezajo potrebam strokovnjakov, ali pa jih niso napisali strokovnjaki (Fathi 2014: 19–20).
+
+Na podlagi analize rezultatov raziskave avtorica zaključi, da »morajo biti potrebe strokovnjakov upoštevane pri nastajanju terminoloških slovarjev, pri čemer se je treba zavedati, da so potrebe strokovnjakov drugačne od potreb polstrokovnjakov in nestrokovnjakov.
+Potrebujemo več referenčnih virov za vsa strokovna področja, ki so namenjena predvsem strokovnjakom.« (Fathi 2014: 20).
+
+Če izhajamo iz tega, da naj bo struktura terminoloških slovarjev prilagojena naslovniku, je treba ugotoviti, ali so potrebe strokovnjakov in nestrokovnjakov (tudi, če ti sodijo v eno od skupin uporabnikov terminologije), na katere naj bi terminološki slovar odgovoril, res različne.
+Izhodiščna predpostavka, na podlagi katere smo preverjali različnost potreb ene in druge skupine, je bila, da med strokovnjaki in nestrokovnjaki obstaja bistvena razlika v dojemanju terminologije.
+
+Izvedli smo raziskavo med strokovnjaki konkretnega področja in terminologi, ki niso strokovnjaki za konkretno področje, imajo pa specifična jezikoslovno-terminološka znanja.
+V raziskavo je bilo vključenih 17 strokovnjakov s področja avtomatike (v nadaljevanju avtomatiki), 17 strokovnjakov s področja tiflopedagogike (v nadaljevanju tiflopedagogi) in 4 terminologi, ki se ukvarjajo s terminologijo in izdelavo terminoloških slovarjev.
+
+Pripravili smo 3 krajša strokovna besedila približno enake dolžine.
+Uporabljena so bila besedila različnih avtorjev (vedno strokovnjakov) iz visokošolskih učbenikov, znanstvenih člankov in enega strokovnega priročnika.
+S tem smo želeli zmanjšati vpliv posebnosti sloga enega avtorja oz. enega besedilnega tipa.
+
+Strokovnjaki obeh strok so dobili navodilo, naj v izbranih strokovnih besedilih podčrtajo vse termine svoje stroke, avtomatiki so torej podčrtovali termine s področja avtomatike, tiflopedagogi pa tiflopedagoške termine.
+Opozorjeni so bili, naj ne podčrtujejo terminov sorodnih strok (npr. matematičnih terminov v avtomatiki).
+Vsi so besedila podčrtovali hkrati.
+Terminografi so dobili ista besedila in navodilo, naj podčrtajo termine s področja avtomatike in tiflopedagogike.
+
+Predvidevali smo, da bodo strokovnjaki podčrtali tiste enote, ki jih poznajo, terminologi (ki niso strokovnjaki za konkretni področji) pa tiste enote, ki jih ne poznajo in jih prav zato označijo kot termine.
+V bistvu nestrokovnjaki ugibajo oz. predpostavijo, da je izraz, ki ga ne poznajo iz splošnega jezika, verjetno termin.
+J. Pearson (1998: 27) ugotavlja, da nestrokovnjaki izraz prepoznajo kot termin, ker ne vedo, kaj pomeni.
+Avtorica navaja primer termina Cryogenics (slv. kriogenika), ki ga bodo nestrokovnjaki zaradi tega, ker ga ne poznajo, prepoznali kot termin, medtem ko besedne zveze part-time work (krajši delovni čas) ne bi opredelili kot termin, ker jo prepoznajo iz splošnega jezika, v kontekstu delovnega prava pa je to termin.
+Torej bi jo strokovnjak s tega področja nedvoumno prepoznal kot termin.
+N. Logar (2013: 248) je naredila raziskavo med študenti tržnega komuniciranja in odnosov z javnostmi ter študenti prevajalstva, v kateri je preverjala subjektivnost pojma terminološkost s podčrtovanjem terminov v strokovnem besedilu, in ugotovila, da je študente pri podčrtovanju vodila relativna nepogostost oz. nerazumljivost besed v splošnem jeziku in hkrati poznavanje besede v strokovnem jeziku.
+Glede na to, da študentje sodijo v skupino polstrokovnjakov, so rezultati raziskave pričakovani, po drugi strani pa bi bili rezultati verjetno drugačni, če bi isto besedilo podčrtovali nestrokovnjaki ali strokovnjaki.
+
+Sklepamo namreč, da strokovnjaka in nestrokovnjaka pri odločanju, ali je posamezen izraz termin ali ne, vodita različna mehanizma.
+Strokovnjak načeloma pozna pojem in tudi jezikovni izraz (termin), ki je z njim povezan, nestrokovnjak pa pojma ne pozna in izraz intuitivno označi kot termin.
+
+Avtomatiki so v izbranih strokovnih besedilih kot terminološko označili 101 jezikovno enoto, terminologi pa 88 jezikovnih enot.
+Terminologi so označili 10 enot, ki jih avtomatiki niso, hkrati pa niso označili 23 enot, ki so jih avtomatiki označili.
+
+Presek med obema skupinama je torej 78 enot, pri tem pa je treba opozoriti, da v vseh primerih ne gre za termine, ker je določen del teh enot podčrtala manjšina strokovnjakov.
+Kljub temu ocenjujemo, da je ujemanje med obema skupinama veliko in kaže na to, da rezultati preizkusa kljub različnemu mehanizmu prepoznavanja terminologije pri strokovnjakih in terminologih pogosto sovpadejo.
+Razlog za to so verjetno tipične značilnosti terminov – termini so pogosto redke ali malo znane besede, pogosto tujke.
+Zaradi teh lastnosti so te besede v besedilu opazne in jih zato podčrtajo tudi nestrokovnjaki.
+Po drugi strani pa jih strokovnjaki podčrtajo ravno zato, ker jih poznajo.
+
+Zanimive pa so razlike med obema skupinama uporabnikov terminologije, ki jih je mogoče uvrstiti v dve skupini.
+V prvi skupini so enote, ki so jih avtomatiki podčrtali, terminologi pa jih niso podčrtali, v drugi skupini pa so enote, ki jih avtomatiki niso podčrtali, terminologi pa so jih podčrtali.
+
+V prvi skupini je 5 enot, ki jih terminologi niso podčrtali, podčrtala pa jih je velika večina avtomatikov (82 % in več), zato so to nedvomno termini.
+Te enote so identifikacija, vodenje, odziv na stopnico, vodenje MPC, vodenje z matriko dinamičnega odziva.
+Večinoma gre za besede, ki so primarno del splošnega jezika, to so vodenje, odziv, stopnica in identifikacija, zaradi česar jih nestrokovnjaki niso prepoznali kot terminološke.
+V avtomatiki npr. termin vodenje označuje 1. 'vplivanje na delovanje sistema z izbranimi ukrepi z namenom doseganja zastavljenega cilja, npr. s spreminjanjem veličin, določanjem vrstnega reda operacij' in 2. 'pretvarjanje informacije o vodenem procesu in njegovem okolju v odločitve in ukrepe, ki ob upoštevanju kriterijev in omejitev zagotavljajo doseganje zastavljenega cilja', termin odziv označuje ' izhodni signal sistema, ki je posledica določenega vzbujanja ali začetnega pogoja', termin stopnica 'preizkusni signal, modeliran s stopnično funkcijo', termin identifikacija pa označuje 'eksperimentalno modeliranje dinamičnih sistemov'.
+Med termini, ki jih terminologi niso označili, sta tudi dve vrsti vodenja (vodenje MPC in vodenje z matriko dinamičnega odziva), kar je razumljivo, glede na to, da terminologi besede vodenje niso prepoznali kot termin.
+
+V drugi skupini je 10 enot, ki jih je podčrtal vsaj en terminolog, hkrati pa jih ni podčrtal niti en avtomatik.
+To so: implementirani identifikacijski postopek, model z algoritmom, enostavni proporcionalno integrirano diferencirni (PID) regulator, nihanje, objekt regulacije, mA tokovni signal, tokovni signal, vzbujanje, družina MPC, dolžina horizonta vodenja.
+V teh primerih gre večinoma za besede in besedne zveze, ki nestrokovnjaku iz splošnega jezika niso znane.
+V nekaterih primerih gre za zveze termina in netermina (enostavni proporcionalno integrirano diferencirni (PID) regulator, objekt regulacije, dolžina horizonta vodenja).
+Vzbujanje in nihanje sta fizikalna termina, zaradi česar ju avtomatiki niso podčrtali (navodilo je bilo, da podčrtajo termine svoje stroke), terminologi pa so ju vseeno podčrtali.
+Podobno velja za matematični termin Poissonova naključna distribucija in splošni tehniški termin industrijsko postrojenje, ki so ju podčrtali vsi terminologi in le nekaj avtomatikov.
+
+Tiflopedagogi so v izbranih strokovnih besedilih kot terminološke označili 151 jezikovnih enot, terminologi pa 114 jezikovnih enot.
+Terminologi so označili 2 enoti, ki jih tiflopedagogi niso, hkrati pa niso označili 39 enot, ki so jih označili tiflopedagogi.
+
+Presek med obema skupinama je torej 112 enot, pri tem pa je treba opozoriti, da v vseh primerih ne gre za termine, ker je del teh enot podčrtala manjšina strokovnjakov.
+Ujemanje med obema skupinama je torej relativno veliko in, kot smo ugotavljali že pri preizkusu na področju avtomatike, kaže na to, da kljub različnemu mehanizmu prepoznavanja terminologije strokovnjaki in terminologi pogosto kot terminološke označijo iste enote.
+
+Če se osredotočimo na razlike med obema skupinama, ugotovimo, da terminologi niso podčrtali 8 enot, ki jih je podčrtala velika večina strokovnjakov (88 % in več) in jih zato gotovo lahko štejemo za termine.
+To so: anomalija očesnega aparata, komunikacija, mobilnost, orientacija, vizualno funkcioniranje, specialni pripomoček, specialno učilo, zvočno besedilo.
+Gre za izraze, ki so nestrokovnjakom znani iz splošnega jezika, npr. orientacija, komunikacija, mobilnost, vizualno funkcioniranje, v stroki pa označujejo specializirano vsebino.
+Tako sta orientacija in mobilnost specialni veščini, ki slepe in slabovidne osebe usposobita za samostojno gibanje v prostoru oz. okolju; komunikacija pa je specialna veščina, ki slepe in slabovidne osebe usposobi za sporazumevanje z drugimi in za uporabo grafične pisave.
+Termin vizualno funkcioniranje po mednarodni klasifikaciji bolezni (International Classification of Diseases, 2006) označuje 4 stopnje funkcionalnega vida, in sicer normalni vid, srednjo vizualno prizadetost, težko vizualno prizadetost in slepoto.
+
+V drugi skupini razlik med tiflopedagogi in terminologi sta 2 enoti, ki ju je podčrtal vsaj en terminolog, hkrati pa ju ni podčrtal niti en tiflopedagog.
+To sta očesni aparat in atrofija.
+Atrofija je splošni medicinski pojem in označuje 'zmanjšanje celice, tkiva, organa, organizma ali njihovih delov'; prav tako aparat 'skupina organov ali njihovih delov ali celičnih organelov, ki skupaj opravljajo kako funkcijo', v konkretnem primeru ga natančneje določa pridevnik očesni.
+Omeniti velja, da nihče od strokovnjakov ni podčrtal očesnega aparata, vsi pa so podčrtali anomalijo očesnega aparata, kar gre pripisati temu, da je oftalmologija s tiflopedagogiko povezana v omejenem obsegu, in sicer z vidika okvar vida.
+
+Raziskava je torej pokazala, da kljub različnima mehanizmoma prepoznavanja oz. označevanja terminov rezultati pri obeh skupinah pogosto sovpadejo.
+Strokovnjaki terminologijo namreč poznajo, nestrokovnjaki pa o njej ugibajo.
+Prvi izhajajo iz pojma oz. specializirane vsebine, ki jo termin označuje, drugi pa se zaradi strokovnega neznanja lahko naslonijo samo na izrazno raven termina.
+Ali ga bodo označili za termin ali ne, je praviloma odvisno od ne/poznavanja konkretnega izraza v splošnem jeziku.
+Pomenljivi pa so zlasti primeri neujemanja med strokovnjaki in nestrokovnjaki.
+Do neujemanja je prišlo pri prepoznavanju terminov, ki so nastali s terminologizacijo, npr. identifikacija, orientacija, po drugi strani pa je bilo neujemanje prisotno tudi v primerih, ko izraz je termin, vendar ne s področja avtomatike oz. tiflopedagogike, npr. Poissonova naključna distribucija, atrofija.
+To pravzaprav potrjuje začetno domnevo, da sta mehanizma prepoznavanja terminologije pri strokovnjakih in nestrokovnjakih različna.
+
+Glede na osnovno razliko v dojemanju terminologije med strokovnjaki in nestrokovnjaki je smiselno, da terminološki slovarji, namenjeni strokovnjakom, izhajajo iz pojmovnega vidika.
+Z razvojem besedilne terminologije in upoštevanjem drugih skupin uporabnikov terminologije kot naslovnikov terminoloških slovarjev (poleg strokovnjakov) se je pojmovni vidik umaknil v ozadje, v zadnjem času pa so se raziskovalci spet začeli spraševati o potrebah strokovnjakov.
+Tako recimo Schmitz (2011: 45) opozarja, da je pri terminološkem delu nujno treba upoštevati pojme in termine.
+Avtor poudarja, da za posamezne naloge, kot sta npr. tvorjenje novih terminov in luščenje terminov, besedilna terminologija zagotavlja ustrezne metode, ki jih je smiselno uporabiti – vendar pa je zelo pomembno, da se pri tem ne izgubi povezava s pojmovnim vidikom terminologije.
+
+Kaj bi torej morali upoštevati pri terminološkem slovarju, namenjenemu strokovnjakom?
+Ker je za strokovnjake pri uporabi slovarja bistvena strokovna verodostojnost informacij (prim. še Fathi 2014: 19), morajo biti avtorji terminoloških slovarjev strokovnjaki.
+Pri tem je treba poudariti, da so informacije v slovarju praviloma za stroko bolj relevantne, če pri slovarskem projektu sodeluje večja skupina kompetentnih strokovnjakov.
+Ker je terminologija tudi del jezika sploh, je gotovo koristno, da pri izdelavi terminološkega slovarja sodeluje tudi terminolog, ki ima jezikoslovno-terminološko znanje.
+Terminološki slovar, namenjen strokovnjakom, mora seveda izhajati iz rabe na strokovnem področju, ki ga uslovarja, in pri tem smiselno upoštevati terminološka načela (ustaljenost, gospodarnost, jezikovnosistemska ustreznost, morebitni jezikovnokulturni vidik itd.).
+
+Konkretno bi naj slovar vključeval naslovniku prilagojene informacije, torej strokovno natančno definicijo, ki pojem umesti v pojmovni sistem, normativne informacije, tujejezične ustreznike, jezikovne podatke, vezane na izraz (termin).
+Besedilno okolje za strokovnjake, ki praviloma poznajo pojme svoje strokovnega področja, ni nujna informacija, saj pri strokovnjakih večinoma ni potrebe po tovrstnih informacijah, ki bi naj bile v funkciji olajševanja razumevanja definicije.
+
+Seveda pa tip terminološkega slovarja, namenjen strokovnjakom, ni edini mogoči tip terminološkega slovarja.
+Če so naslovniki drugi uporabniki terminologije (nestrokovnjaki s stališča konkretnega strokovnega področja), je treba upoštevati njihove potrebe, ki izhajajo iz tega, da ne poznajo pojmovnega sistema stroke.
+V ospredju je zato jezikovni vidik.
+Ker naslovnik praviloma ne pozna pojma, morajo biti definicije prilagojene.
+Smiselno je, da so vključene tudi dodatne informacije, ki olajšajo njihovo razumevanje, npr. besedilno okolje.
+
+V članku smo se ukvarjali z uporabniki in naslovniki terminoloških slovarjev.
+Ugotovili smo, da imajo različne skupine uporabnikov terminologije različne potrebe, pri čemer so bile v središču našega zanimanja potrebe strokovnjakov.
+Različne potrebe skupin uporabnikov terminologije izhajajo iz osnovne razlike v dojemanju terminologije med strokovnjaki in nestrokovnjaki.
+Strokovnjaki pri svojem delu izhajajo iz pojmovnega sveta neke stroke, nestrokovnjaki pa termine prepoznavajo le na izrazni ravni, vsebine, ki jo ti termini označujejo, pa praviloma ne poznajo.
+Raziskava, ki je vključevala dve skupini strokovnjakov s področja avtomatike in tiflopedagogike in skupino terminologov, torej nestrokovnjakov, je pokazala, da je ujemanje med skupinama strokovnjakov in nestrokovnjakov relativno visoko, kar pomeni, da različna mehanizma dojemanja terminologije (strokovnjaki enoto podčrtajo, ker jo poznajo, nestrokovnjaki pa zato, ker je ne poznajo) pogosto sovpadeta.
+Pomenljivi pa so primeri, ko se strokovnjaki in nestrokovnjaki ne ujemajo.
+Nestrokovnjaki praviloma ne označijo terminov, ki so nastali s terminologizacijo iz splošnega jezika, npr. identifikacija, orientacija, hkrati pa podčrtajo tudi termine drugih strok, ki se pojavljajo v besedilu, npr. matematični termin Poissonova naključna distribucija v avtomatiki in medicinski termin atrofija v tiflopedagogiki.
+
+Glede na osnovno razliko v dojemanju terminologije med strokovnjaki in nestrokovnjaki je torej smiselno, da terminološki slovarji, namenjeni strokovnjakom, izhajajo iz pojmovnega vidika, medtem ko za slovarje, namenjene različnim skupinam nestrokovnjakov, to ni nujno.
+Ker strokovnjaki slovar uporabljajo zlasti za dopolnjevanje in preverjanje znanja, nestrokovnjaki pa bi predvsem radi izvedeli, kaj beseda sploh pomeni (ker ne poznajo pojmov, ki jih označujejo termini), morajo biti informacije v slovarju prilagojene potrebam naslovnika.
+
+Fajfar in Žagar Karer 2015 = Tanja Fajfar in Mojca Žagar Karer, Strokovnjaki in prepoznavanje terminov v strokovnih besedilih.
+Jezikoslovni zapiski, 21/1, 2015, str. 7–21.
+
+Logar in Vintar 2008 = Nataša Logar in Špela Vintar, Korpusni pristop k izdelavi terminoloških slovarjev: od besednih seznamov in konkordanc do samodejnega luščenja izrazov.
+Jezik in slovstvo 53/5, 2008, 3–17.
+
+Logar Berginc 2009 = Nataša Logar Berginc, Slovenski splošni in terminološki slovarji: za koga?
+Infrastruktura slovenščine in slovenistike: Obdobja 28.
+Ur. Marko Stabej.
+Ljubljana: Znanstvena založba Filozofske fakultete, 2009, 225–231.
+
+Logar Berginc 2013 = Nataša Logar Berginc, Aktualni terminološki opisi in njihova dostopnost.
+Družbena funkcijskot jezika (vidiki, merila, opredelitve): Obdobja 32.
+Ur. Andreja Žele.
+Ljubljana: Znanstvena založba Filozofske fakultete, 2013, 247–253.
+
+Vintar 2008 = Špela Vintar, Terminologija: Terminološka veda in računalniško podprta terminologija.
+Ljubljana: Znanstvena založba Filozofske fakultete v Ljubljani, Oddelek za prevajalstvo, 2008.
+
+Žagar 2007 = Mojca Žagar, Determinologizacija v splošnih in strokovnih slovarjih.
+Razvoj slovenskega strokovnega jezika: Obdobja 24.
+Ur. Irena Orel.
+Ljubljana: Znanstvena založba Filozofske fakultete, 2007, 599–607.
+
+Rihard Karba idr., 2014: Terminološki slovar avtomatike.
+Zbirka Slovarji.
+Založba ZRC, ZRC SAZU.
+
+Boris Klun (ur.) idr., 2012: Slovenski medicinski slovar.
+Univerza v Ljubljani, Medicinska fakulteta.
+Amebis, d. o. o. URL: http://www.termania.net/slovarji/95/slovenski-medicinski-slovar.
+

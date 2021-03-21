@@ -1,0 +1,1124 @@
+Dopolnjena in razširjena izdaja učbenika iz leta 2010 je namenjena vsem, ki se prvič srečujejo z analizo referenčnih, specializiranih in vzporednih korpusov, pa tudi tistim, ki želijo svoje znanje s področja analize korpusov poglobiti in nadgraditi.
+Usmerjen je v analizo enojezičnih slovenskih korpusov in tistih dvojezičnih, kjer se v jezikovnem paru pojavlja slovenščina.
+
+Učbenik je oblikovan prvenstveno za študente Medjezikovnega posredovanja na Oddelku za prevajalstvo FF UL.
+Obsega vsebine, ki jih študentje absorbirajo v okviru slovenističnih in skupnih splošnih vsebin v prvem in drugem letniku svojega študija.
+Namenjen je za rabo pri predavanjih in vajah, hkrati pa je oblikovan tako, da študente usmerja v samostojni študij.
+Ker gre za učbenik, ki celostno predstavlja orodja za korpusno analizo z vrsto praktičnih vaj, sva prepričana, da bo dobrodošel tudi študentom drugih jezikoslovnih študijskih programov, pri katerih se srečujejo s korpusnimi vsebinami.
+
+Poglavja v učbeniku so oblikovana tako, da izhodiščni predstavitvi teme sledi povzetek temeljnih novih spoznanj ter usmeritev na dodatno študijsko literaturo, v drugem delu pa so prikazani zgledi korpusne analize in raba predstavljenih orodij s številnimi praktičnimi vajami, s katerimi študentje lahko preverijo razumevanje snovi in se urijo v samostojni korpusni analizi.
+
+Korpus je računalniška zbirka besedil oz. delov besedil, zbranih po enotnih kriterijih za namene različnih, predvsem jezikoslovnih raziskav (Atkins et al. 1992: 1).
+Če se je v preteklosti uporabljal tudi za neelektronske oblike besedilnega gradiva, kakršno je v slovenskem prostoru npr. listkovno gradivo za izdelavo Slovarja slovenskega knjižnega jezika, pa gre danes pri terminu korpus za elektronske, torej računalniško berljive besedilne zbirke (Kennedy 1998: 3), ki so
+
+glede na namen korpusa v skladu z obstoječimi standardi za njihovo gradnjo (Meyer in Mackintosh 1996: 266).
+Korpusi so lahko sestavljeni iz posameznih zaključenih statičnih enot, imenujemo jih podkorpusi, termin podkorpus pa uporabljamo tudi, ko iz obstoječega korpusa izberemo besedila za potrebe korpusne analize, torej lahko pomeni tudi dinamično izbiro (Atkins et al 1992: 1).
+
+Korpusi lahko veliko pripomorejo ne le h kultiviranju in razumevanju jezika, ampak tudi k razumevanju in opisovanju sodobne družbe, kot odseva v jeziku.
+Korpusni pristop v analizo jezika vnaša večjo verodostojnost – velik obseg načrtno zbranega gradiva namreč omogoča izpostavitev v jeziku tipičnega in zmanjšuje možnost interpretiranja le obrobnega kot temeljnega (Čermák 1995: 119).
+Korpusi so v jezikoslovno delo vnesli besedilno gradivo, ki je količinsko in kakovostno preseglo predračunalniške gradivne zbirke, hkrati pa pokazalo na njihove omejitve in izpostavilo pomanjkljivosti.
+Vendar pa pojav korpusov v jezikoslovju pomeni mnogo več kot zgolj gradivo za jezikoslovno analizo.
+Ob metodologiji za gradnjo korpusov se je oblikovala tudi metodologija korpusne analize in opisov jezikovne rabe.
+
+Če je še do nedavnega korpusni pristop v jezikoslovju veljal za komplementarnega tradicionalnim (Kennedy 1998: 5–12; McEnery in Wilson 1996: 2), je danes na nakaterih področjih jezikoslovja, npr. v leksikologiji in leksikografiji, vse bolj pa tudi na vseh drugih jezikoslovnih področjih, korpus samostojno raziskovalno izhodišče (Gorjanc 2005; Gantar 2007; Zemljarič Miklavčič 2008).
+
+Z razvojem različnih korpusov je nastopila tudi potreba po njihovi tipologizaciji in oblikovanju vsaj osnovnih kriterijev za njihovo vrednotenje.
+S tipologijo korpusov, tipologijo besedil in drugimi aktualnimi vprašanji korpusnega jezkoslovja se je ukvarjala evropska pobuda EAGLES; njeni dokumenti in priporočila v veliki meri predstavljajo izhodišče za gradnjo različnih tipov korpusov.
+
+Temeljno vrsto korpusov predstavljajo referenčni korpusi, ki naj bi predstavili celovito podobo nekega jezika.
+So večjega obsega, zanje je glede na tradicijo tudi najnatančneje izdelana metodologija gradnje; predstavljajo izhodišče za temeljne jezikoslovne raziskave predvsem s področja slovnice in slovarja, vse bolj pa tudi vseh na jezikovni realnosti temelječih jezikoslovnih in tudi drugih humanističnih in družboslovnih raziskav.
+Za njihovo gradnjo se v izhodišču predvideva mreža kriterijev za zajemanje raznoterih besedil v korpuse glede na vrsto predvsem besediloslovnih in sociolingvističnih kriterijev.
+Zaradi svoje velikosti so prav glede raznoterosti besedil, ki jih vključujejo, razdeljeni na podkorpuse, za katere pa spet veljajo kriteriji zajemanja besedil vanje (Gorjanc 2005).
+
+Danes referenčni korpusi večinoma vključujejo tudi transkripcijo govora, sicer pa se govorni korpusi zaradi bistveno drugačne metodologije oblikujejo samostojno, znotraj referenčnih ostajajo ločene enote, največkrat kot podkorpusi.
+Za referenčne korpuse v glavnem niso zanimive prozodične jezikovne lastnosti, ampak le slovnično-leksikalne; ne gre torej za korpuse, namenjene raziskavi govora, ampak le za zajetje posebnosti govorne komunikacije v referenčnih priročnikih (Atkins et al. 1992: 2).
+Korpusi za potrebe tako fonetično-fonoloških raziskav kot tudi govornih tehnologij se zato oblikujejo posebej kot t. i. korpusi govora.
+Ker pa pri tem včasih ne gre za zajemanje celotnih besedil, ampak npr. le posameznih stavkov, v takih primerih govorimo o govornih zbirkah (Gorjanc 2005: 8; Zemljarič Miklavčič 2008: 26).
+Sodobni govorni korpusi danes vzporedno s transkripcijo shranjujejo tudi avdio- oz. videozapis (Zemljarič Miklavčič 2008: 49).
+
+Za razliko od referenčnih korpusov predstavljajo specializirani korpusi jezik v točno določeni rabi; gre torej za izbor besedil v določeni rabi, izbor pa določa predvsem namen takega korpusa.
+Metodologija gradnje je pri slednjih v veliki meri prekrivna z referenčnimi, vendar pa pri gradnji korpusa izpostavljajo določene kriterije glede na namen korpusa (Gorjanc in Logar Berginc 2007), npr. homogenost, kot je to v primeru korpusov za terminološke raziskave (Vintar 2008: 85).
+V začetku korpusnega pristopa v jezikoslovju sta predvsem zaradi tehnoloških omejitev in izjemne dinamike razvoja strok terminologija in terminografija v veliki meri uporabljali tradicionalne pristope (Mayer in Mackintosh 1996: 285), z vzpostavljeno dinamiko gradnje korpusov in njihovega nenehnega nadgrajevanja pa sta postali to področji, ki prav zaradi možnosti hitrega sprotnega opazovanja jezikovnih sprememb vse bolj temeljita na delu s korpusom (Vintar 2008: 78–86).
+
+Ko sestavimo korpus le iz besedilnih fragmentov in ne celotnih besedil, govorimo o vzorčnem korpusu.
+Korpusi prve generacije, ki so bili z današnjega vidika sorazmerno majhni, so se v težnji po zajemanju čimbolj raznoterih besedil odločali za načelo vzorčenja, tj. enako dolgih fragmentov besedil različnih zvrsti in vrst.
+Besediloslovne študije so kasneje z jezikoslovnega vidika opozorile na neustreznost metode, saj besedilo kot fragment v bistvu izgubi status besedila, korpus pa zaradi posebnosti posameznih delov besedila ne zajame nekaterih značilnosti besedilnih vrst.
+Z razvojem tehnologije, ki je omogočala zajemanje večjih količin besedil, so tovrstni korpusi postali manj aktualni, z vidika korpusnega jezikoslovja pa ostajajo zanimivi, saj so postavili neke vrste standard za zajemanje raznoterih besedil v korpuse (Gorjanc 2005: 9).
+
+Korpusi v trenutku dokončne izgradnje postanejo statična pojavnost; da bi čim bolj sledili jezikovni dinamiki, se vse bolj razmišlja o dinamičnem korpusu, torej takem, ki bi v času spremljal jezikovno dinamiko ter tako zares odseval trenutno podobo jezika.
+Pri tem lahko korpuse razvijajo v dveh smereh.
+V korpus novo besedilno gradivo nenehno le dodajamo, zaradi velike količine jezikovnih podatkov pa so parametri za zajemanje besedil bolj ohlapni (Kennedy 1998: 61); dinamičnost jezika tako spremljamo s pomočjo neke vrste megakorpusa (Sinclair 1991: 9, 25).
+Drugi pa je osnovan na ideji potovanja korpusa skozi čas; ta bi novo gradivo nenehno sprejemal, staro pa izločal v diahrone podkorpuse, pri tem pa zagotavljal bolj ali manj enaka razmerja med besedili; probleme kakovosti jezikovnih podatkov naj namreč ne bi zagotavljala samo količina, ampak tudi zgradba korpusa (Biber 1993: 245).
+Vse bolj pa postaja aktualna vmesna možnost, ki kombinira idejo megakorpusa z robustnimi parametri vključevanja besedil in dela korpusa, za katerega veljajo natančno izdelani parametri vključevanja besedil (Logar in Šuster 2009: 57–68).
+
+Za kontrastivne študije so zanimivi primerljivi korpusi, saj vključujejo primerljiva (tematsko, žanrsko ipd.) besedila v različnih jezikih.
+Idealen zgled primerljivega megakorpusa bi bil korpus, sestavljen iz referenčnih korpusov različnih jezikov, grajenih po prekrivnih izhodiščnih načelih.
+Seveda bi morala biti načela gradnje jezikovno neodvisna (Gorjanc 2005: 9).
+
+Predvsem za prevodoslovje so zanimivi vzporedni korpusi; ti namreč sopostavljajo poravnano izhodiščno besedilo in prevod oziroma prevode istega besedila v drugi jezik oziroma druge jezike; poravnani korpus omogoča vpogled v prevajalske odločitve in strategije prevajanja.
+Tovrstne korpuse je v osnovi težje graditi, ker je zagotavljanje ustreznih jezikovnih virov zahtevnejše, zato se pri tem velikokrat odpoveduje načelom reprezentativnosti, pri gradnji pa se odloča podobno kot pri korpusih podjezikov samo za segment jezika (Vintar 2001: 232); prav odločitev samo za npr. določeno področje ali določen besedilni tip nam z vidika prevajalstva da tudi boljše (nerazpršene) rezultate.
+
+Največji vzporedni korpus s slovenščino je vzporedi korpus prevodov Evrokorpus, vzporedni je tudi slovenski prevodoslovni korpus SPOOK.
+
+Vsaki računalniški besedilni zbirki, ki se uporablja za jezikoslovne analize, lahko pripišemo določene lastnosti, ki zagotavljajo korpusu njegov status.
+
+Količinski podatek o korpusu je njegova velikost, izražena v številu besed.
+Pri podatku o velikosti korpusa gre v bistvu za podatke o absolutnem številu izraznih enot korpusa, torej o številu enot med dvema presledkoma, kar imenujemo pojavnica (token), za razliko od podatkov o različnih besedah, za kar uporabljamo poimenovanje različnica (type).
+Velikost korpusov prve glede na korpuse druge generacije se je povečala z indeksom 100.
+Tudi danes smo predvsem pri referenčnih korpusih priča težnji po zajemanju čim večje količine besedil.
+Ob velikosti celotnega korpusa pa je pomembna tudi velikost njegovih komponent, saj ni vseeno, v kakšnem razmerju so posamezni deli korpusa.
+Pri referenčnih korpusih so zaenkrat zunaj uveljavljenih razmerij komponent korpusa govorni podkorpusi, ker količina zajetja govora dejansko ne odseva realnosti količine govorne komunikacije glede na pisno.
+
+Kakovost korpusa je določena z avtentičnostjo besedil.
+Predvideva se, da so besedila v korpusu avtentična, torej del realne pisne, govorne ali elektronske komunikacije.
+Morebitne vplive na nerealnost komunikacije je potrebno v korpusu označiti.
+Tako se lahko snovalci korpusov odločijo npr. označiti izpust slike pri pisnem korpusu, saj je z vidika besedilne zgradbe to kostitutivni del avtentičnega besedila, pri transkripcijah govora v korpusu je obvezen podatek, ali je bil npr. dialog posnet z vednostjo udeležencev ali ne, saj zavedanje snemanja pomeni v bistvu simuliranje govorne situacije in s tem njeno nerealnost.
+Kakovost korpusa je vezana tako na avtentičnost besedil kot tudi avtentičnost zapisa korpusa, kjer se pričakuje vključevanje podatkov o postopkih priprave besedil od pridobljenih za namene vključevanja korpusa do končnega procesiranja korpusnih dokumentov.
+
+Pri analizi korpusa se je treba avtentičnosti besedil zavedati, kar pomeni, da v korpusu lahko pričakujemo tudi npr. napake v zapisu, saj ta s svojo avtentičnostjo prinaša tudi tovrste podatke, nikoli ni sistematično »očiščen« napačnih oz. variantnih zapisov in nenormativne rabe (Aston in Burnard 1998: 37).
+Tovrstna »čiščenja« korpusa bi lahko vodila tudi do uničenja dragocenih jezikoslovno relevantnih informacij, npr. podatke o razmerju jezikovne rabe do jezikovne norme.
+T. i. ortografske napake so lahko tudi kazalec jezikovne rabe pri variantnih zapisih, zato jih pri odpravljanju v korpusu ne smemo obravnavati enakovredno (Gorjanc 2005: 11–12).
+
+Pri dokumentiranosti je poleg dejstva, da je vsako besedilo v korpusu natančno popisano, kar vključuje različne podatke, npr. o avtorju, času nastanka, mestu objave ...; pomembno, kako so dokumentacijski podatki o besedilu ločeni od besedila samega.
+To zagotavljajo standardi za zapis in označevanje elektronskih besedil.
+
+Tudi ta karakteristika je povezana z označevanjem korpusa, torej neposredno s standardi in priporočili.
+Pri korpusnih dokumentih je pomembno, da pripisane oznake nikoli ne motijo prepoznavanja besedila samega, da torej lahko kadarkoli pridemo do neprekinjenega besedilnega niza, golega besedila torej.
+Zapis korpusa nam mora hkrati omogočiti, da v besedilu lahko ostane označeno kaj, kar se je pri vnosu besedila v korpus izgubilo, npr. izpust naslova, slike ipd., torej podatki, ki so z jezikovnega vidika relevantni.
+Vse to so danes standardni elementi korpusa, vendar ob tem še ne govorimo o označenih (anotiranih) korpusih; korpus namreč postane označeni korpus takrat, ko so besedilom v korpusu dodane jezikovnoanalitične korpusne oznake, torej ko govorimo o jezikoslovno označenem korpusu.
+
+V tradicionalnih jezikoslovnih raziskavah, posebej še v raziskavah mrtvih jezikov, je bil korpus razpoložljivih besedil – največkrat seveda fragmentarnih – vedno temelj raziskovanja.
+Kasneje, v prvi polovici 20. stoletja, pa korpusi postanejo aktualni v okviru analiz jezikov brez pisne tradicije; gre za transkripcije govorov kot gradivnega temelja raziskav npr. Franza Boasa in generacije jezikoslovcev, ki so sledile njegovemu delu (Malmkjaer 1996: 73).
+
+Prav analiza in klasifikacija jezikov brez pisne tradicije v jezikoslovju narekuje načrtno zbiranje jezikovnih podatkov – ameriško strukturalno jezikoslovje, oprto na delo Bloomfielda, ima korpus ne le za nepogrešljivo praktično orodje, ampak nujno potrebno gradivno osnovo.
+Kljub diskusijam o ustreznosti gradiva samega pa je veljal splošen konsenz, da brez gradivne osnove ni mogoč noben koncizen jezikoslovni opis.
+Pri tem gre za temeljni premik
+
+• od končnega nabora besedil mrtvih jezikov kot edinega gradivnega vira za jezikoslovne raziskave h končnemu naboru besedil živih jezikov, kjer se prvič pojavi vprašanje izbora besedil kot osnove za jezikovno analizo, in
+
+• od opazovanja pisnega jezika k opazovanju tudi govornih besedil oz. transkripcije govora.
+
+Diskusija med predstavniki jezikoslovja, ki temelji na delu z obsežnim načrtno zbranim gradivom, in delom jezikoslovja, ki tovrstne podatke o jeziku zavrača, se je zaostrila v šestdesetih letih 20. stoletja ob diskusiji s predstavniki tvorbno-pretvorbne slovnice (Malmkjaer 1996: 74).
+Jezikoslovna šola okrog Chomskega je zavračala veliko količino podatkov za osnovo jezikoslovnih raziskav, prvi poskusi gradnje korpusov pa so bili označeni kot »popolna izguba časa«, saj naj bi govorec določenega jezika v desetih minutah ustvaril za jezikoslovce več relevantnega gradiva, kot ga je na voljo v večmilijonskih korpusih (Biber in Finegan 1991: 204).
+Jezikoslovje, ki je utemeljevalo principe korpusnega jezikoslovja v šestdesetih letih, se je v veliki meri organiziralo prav kot jezikoslovni pristop v opoziciji do jezikoslovnega dela Chomskega.
+
+Delo v zvezi s korpusi je danes povezano z različnimi aktivnostmi, med katerimi lahko izpostavimo naslednje.
+
+• Raziskave, vezane na gradnjo korpusov (Kennedy 1998: 9); te združujejo tako jezikoslovce kot računalniške strokovnjake, saj je delo na področju oblikovanja korpusa vezano tako na jezikoslovna načela njihove gradnje kot na zagotavljanje ustreznega elektronskega zapisa, ki v nadaljevanju omogoča analizo jezikovnih podatkov.
+
+• Razvoj orodij za delo s korpusom (Kennedy 1998: 9); tovrstno delo je vezano predvsem na področje računalniškega jezikoslovja, danes pa nekateri široko dostopni programi omogočajo tudi računalniško manj izobraženim uporabnikom korpusa samostojen razvoj manj kompliciranih programskih orodij, ki si jih za svoje specifične potrebe lahko oblikujemo sami (Erjavec 1995: 41).
+
+• Razvoj tudi drugih področij jezikovnih tehnologij, ki za svoje izhodišče potrebujejo kvalitetne jezikovne vire; sem sodi razvoj črkovalnikov, različnih slovničnih pregledovalnikov, elektronskih slovarjev in tezavrov pa tudi sinteze in analize govora ipd.
+
+• Raziskave za potrebe opisnega jezikoslovja, kamor tradicionalno sodijo različne vrste slovničnih in leksikalnih analiz (Kennedy 1998: 9) – predvsem leksikologija in leksikografija sta področji, ki že po tradiciji izhajata iz sistematično zbranega minimalnobesedilnega gradiva (McEnery in Wilson 1996: 90); prav slovarji, narejeni na podlagi korpusov, pa so tudi prvi res široki javnosti dostopni rezultati jezikoslovne uporabe korpusov.
+
+• S pojavitvijo večjega števila širši javnosti dostopnih različnih tipov korpusov se je njihova uporabnost razširila predvsem na tradicionalno gradivno usmerjena jezikoslovna področja, kot so besediloslovje, prevodoslovje, sociolingvistika, stilistika ipd. (McEnery in Wilson 1996: 98–101, 111).
+
+V jezikoslovju se v zvezi z uporabo korpusov vse bolj uveljavlja poimenovanje korpusni pristop v jezikoslovju.
+Bistvene značilnosti korpusnega pristopa bi lahko združili v naslednje:
+
+• izhodišče analize je velika količina načrtno zbranega avtentičnega gradiva in empirična analiza dejanskih vzorcev jezikovne rabe (Biber et. al. 1998: 5); šele pojav računalnikov in oblikovanje metod zbiranja ter gradnje korpusov je omogočilo pridobiti veliko količino relevantnih aktualnih jezikovnih podatkov za jezikoslovne študije; sodobni jezikovni opisi tako lahko temeljijo na empirični analizi zares velike količine avtentičnih besedil (Biber et. al. 1998: 9–10);
+
+• uporaba tako kvantitativnih kot kvalitativnih analiz; kvantitativne analize se pojavljajo v izhodišču korpusnega pristopa, vendar niso njen bistveni del, ampak le relevanten jezikovni podatek; bistvo korpusnega pristopa je interpretacija in razlaga tovrstnih podatkov (Biber et. al. 1998: 5, 8–9).
+
+Ko govorimo o korpusnem pristopu v jezikoslovju, srečamo pojma delni in popolni korpusni pristop (Tognini-Bonelli 2001).
+Popolni korpusni pristop sugerira uporabo korpusa neodvisno od uveljavljenih jezikoslovnih interpretacij, kar v bistvu pomeni, da bi bil mogoč le s »surovim« besedilnim gradivom brez kakršnihkoli jezikoslovnih oznak.
+Šele opazovanje »surovih« besedil in njihova analiza brez sklicevanja na obstoječe jezikoslovne modele bi lahko oblikovalo zares neodvisen in neobremenjen korpusni pristop.
+Prav zaradi zavedanja obremenjenosti analiz z obstoječimi jezikoslovnimi koncepti se danes raje govori o korpusu kot viru za preverjanje hipotez na eni in viru za gradnjo hipotez na drugi strani.
+
+Ob korpusu kot viru za gradnjo hipotez o jeziku se oblikuje jedro korpusnega jezikoslovja, korpus je pri tem v izhodišču jezikoslovnih analiz, oblikovana je metodologija gradnje korpusov in korpusne analize, na tej osnovi se gradijo jezikovni opisi in oblikujejo jezikovnotehnološke aplikacije.
+Ob tem pa področje ostaja odprto za druge veje jezikoslovja, ki korpus uporabljajo le kot klasično gradivo zgolj za preverjanje svojih hipotez.
+
+• Korpus je zbirka avtentičnih besedil, zbranih po določenih kriterijih glede na namen korpusa.
+
+• Danes je na voljo veliko različnih tipov korpusov, pisnih in govornih, splošnih in specializiranih, enojezičnih in večjezičnih, statičnih in dinamičnih, sinhronih in diahronih itd.
+
+• Korpusi se uporabljajo kot jezikovni vir v jezikoslovju in tudi na drugih raziskovalnih področjih.
+
+• Prve korpusne raziskave so bile slovnične in leksikalne, kasneje pa je na korpusu temeljila predvsem leksikografija.
+Danes je korpusni pristop lasten tudi drugim jezikoslovnim področjem, npr. besediloslovju in teoriji diskurza, sociolingvistiki, učenju in usvajanju jezika itd.
+
+• Korpusno jezikoslovje je pristop v jezikoslovnih raziskavah, ki temelji na analizi velike količine avtentičnih besedil, hkrati pa tudi metodologija za študij jezika v rabi.
+
+Vojko Gorjanc in Simon Krek (ur.), 2005: Študije o korpusnem jezikoslovju.
+Ljubljana: Krtina.
+
+Vojko Gorjanc in Nataša Logar, 2007: Od splošnih do specializiranih korpusov – načela gradnje glede na njihov namen.
+Irena Orel (ur.): Simpozij Obdobja 24.
+Ljubljana: Filozofska fakulteta, Oddelek za slovenistiko, Center za slovenščino kot drugi/tuji jezik.
+637–650.
+
+Jana Zemljarič Miklavčič, 2008: Govorni korpusi.
+Ljubljana: Znanstvena založba Filozofske fakultete Univerze v Ljubljani.
+15–54.
+
+Spomnite se treh stavkov, ki vsebujejo besedo glas, in jih zapišite.
+Svoje stavke primerjajte s tistimi, ki so jih zapisali drugi študentje.
+Koliko enakih stavkov ste se spomnili?
+
+Zdaj vaše stavke primerjajte še s primeri iz korpusa FidaPLUS, ki jih prikazuje Slika 1 in prav tako vsebujejo besedo glas.
+Koliko primerov je enakih, kot ste se jih spomnili vi?
+Kateri stavki vsebujejo več informacij o pomenu in rabi besede glas, vaši ali primeri iz korpusa?
+
+Primerjajte geslo kartica v Slovarju slovenskega knjižnega jezika, ki ga prikazuje Slika 2, in konkordance za isto besedo iz korpusa FidaPLUS, ki jih vsebuje Slika 3. Katere informacije o pomenu in rabi besede vsebuje slovar in katere korpus?
+V čem se obravnavana jezikovna vira razlikujeta in v čem dopolnjujeta?
+
+3. referenčni ali specializirani (reprezentativni in uravnoteženi oz. posamezni segment jezikovne rabe)?
+
+5. statični ali spremljevalni (se korpus redno obnavlja ali vsebuje dokončen nabor besedil)?
+
+Korpusni pristop je v analizo jezika vnesel veliko mero računalniške avtomatske analize; za njeno uspešnost je izhodiščno pomembna ustrezna predpriprava jezikovnih podatkov v korpusu, ki omogočajo koherentnost korpusa in v nadaljevanju njegovo jezikoslovno izrabo.
+
+Priprava korpusa obsega vrsto predobdelave besedil, od čisto tehničnih do interpretativnih, ko besedilom že pripisujemo jezikoslovno interpretacijo.
+Izpostavimo lahko naslednje postopke:
+
+Čeprav se zdi postopek poenotenja elektronskega zapisa trivialen, pa lahko že poenotenje zapisa včasih predstavlja nepredvidene težave.
+Prepletanje različnih formatov, različnih kodnih tabel, ustvarjanje besedil z različnimi programi, z različnimi verzijami istega programa v različnih operacijskih sistemih itd. je pri velikih korpusnih projektih seveda veliko, tako da je že prva faza poenotenja zapisa lahko zelo kompleksna (Železnikar 1998: 108–109).
+V postopku poenotenja zapisa vsa besedila pretvorimo v enoten elektronski zapis; ta je predpogoj za kakršnokoli nadaljno obdelavo dokumentov, ki bodo predstavljali korpusno celoto.
+
+Tokenizacija je postopek prepoznavanja in določanja osnovnih korpusnih enot, tj. pojavnic (token).
+Gre za prepoznavanje enot besedila, predvsem besed in ločil, v ta segment pa lahko vključimo tudi že prepoznavanje drugih kategorij, npr. številk, kratic in krajšav.
+»Čeprav se morda zdi, da gre za rutinski postopek, ki ne zahteva posebnega jezikoslovnega znanja, se že pri vprašanjih, kaj je pojavnica, pokažejo številni mejni primeri, ki se od jezika do jezika razlikujejo.
+Na splošno bi morda lahko postavili grobo pravilo, da je pojavnica vse, kar se pojavi med dvema presledkoma in ločilom.
+Prvo izjemo tu predstavljajo kratice in okrajšave, ki jih pišemo s piko in jih navadno obravnavamo kot samostojno pojavnico s piko ali pikami vred (na primer dr., prof., prim.), tudi če vključujejo več besed (itd., tj., t. i., d. o. o.)« (Vintar 2003: 41).
+S tokenizacijo je tesno povezan postopek segmentacije, tj. členjenje besedil na večje segmente, navadno povedi.
+Ker je že pri tokenizaciji potrebno ugotoviti, ali so ločila končna, je prepoznavanje segmentnih mej enostavnejše, čeprav pri različnih tipih besedil ne vedno popolnoma rutinsko (Gorjanc 2005: 63).
+
+Lematizacija je postopek pripisovanja leme oz. osnovne oblike besede vsaki pojavnici v korpusu.
+V okviru korpusnega jezikoslovja ta tip označevanja dolgo ni bil posebej aktualen, saj za angleščino velja, da je zaradi izjemno majhne oblikoslovne variantnosti postopek nekako redundanten (Leech 1997: 15), toliko bolj pa je pomemben za jezike z bogato morfologijo.
+Tako kot to velja za vse postopke označevanja, je tudi lematizacija lahko ročna ali avtomatska, za večje korpuse je seveda aktualna le druga; to pa je zaradi pogoste homografije zelo kompleksen postopek, zato za slovenščino velja, da besede v korpusu sicer lahko lematiziramo razmeroma natančno, a v splošnem dvoumno, npr. z uporabo oblikoslovnega leksikona (Džeroski in Erjavec 2000: 14).
+
+Elementom v korpusu lahko pripišemo tudi vrsto drugih jezikovnoanalitičnih oznake, in sicer na različnih ravninah, od prozodične, morfološke, skladenjske do besedilne (prozodične informacije le v korpusu govora).
+Jezikoslovno označevanje torej pomeni dodajanje jezikoslovne interpretacije besedilnemu gradivu, kar posledično pomeni pripisovanje podatkov o trenutnem razumevanju jezikovnih fenomenov (Leech 1997: 2).
+Danes je večina korpusov tako ali drugače jezikoslovno označenih; tip označevanja je odvisen predvsem od namena določenega korpusa.
+Referenčni korpusi so v glavnem oblikoskladenjsko označeni, zahtevnejši tipi označevanja pa so trenutno vezani na korpuse manjšega obsega.
+
+Ob tako pripravljenih podatkih v korpusu lahko uporabimo programska orodja, ki so se razvila za analizo korpusov in omogočajo ne le pridobivanje jezikovnih podatkov iz korpusa, ampak tudi njihovo obdelavo in hranjenje.
+
+Z uporabo korpusov v jezikoslovju se je razvila tudi vrsta postopkov korpusne analize, od preprostejših do kompleksnejših, pri čemer velja, da z različnimi analitični postopki prihajamo do različnih rezultatov, odvisno od namena analize.
+
+Osnovna informacija o korpusu je seznam besed; v bistvu gre za pogostostno ali abecedno urejen seznam besed iz korpusa; taki seznami so osnovna informacija o besednem gradivu v korpusu (Sinclair 1991: 30–31).
+
+Seznam besed je eden pomembnejših podatkov za leksikografsko delo, saj pomeni temeljno orientacijo za izdelavo geslovnika različnih vrst slovarjev, hkrati pa je s svojimi podatki dragocen predvsem kot spodbuda za različne leksikološke študije; ugotavljanje, kaj je v jeziku novega, je npr. najlažje prav z analizo seznama besed oz. s primerjavo seznama besed s seznamom besed starejšega korpusa ali npr. seznamom iztočnic obstoječega slovarja (Gorjanc 2005).
+
+Kljub temu, da danes v analizi korpusov konkurira vedno več novih postopkov, temelječih na statističnih izračunih, pa zaenkrat še vedno velja, da nam prav konkordance dajejo najkakovostnejši podatek v zvezi s pojavitvijo posameznih besed in njihovih zvez v korpusu (Sinclair 1991: 42).
+Izpis konkordanc je zapis besede oz. besedne zveze iz korpusa v jedru izpisa s svojim besedilnim okoljem.
+Izpis konkordanc nam da osnovno sliko o korpusni pojavitvi iskanega elementa in njegovi pogostnosti, z nadaljnjo obdelavo niza konkordanc pa oblikujemo širšo podobo o besedilnem okolju.
+
+Konkordančni niz je ob različno pogostih elementih različno obvladljiv; pri visokopogostih si lahko pomagamo z naključnim sitom, ki nam konkordance zmanjša na željeno število (Kennedy 1998: 258).
+Tako naredimo naključno selekcijo s predpostavko, da bomo tudi vanjo zajeli tipičnost pojavitve elementa v korpusu.
+Dodatno podporo pa si pri analizi zagotovimo s pomočjo statističnih podatkov o besedilnem okolju.
+
+Prvi korak glede podatka o besedilnem okolju je možnost urejanja konkordanc glede na neposredno okolje pred ali za konkordančnim jedrom.
+Tako se nam oblikujejo vzorci besedilne umestitve konkordančnega jedra.
+Ob posamezni besedi v jedru konkordanc se tako oblikuje leksikalni in hkrati tudi slovnični korpusni vzorec; področje opazovanja tovrstnih vzorcev je v korpusnem jezikoslovju poimenovano slovnica vzorcev (pattern grammar), ki združuje leksikalni in slovnični opis v korpusno inducirani leksikogramatični opis jezika (Huston in Francis 2000).
+
+Za konkordančni niz je pomembno še, da je v elektronski obliki opremljen z referenčno oznako, ki ga povezuje z
+
+Na tak način lahko tudi izločimo posebnosti enega avtorja ali posebnosti določenega medija, besedilne vrste itd. od tistih, ki so razpršeni po različnih korpusnih dokumentih, hkrati pa v primeru, ko iz konkordanc ne dobimo dovolj podatkov o besedilnem okolju, analizo usmerimo v širše besedilno okolje.
+
+Seveda samo beseda v konkordančnem jedru ni dovolj za določanje besednih zvez, njihove družljivosti in tipičnega besedilnega okolja.
+Pri tem si lahko pomagamo s podatki o pogostnosti besed, ki se pojavljajo ena ob drugi, pri tem pa uporabljamo različne statistične mere za določanje vrejetnosti sopojavitev.
+Statistične vrednosti nam dajo okvirno informacijo o sopojavnicah, z nadaljnjo jezikoslovno analizo pa lahko iz tovrstnih podatkov razberemo relevantne.
+V analizi korpusov se pri statističnih obdelavah največkrat uporabljata termina kolokator in večbesedna enota.
+Slednja je v zadnjem času pogostejša, saj je pri kolokatorju in kolokacijah prihajalo do prevelike posplošitve; kolokacija se je namreč prevečkrat definirala enostavno kot »karakteristični vzorec sopojavitve besed« (McEnery in Wilson 1996: 71).
+Ker je področje kolokabilnosti v delu angleškega jezikoslovja sorazmerno jasno določeno polje raziskav, se je pri korpusni analizi raje uporablja termin večbesedna enota, šele kasneje pa jezikoslovna analiza pokaže njeno vrednost.
+
+Najbolj preprost postopek ugotavljanja sopojavnic v korpusu je pogostnost.
+S procesiranjem korpusnih podatkov bi sorazmerno hitro prišli npr. do podatkov o vseh dvojčkih (bigramih) ali trojčkih (trigramih).
+To so lahko sicer zanimivi podatki, a za resne jezikoslovne analize ne prav relevantni, predvsem zato, ker bi v veliki večini dvojčkov dobili kombinacije s slovničnopomenskimi besedami (Manning in Schütze 1999: 143).
+
+Zmogljivejši konkordančniki omogočajo statistično obdelavo konkordanc in izdelavo seznama kolokacijskih kandidatov, pri čemer uporabnik določi dolžino in smer sobesedila (npr. 5 besed levo in desno od opazovanega jedra) ter besedne vrste, ki ga pri tem zanimajo.
+Ponavadi konkordančniki omogočajo več statističnih mer za izračun kolokacij:
+
+(a) Vzajemna vrednost (Mutual Information) meri moč povezave med dvema besedama, in sicer primerja verjetnost sopojavitve izbranih dveh besed z verjetnostjo pojavljanja vsake besede posebej.
+
+(b) Logaritem razmerij verjetja (Log Likelihood) je način testiranja hipoteze, ki se pogosto uporablja pri odkrivanju kolokacij.
+Gre za razmerje med hipotezo neodvisnosti (H1), ki predpostavlja neodvisno pojavljanje besed w1 in w2 v korpusu, in hipotezo odvisnosti (H2), kjer verjetnost pojavitve w1 skupaj z besedo w2 ni enaka verjetnosti pojavitve w1 brez w2.
+
+(c) Vrednost T (T-score) je še en statistični test, ki izraža verjetnost pojavitve določenega dogodka in se pogosto uporablja pri odkrivanju kolokacij, upošteva pa aritmetično sredino in varianco vzorca, pri čemer se korpus obnaša kot zaporedje N dvobesednih enot oz. bigramov.
+
+Predstavljene statistične mere temeljijo na razmerju med absolutno frekvenco neke besede v korpusu in frekvenco sopojavljanja te besede z iskano besedo.
+Višje kot je to razmerje, močnejša kolokabilnost velja med izbranima besedama.
+Konsenza, katera mera najbolje napoveduje kolokabilnost, ni, zato je vredno preizkusiti več mer in izbrati tisto, ki za našo raziskavo daje najboljše rezultate.
+Več o statističnih merah za izračun kolokacij lahko preberete v Manning in Schütze 1999 (151–190).
+
+• Pri izdelavi korpusa je nujna predhodna priprava podatkov, ki zajema poenotenje zapisa besedil, segmentacijo in tokenizacijo besedil, pripisovanje osnovne oblike pojavnicam v korpusu ter jezikoslovno označevanje korpusa.
+
+• Korpus lahko jezikoslovno označimo na različnih ravninah, od prozodične, morfološke, skladenjske do besedilne.
+
+• Jezikoslovno označevanje korpusa pomeni dodajanje jezikoslovne interpretacije besedilnemu gradivu; podatkom v korpusu tako pripišemo interpretacijo glede na trenutno razumevanje jezikovnih fenomenov.
+
+• Pri analizi korpusa uporabljamo besedne sezname in konkordance, ki jih lahko urejamo in filtriramo, za proučevanje večbesednih enot pa z uporabo statističnih mer izdelujemo sezname sopojavnic v korpusu in sezname kolokacijskih kandidatov.
+
+Špela Arhar, 2007: Kaj početi z referenčnim korpusom Fidaplus.
+Ljubljana: Filozofska fakulteta Univerze v Ljubljani.
+Dostopno na: http://www.fidaplus.net/Info/Info_index.html (Dostop: 12. 1. 2010).
+
+Polona Gantar, 2007: Stalne besedne zveze v slovenščini: korpusni pristop.
+Ljubljana: Založba ZRC, ZRC SAZU.
+15–53.
+
+Preštejte, koliko pojavnic in koliko različnic vsebujejo spodnji stavki.
+Ali je bilo v 5. stavku kaj težje določiti število pojavnic kot v prvih štirih?
+Zakaj?
+Kako te primere rešujemo v praksi?
+
+Primerjajte pojavnice v 2. in 3. stavku.
+Ali gre pri besedah različnih besednih vrst, ki se v 3. stavku slučajno pojavljajo v isti obliki, za različnice ali ne?
+Zdaj opazujte še pojavnice v 4. stavku.
+Ali lastna in občna imena iste besedne vrste v isti obliki obravnavamo kot različnice ali ne?
+
+2. Pri surovem krompirju se barva spremeni zaradi fermentov, pri kuhanem pa zaradi oksidacije.
+
+5. 2) Izraz »dioksini« zajema skupino 75 vrst polikloriranih dibenzo-p-dioksinov (PCDD) in 135 vrst polikloriranih dibenzofuranov (PCDF), od katerih je najbolj toksična vrsta je 2,3,7,8-tetraklordibenzodioksin (TCDD).
+
+Stavke iz prejšnje vaje obravnavajte kot korpus.
+Na podlagi števila pojavnic in različnic, ki ste jih v njem prešteli, izračunajte število enopojavnic in bogatost besedišča v korpusu.
+Formula za izračun absolutnega razmerja (TTR) med pojavnicami (P) in različnicami (R) v korpusu je: TTR = R / P.
+
+Razmislite, kolikšen delež v korpusu predstavljajo zelo pogoste besede in kolikšen delež enopojavnice.
+Ali bi bil daljši seznam vseh različnih besed, ki se v korpusu FidaPLUS pojavljajo s frekvenco 100 ali več, ali seznam vseh različnih enopojavnic?
+Zakaj menite, da je tako?
+
+Besedam v stavkih iz prejšnje vaje pripišite leme in osnovne oblikoskladenjske lastnosti, ki jih v obravnavanih stavkih izkazujejo.
+Ali so med njimi primeri, ki bi lahko povzročali težave pri avtomatskem oblikoskladenjskem označevanju korpusa in lematizaciji?
+Kateri so ti primeri in zakaj menite, da so problematični?
+
+Poskusite najti še kak primer, pri katerem zaradi dvoumnosti besednih oblik pri avtomatskem označevanju in lematizaciji korpusa lahko pride do napak?
+Zakaj moramo biti uporabniki korpusov na te napake še posebej pozorni?
+Ali imate kakšno idejo, kako bi se tovrstnim napakam pri označevanju in lematizaciji lahko izognili?
+
+V korpusu jos100k smo poiskali vse pojavitve besednih zvez pridevnik+samo­stalnik in jih prvič prikazali v obliki konkordanc, drugič pa v obliki frekvenčnega seznama.
+Primerjajte rezultate različnih izpisov, ki jih prikazujeta Slika 4 in Slika 5. Kakšne so razlike med njima?
+Katere prednosti vidite v enem in katere v drugem načinu prikaza rezultatov?
+V katerih primerih bi se odločili za enega oziroma za drugega?
+
+Osrednji korpusi slovenskega jezika bodo le na kratko predstavljeni, saj več podatkov tako o zgradbi korpusov kot o različnih korpusnih projektih lahko najdemo na njihovih spletnih straneh.
+
+Prodor korpusov v slovenski prostor se je začel z mednarodnim projektom MULTEXT-EAST, v okviru katerega so bili za bolgarski, češki, estonski, madžarski, romunski in slovenski jezik oblikovani manjši korpusi leposlovnih in časopisnih besedil, pri njihovem oblikovanju pa preizkušena uporaba standardov za oblikovanje besedilnih zbirk ter (pre)oblikovana orodja za njihovo jezikoslovno označevanje, že prej uporabljena pri projektu MULTEXT (Erjavec et al. 1995: 88–89); v ta čas pa sega tudi oblikovanje korpusa Plato v okviru projekta TELRI.
+Druga polovica devetdesetih let 20. stoletja pa za slovenščino pomeni pravi preboj ideje o nujnosti oblikovanja tudi obsežnejših korpusov, z osrednjim projektom referenčnega korpusa slovenskega jezika.
+
+Prvi večji korpusni projekt je bil projekt izdelave 100-milijonskega referenčnega Korpusa slovenskega jezika FIDA, nastalega kot rezultat sodelovanja dveh raziskovalno-pedagoških in dveh industrijskih partnerjev, Filozofske fakultete UL, Instituta Jožef Stefan, založbe DZS in podjetja Amebis d. o. o. Korpus je bil oblikovan med letoma 1997 in 2000, podjetje Amebis pa je za analizo korpusa razvilo tudi spletni konkordančnih ASP32.
+Največja slabost korpusa FIDA je bila njegova (ne)dostopnost, saj je bil prosto dostopen le za projektne partnerje, zato se je takoj po končanem projektu začelo s pripravo novega obsežnejšega korpusa, ki je želel biti čim širše dostopen zainteresirani javnosti.
+Korpus FIDA danes na spletu na žalost ni več dostopen.
+
+Na podlagi korpusa FIDA in izkušenj pri njegovi gradnji ter prejetih povratnih informacij v zvezi z njegovo uporabo je nastal referenčni korpus FidaPLUS, ki obsega nad 620 milijonov besed iz različnih virov jezika vsakdanje rabe, predvsem časopisov, revij, strokovne ter leposlovne literature, interneta ter besedilnega drobiža. Korpus je namenjem čim širšemu krogu uporabnikov, zato je bil prilagojen in posodobljen tudi konkordančnik ASP32 (http://www.fidaplus.net).
+
+Za razliko od referenčnih korpusov FIDA in FIDAplus korpus Nova beseda, velikosti nekaj nad 162 milijonov besed, na Inštitutu za slovenski jezik ZRC SAZU ni imel ambicije referenčnosti; največji del korpusa namreč predstavljajo besedila časopisa Delo.
+Po mnenju avtorjev je korpus Nova beseda le »ena izmed postaj na poti do Slovenskega nacionalnega korpusa, idealne zbirke elektronskih besedil, namenjene najširši raziskovalni in izobraževalni uporabi, ki bo med drugim obsegala vsa novejša besedila, zapisana v slovenskem jeziku ter vsa starejša, ki so se ohranila« (http://bos.zrc-sazu.si/a_about_si.html, dostop 15. 10. 2013).
+Ker je bila stran nazadnje spremenjena 10. 3. 2008 lahko upravičeno dvomimo, da gre za še aktiven korpusni projekt.
+
+Gigafida je trenutno najsodobnejša in največja zbirka slovenskih besedil iz najrazličnejših virov, časopisov, revij, knjižnih publikacij različnih tipov (leposlovje, učbeniki, stvarna literatura), spletnih besedil itd.
+Korpus je zelo obsežen, saj vsebuje le malo manj kot 1,2 milijarde besed.
+Gigafida vsebuje besedila, ki so izšla med letoma 1990 in 2011, tako tista, ki so bila natisnjena, kot tista, ki so pridobljena s spletnih strani (http://www.gigafida.net/).
+Uravnoteženi del korpusa Gigafida se imenjue Kres.
+Če je bil korpus FidaPLUS uravnotežen glede na celotna besedila, pa je korpus Kres narejen po sistemu vzorčenja besedil iz Gigafide, in sicer tako, da vanj niso bila vključena cela besedila, ampak pa naključni odstavek, s čimer so avtorji želeli doseči čim boljšo zastopanost posameznih del (http://www.korpuskres.net/).
+Gre torej za vzorčni korpus, podobno kot je bil vzorčni tudi korpus BNC.
+Korpus Kres vsebije nekaj manj kot 100 milijonov besed.
+
+Korpus govorjenega slovenskega jezika nosi ime GOS, vanj pa je vključena transkripcija približno 120 ur posnetkov slovenskega govora v različnih situacijah: radijske in televizijske oddaj, govor v šolskem razredu, na predavanjih itd., prav tako pa so vključeni tudi zasebni pogovori (med prijatelji, v družini) in govori v poluradnih govornih položajih, kot npr. na delovnih sestankih, v trgovini ipd.
+Zapis govora obsega več kot milijon besed transkripcije, ob kateri je mogoče slišati tudi pripadajoči avdioposnetek (http://www.korpus-gos.net/).
+
+Specializirani korpusi so v slovenskem prostoru tako kot tudi v tujini začeli nastajati kasneje kot referenčni, so pa danes vse bolj nepogrešljiv del jezikovih virov za slovenščino.
+Med njimi je prav gotovo najbolj sistematično zgrajen skoraj dvomilijonski korpus besedil odnosov z javnostmi KoRP (http://www.korp.fdv.uni-lj.si), nastal na Fakulteti za družbene vede UL, v okviru iste institucije pa je bil oblikovan tudi korpus vojaških besedil Grizold (http://ksvjg.fdv.uni-lj.si).
+Univerza na Primorskem je pripravila Večjezični korpus turističnih besedil (http://jt.upr.si/turk/); za raziskave zgodovine slovenskega jezika pa je dragocen korpus starejše slovenščine, ki vključuje besedila, nastala pred letom 1918, pri čemer je večina besedil iz 19. stoletja (http://nl.ijs.si/imp/).
+
+Prvi vzporedni korpus v paru s slovenščino je bil korpus ELAN, ki vključuje milijon besed, prav tako je enomilijonski tudi korpus TRANS, rezultat projektnega dela študentov prevajalstva na Oddelku za prevajalstvo FF UL, večji vzporedni korpus je korpus evropske zakonodaje SVEZ-IJS, daleč največji pa je korpus, ki je nastal iz pomnilnika prevodov Sektorja za prevajanje SVEZ (http://evroterm.gov.si/evrokorpus/); povezan je s terminološko bazo Evroterm (http://evroterm.gov.si), kar mu daje še dodatno uporabno vrednost.
+Med pomembnimi obsežnimi vzporednimi korpusi je tudi korpus JRC DGT, ki je pomnilnik prevodov Generalnega direktorata za prevajanje pru Evropski komisiji, vsebuje 165 milijonov besed in je poravnan za slovenščino-angleščino, slovenščino-nemščino, slovenščino-francoščino, slovenščino-italijanščino.
+Dostopen je na naslednjem naslovu: http://nl.ijs.si/noske/sl-para.cgi/first_form.
+
+Za prevodoslovne študije je raziskovalcem dostopen prvi specializiran prevodoslovni korpus pri nas, tj. korpus SPOOK, sestavljen iz podkorpusov v jezikovnih parih angleško-slovenskem, nemško-slovenskem, francosko-slovenskem in italijansko-slovenskem(http://lojze.lugos.si/spook/korpus.html).
+
+V slovenskem prostoru je v zadnjih dvajsetih letih nastala vrsta raznorodnih korpusov, predstavljeni so le nekateri najpomembnejši.
+Korpusni projekti so raznoliki in se odzivajo na aktualne dogodke v družbi – tak je bil npr. korpus verbalnih napadov na JNA konec osemdesetih let – ali na nove komunikacijske poti – tak je npr. korpus slovenskih tvitov.
+Vrsta korpusov nastaja tudi kot del študijekga procesa, predvsem kot del magistrskih in doktorskih nalog.
+Korpusno jezikoslovje se je v slovenskem prosotru v dveh desetletjih zelo razvilo, tako da lahko tudi v prihodnje pričakujem dinamičen razvoj na tem področju.
+
+• V slovenskem prostoru so korpusi začeli nastajati v 90-ih letih 20. stoletja, pionirsko vlogo sta pri tem odigrala mednarodni projekt MULTEXT-East in domači projekt gradnje referenčnega korpusa slovenskega jezika FIDA.
+
+• Nadgradnja referenčega korpusa slovenskih pisnih besedil FIDA je korpus FIDAplus, ki je tako količinsko in kakovostno bistveno presegel korpus, iz katerega je zrasel.
+
+• Trenutno najsodobnejša in največja zbirka slovenskih besedil je korpus Gigafida, uravnoteženi vzorec besedil iz tega korpusa pa je zbran v korpusu Kres.
+
+• Danes je za slovenščino na voljo vrsta korpusov, tako enojezičnih kot večjezičnih, tako splošnih kot specializiranih.
+
+• Področje gradnje korpusov je danes zelo dinamično področje oblikovanje jezikovnih virov za slovenščino, kar dokazujejo ambiciozni projekti gradnje različnih tipov korpusov.
+
+Špela Arhar in Vojko Gorjanc, 2007: Korpus FidaPLUS: nova generacija slovenskega referenčnega korpusa.
+Jezik in slovstvo 2/52. 295–110.
+
+Tomaž Erjavec, 2013: Vzporedni korpus SPOOK: označevanje, zapis in iskanje terminoloških virov.
+Špela Vintar (ur.): Slovenski prevodi skozi korpusno prizmo.
+Ljubljana: Znanstvena založba Filozofske fakultete.
+14–31.
+
+Primož Jakopin in Mija Michelizza, 2007/08: Besedilni korpus Nova beseda.
+Mostovi 1–2/41. 165–176.
+
+Nataša Logar Berginc, Miha Grčar, Marko Brakus, Tomaž Erjavec, Špela Arhar Holdt in Simon Krek, 2012: Korpusi slovenskega jezika Gigafida, KRES, ccGi-gafida in ccKRES: gradnja, vsebina, uporaba.
+Ljubljana: Trojina, zavod za uporabno slovenistiko in Fakulteta za družbene vede.
+
+Darinka Verdonik, Ana Zwitter Vitez, 2011: Slovenski govorni korpus Gos.
+Ljubljana: Trojina.
+
+Tomaž Erjavec, 2013: Korpusi in konkordančniki na strežniku nl.ijs.si.
+Slovenščina 2.0 1/1. 24–49.
+
+Za iskanje po korpusu Nova beseda lahko uporabljamo nadomestne znake, kanale in operatorje.
+Z nadomestnimi znaki omogočimo ohlapnejše iskanje, s kanali pa podrobneje določimo, po čem iščemo.
+Iskalne pogoje lahko omejujemo in kombiniramo z operatorji.
+
+* nadomesti poljubno število poljubnih znakov (npr. mam* najde vse besede, ki se začnejo z mam- in nadaljujejo s poljubnim številom poljubnih znakov)
+
+fr išče po frekvencah besed (npr. fr=1 najde vse besede, ki se v korpusu pojavijo samo enkrat)
+
+V korpusu Nova beseda kanale uporabljamo pri iskanju po besednih seznamih, ne po konkordancah.
+
+> operator večje (npr. fr>1 najde vse besede, ki se v korpusu pojavijo več kot enkrat)
+
+in operator in (npr. be:krk in do>4 najde vse besede, ki vsebujejo niz krk in so daljše od štirih znakov)
+
+in ne operator in ne (npr. be:krk in ne fr<5 najde vse besede, ki vsebujejo niz krk in se ne pojavijo manj kot petkrat)
+
+Iščemo lahko tudi besedne zveze, pri čemer posamezne besede med seboj ločujemo s presledki (npr. zimski semester).
+Dodatne možnosti iskanja po korpusu Nova beseda so podrobno predstavljene na spletni strani http://bos.zrc-sazu.si/s_beseda.html.
+
+1. V skladu z navodili oblikujte iskalni pogoj za iskanje besede brv.
+Nato iskalni pogoj preoblikujte tako, da boste z njim našli pojavitve besede v vseh sklonih in številih ter primerjajte rezultate obeh iskanj.
+Katero iskanje je primernejše, če raziskujete pomen in rabo te besede?
+Svoje ugotovitve preizkusite še za frazo poletna rezidenca.
+
+2. Z uporabo ustreznega operatorja oblikujte iskalni pogoj za iskanje vseh besed, ki se začnejo na brv.
+Najprej naj bo besedni seznam urejen po abecedi, drugič po frekvenci teh besed v korpusu, tretjič pa odzadnje.
+Z vsakega seznama izpišite prvih pet zadetkov.
+Enak postopek izvedite še za vse besede, ki se končajo na brv.
+
+3. Uporabite operator za iskanje glede na število pojavitev besed v korpusu in poiščite vse besede, ki se v Novi besedi pojavijo samo enkrat.
+Kolikšen delež besed je enopojavnic?
+Nato na enak način najdite še vse besede, ki se v korpusi pojavijo več kot 10.000 krat.
+Koliko je takih besed?
+Katera beseda je v korpusu najpogostejša?
+Kaj ugotovite, če pogledate najpogostejših deset besed v korpusu?
+Ali gre za polnopomenske ali za funkcijske besede?
+Ali se vam ta rezultat zdi nenavaden?
+Na katerem mestu najdete prvo polnopomensko besedo in katera je ta beseda?
+Rezultate iz celotnega korpusa primerjajte z iskanjem po podkorpusu znanstvenih in tehničnih besedil.
+
+4. Uporabite operator za iskanje po dolžini besed in poiščite vse besede v korpusu, ki so dolge pet znakov.
+Nato oblikujte nekoliko strožji iskalni pogoj, da bodo med zadetki samo besede, dolge pet znakov, ki ne vsebujejo nobenega šumnika.
+Za konec iskalni pogoj preoblikujte tako, da bodo vse besede med zadetki vsebovale vsaj en šumnik (namig: drugi del iskalnega pogoja mora biti v oklepajih).
+Iz vseh seznamov izpišite najpogostejših pet zadetkov.
+Katerih petčrkovnih besed je v korpusu več, takih s šumniki ali brez njih?
+
+Če želite uporabljati korpus FidaPLUS, si morate na spletni strani http://www.fidaplus.net najprej ustvariti brezplačen uporabniški račun in se prijaviti na strežnik.
+Iskanje po FidiPLUS je zmogljivejše od Nove besede, saj je FidaPLUS oblikoskladenjsko označena, rezultate pa je mogoče tudi statistično obdelovati.
+Poleg nadomestnih znakov, kanalov in operatorjev konkordančnik omogoča še iskanje po frazah (npr. zimski_semester) ali besedah, ki se v korpusu pojavljajo blizu skupaj (npr. kruh//maslo).
+
+* nadomesti poljubno število poljubnih znakov (npr. mam* najde vse besede, ki se začnejo z mam- in nadaljujejo s poljubnim številom poljubnih znakov)
+
+? nadomesti en sam poljuben znak (npr. mam? najde vse besede, ki se začnejo z mam- in nadaljujejo z enim poljubnim znakom)
+
+#1 išče po lemah (npr. #1mama najde vse pojavitve besede mama v vseh sklonih in številih)
+
+#2 išče po oblikoskladenjskih oznakah (npr. #2sož* najde vse obče samostalnike ženskega spola)
+
+& notranji in (npr. igra&#2s* najde vse pojavitve besede igra, kadar je ta samostalnik)
+
+&~ notranji ne (npr. igra&~#2g* najde vse pojavitve besede igra, kadar ta ni glagol)
+
+// operator in (npr. pes//mačka najde vse odstavke, v katerih se pojavljata obe besedi)
+
+, operator ali (npr. pes,mačka najde vse odstavke, v katerih se pojavlja vsaj ena od teh besed)
+
+! operator ne (npr. pes !mačka najde vse odstavke, v katerih se pojavlja pes, mačka pa ne)
+
+Vse možnosti iskanja po korpusu FidaPLUS so podrobno predstavljene v priročniku za uporabo korpusa (http://www.fidaplus.net/Info/Info_index.html) in na podstrani Pomoč.
+
+1. Primerjajte rezultate, ki jih dobite z iskalnima pogojema knjig? in knjig*.
+Kateri iskalni pogoj je strožji in zakaj?
+
+2. Preverite, kako se v korpusu FidaPLUS išče po frazah, in poiščite, ali se v njem pogosteje pojavlja besedna zveza otvoritev razstave ali odprtje razstave?
+
+Kadar nas zanimajo podatki o konkretni besedni obliki, iskalni pogoj vpišemo neposredno v iskalno okence.
+Kadar pa nas zanima beseda v vseh svojih oblikah, uporabimo iskanje po lemi oziroma po prvem kanalu, kot prikazuje Slika 6.
+
+1. Z uporabo nadomestnih znakov poiščite vse različne besedne oblike besede avto.
+Zdaj isto najdite še brez uporabe nadomestnih znakov (z iskanjem po lemi).
+Ali v iskalnih možnostih opazite kakšno razliko?
+
+2. Kolikokrat se v korpusu pojavi besedna oblika obnoviti in kolikokrat lema obnoviti?
+Ali je rezultate mogoče posplošiti na celotno besedišče, ki je zastopano v korpusu?
+V katerem primeru se je ustrezneje odločiti za iskanje po besedni obliki in v katerem za iskanje po lemi?
+
+3. Poiščite vse leme v korpusu, ki vsebujejo koren trd.
+Ali vsi dobljeni zadetki sodijo v isto besedno družino?
+Zakaj je ta ugotovitev pomembna za vsa iskanja po korpusu?
+
+Kadar nas ne zanima neka konkretna beseda, temveč vse besede z določenimi oblikoskladenjskimi lastnostmi (npr. vsi samostalniki ženskega spola), iščemo po drugem kanalu, kot prikazuje Slika 7. Tabelo z vsemi oblikoskladenjskimi oznakami, ki so uporabljene v korpusu FidaPLUS, najdete na domači strani korpusa, kjer na meniju izberete povezavo na Pomoč.
+
+Iskanje po frazah uporabimo, ko nas zanimajo besede, ki stojijo skupaj v istem vrstnem redu, kot ga zapišemo v iskalnem pogoju, med njimi pa ne sme biti vrinjene nobene druge besede (npr. dobro jutro).
+Iskanje po bližini izberemo, ko nas zanimajo besede, ki se pojavljajo blizu skupaj v kateremkoli vrstnem redu, med njimi pa so lahko vrinjene tudi druge besede (npr. zajtrk in večerja).
+Po frazah iščemo s podčrtajem (Slika 8), po bližini pa s poševnicama (Slika 9).
+
+1. Poiščite čimveč pridevnikov, ki se pojavljajo v bližini lem ženska, punca, baba in dekle.
+So med njimi kakšne razlike?
+Primerjajte rezultate s pridevniki v bližini moški, fant in dedec.
+S katerimi poimenovanji za otroke se v korpusu pojavljajo pretežno pozitivni pridevniki in s katerimi pretežno negativni?
+
+2. Zanima vas, ali poleg fraze prodajalka vijolic obstajajo še prodajalke česa drugega.
+Oblikujte ustrezen iskalni pogoj in navedite pet primerov, ki ste jih našli.
+Ali med zadetki najdete tudi kak primer metaforične rabe?
+
+3. Razložite, kakšna je razlika med iskalnima pogojema #1iti_*_#1konec in #1med//#1mleko.
+
+Do metapodatkov v korpusu FidaPLUS dostopamo preko povezav v konkordancah.
+Kot prikazuje Slika 10, s klikom na desno povezavo (npr. VEČER) lahko pridemo do podrobnejših informacij o viru, iz katerega izhaja izbran stavek, druga povezava (npr. 0000402) pa vsebuje celoten odstavek oziroma odstavek, opremljen z oblikoskladenjskimi oznakami in lemami.
+
+1. Še enkrat preglejte konkordance za med in mleko iz prejšnje naloge.
+Iz katerih virov prihajajo primeri, v katerih sta samostalnika rabljena dobesedno, iz katerih pa primeri, v katerih sta rabljena v prenesenem pomenu?
+Zakaj menite, da je tako?
+Ali je več primerov dobesedne ali metaforične rabe?
+
+2. Izberite si enega od primerov in zanj poiščite zapis, ki je opremljen z oblikoskladenjskimi oznakami in lemami.
+Kako je korpus FidaPLUS segmentiran?
+Kako so označena ločila?
+S katero oznako so v korpusu FidaPLUS zapisane leme in s katero oblikoskladenjske informacije?
+
+Za kompleksnejše iskanje je mogoče kombinirati iskalne pogoje.
+To počnemo z operatorji.
+Notranja operatorja in in ne uporabimo, kadar kombiniramo iskalne pogoje za isto besedo, z zunanjimi operatorji in, ali ter ne pa kombiniramo pogoje za večbesedna iskanja:
+
+notranji in: igra&#2s* (&: najde vse pojavitve besede igra, ki so označene kot samostalnik)
+
+notranji ne: igra&~#2s* (&~: najde vse pojavitve besede igra, ki niso označene kot samostalnik)
+
+zunanji in: #1mačka #1pes (presledek: najde vse odstavke, v katerih se pojavita mačka in pes hkrati)
+
+zunanji ali: #1mačka, #1pes (vejica: najde vse odstavke, v katerih se pojavi vsaj ena od naštetih besed)
+
+zunanji ne: #1mačka !#pes (klicaj: najde vse odstavke, v katerih se pojavi mačka, pes pa ne)
+
+3. V korpusu poiščite vse pojavitve pridevnika čist.
+Prislovi naj ne bodo vključeni med zadetke.
+Nato poiščite še vse presežnike pridevnika čist.
+Pri tem uporabite notranji in.
+
+4. Poiščite vse pojavitve glagola igrati in glagolov, ki so sestavljeni iz podstave -igrati (npr. odigrati, izigrati, zaigrati …).
+Najdite vse tožilniške predložne besedne zveze, ki sledijo glagolom -igrati (glagol+predlog+samostalnik v tožilniku).
+Prejšnji iskalni niz nadgradite z omejitvijo, da naj bodo glagoli v velelniku.
+Zdaj pa iskalnemu nizu dodajte še pogoj, da predlog ne sme biti na.
+
+Včasih nas ne zanimajo pojavitve nekega jezikovnega pojava v celotnem korpusu, temveč zgolj v nekaterih vrstah besedil, ki so v korpus vključene.
+Tovrstno omejevanje omogoča razširjeno iskanje, in sicer glede na čas objave besedila, njegovo jezikovno zvrst, lektoriranost in Cobissove oznake (Slika 11).
+
+1. Z uporabo razširjenega iskanja v korpusu FidaPLUS Poiščite vsaj 4 različne pomene besede zemlja ter ugotovite, ali obstaja navezava med tipom besedila in njenim pomenom.
+
+2. Poiščite in primerjajte rabo besed fleš, bliskavka in bliskavica glede na leto objave besedil v korpusu (izberite 3 časovne intervale).
+Katerega bi bilo najprimerneje uporabiti danes?
+Kako se raba teh treh besed razlikuje glede na prenosnik (izberite 3 različne prenosnike)?
+
+3. Kateri je najpogostejši slovenski izraz za CD (ang. compact disc)?
+Ali se izrazi razlikujejo glede na besedilno zvrst?
+
+4. Ali je tajkun beseda, ki je postala popularna čez noč?
+Kako ste prišli do odgovora?
+V kakšnih besedilih se največ uporablja?
+Spomnite se še kakšne besede ali besedne zveze, ki se je pojavila šele pred kratkim.
+Kako je z njeno zastopanostjo v korpusu in kaj lahko na podlagi rezultatov sklepate o jezikovnih virih?
+
+5. Ocenite ustreznost (ne)rabe vejice pred veznikom da v lektoriranih besedilih (npr. rekel_{,}_da in rekel_da).
+Nato analizirajte še rabo vejice pred veznikom in v korpusu.
+
+Z oblikovanjem ustreznega iskalnega pogoja naše delo še zdaleč ni zaključeno, saj je bistvo vsakršnega poizvedovanja po korpusu pregled in interpretacija rezultatov, dobljenih iz korpusa.
+Pri tem se lahko opremo na možnosti obdelave podatkov, ki jih nudi FidaPLUS, in si s tem močno olajšamo in pospešimo delo.
+
+Konkordance iz korpusa se nam prikažejo v naključnem vrstnem redu, zato jih je za natančnejše pregledovanje bolje urediti po abecedi.
+To storimo tako, da po zaključku izgradnje seznama zadetkov kliknemo na ikono za obdelavo podatkov () in v polju Urejanje izberemo, ali konkordance želimo urediti po abecedi glede na levo ali desno sobesedilo, kot kaže Slika 12.
+
+Kadar nas zanima tipična okolica iskane besede, lahko s statistično obdelavo rezultatov izdelamo seznam kolokatorjev izbrane besede, pri čemer lahko nastavimo razdaljo kolokatorjev od jedrne besede, kot prikazuje Slika 13.
+Izdelan seznam lahko nato urejamo po abecedi, po številu relativnih oz. absolutnih vrednostih pojavitev kolokatorjev ali po eni od izračunanih statističnih mer za merjenje (ne)naključnosti sopojavljanja jedrne besede z nekim kolokatorjem.
+
+Primer seznama prvih desetih levih kolokatorjev, najprej urejenih po abecedi, nato po absolutnih vrednostih, na koncu pa še po vrednosti LL, za besedo plošča je na Sliki 14.
+
+Tretja možnost statistične obdelave rezultatov je izločanje šuma iz dobljenih konkordančnih nizov oz. osredotočanje na določene konkordančne nize.
+To počnemo s sitom, v katerem določimo obseg besedilne okolice in vpišemo pogoj zanjo, kot prikazuje Slika 15.
+Konkordančne nize je nato mogoče še premešati, iz njih izločiti vse enake zadetke ter vzorec prikazanih nizov poljubno omejiti.
+
+1. S pomočjo možnosti za statistično obdelavo in urejanje podatkov najdite tipične kolokacije za besedo borza.
+V kakšnih pomenih se ta beseda pojavlja v korpusu?
+
+3. S pomočjo statistike ugotovite, ali sta besedi baba in babnica, ki sta v SSKJ označeni kot čustveno negativno zaznamovani, tudi v korpusu rabljeni negativno.
+
+4. O kakšnih krizah Slovenci najpogosteje govorimo?
+S sitom izločite vse pojavitve, ki niso pridevniki.
+
+1. Razmislite, kakšne samostalniške fraze so ponavadi termini in z oblikovanjem primernega vzorca poiščite po pet strokovnih terminov, ki vsebujejo besede: riba, žuželka in zakon (pomoč: prid.+sam., sam.+sam. v rodilniku, sam.+predl.+sam.).
+
+2. S pomočjo besedilnih vzorcev imenujemo tudi, znan kot in ali tudi poiščite po pet primerov sopomenk.
+Nato s pomočjo besedilnih vzorcev je vrsta, prištevamo med in sodi med poiščite po pet primerov nad- in podpomenk.
+Po pet primerov mero- in holonimov pa poiščite s pomočjo besedilnih vzorcev je sestavljen iz, je del in vsebuje.
+
+3. Kako lahko referenčni korpus pomaga pri sestavljanju slovarja?
+In kako pri prevajanju?
+
+Z nadgradnjo korpusa FidaPLUS v Gigafido je bil poenostavljen tudi iskalni vmesnik, tako da registracija za Gigafido ni več potrebna, uporabniško prijaznejše pa je tudi iskanje po korpusu.
+Na vstopni strani http://www.gigafida.net lahko levo zgoraj izbiramo med iskanjem po konkordancah, po okolici besed in po besednih seznamih.
+
+Enostavno iskanje uporabimo, ko za odgovor na zastavljeno vprašanje zadošča preprost iskalni pogoj.
+Enostavno iskanje je zelo podobno brskanju po spletu: v iskalno okence vtipkamo besedo (npr. hrošč) ali niz besed (npr. majski hrošč, pa tudi , medtem ko), nato pa se nam na zaslonu pojavi naključno urejen seznam konkordanc, v katerih iskana beseda pojavi.
+Za celovitejše informacije o iskani besedi enostavno iskanje samodejno prikaže rezultate za vse besedne oblike iskane besede.
+Če nas zanima samo določena besedna oblika, moramo pri iskanju uporabiti narekovaje (npr. "majskih hroščih").
+
+Slika 16: Primer enostavnega iskanja v korpusu Gigadida, s katerim iščemo določeno besedno obliko besedne zveze majski hrošč.
+
+Kadar pri iskanju želimo postaviti dodatne pogoje, uporabimo napredno iskanje.
+Določamo lahko:
+
+Besedno vrsto in druge lastnosti iskane besede (npr. klop, ki je samostalnik ženskega spola)
+
+Kaj se pojavlja v okolici iskane besede (npr. klop, neposredno pred katero se pojavlja pridevnik šolski)
+
+Pogoje pri naprednem iskanju lahko med sebom tudi poljubno kombiniramo (npr. klop, ki je samostalnik ženskega spola in pred katero se pojavlja pridevnik šolski)
+
+Slika 17: Primer zahtevnega iskanja v korpusu Gigafida, v katerem iščemo pojavitve samostalnika klop, neposredno pred katerim se pojavlja pridevnik šolski.
+
+Kadar želimo raziskati tipično sobesedilo neke besede, na meniju v zgornjem desnem kotu uporabniškega vmesnika kliknemo na zavihek Okolica.
+Nato v iskalno okence vnesemo iskano besedo, na drsniku pa izberemo, kakšna okolica nas zanima:
+
+kontekst neposredno pred ali za iskano besedo (npr. besede, ki se tipično pojavljajo tik pred pridevnikom umazan)
+
+širši kontekst pred ali za iskano besedo (npr. besede, ki se tipično pojavljajo v oknu ±3 od pridevnika umazan)
+
+Slika 18: Primer iskanja v korpusu Gigafida, v katerem raziskujemo sobesedilno okolico pridevnika umazan.
+
+Kadar nas zanimajo besede, ki so podobno sestavljene, na meniju v zgornjem desnem kotu uporabniškega vmesnika kliknemo na zavihek Seznam.
+Nato v iskalno okence vnesemo iskalni pogoj, na zaslonu pa se nam izpiše seznam vseh besed, ki pogoju ustrezajo, skupaj s številom pojavitev v korpusu.
+Če kliknemo na število pojavitev ob neki besedi, se nam izpišejo vse konkordance zanjo.
+Iskalni pogoj je lahko beseda, pri oblikovanju iskalnega pogoja pa lahko uporabimo tudi nadomestna znaka * (za poljubno število poljubnih znakov) in ? (za en poljubni znak).
+Izbiramo lahko med dvema načinoma izpisa rezultatov: zgolj osnovne oblike besed ali besede v vseh oblikah, v katerih se v korpusu pojavljajo.
+Pozor: Nadomestna znaka delujeta samo pri iskanju po seznamih, pri iskanju po konkordancah in okolici pa ne.
+Prav tako iskanje po seznamih deluje samo za posamezne besede, ne pa za nize besed.
+
+Slika 19: Primer iskanja v korpusu Gigafida, v katerem izdelujemo seznam vseh besed, ki se končajo na -ček.
+
+Dobljene rezultate lahko nadalje obdelujemo in tako dobimo podrobnejši vpogled v rezultate in njihovo zanesljivost.
+Iskalni vmesnik Gigafide omogoča:
+
+Prikaz širšega sobesedila in metapodatkov: S klikom na posamezno konkordanco se nam prikaže širše sobesedilo in korpusni metapodatki (npr. podatki o avtorju in letu izdaje besedila), s klikom na jeziček Korpusne oznake pa se nam prikaže jezikovna analiza besedila (osnovna oblika besede in njene oblikoslovne lastnosti).
+
+Urejanje in filtriranje rezultatov: Zadetke lahko filtriramo glede na osnovno besedno obliko, vrsto in vir besedila ter leto nastanka).
+Filtriranje izvedemo tako, da v meniju levo od konkordanc izberemo željeni pogoj, nato pa se nam na zaslonu izpišejo le tiste konkordance, ki temu pogoju ustrezajo.
+Pogoje lahko tudi kombiniramo.
+
+Izvoz rezultatov: Čeprav je ta možnost omogočena, iz okoljevarstvenih in praktičnih razlogov konkordanc najbrž ne bomo pogosto tiskali.
+Velikokrat pa je uporabno, da si jih prenesemo na svoj računalnik in shranimo za podrobnejše analize.
+To storimo tako, da v zgornjem desnem kotu nad konkordancami kliknemo na ikono z disketo, s čimer bomo rezultate shranili v formatu, primernem za uporabo v programu MS Excel.
+
+Zgodovina iskanj: Kadar želimo ponovno preveriti rezultate za že uporabljen iskalni pogoj, nam pogoja ni potrebno še enkrat vnašati, temveč lahko s klikom na puščico ob jezičku Iskanje prikličemo zgodovino iskanj in s spustnega seznama samo izberemo eno od prejšnjih iskanj.
+
+1. V enostavnem iskalnem načinu na poljubnem primeru preverite razliko med iskanjem po lemi in po besedni obliki za posamezne besede in za nize besed.
+Zakaj je ta razlika pomembna?
+Katero iskanje da celovitejši vpogled v jezikovno rabo?
+V katerem primeru potrebujemo iskanje po besedni obliki?
+
+2. V naprednem iskalnem načinu na poljubnem primeru preizkusite združevanje različnih iskalnih pogojev, ki so na voljo.
+Kako se napredno iskanje po Gigafidi razlikuje od naprednega iskanja po FidiPLUS?
+Kakšne prednosti prinaša Gigafidino napredno iskanje za korpusne raziskave?
+Kakšne pa so nevarnosti takšnega načina iskanja in na njem temelječih ugotovitev?
+
+3. Kako bi govorcu slovenščine svetovali glede rabe svojilnega pridevnika za kraj Čedad?
+Ali bi se odločili za čedadski ali čedajski in zakaj?
+Pri oblikovanju odgovora uporabite možnosti za filtriranje rezultatov in skušajte ugotoviti, ali obstaja povezava med virom in uporabljeno različico.
+
+4. V korpusu Gigafida raziščite spreminjanje pomena besede trojka.
+A vas pri rezultatih kaj preseneča in kako bi se s tem problemom lahko korpusno jezikoslovje uspešno spopadlo?
+
+5. V korpusu GOS z uporabo iskanja po seznamu in standardiziranem zapisu poiščite različne načine izgovarjanja prislova lahko.
+
+Vsi korpusi na strežniku Instituta Jožef Stefan so dostopni v dveh zmogljivih konkordančnikih: noSketchEngine je prosto dostopna različica sicer plačljivega konkordančnika SketchEngine, CUWI pa so na inštitutu razvili sami.
+Konkordančnik noSketchEngine razen besednih in razlikovalnih skic omogoča isto funkcionalnost kot SketchEngine, ki ga podrobneje predstavljamo v naslednjem poglavju, zato se tu posvečamo konkordančniku CUWI.
+
+Na vstopni strani http://nl.ijs.si/cuwi/ izberemo korpus, po katerem želimo iskati in za enostavno iskanje v iskalno okence vnesemo besedo ali niz besed, ki nas zanima, in na zaslonu se nam prikaže seznam konkordanc, ki ustrezajo iskalnemu pogoju.
+CUWI v enostavnem načinu samodejno išče po lemi in besedni obliki hkrati.
+To pomeni, da za iskalni pogoj stranka dobimo vse besedne oblike te besede (ker jo najde med lemami), za iskalni pogoj stranki pa samo to besedno obliko (ker je ne najde med lemami, ampak samo med besednimi oblikami).
+Pri enostavnem in zahtevnem iskanju lahko uporabljamo tudi nadomestna znaka * (za poljubno število poljubnih znakov) in ? (za en poljubni znak).
+
+Slika 20: Primer preprostega iskanja v konkordančniku CUWI, s katerim v korpusu Korp iščemo besedo stranka.
+
+Iskalni vmesnik v zahtevnem načinu omogoča natančno oblikovanje kompleksnejših iskalnih pogojev, pri čemer lahko uporabljamo iskalno masko ali jezik CQP.
+V tem razdelku podrobno obravnavamo iskalno masko, CQP pa je predstavljen v 20. in 21. vaji.
+
+Slika 21: Primer zahtevnega iskanja v konkordančniku CUWI, s katerim v korpusu Korp iščemo besedo stranka.
+
+Išči: v tej vrstici izberemo, po čem naj vmesnik išče.
+Prikaz možnosti je odvisen od oznak, ki jih vsebuje korpus, med njimi pa so:
+
+nform: iskanje po normalizirani sodobni besedni obliki brez velikih tiskanih črk, naglasnih znamenj ipd. (npr. ljubljana)
+
+lempos in lempos_sl: iskanje po lemi z angleško oz. slovensko oznako besedne vrste (npr. kot, ki je samostalnik: kot-n oz. kot-s)
+
+tag in tag_sl: iskanje po angleški oz. slovenski oblikoskladenjski oznaki (npr. vse obče samostalnike: Nc* oz. So*)
+
+pos in pos_sl: iskanje po angleški oz. slovenski besedni vrsti (npr. vse pridevnike: Adjective oz. pridevnik)
+
+number in number_sl: iskanje po angleškem oz. slovenskem številu (npr. vse besede v množini: plural oz. množina)
+
+case in case_sl: iskanje po angleškem oz. slovenskem sklonu (npr. vse besede v rodilniku: genitive oz. rodilnik)
+
+Znotraj: izberemo kontekst, v katerem naj išče: po stavkih (s), odstavkih (p), celotnem besedilu (text)
+
+Ignoriraj: izberemo, ali naj vmesnik pri iskanju ignorira velike črke in naglasna znamenja 
+
+Izpiši: v tej vrstici izberemo, kaj naj pri izpisu rezultatov prikaže (za izpis lahko izberemo več informacij, npr. word, lemma in tag)
+
+Način prikaza: izberemo, v kakšni obliki naj se rezultati prikažejo (kwic, odstavki, stavki, besedni seznam)
+
+Vključi oznake: izberemo, ali naj se prikažejo tudi oznake za začetek in konec stavka, odstavka ipd.
+
+1. V enem od referenčnih korpusov za slovenščino (http://nl.ijs.si/cuwi/reference) na poljubnem primeru preizkusite enostavno iskanje s CUWI-jem za enobesedne in večbesedne iskalne nize.
+Kako morate oblikovati iskalni pogoj, da iskanje po lemi deluje tudi za večbesedne iskalne nize?
+
+2. V enem od specializiranih korpusov za slovenščino (http://nl.ijs.si/cuwi/specialised) v zahtevnem iskalnem načinu poiščite vse pojavitve izbrane leme in poleg konkordanc izpišite še oblikoskladenjske oznake, ki so jim pripisane.
+
+3. V enem od spletnih korpusov (http://nl.ijs.si/cuwi/wacs) poiščite vse okrajšave, ki se v korpusu pojavljajo.
+Okrajšave imajo v slovenščini oznako O, v angleščini pa oznako Y. Nato iz seznama zadetkov izpišite le vzorec 100 naključnih konkordanc in preverite, ali so naključno prikazane okrajšave reprezentativne za izbran korpus.
+
+4. V korpusu starejše slovenščine (http://nl.ijs.si/cuwi/imp_sl) poiščite vse različne načine zapisa besede življenje nekoč.
+
+5. V korpusu starejše slovenščine (http://nl.ijs.si/cuwi/imp_sl) izdelajte seznam vseh okrajšav v korpusu in ga uredite po pogostosti.
+Nato ga primerjajte z okrajšavami iz korpusa tvitov iz 3. vaje.
+Kaj kažejo rezultati?
+
+Regularni izrazi so veliko zmogljivejši način iskanja, ki ga podpira večina konkordančnikov.
+Z regularnimi izrazi je mogoče prepoznati množico nizov, ki izrazu ustrezajo, ne samo konkretnih primerov.
+Regularni izrazi so sestavljeni iz literalov, nadomestnih znakov in operatorjev.
+Literali so številke in črke, ki jih lahko nadomestimo z nadomestnimi znaki, z operatorji pa kombiniramo posamezne dele iskalnega pogoja.
+Pravila za oblikovanje regularnih izrazov se v različnih orodjih lahko razlikujejo, zato moramo pred uporabo regularnih izrazov vedno najprej preveriti dokumentacijo.
+V nadaljevanju predstavljamo regularne izraze, ki jih uporablja konkordančnik za korpuse na http://nl.ijs.si/cuwi/.
+
+negirana množica znakov [^…] npr. /abc[^def]ghi/ prepozna {abcgghi, abchghi, abcighi, …, abczghi, abcžghi}
+
+V korpusu Kres (http://nl.ijs.si/cuwi/kres_sl) z regularnimi izrazi poiščite naslednje besede in besedne zveze.
+Namig: regularni izraz za iskanje po besedah vpišite v iskalni obrazec [lemma=""], kadar želite iskati po oblikoskladenjskih oznakah, pa regularni izraz uporabite v iskalnem obrazcu [tag_sl=""].
+
+8. besede, ki imajo tri soglasnike ali več na kupu (t. i. težki zlogi), vendar ne smejo stati na začetku besede 
+
+9. besede, ki vsebujejo poljubno število poljubnih soglasnikov, soglasnik pa samo tisti, ki si ga vi izberete, ponovi se lahko poljubno krat
+
+10. besede, ki vsebujejo vse različne samoglasnike, njihovo število je poljubno, prav tako so poljubni soglasniki 
+
+Konkordančnik CUWI omogoča tudi iskanje z jezikom CQP, ki je zelo zmogljiv jezik za iskanje po korpusih, saj podpira regularne izraze in omogoča hkratno iskanje po besedilu in oznakah v korpusu.
+
+[tag_sl="Someo"]: najde vse besede v korpusu s pripisano oznako Someo (obči samostalnik moškega spola v ednini v orodniku)
+
+[lemma="svet" & tag_sl="So.* "]: najde vse besede v korpusu s pripisano lemo svet, ki so obči samostalniki 
+
+[tag_sl="P.*"] [lemma="svet"]: najde vse besedne zveze v korpusu, ki se začnejo s pridevnikom in nadaljujejo z besedo, ki ima pripisano lemo svet
+
+[tag_sl="P.*"] [lemma="svet" & tag_sl="So.*"]: najde vse besedne zveze v korpusu, ki se začnejo s pridevnikom in nadaljujejo z besedo, ki ima pripisano lemo svet in je obči samostalnik 
+
+"ki" []"je": najde vse pojavitve besed ki in je v korpusu, med katerima je poljubna beseda 
+
+"ki" []*"je": najde vse pojavitve besed ki in je v korpusu, med katerima je poljubno mnogo poljubnih besed 
+
+"ki" []{3} "je": najde vse pojavitve besed ki in je v korpusu, med katerima so tri poljubne besede 
+
+1. konkordance, iz katerih boste lahko preučili pomen in rabo besed gonilnik in pogon ter ugotovili razlike med njima
+
+2. konkordance, iz katerih boste lahko ocenili kakovost avtomatskega označevanja korpusa na primeru besede kot, ki je v korpusu označena kot samostalnik 
+
+3. besedna seznama, iz katerih boste lahko preučili rabo zvez samostalnik+okrajšava in okrajšava+samostalnik v korpusu, specializiranem za področje informatike, ter ugotovitve komentirali glede na pravopisno normo 
+
+4. konkordance, v katerih boste našli večbesedne računalniške termine, ki sledijo vzorcu pridevnik+samostalnik in vsebujejo besede disk, vmesnik in zaslon
+
+5. besedni seznam, na katerem boste našli, s katerimi samostalniki v tožilniku se tipično pojavljajo glagoli z osnovo -graditi
+
+Konkordančniki, s katerimi so opremljeni korpusi, ki smo jih spoznali v prejšnjem poglavju, omogočajo osnovne možnosti za analizo korpusov, ki za kompleksnejše raziskave pogosto ne zadoščajo.
+Na še večjo oviro pa naletimo, ko želimo proučevati korpus, ki smo ga izdelali sami.
+V teh primerih si delo poenostavimo in pospešimo s posebnimi računalniškimi orodji za korpusno analizo, ki nam omogočajo vpogled v korpusne podatke in posledično odkrivanje vzorcev ter zakonitosti, ki presegajo meje ročnega obvladovanja korpusov.
+Pri tem je treba poudariti, da je izbira orodja odvisna od našega raziskovalnega vprašanja, od vrste korpusa in od ravni označenosti korpusa.
+Za kompleksnejše raziskave je velikokrat potrebna kombinacija različnih orodij, nemalokrat pa tudi razvoj lastnih programskih rešitev.
+V nadaljevanju predstavljamo nekatera najpopularnejša orodja za analizo korpusov, pri čemer je poudarek na programih, ki so primerni tudi za delo s slovenščino.
+
+SketchEngine je modularno orodje za iskanje po korpusih (Kilgariff et al. 2004).
+Poleg standardnih funkcij za iskanje in prikaz konkordanc omogoča še zelo koristne dodatne funkcije za raziskovanje pomena in rabe besed ter razlik med podobnimi besedami, zaradi česar je v zadnjem času postal eno najbolj priljubljenih leksikografskih orodij.
+V SketchEngine so naloženi korpusi za številne jezike, med katerimi je tudi slovenski korpus FidaPLUS (Krek in Kilgariff 2006), mogoče pa je dodajati tudi korpuse, ki jih izdelamo sami.
+Za uporabo orodja se je najprej potrebno registrirati in si priskrbeti brezplačno začasno uporabniško ime in geslo.
+
+Prosto dostopna različica orodja SketchEngine, imenovana noSketchEngine, omogoča vse funkcionalnosti, razen besednih in razlikovalnih skic.
+Nameščena je tudi na strežniku nl.ijs.si, tako da lahko namesto s konkordančnikom CUWI po vseh korpusih iščemo tudi s konkordančnikom noSketchEngine (http://nl.ijs.si/noske/).
+
+SketchEngine nudi vse standardne funkcije za iskanje po lemah, besednih oblikah in frazah, kot prikazuje Slika 22.
+Omogoča tudi iskanje z jezikom CQL, ki je bilo že predstavljeno v 20. vaji.
+Poleg tega je na voljo še filtriranje sobesedila in omejevanje glede na besedilno zvrstnost, kar ponazarja Slika 23.
+
+Slika 23: Filtriranje zadetkov glede na sobesedilo in besedilno zvrst v orodju SketchEngine
+
+Kot kaže Slika 24, SketchEngine omogoča tudi vse standardne načina prikaza, sortiranja, filtriranja in shranjevanja konkordanc.
+Frekvenčne sezname dobljenih zadetkov lahko izdelamo z ukazom Frequency – Node forms (Slika 25), kandidate za kolokatorje iskane besede pa pridobimo z ukazom Collocation, kot prikazuje Slika 26.
+
+1. Na spletni strani orodja SketchEngine (http://www.sketchengine.co.uk/register.cgi) se registrirajte in pridobite brezplačno začasno uporabniško ime in geslo.
+Vajo lahko delate tudi v prosto dostopni različici orodja, ki je nameščena na strežniku http://nl.ijs.si/noske/.
+Po prijavi izberite korpus FidaPLUS ali Gigafida, nato pa s pomočjo funkcije Concordance raziščite pomene in rabo leksemov mreža in omrežje.
+Do katere mere se pomen in raba teh leksemov prekrivata?
+Kje opazite največje razlike?
+
+2. Nato preglejte še konkordance za leksem krilo.
+Ali gre za polisemijo ali homonimijo?
+Ali bi za slovar slovenščine predlagali dva vnosa za ta leksem ali samo enega?
+
+3. Poiščite kandidate za kolokatorje leksemov šala, prati in črn.
+Katere od najdenih kolokacij imajo dobesedni in katere frazeološki pomen?
+
+4. Poiščite konkordance za vse pojavitve vzorca samostalnik+samostalnik v rodilniku.
+Z uporabo ukaza Frequency – Node forms izdelajte frekvenčni seznam vseh dvobesednih zvez, ki se v korpusu pojavijo vsaj 50-krat.
+
+Poleg konkordanc SketchEngine, pa tudi prosto dostopna različica orodja noSketchEngine, omogoča tudi izdelavo besednih seznamov, ki jih pripravimo tako, da v polju Attribute najprej izberemo, katera vrsta podatkov v korpusu nas zanima:
+
+lempos – izdelava besednega seznama s kombinacijo leme in besedne vrste (npr. m.*-s)
+
+lemma_lc – izdelava seznama lem, pri čemer so vse izpisane z malo začetnico (npr. sl.*)
+
+Nato določimo najmanjše število pojavitev v korpusu in največje število prikazanih vrstic, na koncu pa še vpišemo iskalni pogoj.
+Odločimo se lahko tudi, ali naj iskalnik razlikuje med velikimi in malimi črkami ali ne.
+Primer poizvedbe za izdelavo besednega seznama vsebuje Slika 27.
+Besedne sezname je mogoče urejati po abecedi ali po frekvenci in jih tudi shraniti, kar prikazuje Slika 28.
+
+Slika 28: Urejanje besednega seznama po frekvenci in po abecedi v orodju SketchEngine
+
+Iz korpusa FidaPLUS lahko izdelamo tudi podkorpus, v katerega vključimo samo besedila določene zvrsti, področja oz. leta objave in besedne sezname izdelujemo samo na podlagi njega.
+Izdelavo podkorpusa s področja zakonodaje od leta 2000 naprej prikazuje Slika 29.
+
+1. S pomočjo funkcije Word List izdelajte seznam vseh besed s sestavino glas.
+Katere od njih so med seboj pomensko povezani in kako?
+Kateri sodijo v isto pomensko polje?
+
+2. Iz FidePLUS izdelajte avtomobilistični podkorpus in izdelajte seznam vseh samostalnikov, ki se v njem ponavljajo več kot 10-krat.
+Ali se samostalniki na njem bistveno razlikujejo od najpogostejših samostalnikov v celotnem korpusu FidaPLUS?
+Zakaj menite, da je tako?
+Ali se enako dogaja z vsemi besednimi vrstami?
+
+Funkcija Thesaurus, ki je na voljo samo v polni različici orodja, ne pa tudi v prosto dostopni različici noSketchEngine, na podlagi podobnosti konteksta, v katerem se besede pojavljajo, izdela seznam podobnih besed.
+Z ukazom Cluster items je sinonime mogoče tudi razvrstiti na skupine glede na tipične kontekste.
+Primer poizvedbe za to funkcijo prikazuje Slika 30, rezultat poizvedbe pa vsebuje Slika 31.
+
+1. Komentirajte skupine najdenih podobnih izrazov za besedo kriza, ki jih prikazuje Slika 26.
+Katere pomene lahko identificirate?
+
+2. S pomočjo funkcije Thesaurus raziščite pomene in podobne izraze za besedo center.
+Katere bi vključili v slovar slovenščine za tujce?
+
+S funkcijo Word Sketch, ki je na voljo samo v polni različici orodja, ne pa tudi v prosto dostopni različici noSketchEngine, lahko še podrobneje kot s pregledom konkordanc proučujemo rabo in pomen neke besede.
+Besedne skice temeljijo na vnaprej pripravljenih tipičnih skladenjskih vzorcih za slovenščino, s pomočjo katerih se izdelajo neke vrste sežetki vedenja iskane besede v korpusu.
+Ti sežetki so zelo koristni za prepoznavanje posameznih pomenov večpomenske besede, kolokacij, v katerih nastopa, najpogostejših predlogov, ki se z njo uporabljajo ipd.
+Na prvi pogled je prikazan seznam slovničnih razmerij dolg, zato jih ponavadi na hitro preletimo in se nato podrobneje posvetimo le najrelevantejšim.
+Primer, ki ga vsebuje Slika 32, vsebuje najpogostejše pridevnike, predloge in glagole, ki se v korpusu FidaPLUS pojavljajo z besedo študij.
+
+Zelo podobna je funkcija Sketch-Diff, ki prav tako ni na voljo v različici noSketchEngine in namesto besednih skic za eno samo besedo pripravi sežetek podobnosti in razlik rabe dveh podobnih besed.
+Ta funkcija je zelo koristna pri iskanju razlik med zelo podobnima besedama oz. približnima sinonima, kot sta na primer besedi območje in cona.
+Razlike med njima prikazuje Slika 33.
+Vzorci, pogostejši za območje, so na zaslonu obarvani zeleno (na sliki svetlo sivo), tisti, v katerih pogosteje nastopa cona, pa na zaslonu rdeče (na sliki temno sivo).
+Drugi kvadratek vsebuje vzorce, ki se pojavljajo samo z besedo območje, tretji pa vzorce, ki se pojavljajo samo z besedo cona.
+
+1. V SSKJ si oglejte geslo kartica.
+Nato s pomočjo funkcije Word Sketch poiščite spremembe v rabi in pomenu tega leksema v sodobnem jeziku.
+Predlagajte popravek geselskega članka za SSKJ.
+
+2. S pomočjo iste funkcije raziščite še glagola učiti in poučevati.
+Nato ju primerjajte še s funkcijo Sketch-Diff.
+
+3. S pomočjo funkcije Sketch-Diff najdite podobnosti in razlike (tako v pomenu kot rabi) med leksemoma instrument in inštrument ter oliva in oljka.
+
+Kadar specializiran korpus želimo izdelati sami, lahko sami poskrbimo za zbiranje besedil in jih nato obdelamo s pomočjo čarovnika v orodju SketchEn-gine (https://the.sketchengine.co.uk/auth/create_corpus/), lahko pa uporabimo tudi čarovnik WebBootCaT (https://the.sketchengine.co.uk/auth/bootcat/create_corpus/), s pomočjo katerega besedila za nov korpus zberemo s svetovnega spleta.
+Svetovni splet je za zbiranje korpusnega gradiva zelo priročen vir, saj vsebuje veliko količino besedil v elektronski obliki ter omogoča hiter in enostaven dostop do njih.
+Gradnjo korpusa s svetovnega spleta nam olajša orodje, ki na podlagi vnešenih ključnih besed preko spletnega iskalnika Yahoo! zbere relevantne strani za korpus, izloči podvojene strani in iz izbranih dokumentov pobriše kode html, skripte java in oznake za spletno navigacijo (Baroni et al. 2006).
+Ko so besedila zbrana, moramo korpus še predprocesirati (ukaz: Compile corpus).
+WebBootCaT poskrbi za odstranjevanje dupliciranih besedil, tokenizacijo korpusa, če korpus gradimo v bolgarskem, nizozemskem, angleškem, francoskem, nemškem, italijanskem, ruskem ali španskem jeziku, pa mogoča tudi lematizacijo in oblikoskladenjsko označevanje z označevalnikom TreeTagger.
+
+Ko izdelujemo korpus v jeziku, ki je na svetovnem spletu slabše zastopan, se nam v korpusu lahko pojavi šum v obliki besedil, ki niso napisana v željenem jeziku, saj WebBootCaT za prepoznavanje jezika uporablja kar spletni iskalnik, ki ni vedno dovolj natančen (Vintar 2008: 88; Gorjanc 2009: 92).
+
+Z orodjem WebBootCaT izdelajte korpus, ki ga boste uporabili kot pomoč pri prevajanju besedil o jadralstvu v slovenščino, in ga prenesite na svoj računalnik.
+Preizkusite, s katerimi ključnimi besedami dobite najboljši korpus za vaše potrebe.
+Na kakšne težave ste pri izdelavi korpusa z orodjem WebBootCaT naleteli?
+
+WordSmith Tools je orodje za obdelavo in raziskovanje enojezičnih korpusov, ki so shranjeni v eni ali več besedilnih datotekah (.txt) v poljubnem znakovnem kodiranju (ANSI, Windows, Unicode), s posebnim filtrom pa je mogoče tudi uporabiti datoteke v formatu pdf in doc (Scott 2008).
+Delo z označenimi datokekami (npr. xml) je okorno in ga zato v nadaljevanju ne obravnavamo, a je s filtrom, ki je priložen programu, oznake in leme mogoče tudi odstraniti.
+Program je plačljiv, vendar je dostopna tudi demo različica, v kateri delujejo vse funkcije, število izpisanih vrstic pa je omejeno.
+
+Ko zaženemo program, se odpre glavni kontrolnik (Slika 35), s katerim lahko dostopamo do vseh najpomembnejših komponent v orodju WordSmith Tools, ki jih predstavljamo v nadaljevanju: Concord, Keywords in WordList.
+
+Za uporabo konkordanc s klikom na zeleni gumb v meniju File→New prikličemo okno Getting started, kjer izberemo besedila, ki jih želimo analizirati.
+Program omogoča delo s številnimi datotekami in velikimi besedilnimi zbirkami, pri čemer morajo imeti poenoteno kodiranje in biti shranjena kot golo besedilo, Slika 36.
+
+V komponenti Concord najprej definiramo iskalni pogoj.
+Pri iskanju program omogoča uporabo nadomestnega znaka * in poševnice za zapis alternativnih nizov.
+Tako denimo iskalni pogoj gospod* poišče vse pojavitve besed, ki se pričnejo z nizom znakov gospod-.
+Del najdenih zadetkov za zgornji iskalni pogoj v Stari zavezi prikazuje Slika 37.
+Urejanje konkordance po levem ali desnem okolju nam že na prvi pogled razkrije kandidate za večbesedne termine in kolokacije.
+
+Medtem ko za odkrivanje večbesednih terminov zadostuje opazovanje neposredne okolice jedrnega izraza, se kolokacije (funkcija Collocates) lahko pojavljajo tudi v precejšnji oddaljenosti od jedra.
+Wordsmith ponuja avtomatsko izdelavo seznama kolokatorjev, poleg tabelaričnega izpisa kolokatorjev pa lahko izdelamo tudi večbesedne skupke (funkcija Clusters), ki se pojavljajo kjerkoli v konkordanci, ne le v kombinaciji z jedrno besedo.
+Funkcija Plot predstavi pojavitve iskanega niza na linearni osi, kjer vsaka črtica pomeni eno pojavitev iskanega niza v korpusu.
+
+Vertikalni vpogled v korpus dobimo z uporabo komponente WordList.
+Ko smo v WordSmith naložili besedila, ki jih želimo analizirati, izberemo ukaz Make a wordlist now (Slika 38).
+
+Program obdela izbrana besedila in izdela besedni seznam, v katerem so besede urejene po pogostosti.
+Ta seznam lahko filtriramo s seznamom praznih besed, s čimer iz našega seznama izločimo slovnične besede (pomožne glagole, veznike, člene, predloge), ki nas pri proučevanju leksikalnega inventarja korpusa navadno ne zanimajo.
+Seznam praznih besed aktiviramo z izbiro ukaza Settings→Stop→Lemma & Matchlist).
+Primer frekvenčnega seznama Stare zaveze, iz katerega smo izločili prazne besede, prikazuje Slika 39.
+
+Slika 39: Frekvenčni seznam z izločenimi praznimi besedami, izdelan z WordSmithom
+
+Wordlist omogoča različne načine urejanja seznama: po abecedi, po pogostosti, po dolžini besed ipd.
+V abecedno urejenem seznamu lahko besedam tudi ročno pripišemo leme, nakar program samodejno združi pogostosti posameznih besednih oblik in seznam ponovno uredi.
+
+Poleg enobesednih seznamov lahko s komponento WordList izdelujemo tudi sezname večbesednih enot.
+Večbesedne sezname izdelamo tako, da v osnovnem meniju najprej izdelamo indeks, nato pa v meniju Compute izberemo ukaz Clusters, kjer določimo dolžino večbesedne enote (med 2 in 12 besed) ter najmanjšo zahtevano pogostost.
+Slika 40 prikazuje seznam dvobesednih enot iz Stare zaveze.
+
+Z izbiro jezička Statistics dobimo statistične podatke o posameznih besedilih v našem korpusu in korpusu v celoti, kot so velikost korpusa, število stavkov in odstavkov v korpusu, število pojavnic in različnic ter razmerje med pojavnicami in različnicami (type/token ratio), ki nam da predstavo o bogatosti besedišča v korpusu.
+Prav tako lahko izvemo povprečno dolžino odstavkov, povedi in besed ter podatke o najdaljših in najkrajših besedah, Slika 41.
+
+S komponento Keywords lahko izdelamo seznam ključnih besed v našem specializiranem korpusu.
+Za to moramo najprej izdelati frekvenčni seznam za referenčni korpus, ki ga program nato primerja s frekvenčnim seznamom specializiranega korpusa.
+V komponenti Keywords izberemo ukaz New, v pogovornem oknu nastavimo oba besedna seznama in nazadnje kliknemo na gumb Make a keywordlist now (Slika 42).
+Seznam ključnih besed bo vseboval tiste izraze, ki se v primerjavi z referenčnim korpusom v specializiranem korpusu pojavljajo nesorazmerno pogosto in za katere tako pričakujemo, da bodo dobro orisali področje, s katerega je naš korpus.
+Primer seznama ključnih besed iz Stare zaveze vsebuje Slika 43.
+
+Podrobnejša navodila za delo z orodjem WordSmith Tools, predvsem za terminološe in terminografske raziskave, najdete v Vintar 2008 (90–99).
+Celovit uporabniški priročnik in bogato bibliografijo korpusnih raziskav z orodjem WordSmith Tools pa vsebuje avtorjeva spletna stran: http://www.lexically.net/wordsmith/ (dostop: 15. 10. 2013).
+
+V WordSmith naložite neoznačen korpus o jadralstvu, ki ste ga v eni od prejšnjih vaj sestavili z orodjem WebBootCaT, in zanj izdelajte besedni seznam.
+Preglejte vse samostalnike, ki se na njem pojavijo.
+
+Zdaj za isti korpus izdelajte še dvo- in tribesedne besedne sezname.
+Kako dobljeni besedni seznami odražajo področje oz. temo analiziranega korpusa?
+Ali so med izdelanimi dvo- in trigrami termini z analiziranega področja?
+
+Korpus, ki ga izdelamo sami, ima zelo omejeno uporabno vrednost, če ni oblikoskladenjsko označen in lematiziran.
+Za angleščino, nemščino in druge večje jezike je na voljo več prosto dostopnih lematizatorjev in označevalnikov, obsežen seznam prosto dostopnih označevalnikov vzdržujejo na Univerzi Stanford (http://nlp.stanford.edu/links/statnlp.html#Taggers), med katerimi je najbolj znan TreeTagger, s katerim je mogoče označiti besedila v 11 različnih jezikih.
+
+Lematizacijo in oblikoskladenjsko označevanje slovenskih besedil omogočata spletna servisa JOS ToTaLe (http://nl.ijs.si/jos/analyse/) in Obeliks (http://oznacevalnik.slovenscina.eu/Vsebine/Sl/SpletniServis/SpletniServis.aspx).
+
+Vse, kar potrebujemo, je besedilo v navadni tekstovni obliki in znakovnem naboru UTF-8, ki ga skopiramo v okence oziroma naložimo na strežnik, kot prikazujeta Sliki 44 in 45.
+Lematizirano in označeno besedilo si lahko ogledamo na zaslonu, kot prikazujeta Sliki 46 in 47.
+JOS ToTaLe označeno besedilo prikaže tako, da vsaka vrstica vsebuje oznako xml za poglavje, odstavek ali stavek oziroma pojavnico v besedni obliki, kot se pojavlja v korpusu, njeno oblikoskladenjsko oznako in lemo.
+Besedilo si lahko prenesemo na svoj računalnik, format označenega besedila pa je tak, da ga je mogoče naložiti tudi v konkordančnik CWB in SketchEngine.
+Obeliks pa omogoča tabelarični in xml izpis rezultatov.
+Xml je zelo podoben izpisu, ki ga ponudi JOS ToTale, tabelarični pa za vsako besedo (črba barva) v spodnjih vrsticah vsebuje še pripisano lemo (modra barva) in oblikoskladenjsko oznako (rdeča barva).
+Označeno besedilo si na računalnik prenesemo tako, da ga kopiramo, če želimo označiti večje količine besedil, pa si lahko na računalnik prenesemo celoten program (http://oznacevalnik.slovenscina.eu/Vsebine/Sl/ProgramskaOprema/Navodila.aspx).
+
+Korpus o jadralstvu, ki ste ga izdelali z orodjem WebBootCaT, lematizirajte in oblikoskladenjsko označite s spletnim servisom JOS ToTaLe ali Obeliks.
+Nato označen korpus naložite v SketchEngine in ga preizkusite za iskanje, kot je bilo predstavljeno v razdelku 5.1.
+Kakšne so po vašem mnenju prednosti in slabosti specializiranih korpusov, ki jih za lastne potrebe izdelamo sami, v primerjavi z ostalimi že obstoječimi korpusi za slovenščino?
+
+• V orodju SketchEngine je mogoče opravljati raziskave na lematiziranih in jezikoslovno označenih referenčnih korpusih v številnih jezikih, ki so že na voljo na strežniku, prav tako pa nanj lahko naložimo in nato analiziramo korpus, ki smo ga izdelali sami iz besedilnih virov oz. s svetovnega spleta.
+Za večje svetovne jezike lahko izdelan korpus označimo neposredno v orodju SketchEngine, za označevanje slovenskih korpusov pa uporabimo spletni servis JOS ToTaLe.
+
+• Spletni servis WebBootCaT nam olajša izdelavo korpusa, kadar besedila zanj želimo pridobiti s svetovnega spleta.
+S pomočjo ključnih besed, ki jih vnesemo, orodje na spletu najde relevantne spletne strani v izbranem jeziku, jih očisti in oblikuje v korpus.
+
+• Korpusno orodje WordSmith Tools je namenjeno analizi (predvsem neoznačenih) korpusov lastne izdelave in se zaradi enostavnih in hitrih možnosti izdelave večbesednih seznamov in seznamov ključnih besed odlično obnese tako za leksikološke, terminološke in prevodoslovne raziskave.
+
+• Spletna servisa JOS ToTaLe in Obeliks sta namenjena segmentaciji, tokenizaciji, lematizaciji in oblikoskladenjskemu označevanju slovenskih besedil.
+
+Olga Yeroshina Pobirk, Simon Šuster in Petra Zaranšek, 2009: Besedne skice za slovenščino.
+Kritični pogled.
+Stabej, Marko (ur.): Simpozij Obdobja 28.
+Ljubljana: Znanstvena založba FF UL.
+413–422.
+
+Špela Vintar, 2008: Terminologija.
+Terminološka veda in računalniško podprta terminografija.
+Ljubljana: Znanstvena založba FF UL.
+86–99.
+
+Tomaž Erjavec in Simon Krek, 2008: Oblikoskladenjske specifikacije in označeni korpusi JOS.
+Tomaž Erjavec in Jerneja Žganec Gros (ur.): Zbornik Šeste konference Jezikovne tehnologije, zbornik 11. mednarodne multikonference Informacijska družba – IS 2008, zvezek C. Ljubljana: Institut Jožef Stefan.
+49–53.
+
+Čeprav je ponudba orodij za vzporedne korpuse precej bolj omejena, so na voljo tudi konkordančniki za vzporedne korpuse, pri katerih iskanje poteka podobno kot pri enojezičnih korpusih, s to razliko, da pri vzporednih korpusih najprej izberemo jezik, po katerem iščemo, rezultati pa so prikazani v obeh jezikih.
+
+Preprost konkordančnik za večjezični vzporedni korpus prevodov evropske zakonodaje Evrokorpus omogoča iskanje po korpusih v petih parih jezikov.
+Kot prikazuje Slika 48, lahko v naprednem načinu poleg jezika izbiramo še področje in status prevoda ter nastavljamo eno- oz. večjezični izpis zadetkov.
+Skupaj z zadetki iz korpusa se nam za iskani izraz izpišejo tudi prevodi iz sorodne terminološke zbirke Evroterm (Željko 2004).
+
+S pomočjo Evrokorpusa raziščite prevodne ustreznice za angleški izraz practices.
+Ali se izraz v različnih besednih zvezah prevaja različno?
+
+Precej zmogljivejši je konkordančnik za vzporedne korpuse TRANS, EU DGT in manjša specializirana korpusa Le Monde (za par slovenščina-francoščina) ter Slavistična revija (za par slovenščina-angleščina), ki jih najdemo na portalu http://nl.ijs.si/.
+Tudi po vzporednih korpusih lahko iščemo s konkordančnikoma CUWI in noSkE.
+Primer iskanja po vzporednih korpusih v obeh konkortančnikih prikazujeta Sliki 49 in 50.
+S tem iskanjem smo želeli najti primere, kadar se izraz predsednik v angleščino ne prevaja kot president.
+Kot vidimo, se predsednik komisije ali odbora prevaja z izrazom chairman, predsednik vlade pa z izrazom Prime Minister.
+
+Podobno kot v zgornjem primeru v korpusih EU DGT in Trans s pomočjo obeh konkordančnikov (http://nl.ijs.si/noske/sl-para.cgi/first_form in http://nl.ijs.si/cuwi/parallel) raziščite, ali se izraz korak prevaja še kako drugače kot step.
+V katerih primerih pride do spremembe besedne vrste?
+
+Kadar vzporedni korpus zgradimo sami, ga lahko preiskujemo s konkordančnikom v programskem paketu ParaConc, ki je zaenkrat edino tovrstno orodje za vzporedne korpuse.
+Podpira stavčno poravnavo, iskanje po korpusu, ki vključuje tudi uporabo regularnih izrazov, možnosti razvrščanja zadetkov in iskanje kolokacij (Barlow 2008).
+Vendar je njegova velika pomanjkljivost v tem, da ne podpira znakovnega nabora Unicode in posledično povzroča težave pri delu s slovenskim naborom črk.
+
+Osnovno iskanje s ParaConcom poteka tako, da v meniju Search izberemo Search Options in nastavimo iskalne parametre.
+Nato v istem meniju izberemo Search in odpre se iskalno polje, kamor vpišemo želeno besedo.
+ParaConc omogoča tudi uporabo nadomestnih znakov.
+Za ponazoritev v iskalno polje vpišemo guerre* in dobimo rezultate, ki jih prikazuje Slika 51.
+Po koncu iskanja se na zaslonu odpre okno, razdeljeno na dve polji.
+V zgornjem polju so prikazani francoski zadetki v obliki konkordančnega niza, pri čemer je konkordančno jedro, ki ustreza iskanemu nizu guerre*, na zaslonu obarvano modro, rdeče obarvane besede pa so njegovi potencialni kolokatorji.
+V spodnjem polju v primeru pravilne poravnave najdemo slovenske povedi, ki ustrezajo posameznim konkordančnim nizom.
+Če želimo videti, katera poved ustreza določenemu konkordančnemu nizu, preprosto kliknemo želeni konkordančni niz in cela vrstica se obarva modro, pripadajoča slovenska poved pa sivo.
+Ob tem se v spodnjem delu zaslona izpiše, iz katere datoteke je posamezna poved oz. konkordančni niz.
+
+Kot vidimo, v slovenskih povedih prevodi iskanega francoskega niza niso obarvani, saj program samodejno tega ne omogoča.
+Kljub temu lahko označimo potencialne prevode, tako da kurzor postavimo v polje s slovenskimi rezultati in z desnim klikom miške se nam odpre okno z različnimi možnostmi, med katerimi je tudi Text Search Query.
+V iskalno polje vpišemo vojn*, saj menimo, da bomo tako dobili največ prevodnih ustreznic francoskega iskanega niza guerre*.
+Program nato v slovenskem polju obarva vse zadetke, ki ustrezajo iskanemu nizu, te pa zaradi večje preglednosti lahko uredimo tako, da bodo prikazani v obliki formata KWIC.
+To storimo tako, da kurzor postavimo v slovensko polje in po desnem kliku miške med možnostmi izberemo KWIC.
+
+Poleg te funkcije program tudi sam predlaga mogoče prevode in druge besede, povezane z iskanim nizom (tj. njene kolokatorje), imenovane tudi hot words.
+Postavimo se v slovensko polje in po desnem kliku miške izberemo Clear Search Query in nato Hot Words.
+Odpre se pogovorno okno s seznamom vročih besed, razvrščenih glede na pogostnost, izraženo v odstotkih.
+Izberemo lahko vse besede s seznama ali samo nekaj.
+Po potrditvi izbire so izbrane besede v slovenskem polju na zaslonu obarvane modro (konkordančno jedro) ali rdeče (kolokatorji), kot prikazuje Slika 52, kar nam omogoča lažje iskanje ponavljajočih se leksikalnih vzorcev in odkrivanje pomembnih kolokatorjev, ki jih zahvaljujoč vzporednim konkordancam s prevodnega stališča nemudoma lahko primerjamo z izvirnimi izrazi oz. besednimi zvezami.
+
+Nazadnje omenimo, da program omogoča tudi grafični prikaz porazdelitve zadetkov v francoskem in slovenskem korpusu, in sicer ločeno za posamezne datoteke.
+Slika 53 tako pokaže, da se iskani niz guerre* najpogosteje pojavi v datoteki 20.
+
+Navodila za uporabo programa in informacije o korpusnih raziskavah, opravljenih z njegovo pomočjo, najdete na domači spletni strani programa: http://www.athel.com/para.html (dostop: 15. 10. 2013).
+
+Slika 53: ParaConcov grafični prikaz zadetkov v posameznih francoskih in slovenskih datotekah 
+
+Na svetovnem spletu ali iz lastnega arhiva poiščite poljubno izvorno besedilo in njegov prevod ter ju avtomatsko poravnajte na ravni stavkov z orodjem ParaConc (http://www.athel.com/para.html).
+
+Izberite si 5 poljubnih besed in besednih zvez v izvornem jeziku in s pomočjo vzporednih konkordanc najdite prevodne ustreznice zanje.
+Svoje ugotovitve primerjajte z informacijami v splošnem dvojezičnem slovarju.
+
+• Evrokorpus in Evroterm sta zelo koristna vira za iskanje prevodnih ustreznic za številne evropske jezike s širšega področja evropske zakonodaje.
+
+• Vzporedni korpusi na strežniku nl.ijs.si so oblikoskladenjsko označeni in lematizirani.
+Na voljo so preko istega konkordančnika, ki podpira tudi iskanje z regularnimi izrazi in jezikom CQP.
+
+• Orodje ParaConc je namenjeno obdelavi in analizi vzporednih korpusov, ki smo jih izdelali sami.
+Poleg stavčne poravnave izvirnika in prevoda omogoča tudi uporabo konkordanc in iskanje prevodnih ustreznic.
+Največja pomanjkljivost tega orodja je, da ne podpira znakovnega nabora Unicode.
+
+Miran Željko, 2004: Evroterm in Evrokorpus – terminološki slovar in korpus prevodov.
+Marjeta Humar (ur.): Terminologija v času globalizacije.
+Ljubljana: Založba ZRC.
+139–149.
+
+Špela Vintar, 2002: Avtomatsko luščenje izrazja iz slovensko-angleških vzporednih besedil.
+Tomaž Erjavec in Jerneja Žganec Gros (ur.): Jezikovne tehnologije.
+Zbornik konference.
+Ljubljana: Institut Jožef Stefan.
+78–85.
+
+Vstopne točke do spletnega konkordančnika in orodja za analizo korpusov NoSketch Engine s slovenskimi korpusi: http://nl.ijs.si/noske/
+
+Vstopne točke do spletnega konkordančnika in orodja za analizo korpusov CUWI s slovenskimi korpusi: http://nl.ijs.si/cuwi/
+
+Arhar, Špela, 2007: Kaj početi z referenčnim korpusom Fidaplus.
+Ljubljana: Filozofska fakulteta Univerze v Ljubljani.
+Dostopno na: http://www.fidaplus.net/Info/Info_index.html (dostop: 15. 10. 2013).
+
+Arhar, Špela in Gorjanc, Vojko, 2007: Korpus FidaPLUS: nova generacija slovenskega referenčnega korpusa.
+Jezik in slovstvo 2/52. 295–110.
+
+DŽEROSKI, Sašo in ERJAVEC, Tomaž, 2000: Strojno učenje lematizacije neznanih slovenskih besed.
+Erjavec, Tomaž in Gros, Jerneja (ur.): Informacijska družba, Jezikovne tehnologije.
+14–19.
+
+Erjavec, Tomaž in Krek, Simon, 2008: Oblikoskladenjske specifikacije in označeni korpusi JOS.
+Erjavec, Tomaž in Žganec Gros, Jerneja (ur.): Zbornik Šeste konference Jezikovne tehnologije, zbornik 11. mednarodne multikonference Informacijska družba – IS 2008, zvezek C. Ljubljana: Institut Jožef Stefan.
+49–53.
+
+ERJAVEC, Tomaž, 2013: Korpusi in konkordančniki na strežniku nl.ijs.si.
+Slovenščina 2.0 1/1. 24–49.
+
+ERJAVEC, Tomaž, 2013: Vzporedni korpus SPOOK: označevanje, zapis in iskanje terminoloških virov.
+Špela Vintar (ur.): Slovenski prevodi skozi korpusno prizmo.
+Ljubljana: Znanstvena založba Filozofske fakultete.
+14–31.
+
+Gantar, Polona, 2007: Stalne besedne zveze v slovenščini: korpusni pristop.
+Ljubljana: Založba ZRC, ZRC SAZU.
+
+Gorjanc, Vojko in Krek, Simon (ur.), 2005: Študije o korpusnem jezikoslovju.
+Ljubljana: Krtina.
+
+GORJANC, Vojko in VINTAR, Špela, 2000: Iskanja po Korpusu slovenskega jezika FIDA.
+Informacijska družba, Jezikovne tehnologije.
+Ljubljana 17.–19. okt. 2000.
+Ur. Tomaž Erjavec in Jerneja Gros.
+20–26.
+
+Gorjanc, Vojko in Logar BERGINC, Nataša, 2007: Od splošnih do specializiranih korpusov – načela gradnje glede na njihov namen.
+Orel, Irena (ur.): Simpozij Obdobja 24.
+Ljubljana: Filozofska fakulteta, Oddelek za slovenistiko, Center za slovenščino kot drugi/tuji jezik.
+637–650.
+
+JAKOPIN, Primož, MICHELIZZA, Mija, 2007/08: Besedilni korpus Nova beseda.
+Mostovi 1-2/41. 165–176.
+
+Logar Berginc, Nataša in Šuster, Simon, 2009: Gradnja novega korpusa slovenščine.
+Jezik in slovstvo 3-4/54. 57–68.
+
+LOGAR BERGINC, Nataša, GRČAR, Miha, BRAKUS, Marko, ERJAVEC, Tomaž, ARHAR HOLDT, Špela in KREK, Simon, 2012: Korpusi slovenskega jezika Gigafida, KRES, ccGigafida in ccKRES: gradnja, vsebina, uporaba.
+Ljubljana: Trojina, zavod za uporabno slovenistiko in Fakulteta za družbene vede.
+
+VERDONIK, Darinka, ZWITTER VITEZ, Ana, 2011: Slovenski govorni korpus GOS.
+Ljubljana: Trojina.
+
+VINTAR, Špela, 2001: Računalniška orodja za jezikoslovce in prevajalce.
+37. seminar slovenskega jezika, literature in kulture.
+319–332.
+
+VINTAR, Špela, 2002: Avtomatsko luščenje izrazja iz slovensko-angleških vzporednih besedil.
+ERJAVEC, Tomaž, ŽGANEC GROS, Jerneja (ur.): Jezikovne tehnologije.
+Zbornik konference.
+Ljubljana: Institut Jožef Stefan.
+78–85.
+
+VINTAR, Špela, 2003: Uporaba vzporednih korpusov za računalniško podprto ustvarjanje dvojezičnih terminoloških virov.
+Doktorska disertacija.
+Ljubljana: Univerza v Ljubljani, Filozofska fakulteta.
+
+Vintar, Špela, 2008: Terminologija.
+Terminološka veda in računalniško podprta terminografija.
+Ljubljana: Znanstvena založba FF UL.
+
+Vintar, Špela, 2009: Slovenski prevodoslovni korpus.
+Stabej, Marko (ur.): Simpozij Obdobja 28.
+Ljubljana: Znanstvena založba FF UL.
+385–391.
+
+VINTAR, Špela (ur.), 2010: Slovenske korpusne raziskave.
+Ljubljana: Znanstvena založba Filozofske fakultete.
+
+VINTAR, Špela (ur.), 2013: Slovenski prevodi skozi korpusno prizmo.
+Ljubljana: Znanstvena založba Filozofske fakultete.
+
+Zemljarič Miklavčič, Jana, 2008: Govorni korpusi.
+Ljubljana: Znanstvena založba FF UL.
+
+Zemljarič Miklavčič, Jana, Stabej, Marko, Krek, Simon in Zwitter Vitez, Ana, 2009: Kaj in zakaj v referenčni govorni korpus slovenščine.
+Stabej, Marko (ur.): Simpozij Obdobja 28.
+Ljubljana: Znanstvena založba FF UL.
+423–428.
+
+Željko, Miran, 2004: Evroterm in Evrokorpus – terminološki slovar in korpus prevodov.
+Marjeta Humar (ur.): Terminologija v času globalizacije.
+Ljubljana: Založba ZRC.
+139–149.
+
+ŽELEZNIKAR, Jaka, 1998: FIDA – pogoste napake pri vnosu in obdelavi besedil ter njihovo odpravljanje.
+Uporabno jezikoslovje 6. 107–111.
+
+YEROSHINA POBIRK, Olga, Šuster, Simon in Zaranšek, Petra, 2009: Besedne skice za slovenščino.
+Kritični pogled.
+Stabej, Marko (ur.): Simpozij Obdobja 28.
+Ljubljana: Znanstvena založba FF UL.
+413–422.
+

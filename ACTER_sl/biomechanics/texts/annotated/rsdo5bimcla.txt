@@ -1,0 +1,263 @@
+Primerjava gibalnih sposobnosti med različnimi starostnimi kategorijami poklicnih gasilcev v Republiki Sloveniji
+
+Projekt izdelave modela preverjanja gibalnih sposobnosti gasilcev je nastal v sodelovanju Gasilske brigade Ljubljana (GBL) in ZVD Zavoda za varstvo pri delu d. d. (Center za medicino in šport).
+
+Avtor: dr. Mitja Bračič
+
+ZVD Zavod za varstvo pri delu d. d.
+
+Center za medicino in šport 
+
+Chengdujska ulica 25
+
+1260 Ljubljana Polje
+
+1 Uvod
+
+Zakon o gasilstvu v Republiki Sloveniji v 13. členu o poklicnih gasilcih določa, da: 1. mora kandidat za gasilca, ki poklicno opravlja naloge gasilstva (v nadaljnjem besedilu: poklicni gasilec), poleg splošnih pogojev za sklenitev delovnega razmerja izpolnjevati še posebne pogoje, in sicer: 1. da ima najmanj strokovno izobrazbo V. stopnje tehniške smeri in je polnoleten, 2. da ni v kazenskem postopku in da ni bil pravnomočno obsojen za kaznivo dejanje zoper življenje, telo in premoženje in 3. da opravi predpisan preizkus psihofizičnih sposobnosti.
+Nadalje zakon v 14. členu določa dolžnosti poklicnega gasilca, in sicer: 1. poklicni gasilec mora vsako leto opraviti predpisani preizkus znanja, preizkus psihofizičnih sposobnosti in zdravniški pregled, 2. če je bilo pri preizkusu psihofizičnih sposobnosti in zdravniškem pregledu iz prejšnjega odstavka ugotovljeno, da poklicni gasilec ni sposoben za opravljanje svojega dela, se razporedi na delovno mesto, ki ustreza njegovim zdravstvenim in psihofizičnim sposobnostim, 3. minister predpiše obseg ugotavljanja psihofizičnih in zdravstvenih sposobnosti za poklicnega gasilca.
+Nadalje zakon v 24. členu o poveljnikih določa, da: 1. poveljnik prostovoljne gasilske enote organizira in vodi strokovno delo enote, 2. poveljnik prostovoljne gasilske enote skrbi za njeno intervencijsko pripravljenost in jo vodi med intervencijo; organizira in nadzira strokovno usposabljanje, urjenje in kondicijsko pripravljenost pripadnikov enote ter skrbi za brezhibnost gasilske zaščitne in reševalne opreme.
+
+1.1 Model preverjanja gibalnih sposobnosti gasilcev 
+
+Model preverjanja gibalnih sposobnosti gasilcev je nastal v sodelovanju Gasilske brigade Ljubljana (GBL) in ZVD Zavoda za varstvo pri delu d. d. (Center za medicino in šport).
+Po proučitvi obstoječih zakonskih dokumentov in določil smo ugotovili, da Zakon o gasilstvu v Republiki Sloveniji v 13. členu o poklicnih gasilcih določa, da: 1. mora kandidat za gasilca, ki poklicno opravlja naloge gasilstva (v nadaljnjem besedilu: poklicni gasilec), poleg splošnih pogojev za sklenitev delovnega razmerja izpolnjevati še posebne pogoje, in sicer: da opravi predpisan preizkus psihofizičnih sposobnosti.
+
+V preteklosti so gasilci že izvajali testiranje gibalnih sposobnosti, vendar testi niso povsem ustrezali preverjanju sposobnosti gasilcev, zato smo najprej proučili obstoječe teste in pregledali normative.
+Pri tem smo ugotavljali, ali so testi primerni za preverjanje specifičnih sposobnosti gasilcev in kandidatov za gasilce in ali so postavljene norme primerne za ovrednotenje sposobnosti gasilcev.
+Ugotovili smo, da je treba razviti nove teste in postaviti nove normative, ki bodo ustrezali starostnim kategorijam in delovnim nalogam gasilcev.
+
+2 Preizkus gibalnih sposobnosti gasilcev 
+
+Preglednica 1: Starostne kategorije in število merjenih gasilcev v GBL in GRS (Bračič in Vodičar, 2010)
+
+Za postavitev testnih norm smo analizirali starostno strukturo poklicnih gasilcev v Gasilski brigadi Ljubljana (GBL) in Gasilsko reševalni službi Kranj (GRS).
+Za konstruiranje baterije testov in določanje modelov vadbe moramo poznati starostne kategorije in specifičnost delovnih nalog gasilcev.
+Pri tem je pomembna tudi analiza športnih dejavnosti, s katerimi se gasilci pogosto ukvarjajo, saj nas zanima, ali tudi pri športni vadbi prihaja do poškodb.
+Če se gasilci poškodujejo pri športni vadbi, je to slabo za gasilsko brigado, saj jim je onemogočeno opravljanje delovnih obveznosti – bolniški dopust (odsotnost z dela).
+V primeru pojavnosti poškodb je treba skonstruirati tako baterijo testov, da lahko na podlagi rezultatov testiranja pripravimo preventivni program vadbe za vsakega gasilca posebej.
+Poleg tega mora baterija testov vsebovati ravnanje z gasilsko opremo, zato smo opravili analizo gasilske opreme, ki se uporablja pri različnih oblikah dela.
+Po opravljeni analizi dela gasilcev in njihovih obremenitev pri intervencijah smo pripravili model testne baterije, ki bi lahko služila kot letna – periodična testna baterija za poklicne gasilce.
+Zaradi specifičnih zahtev dela gasilcev in obvezne uporabe zaščitne opreme smo se odločili, da bodo gasilci izvajali teste v gasilski opremi.
+
+Glede na analizo starostne strukture poklicnih gasilcev smo določili naslednje starostne kategorije za določanje norm pri preverjanju nivoja gibalnih sposobnosti gasilcev (preglednica 1).
+
+2.1 Testiranje – preverjanje sposobnosti gasilcev 
+
+Namen preverjanja gibalnih sposobnosti gasilcev je skozi leta spremljati telesni in gibalni presek stanja zaposlenih v gasilski enoti.
+Rezultati, pridobljeni s testi, so namenjeni analizi stanja zaposlenih in določanju norm, ki bodo zagotavljale uspešno opravljanje delovnih nalog gasilcev.
+
+S testno baterijo želimo: 1. oceniti potencialne zmožnosti gasilca za opravljanje dela, 2. ugotoviti nivo gibalnih sposobnostih in telesnih značilnosti posameznika, 3. omogočiti preverjanje uspešnosti programa vadbe (oziroma dejansko ukvarjanje gasilcev s športnimi aktivnostmi v enoti in zunaj delovnega časa), 4. gasilce uvrstiti v primerno vadbeno skupino (določiti ustrezen model vadbe) in 5. motivirati gasilce za lasten napredek v gibalnih sposobnostih (omogočiti spremljanje lastnega napredka).
+
+Ugotavljanje, vrednotenje in spremljanje telesnih značilnosti in gibalnih sposobnosti bomo izvajali na podlagi specifičnih merskih postopkov (nova baterija testov).
+
+2.2 Ugotavljanje dolžinske in voluminozne razsežnosti telesa 
+
+Preglednica 2: Povprečne vrednosti telesne višine (ATV), teže (ATT) in indeksa telesne mase (ITM)
+
+Preglednica 3: Ocena vrednosti ITM
+
+Pri ugotavljanju dolžinskih in voluminoznih razsežnostih telesa gasilca izmerimo telesno višino in telesno maso.
+Iz teh dveh parametrov izračunamo še indeks telesne mase po enačbi: ITM = TT/TV2 [kg/m2]. (Glej preglednico 1.)
+
+Povprečna telesna teža gasilcev v starostni kategoriji od 18 do 25 let je 82,37 ± 8,75 kg, povprečna telesna višina je 179,88 ± 7,19 cm in povprečna vrednost ITM je 25,45 ± 2,26 %.
+Najlažji gasilec v tej kategoriji tehta 63 kg, najtežji pa 101 kg.
+Najnižji gasilec je visok 171 cm, najvišji pa 199 cm, najnižji ITM znaša 20,1 %, najvišji pa 30,7 %. (Glej preglednico 2)
+
+Povprečna telesna teža gasilcev v starostni kategoriji od 26 do 35 let je 84,65 ± 10,04 kg, povprečna telesna višina je 179,88 ± 5,63 cm, povprečna vrednost ITM pa 26,13 ± 2,80 %.
+Najlažji gasilec v tej kategoriji tehta 58 kg, najtežji pa 119 kg.
+Najnižji gasilec je visok 167 cm, najvišji pa 193 cm, najnižji ITM znaša 19,7 %, najvišji pa 34,5 %.
+
+Povprečna telesna teža gasilcev v starostni kategoriji od 36 do 45 let znaša 90,11 ± 13,72 kg, povprečna telesna višina 178,34 ± 7,48 cm in povprečna vrednost ITM je 28,24 ± 3,27 %.
+Najlažji gasilec v tej kategoriji tehta 68 kg, najtežji pa 145 kg.
+Najnižji gasilec je visok 164 cm, najvišji pa 192 cm, najnižji ITM znaša 23,7 %, najvišji pa 42,9 %.
+
+Povprečna telesna teža gasilcev v starostni kategoriji od 46 do 50 let znaša 88,66 ± 11,20 kg, povprečna telesna višina je 177,03 ± 5,47 cm, povprečna vrednost ITM pa je 28,28 ± 3,46%.
+Najlažji gasilec v tej kategoriji tehta 66 kg, najtežji pa 116 kg.
+Najnižji gasilec je visok 164 cm, najvišji pa 187 cm, najnižji ITM znaša 20,5 %, najvišji pa 39,2 %.
+
+Povprečna telesna teža gasilcev v starostni kategoriji od 51 do 55 let znaša 87,56 ± 17,96 kg, povprečna telesna višina je 178,79 ± 5,62 cm, povprečna vrednost ITM pa je 27,43 ± 4,99 %.
+Najlažji gasilec v tej kategoriji tehta 63 kg, najtežji pa 125 kg.
+Najnižji gasilec je visok 169 cm, najvišji pa 186 cm, najnižji ITM znaša 22,0 %, najvišji pa 39,8 %.
+
+Statistično razliko smo ugotovili pri povprečnih vrednostih telesne teže med kategorijo od 18 do 25 let in kategorijo od 36 do 45 let (p < 0,05).
+Gasilci v starejši kategoriji so v povprečju kar 8 kg težji od mlajših gasilcev, povprečna telesna višina v obeh kategorijah pa je skoraj enaka.
+
+Statistične razlike so se pokazale tudi v indeksu telesne mase (ITM), kjer je povprečna vrednost ITM kategorije od 36 do 45 let in kategorije od 46 do 50 let za skoraj 3 % večja od najmlajše kategorije od 18 do 25 let in od kategorije od 26 do 35 let (p < 0,05).
+
+2.3 Ugotavljanje nivoja gibalnih sposobnosti 
+
+2.3.1 Testiranje moči 
+
+Vzdržljivost v moči mišic trupa je pomemben dejavnik v izvedbi vseh kompleksnih gibanj in specifičnih delovnih nalog gasilcev.
+Trebušne in hrbtne mišice so pomemben faktor pri stabilizaciji trupa in prenosu energije in sile med nogami ter zgornjim delom telesa.
+Močan in stabilen trup je pomemben pri izvedbi skokov, gibanj s spremembo smeri in hitrosti, sprintov in prenašanju težkih bremen.
+Pri gasilskem delu je moč trupa izrednega pomena.
+
+Slika 1: Test izometrične moči trebušnih mišic in upogibalk kolka (Bračič in Vodičar, 2010)
+
+1. TEST – MIT
+
+Izometrična moč trebušnih mišic in upogibalk kolka – vzdržljivost v moči: drža do odpovedi – merimo čas izvajanje vaje.
+Test je končan, ko merjenec ne vzdrži ravnega trupa – zvije ledveni del hrbtenice (slika 1).
+
+2. TEST – MIH 
+
+Izometrična moč hrbta – vzdržljivost v moči: drža do odpovedi – merimo čas izvajanje vaje.
+Test je končan, ko merjenec ne vzdrži vodoravnega položaja trupa (slika 2).
+
+Slika 2: Test izometrične moči hrbtnih mišic (Bračič in Vodičar, 2010)
+
+3. TEST MIZ 
+
+Stisk roke – največja izometrična moč: stisk z levo in desno roko (slika 3).
+Merimo največji stisk dinamometra.
+Test se izvede trikrat za vsako roko (dominantno in nedominantno roko).
+
+Slika 3: Test izometrične moči rok (Bračič in Vodičar, 2010)
+
+4. TEST – MDR
+
+Vzdržljivost v moči ramenskega obroča in rok – udarjanje s kladivom v leseno klado: gasilec mora izvesti 50 udarcev; merimo skupni čas izvedbe testa (slika 4).
+Kladivo drži križno; pri zamahu mora iti do višine glave.
+
+Slika 4: Test vzdržljivosti v moči ramenskega obroča in rok (Bračič in Vodičar, 2010)
+
+5. TEST – MDN 
+
+Vzdržljivostna moč nog – počepi z bremenom (kaseta s cevmi B): štejemo, koliko počepov naredi v 60 s (slika 5).
+Gasilec mora počepniti do kota 90° v kolenu.
+
+Slika 5: Test vzdržljivosti v moči spodnjih okončin (Bračič in Vodičar, 2010)
+
+Preglednica 4: Povprečne vrednosti jakosti trebušnih mišic (MIT), jakosti hrbtnih mišic (MIH), jakosti stiska rok (MIZ), jakosti ramenskega obroča (MDR) in jakosti nog (MDN)
+
+Povprečna vrednost vzdržljivosti v moči trebušnih mišic (MIH) gasilcev v starostni kategoriji od 18 do 25 let znaša 109,62 ± 43,44 s, povprečna vrednost vzdržljivosti v moči hrbtnih mišic (MIT) 143,69 ± 52,02 s, povprečna vrednost izometrične jakosti roke (MIZ) znaša 67,13 ± 13,07 kg, povprečna vrednost vzdržljivosti v moči ramenskega obroča in rok (MDR) znaša 31,09 ± 7,78 s in povprečna vrednost vzdržljivosti v moči nog (MDN) znaša 63,00 ± 7,23 ponovitve.
+
+Povprečna vrednost vzdržljivosti v moči trebušnih mišic gasilcev v starostni kategoriji od 26 do 35 let znaša 100,42 ± 40,69 s, povprečna vrednost vzdržljivosti v moči hrbtnih mišic 142,70 ± 54,48 s, povprečna vrednost izometrične jakosti roke znaša 66,88 ± 10,16 kg, povprečna vrednost vzdržljivosti v moči ramenskega obroča in rok znaša 31,55 ± 6,80 s in povprečna vrednost vzdržljivosti v moči nog znaša 57,11 ± 7,41 ponovitve.
+
+Povprečna vrednost vzdržljivosti v moči trebušnih mišic gasilcev v starostni kategoriji od 36 do 45 let znaša 85,03 ± 41,45 s, povprečna vrednost vzdržljivosti v moči hrbtnih mišic 137,16 ± 48,36 s, povprečna vrednost izometrične jakosti roke znaša 65,77 ± 10,70 kg, povprečna vrednost vzdržljivosti v moči ramenskega obroča in rok znaša 34,34 ± 7,29 s in povprečna vrednost vzdržljivosti v moči nog znaša 51,87 ± 11,31 ponovitve.
+
+Povprečna vrednost vzdržljivosti v moči trebušnih mišic gasilcev v starostni kategoriji od 46 do 50 let znaša 74,26 ± 32,04 s, povprečna vrednost vzdržljivosti v moči hrbtnih mišic 134,80 ± 42,49 s, povprečna vrednost izometrične jakosti roke znaša 60,83 ± 8,97 kg, povprečna vrednost vzdržljivosti v moči ramenskega obroča in rok znaša 34,17 ± 7,48 s in povprečna vrednost vzdržljivosti v moči nog znaša 50,18 ± 10,34 ponovitve.
+
+Povprečna vrednost vzdržljivosti v moči trebušnih mišic gasilcev v starostni kategoriji od 51 do 56 let znaša 86,91 ± 43,31 s, povprečna vrednost vzdržljivosti v moči hrbtnih mišic je 143,84 ± 64,63 s, povprečna vrednost izometrične jakosti roke znaša 58,42 ± 5,61 kg, povprečna vrednost vzdržljivosti v moči ramenskega obroča in rok znaša 33,80 ± 7,17 s in povprečna vrednost vzdržljivosti v moči nog znaša 45,42 ± 11,77 ponovitve.
+
+Statistično razliko smo ugotovili pri povprečnih vrednostih vzdržljivosti v moči trebušnih mišic (MIT) med kategorijo od 18 do 25 let in kategorijo od 36 do 45 let ter kategorijo od 46 do 50 let (p < 0,05).
+Gasilci v starejših kategorijah so v povprečju kar za 25 do 35 s slabši v tem testu od mlajših gasilcev.
+Pri vzdržljivosti hrbtnih mišic (MIT) pa med kategorijami nismo ugotovili statističnih razlik.
+
+Statistično razliko smo ugotovili pri povprečnih vrednostih izometrične jakosti rok (MIZ) med kategorijo od 18 do 25 let in kategorijo od 46 do 50 let ter med kategorijo od 26 do 35 let in kategorijo od 46 do 50 let (p < 0,05).
+Gasilci v starejši kategoriji so pri tem testu v povprečju kar za 8 kg slabši od mlajših gasilcev.
+Pri vzdržljivosti mišic ramenskega obroča in rok (MDR) pa med kategorijami nismo ugotovili statističnih razlik.
+
+Statistično boljše rezultate smo ugotovili pri testu vzdržljivosti v moči nog (MDN) v kategorijah od 18 do 25 let in 26 do 35 let v primerjavi s starejšimi kategorijami od 36 do 45 let, od 46 do 50 let in od 51 do 56 let (p < 0,05).
+Kategorija od 18 do 25 let ima statistično boljši rezultat v tem testu tudi od kategorije od 26 do 35 let (p < 0,05).
+
+Preglednica 5: Povprečne vrednosti hitrosti teka na 20 m (H20), hitrosti prenašanja bremen 3 x 20 m (H20B) in agilnosti s prenašanjem bremen (ASSB)
+
+2.3.2 Testiranje hitrosti
+
+1. TEST
+
+Hitrost teka na 20 metrov – hitrost pospeševanja (slika 6): merimo čas teka na 20 m (s pomočjo infrardečih fotocelic).
+
+Slika 6: Test hitrosti teka na 20 m (Bračič in Vodičar, 2010)
+
+2. TEST
+
+Hitrost prenašanja bremen: 3 različno težka bremena je treba prenesti na razdalji 20 m (slika 7).
+S pomočjo infrardečih fotocelic merimo skupni čas teka na 20 m. Gasilec prenaša kasete B, C in VT na razdalji 20 m, nazaj se vrača v teku.
+
+Slika 7: Test hitrosti prenašanja bremen – kaset (B, C in VT) (Bračič in Vodičar, 2010)
+
+3. TEST
+
+Tek s spremembami smeri in prenašanjem bremen: gasilec starta v točki A in teče po desni strani okoli stožca B do C, pobere kaseto s cevmi (VT – 26 kg) in jo odnese v točko D; steče iz točke D okoli stožca B do točke E, pobere kaseto s cevmi (B – 18 kg) in jo odnese po desni strani stožca B do cilja A (slika 8).
+Merimo čas teka (z infrardečimi fotocelicami).
+
+Slika 8: Shema agilnostnega testa (Bračič in Vodičar, 2010)
+
+Povprečna vrednost hitrosti teka na 20 m (H20) gasilcev v starostni kategoriji od 18 do 25 let znaša 3,49 ± 0,19 s, povprečna vrednost hitrosti prenašanja bremen 3 x 20 m (H20B) znaša 14,54 ± 0,90 s, povprečna vrednost pri testu agilnosti (ASSB) pa znaša 13,12 ± 0,78 s.
+
+Povprečna vrednost hitrosti teka na 20 m (H20) gasilcev v starostni kategoriji od 26 do 35 let znaša 3,66 ± 0,26 s, povprečna vrednost hitrosti prenašanja bremen 3 x 20 m (H20B) znaša 15,44 ± 1,41 s, povprečna vrednost pri testu agilnosti (ASSB) pa znaša 13,94 ± 1,16 s.
+
+Povprečna vrednost hitrosti teka na 20 m (H20) gasilcev v starostni kategoriji od 36 do 45 let znaša 3,92 ± 0,39 s, povprečna vrednost hitrosti prenašanja bremen 3 x 20 m (H20B) znaša 16,78 ± 2,54 s, povprečna vrednost pri testu agilnosti (ASSB) pa znaša 14,99 ± 1,84 s.
+
+Povprečna vrednost hitrosti teka na 20 m (H20) gasilcev v starostni kategoriji od 46 do 50 let znaša 4,15 ± 0,39 s, povprečna vrednost hitrosti prenašanja bremen 3 x 20 m (H20B) znaša 17,88 ± 1,89 s, povprečna vrednost pri testu agilnosti (ASSB) pa znaša 15,93 ± 1,13 s.
+
+Povprečna vrednost hitrosti teka na 20 m (H20) gasilcev v starostni kategoriji od 51 do 56 let znaša 4,29 ± 0,49 s, povprečna vrednost hitrosti prenašanja bremen 3 x 20 m (H20B) znaša 18,15 ± 2,17 s, povprečna vrednost pri testu agilnosti (ASSB) pa znaša 16,60 ± 1,72 s.
+
+Statistično boljše rezultate smo ugotovili pri testu hitrosti teka na 20 m (H20) v kategorijah od 18 do 25 let in 26 do 35 let v primerjavi s starejšimi kategorijami od 36 do 45 let, od 46 do 50 let in od 51 do 56 let (p < 0,05).
+Kategorija od 18 do 25 let ima statistično boljši rezultat v tem testu tudi od kategorije od 26 do 35 let (p < 0,05).
+
+Statistično boljše rezultate smo ugotovili pri testu hitrosti prenašanja bremen 3 x 20 m (H20B) v kategorijah od 18 do 25 let in 26 do 35 let v primerjavi s starejšimi kategorijami od 36 do 45 let, od 46 do 50 let in od 51 do 56 let (p < 0,05).
+
+Statistično boljše rezultate smo ugotovili pri testu agilnosti (ASSB) v kategorijah od 18 do 25 let in 26 do 35 let v primerjavi s starejšimi kategorijami od 36 do 45 let, od 46 do 50 let in od 51 do 56 let (p < 0,05).
+Kategorija od 18 do 25 let ima statistično boljši rezultat v tem testu tudi od kategorije od 26 do 35 let (p < 0,05).
+
+2.3.3 Testiranje vzdržljivosti 
+
+Preglednica 6: Povprečne vrednosti hitrosti teka pri vzdržljivostnem testu (VFT) in povprečna največja poraba kisika (VO2max) gasilcev po kategorijah
+
+Test 30–15 je intervalnega tipa, izvaja se na igrišču (trda podlaga), hitrost teka (obremenitev) z vsako naslednjo sekvenco narašča (vsakih 45 s), merjenci pa ga izvajajo do izčrpanosti oziroma dokler lahko sledijo stopnjujoči obremenitvi.
+Hitrost (tempo) teka narekuje zvočni signal (»bip«), ki daje merjencem orientacijo in se oglaša na začetku vsake 30. sekunde obremenitve, na vsaki črti igrišča (tako merjenci vedo, ali prehitevajo ali zaostajajo za zahtevano hitrostjo in lahko ustrezno pospešijo ali upočasnijo svoj tek) in na koncu vsake 30. sekunde obremenitve.
+Glede na to so zvočni signali različni.
+Začetna hitrost, s katero merjenci začnejo teči, je 8 km/h, vsako naslednjo sekvenco pa naraste za 0,5 km/h. Iz rezultatov testa lahko po enačbi izračunamo tudi največjo porabo kisika (VO2max) in načrtujemo trening vzdržljivosti (slike 9, 10 in 11).
+
+Slika 9: Shema testa 30–15 (Bračič in
+
+Vodičar, 2010
+
+Slika 10: Test vzdržljivosti za gasilce 
+
+(Bračič in Vodičar, 2010)
+
+Slika 11: Primer krivulje srčnega utripa pri testu 30–15 (v % od največjega srčnega utripa) (Bračič in Vodičar, 2010)
+
+Povprečna vrednost končne hitrosti teka pri vzdržljivostnem testu (VFT) gasilcev v starostni kategoriji od 18 do 25 let znaša 17,90 ± 1,30 km/h, povprečna vrednost največje porabe kisika (VO2max) pa znaša 47,73 ± 7,43 ml/kg/min.
+
+Povprečna vrednost končne hitrosti teka pri vzdržljivostnem testu (VFT) gasilcev v starostni kategoriji od 26 do 35 let znaša 16,93 ± 1,30 km/h, povprečna vrednost največje porabe kisika (VO2max) pa znaša 48,14 ± 3,77 ml/kg/min.
+
+Povprečna vrednost končne hitrosti teka pri vzdržljivostnem testu (VFT) gasilcev v starostni kategoriji od 36 do 45 let znaša 15,69 ± 1,70 km/h, povprečna vrednost največje porabe kisika (VO2max) pa znaša 46,46 ± 6,06 ml/kg/min.
+
+Preglednica 7: Primer novih norm za preverjanje gibalnih sposobnosti gasilcev – primer za test vzdržljivosti (VFT)
+
+Povprečna vrednost končne hitrosti teka pri vzdržljivostnem testu (VFT) gasilcev v starostni kategoriji od 46 do 50 let znaša 14,42 ± 1,72 km/h, povprečna vrednost največje porabe kisika (VO2max) pa znaša 41,54 ± 10,82 ml/kg/min.
+
+Povprečna vrednost končne hitrosti teka pri vzdržljivostnem testu (VFT) gasilcev v starostni kategoriji od 51 do 56 let znaša 14,29 ± 2,12 km/h, povprečna vrednost največje porabe kisika (VO2max) pa znaša 42,73 ± 8,97 ml/kg/min.
+
+Statistično boljše rezultate pri vzdržljivostnem teku (VFT) smo ugotovili v kategorijah od 18 do 25 let in 26 do 35 let v primerjavi s starejšimi kategorijami od 36 do 45 let, od 46 do 50 let in od 51 do 56 let (p < 0,05).
+Kategorija od 18 do 25 let ima statistično boljše rezultate v tem testu tudi od kategorije od 26 do 35 let (p < 0,05).
+
+3 Zaključek
+
+Namen projekta Gasilske brigade Ljubljana (GBL) in ZVD Zavoda za varstvo pri delu d. d. Ljubljana (Center za medicino in šport) je bil izdelati in preveriti model testiranja gibalnih sposobnosti gasilcev v Republiki Sloveniji.
+V ta namen je bila izdelana nova baterija testov, ki so jo gasilci izvajali v gasilski opremi.
+Norme za opravljanje testov smo postavili za vsak starostni razred posebej (preglednica 7).
+
+Norme glede na starostno kategorijo so nujne, saj so rezultati testiranja pokazali, da imajo mlajši gasilci manjšo telesno težo in optimalen indeks telesne mase.
+Gasilci mlajših kategorij so dosegli bistveno boljše rezultate pri testih vzdržljivosti v moči trebušnih mišic in nog ter v jakosti stiska rok.
+Pri testih vzdržljivosti v moči hrbtnih mišic in ramenskega obroča pa ni bistvenih razlik med kategorijami.
+
+Gasilci mlajših kategorij so dosegli bistveno boljše rezultate pri testih hitrosti teka, hitrosti prenašanja bremen in agilnosti.
+Te sposobnosti so bistvenega pomena pri vseh reševalnih akcijah na terenu.
+Ugotavljamo, da se s starostjo te sposobnosti pri gasilcih zelo slabšajo.
+
+Gasilci mlajših kategorij so dosegli bistveno boljše rezultate tudi pri testu vzdržljivosti in posledično tudi v največji porabi kisika.
+Te sposobnosti imajo bistven pomen pri vseh dolgotrajnih reševalnih akcijah na terenu.
+Ugotavljamo, da se s starostjo te sposobnosti pri gasilcih zelo slabšajo.
+
+Ugotovitve, ki smo jih pridobili z izvajanjem testov in statistično obdelavo podatkov po starostnih kategorijah, so strokovna podlaga za izdelavo objektivnih norm po starostnih kategorijah.
+Na ta način bodo imeli gasilci enake pogoje pri ocenjevanju svojih gibalnih sposobnosti.
+
+4 Literatura 
+
+Bračič, M., in Vodičar, J. (2010).
+
+Športna vadba gasilcev.
+Ljubljana: Univerza v Ljubljani, Fakulteta za šport.
+
+Zahvala
+
+Avtorji projekta se zahvaljujemo vsem poklicnim gasilcem Gasilske brigade Ljubljana in Gasilsko reševalne službe Kranj za sodelovanje pri preverjanju nove testne baterije.
+

@@ -1,0 +1,481 @@
+FAKULTETA ZA KEMIJO IN KEMIJSKO TEHNOLOGIJO 
+
+Darinka Brodnjak Vončina
+
+ANALIZNA KEMIJA I
+
+Zbrano gradivo
+
+Maribor, maj 2006
+
+ANALIZNA KEMIJA 
+
+Klasična ANALIZNA KEMIJA 
+
+Instrumentalna kemijska analiza:
+
+Fizikalno kemijske metode (signal: optična gostota, potencial, tok…).
+Ker potrebujemo za meritve instrumente, je to Instrumentalna kemijska analiza:
+
+1. Elektrokemijske analizne metode – zasledujemo spremembe elektrokemičnih lastnosti
+
+2. Optične metode 
+
+Spektrometrične analizne metode – proučevanje spektrov vzorčnih raztopin, kvali- in kvantitativni rezultati.
+Podatki o zgradbi, strukturi spojin in o lastnostih spojin:
+
+Natančnejša identifikacija: IR, UV/VIS spektrofotometrija, plamenska emisijska spektroskopija atomska absorpcijska spektroskopija, NMR, masna spektroskopija (MS) itd.
+
+3. Separacijske metode 
+
+Komponente v vzorcu je potrebno predhodno ločiti, da lahko nato vsako posebej kvantitativno določimo.
+
+KLASIČNA ANALIZA:
+
+Klasične ali mokre kemijske analize kot n.pr. titrimetrija in gravimetrija se še vedno precej uporabljajo.
+Te metode uporabljamo pri analizi referenčnih standardnih materialov, kadar je zahtevana velika natančnost in točnost ali pa kadar imamo na razpolago malo vzorca.
+
+Klasična analiza je dolgotrajna, potrebno veliko spretnosti, koncentracije do 10-3 mol/L,
+
+Absolutna metoda - rezultat izhaja iz stehiometrijskega razmerja, dobimo ga direktno iz ml porabe-volumetrija ali iz iztehte ob uporabi gravimetričnega faktorja-gravimetrija.
+
+Instrumentalna analiza - široko koncentracijsko območje od 10-1 mol/L do 10-10 mol/L.
+
+Relativna metoda 
+
+Kalibracija je eden najvažnejših postopkov v kemijski analizi.
+Razen v nekaj primerih (n.pr. elektrogravimetrija) koncentracije vzorca ne merimo direktno, ampak jo določimo z merjenjem neke druge fizikalne količine, y. Pogoj za to je, da obstaja empiričen ali teoretičen odnos med to količino in koncentracijo.
+Kalibracijsko krivuljo lahko dobimo, da postavimo matematični model, ki se prilega k eksperimentalnim podatkom.
+Najbolj običajna in uporabna kalibracijska krivulja je linearna, ki gre skozi središče in je uporabna v širokem dinamičnem območju.
+V praksi pa so seveda odstopanja od te idealne kalibracijske premice.
+Dobro znana je n. pr. ukrivljenost kalibracijske premice proti x osi v zgornjem koncentracijskem območju pri spektroskopskih metodah.
+Ni dvoma, da se danes večina analiz opravi z instrumentalnimi metodami.
+Tehnike kot absorpcijska in emisijska spektroskopija, različne elektrokemijske metode, masna spektrometrija, plinska in tekočinska kromatografija, termične in radiokemijske metode zavzemajo več kot 90% analitskega dela.
+Za to je več vzrokov: Instrumentalne metode so mnogo bolj občutljive kot klasične Z ICP spektrometrijo lahko določimo več elementov istočasno v zelo nizkih koncentracijah, s kombinacijo kromatografije in masne spektrometrije pa lahko v nekaj minutah določimo veliko komponent v kompleksni organski mešanici.
+Območje je pri klasični analizi 2 do 3 rede velikosti, pri instrumentalnih metodah pa 6 ali več.
+
+Instrumentalne metode so v splošnem hitrejše in cenejše kot klasične metode.
+Tako je potrebno n.pr. v ekologiji večkrat analizirati na stotine vzorcev dnevno, zato je večina instrumentalnih metod tudi avtomatizirana.
+Takšno delo zahteva tudi računalniško obdelavo podatkov, zato je večina instrumentov povezana z računalniki.
+
+Postopek kalibracije temelji na merjenju signala standardnih raztopin, katerih koncentracijo poznamo, nato pa izmerimo na instrumentu pri enakih pogojih še signal za vzorec.
+Koncentracija vzorca mora biti med najnižjo in najvišjo koncentracijo standardnih raztopin, tako da lahko določimo vrednost koncentracije z interpolacijo.
+
+REGRESIJSKA ANALIZA:
+
+Pri regresijski analizi proučujemo odnos med spremenljivko x in y. X je kontrolirana ali neodvisna spremenljivka, koncentracija standarda, y pa odvisna spremenljivka ali odgovorna spremenljivka, ki predstavlja merjeni signal.
+Sprejeli smo prvo predpostavko in sicer, da x vrednosti nimajo napake.
+Napake pri pripravi standardov so v resnici mnogo manjše od napak, ki jih naredimo pri merjenju signala.
+Vrednosti neznanih parametrov odseka in naklona regresijske krivulje b0 in b1 moramo ugotoviti na tak način, da se model prilega k eksperimentalnim točkam kot je najbolj mogoče.
+
+Signal je sestavljen iz determinirane komponente, predstavljene z linearnim modelom in slučajne komponente ei.
+Treba je izračunati vrednosti b0 in b1 za β0 in β1 tako, da je ∑ ei2 minimalna.
+To metodo imenujemo : metoda najmanjših kvadratov.
+
+STATISTIČNA OBDELAVA PODATKOV
+
+Če želimo izmeriti pravo vrednost, je pri izbiri analizne metode važna natančnost in točnost.
+
+Rezultati nimajo nobene vrednosti, če ne podajajo tudi velikosti napake.
+
+Natančnost je povezana s slučajno napako, ki je tudi znana kot nedoločljiva napaka (ne glede ali je srednja vrednost pravilna).
+
+Natančnost opisuje sipanje posameznih ponovitev meritev okrog srednje vrednosti.
+
+Točnost je povezana s sistematično napako, ki je tudi znana kot določljiva napaka.
+
+Totalna napaka je vsota sistematičnih in slučajnih napak.
+
+Navadno najprej proučujemo natančnost, ker lahko sistematične napake določimo šele, ko so slučajne napake dovolj majhne in je njihova velikost znana.
+
+Če analitik izvaja večje število ponovitev določitev istega vzorca ob uporabi istega postopka, reagentov itd, dobimo rezultate, ki so podvrženi slučaju in imajo normalno porazdelitev napake.
+
+Kadar imamo le nekaj meritev in kadar je prisotna asimetrija, uporabljamo mediano.
+Mediana je vrednost, ki razpolavlja set n po vrstnem redu urejenih meritev 
+
+- če je n liho število, imamo (n-1)/2 meritev manjših od mediane, naslednja meritev je mediana.
+
+- če je n sodo število, vzamemo povprečno vrednost srednjih dveh meritev 
+
+Mediana ima majhen vpliv na vrednosti, ki so ekstremne, je torej robustne narave.
+
+VRSTE NATANČNOSTI 
+
+Ponovljivost je natančnost dobljena pri optimalnih pogojih.
+
+Kvantitativno ovrednotenje: standardni odmik dobljen ob uporabi SOP.
+
+Ponovitve naj bodo prave ponovitve, lahko pa testiramo tudi ponovljivost dela analiznega postopka (n.pr. ponovljivost injiciranja)
+
+OBNOVLJIVOST (reproducibilnost) je natančnost, dobljena pri najbolj različnih možnih pogojih.
+
+Ista metoda, različni analitiki, različni dnevi analize, različni laboratorij, različne kemikalije, druga oprema, različna temperatura, vlažnost...
+Možne so vmesne situacije (intralaboratorijske primerjave in interlaboratorijske primerjave).
+
+Velikost napake pri ponovljivosti je manjša kot pri obnovljivosti.
+
+Poiskati je potrebno tisti del analitskega postopka, kjer je slučajna napaka največja in posvetiti posebno pazljivost temu delu.
+
+Vzroki:
+
+1. Slaba selektivnost (interferenca), reagira tudi druga komponenta - dobimo napačno previsoke rezultate.
+
+2. Efekti matrične raztopine - opazimo povečanje ali zmanjšanje signala.
+
+3. Slaba, nepravilna korekcija slepega vzorca. b) Proporcionalne (relativne):
+
+Napaka je proporcionalna koncentraciji analita, izraža se v relativnih enotah (%).
+
+- vzrok napake pri kalibraciji 
+
+1. Različni nakloni kalibracijskih krivulj za vzorec in standard.
+
+2. Nepravilno upoštevanje linearnosti v preširokem koncentracijskem območju.
+
+Drugi vzroki: pri avtomatski kontinuirni analizi kontaminacija s prejšnjimi vzorci (napaka ni konstantna niti proporcionalna).
+
+ODPRAVLJANJE sistematičnih napak:
+
+Ne moremo jih zmanjšati s povečanjem števila meritev in ker ne poznamo prave vrednosti, so večkrat skrite.
+
+1. Glavni način je uporaba standardnih referenčnih materialov 
+
+2. Preverjanje kontaminacije vzorca 
+
+3. Preverjanje točnosti analitskega aparata - (n.pr. točnost valovne dolžine)
+
+4. Človeška napaka (barvna slepota, neobčutljivost za barve, astigmatizem in ostale napake očesa, tendenca k zapisovanju določenih številk)
+
+Pred izvedbo analize preveriti vsako stopnjo eksperimenta (vzorčenje, aparat, steklovina, tehtanje...)
+
+Predpisati eksperiment v vsaki stopnji - planiranje 
+
+Kompleksno optimiranje procedure- proučevanje medsebojnih vplivov spremenljivk 
+
+Pravilo: obdržimo eno decimalno mesto več, kot lahko natančno izmerimo, zaokrožimo pa le končni rezultat.
+
+Postopek vsebuje:
+
+1. Gravimetrija: tehtanje primarnega standarda 
+
+2. Volumetrija: raztapljanje primarnega standarda in razredčevanje v bučki pipetiranje (odčitavanje pipete, polnjenje, praznjenje) titracija (polnjenje birete, določanje meniska na bireti, določitev ekvivalentne točke)
+
+Sistematične napake pri tehtanju: nepopolno ohlajanje, absorbcija vlage na tehtiču, korodirane, prašne uteži, različna teža v zraku in vakuumu 
+
+Gravimetrična napaka je zanemarljivo majhna v primerjavi z volumetrično napako.
+
+Odprava: diferenčno tehtanje, velika M primarnega standarda.
+
+Sistematične napake pri volumetričnih postopkih: praznjenje pipet, biret, vpliv temperature 
+
+Slučajne napake pri volumetričnih postopkih: odčitavanje meniska (bučka ±0.03cm∼0.012 ml, pipeta ±0.03 cm∼0.006 ml,)
+
+Indikatorske napake, napaka zadnje kapljice 
+
+NATANČNOST IN TOČNOST kot kriterij
+
+Kako natančno in točno analizo potrebujemo?
+
+Če je vzorčenje del analize, je treba upoštevati napako pri vzorčevanju.
+
+Koncentracije so veličine, ki prikazujejo količno ene komponente v razmerju z volumnom zmesi oziroma raztopine 
+
+Vsaka kemijska reakcija teče tako dolgo, dokler ne doseže kemijskega ravnotežja (najnižjo notranjo energijo).
+
+Velja za določeno temperaturo.
+Kemijska reakcija teče do ravnotežnega stanja.
+
+Sistemi v dinamičnem ravnotežju se obnašajo tako, da se izognejo vplivu zunanje sile ali spremembe
+
+VPLIV TEMPERATURE PRI KEMIJSKI REAKCIJI NA RAVNOTEŽJE 
+
+Šibki elektroliti koligativnih lastnosti ne kažejo tako močno: ( le v manjšem delu razpadejo na ione)
+
+DISOCIACIJA ŠIBKIH ELEKTROLITOV 
+
+DELOVANJE SKUPNEGA IONA 
+
+HIDROLIZA SOLI ŠIBKE KISLINE IN MOČNE BAZE 
+
+Hidroliza je reakcija kationa šibke baze in aniona šibke kisline z vodo, pri čemer dobimo v prvem primeru šibko bazo, v drugem primeru pa šibko kislino.
+Hidrolizirajo soli šibkih kislin in močnih baz (NaAc) , šibkih baz in močnih kislin (NH4Cl) in soli šibkih baz in šibkih kislin 
+
+H+ se veže, OH- ostane v prebitku, zato reagira ta raztopina bazično.
+Ima alkalno reakcijo.
+
+Če pomnožimo s 100, dobimo%.
+Soli močnih kislin in močnih baz ne hidrolizirajo.
+
+Soli močnih kislin in močnih baz ne hidrolizirajo (NaCl)
+
+PUFERNE RAZTOPINE 
+
+So takšne raztopine, ki se upirajo spremembi pH vrednosti, če jim dodamo močno bazo ali močno kislino.
+
+Puferne zmesi so sestavljene iz šibke baze ali šibke kisline in njene soli.
+V prvem primeru imamo BAZIČNI, v drugem primeru pa KISLI pufer.
+
+Dodali smo H+ ione in pričakovali, da se bo pH povečal, vendar nam je NaAc v zameno za močno kislino vrnil šibko kislino.
+PH se ni bistveno spremenil.
+
+Puferna kapaciteta: možnost, da se neki pufer upira spremembi pH.
+
+Puferne lastnosti raztopine so vedno slabše, več HCl dodajamo.
+
+Topnostni produkt je produkt ionov težko topne soli, ki so v ravnotežju z netopno oborino.
+
+Z delovanjem skupnega iona se je topnost zmanjšala za faktor 1000.
+
+Pri isti koncentraciji istega iona je v našem primeru vpliv Ag+ iona močnejši kot vpliv kromatnega iona.
+
+OBARJANJE TEŽKO TOPNIH SULFIDOV 
+
+Čim bolj je raztopina kisla, manjša je koncentracija S2- ionov.
+Če pH za 100x povečamo, povečamo koncentracijo S2- ionov za 100 x in obratno, s pH lahko reguliramo koncentracijo S2ionov.
+
+Če v raztopini pH spreminjamo, lahko poljubno izberemo primerno koncentracijo S2- ionov v raztopini.
+
+Če toliko iona oborimo, da njegova koncentracija pade pod 10-6 mola, pravimo, da smo ion kvantitativno izločili ( z normalno analitsko tehtnico ga ne moremo več izmeriti.
+Imamo 200 ml raztopine in nam koncentracija pade pod 10-6 Koliko iona nam ostane v 200 ml raztopine? mg Mn+/ 200 ml = 0.2x 10-6 x 100x 10-3 = 0.02 mg.
+Toliko iona nam ostane v raztopini, če ga kvantitativno izločimo.
+
+Kolikšna mora biti pH v raztopini, da se kadmij obori kot sulfid.
+
+Kislost raztopine med obarjanjem raste.
+Pri tem pH oborimo Cd in tudi vse ostale sulfide II skupine, saj je njihov Lp manjši od Lp CdS.
+
+Ali se pri tej pH vrednosti, ko smo kvantitativno oborili sulfide II skupine, izločijo sulfidi III skupine?
+
+Topnostni produkt ZnS ni dosežen in Zn se ne obarja pri tem pH oziroma [H+].
+To pomeni, da tudi Lp Mn2+, Co2+, Ni2+ ne bodo prekoračeni, ostanejo v raztopini.
+
+Pri kateri pH vrednosti Mn2+ ione oborimo kot sulfid?
+
+RAZTAPLJANJE TEŽKO TOPNIH SOLI ŠIBKIH KISLIN 
+
+KOMPLEKSNE SPOJINE 
+
+Kompleksi so ioni ali nevtralne molekule, ki so sestavljeni iz centralnega iona in molekul ali ionov, ki centralni ion obkrožajo.
+Značilnost je ta, da so ligandi (ioni, ki obkrožajo centralni ion), kakor tudi centralni ion sami zase v raztopini obstojni.
+
+Primarni standard je izredno čista substanca, na zraku obstojna, po možnosti naj ima večjo molsko maso.
+
+HCl je zelo hlapna, na voljo imamo koncentrirano HCl, ki je ne moremo direktno tehtati.
+Je zelo agresivna.
+
+PRIPRAVA STANDARDNE RAZTOPINE HCl 
+
+Standardno raztopino klorovodikove kisline uporabljamo za titracijo baz in drugih alkalnih raztopin.
+Pripravimo jo z razredčenjem kemijsko čiste koncentrirane HCl p.a.
+
+Močne anorganske kisline dobimo v obliki koncentriranih raztopin.
+Gostote kislin in baz z različnimi koncentracijami najdemo v različnih priročnikih ali pa morajo biti navedene na steklenici.
+
+Iz podatkov o gostoti in sestave koncentrirane kisline izračunamo volumen HCl, ki je potreben za pripravo 1000 ml 0.1 M HCl.
+
+Tako pripravljena raztopina ima približno koncentracijo 0.1 mol/L, točno koncentracijo pa določimo s titracijo z raztopino primarnega standarda Na2CO3, ki ima koncentracijo 0.1 mol/L.
+
+Na2CO3 je brezvodna sol, ki je kemijsko čista.
+
+Reakcija:
+
+Na2CO3 + 2 HCl → 2 NaCl + H2O + CO2 
+
+Kot je razvidno iz reakcije, Na2CO3 reagira z dvema molekulama HCl.
+Za pripravo 1000 ml 0.05 M Na2CO3 moramo uporabiti (106.004* 0.05) g , za pripravo 250 ml pa 1,3251 g Na2CO3 .
+Če torej odtehtamo namesto 1.3251 g 1.3425 g Na2CO3, bo naša raztopina močnejša od 0.05 M. V tem primeru izračunamo faktor zatehte, s katerim pomnožimo vsakokratno uporabo, da bi na ta način dobili dejansko porabljeni volumen točno 0.05 M raztopine.
+
+Faktor zatehte izračunamo iz naslednjega razmerja:
+
+Če bi odtehtali točno 1.3251 g Na2CO3 in ga raztopili v 250 ml, bi znašal faktor 1.0000, ker pa smo odtehtali 1.3425 g bi znašal faktor 1.3425/ 1.3251 to jr 1.0150, kar pomeni, da je takšna raztopina dejansko 0.05*1.0150 molarna.
+
+Na analitski tehtnici zatehtaj na 4 decimalna mesta natančno 1.3251 g brezvodnega, predhodno sušenega Na2CO3 p.a. Osuši ga v sušilniku tako da ga v steklenem tehtiču (ki mora biti med sušenjem odprt, pustiš 1 uro pri temperaturi 140° C. Po sušenju pusti, da se tehtič ohladi v eksikatorju na sobno temperaturo.
+
+Odtehtani Na2CO3 prenesi v 250 ml čašo, ga raztopi v približno 50 ml vode in vsebino čaše nato kvantitativno prenesi v 250 ml bučko.
+Čašo spiraj večkrat z manjšimi količinami vode in nato bučko dopolni do oznake.
+
+Če je bilo odtehtano več ali manj Na2CO3 , izračunaj faktor zatehte.
+
+V 3 300 ml erlenmajerice odpipetiraj s polnilno pipeto po 20.00 ml pripravljene raztopine, dobro speri stene erlenmajerice z vodo, dodaj 1 do 2 kapljici indikatorja metil rdeče in titriraj z 0.1M HCl do prvega preskoka barve iz rumenega v rumeno rdeče.
+Zakuhaj, barva indikatorja se pri tem spremeni nazaj v rumeno, nakar titriraj po kapljicah do prvega preskoka v vijoličasto rdečo barvo.
+Odčitaj porabo 0.1M HCl in izračunaj faktor kisline.
+
+METODE VOLUMETRIČNE ANALIZE 
+
+Če je indikator pravilno izbran, spremeni barvo točno pri tem volumnu.
+
+PH INDIKATORJI 
+
+So šibke organske kisline ali šibke organske baze, ki so v disociirani obliki drugače obarvani kot v nedisociirani obliki.
+
+Če je indikator pravilno izbran, spremeni barvo točno pri tem volumnu.
+
+TITRACIJA ŠIBKE KISLINE Z MOČNO BAZO 
+
+Šibke kisline ne moremo titrirati v prisotnosti metiloranža, metem ko močno kislino lahko titriramo v prisotnosti obeh – metiloranža in fenolftaleina (pH skoči iz 4 na 10 pri 100 ml glej titracijsko krivuljo!)
+
+Čim šibkejša je kislina, tem krajši je potek titracijske krivulje po ekvivalentni črti ( s tem je vse težje izbrati indikator, da nam pokaže pravilen konec titracije)
+
+TITRACIJA ŠIBKE BAZE Z MOČNO KISLINO 
+
+Raztopina v ekvivalentni točki reagira kislo zaradi prebitka H+ ionov.pH je manjši od 7, v tem območju indikator spremeni barvo.
+
+Reakcija poteče pri drugih 100 ml oziroma pri 200 ml porabljenega luga, dobimo sekundarni fosfat.
+
+Reakcija poteče pri tretjih 100 ml oziroma pri 300 ml porabljenega luga, dobimo terciarni natrijev fosfat.
+
+Fenolftalein je pravi indikator za to titracijo (ker je njegov pHi ravno v tem območju – med 8 in 10, zato spremeni barvo.
+To je takrat, ko smo dodali 200 ml NaOH.
+
+Sekundarni natrijev fosfat gre v terciarni natrijev fosfat.
+
+REAKCIJA OKSIDACIJE IN REDUKCIJE 
+
+So reakcije med oksidantom in reducentom.
+Oksidant sprejema elektrone od reducenta.
+
+Vsaka redoks reakcija je sestavljena iz dveh polreakcij: a) reakcija oksidacije b) reakcija redukcije 
+
+Vsako redoks reakcijo lahko izvedemo v elektrokemijskem elementu (to je raztopina elektrolita, v kateri sta dve elektrodi).
+Pod elektrokemijskim elementom razumemo: a) galvanski člen b) elektrolizna celica a) galvanski člen je elektrokemijski element, ko ob elektrodah v raztopini potečejo reakcije spontano, med elektrodama teče električni tok.
+
+Za elektrolizno celico je značilno, da moramo od zunaj privesti dovolj veliko električno delo v obliki električne napetosti, ki jo priklopimo na elektrodo da lahko začnejo teči reakcije ob elektrodah, pride do razkroja elektrolita, reakcije tečejo nasprotno.
+
+GALVANSKI člen Cinkova palica se topi, bakrova pa debeli. (Cu ioni sprejemajo elektrone, se reducirajo, kovinski baker pa se izloči in palica je vedno težja, med tem ko se cink oksidira.
+Koliko Cu ionov se izloči, toliko SO42- ionov preide na drugo stran.
+Za plemenite kovine je značilno, da so “rade” v elementarnem stanju (Cu), za neplemenite pa, da se topijo (Zn).
+Elektroni tečejo od tam, kjer jih je več, tja, kjer jih je manj (od cinkove elektrode na bakrovo elektrodo).
+
+VELJA za galvanski člen in za elektrolitsko celico:
+
+1. KATODA – elektroda, na kateri poteka redukcija (bakrova elektroda)
+
+2. ANODA - – elektroda, na kateri poteka oksidacija (Zn palica).
+
+V elektrolizni celici je katoda negativna, na galvanskem členu pa pozitivna.
+
+So potenciali, ko primerjamo proti normalni vodikovi elektrodi, ki ima po dogovoru vrednost 0.
+
+Standardna vodikova elektroda ali vodikov polčlen (SHE).
+
+Vsi tisti redoks pari, ki so močnejši reducenti od vodika imajo negativne standardne potenciale (Zn).
+
+Vsi tisti redoks pari, ki so močnejši oksidanti od vodika, imajo pozitivne vrednosti standardnih potencialov.
+
+KVANTITATIVNA KEMIJSKA ANALIZA 
+
+Glede na množino tehtanja vzorca pa delimo metode na:
+
+1. Makro analizne metode 
+
+2. Semi mikro analizne metode 
+
+3. Mikro analizne metode 
+
+Pri makro analiznih metodah uporabljamo tehtnice, ki zaznajo 0.1 mg.
+Zatehtamo najmanj 1 g vzorca – to je tudi “gramska analiza”.
+Zatehta pri teh metodah je omejena z napako pri merjenju – pogoj:
+
+Oborino odfiltriramo (preko filter papirja ali filtrnega lončka).
+Nato oborino speremo z vodo, da odstranimo druge ione.
+Nato AgCl sušimo 1 uro, ohladimo in stehtamo.
+
+OKSIDI IN REDUKTOMETRIJA 
+
+Čim bolj so potenciali narazen, tem bolj bo šla reakcija v desno.
+
+Reakcija je odvisna od konstante ravnotežja.
+
+Po vsakem dodatku titranta Ce se vzpostavi ravnotežje, reakcija teče, dokler se ne vzpostavijo ravnotežni pogoji.
+
+Med titracijo se potencial sistema spreminja.
+Oba potenciala sta v ravnotežju enaka in se imenujeta E sistema.
+
+Med titracijo se povečuje količina Fe3+ ionov in zmanjšuje količina Ce4+ ionov.
+
+Na splošno so vse titracijske krivulje S oblike.
+
+Ekvivalentna točka: vso železo smo oksidirali, koliko je nastalo Fe3+ ionov, toliko je nastalo tudi Ce3+ ionov.
+
+Do ravnotežja je torej Fe3+ in Ce3+ veliko(1014 )x več kot Fe2+ in Ce4+ ionov, saj se ti sproti spreminjajo v Fe3+ in Ce3+ ione.
+Reakcija pa ni šla čisto v desno, saj potem Fe2+ in Ce4+ ne bi bilo nič, vendar jih je neka malenkost ostala.
+
+Za nas je najpomembnejša reakcija v kislem mediju, saj je le ta najpogostejša.
+
+Lahko si pripravimo tudi 10L raztopine – 32 g KMnO4 raztopimo v 10L vode.
+Raztopino lahko pustimo stati 2 meseca, da se stabilizira.
+Na hitro jo stabiliziramo – postaramo tako, da jo pustimo pri temp. vrenja 1 uro.
+MnO(OH)2 odfiltriramo, šele nato raztopino standardiziramo.
+Vendar je taka raztopina lahko uporabna le 1 do 2 dni, potem pa se koncentracija KMnO4 začne spreminjati, zato ga je najbolje pustiti, da vse te reakcije potečejo in se permanganat ustali.
+KMnO4 je sam sebi indikator.
+Standardiziramo ga z raztopino natrijevega oksalata Na2C2O4, ki je primarni standard in ga moramo predhodno sušiti pri 105°C.
+
+Zatehtamo približno 250 mg Na2C2O4 predhodno sušenega na 0.1 mg natančno.
+
+Pripravimo si 5%no raztopino H2SO4.
+To dodamo k raztopljenemu Na2C2O4, segrejemo na 60°C in titriramo s permanganatom kar hitro do obstojnega vijoličnega obarvanja.
+
+Če hočemo določiti, koliko je železa v rudi, moramo Fe3+ reducirati v Fe2+.
+To naredimo z raztopino SnCl2.
+Dodajamo jo po kapljicah, dokler rumena barva ne izgine.
+
+Ko že barva izgine, dodamo še dve kapljici SnCl2 v prebitku.
+Sn2+ ioni v prebitku pa reagirajo s permanganatom, zato jih je treba odstraniti, oksidirati v Sn4+.
+To naredimo s 5%nim HgCl2.
+
+Zdaj imamo Fe2+ ione v raztopini, vendar ne moremo kar titrirati, ampak dodamo prej Zimmermann Reinchardtov reagent, ki vsebuje:MnSO4, H3PO4 in H2SO4.
+
+Kloridni ioni motijo železove ione.
+Čimbolj pozitivna je ta vrednost, tem močnejši oksidant je ta snov.
+
+Po dodatku Zimmermann Reinchardtovega reagenta se poveča koncentracija Mn2+ v imenovalcu, torej se zmanjša E MnO4-/Mn2+ (glej enačbo).
+Permanganat pride v tako stanje, da ne bo oksidiral Cl- v Cl2, ampak samo reduciral Fe3+ v Fe2+.
+
+Rumeno moramo spremeniti v brezbarvno zato, da lažje vidimo prehod v vijoličasto barvo pri titraciji s KMnO4.
+Z dodatkom H3PO4 tvorimo brezbarven kompleks.
+
+Zaradi kislosti smo dodali s Zimmermann Reinchardtovim reagentom še H2SO4.
+Zdaj lahko titriramo do vijoličaste barve (barva mora biti obstojna vsaj 15 sek.
+Izračunamo : mE Fe =mE KMnO4 a mg/EFe = V KMnO4 x N KMnO4
+
+Oksidimetrične metode: elektronski par I2/I- nastopa kot oksidant, standardni potencial je pod +0,54 V, jodimetrične metode 
+
+Reduktometrične metode določitve oziroma jodometrija : el. par I2/I- nastopa kot reducent, standardni potencial je nad +0,54 V.
+
+Jodid se porablja in čim bolj je raztopina kisla, bolj se ravnotežje premakne v desno, kar ne sme biti za to titracijo.
+
+Uporabljamo standardno raztopino joda kot titrant, jod se porablja in raztopina je brezbarvna do ekvivalentne točke, prva kapljica prebitka joda obarva raztopino, ki smo ji poprej dodali škrobovico (indikator).
+
+V prebitku dodamo 5%ni KI in oksidant izloči ekvivalentno količino joda in raztopina se obarva.
+
+Na2S2O3 dodajamo tako dolgo, da raztopina postane rahlo rumena, nato dodamo 1 ml škrobovice in raztopina se obarva temno modro, po kapljicah dodajamo Na2S2O3, dokler raztopina ni brezbarvna – pridemo do ekvivalentne točke.
+
+Standardno raztopino si pripravimo z natančno zatehto primarne substance As2O3.
+
+Bromatni ion se reducira in izloči iz bromida ekvivalentno količino joda.
+
+NaOH vsebuje vedno nekaj Na2CO3, zato analiza obsega analizo luga in karbonata.
+
+2-3 g NaOH raztopimo v vodi in razredčimo na 500 ml. 2x 50 ml damo v 2 erlenmajerici.
+V prvo damo nekaj kapljic metiloranža, v drugo pa fenolftalein in nato titriramo s standardno raztopino HCl.
+Zabeležimo si porabo 0.1M HCl v M in F.
+
+Karbonat poleg bikarbonata določamo po dveh metodah.
+Po prvi določamo totalno alkaliteto tako, da titriramo z 0.1M HCl na M (metioranž).
+Porabljeni volumen je enak M. V drugem alikvotnem delu titriramo s fenolftaleinom.
+
+Raztopina domnevno vsebuje NaHCO3, Na2CO3 in NaOH.
+Titriramo 50.0 ml na fenolftalein.
+
+Poraba je 22.1 ml 0.1 M HCl.
+Drugih 50 ml zahteva 48.4 ml 0.1M HCl z indikatorjem metiloranž.
+
+Če bi raztopina vsebovala samo NaOH, bi bil volumen porabljene kisline enak ne glede na indikator.
+Podobno, če bi imeli prisoten le Na2CO3, bi bila poraba volumna kisline na M dvakrat tolikšna kot za F. Ker imamo pri M titraciji porabo 48.4 ml, sodeluje manj kot polovica v prvi titraciji, mora raztopina vsebovati nekaj NaHCO3 in Na2CO3.
+
+Izračunaj indikatorsko napako pri titraciji NH4OH s HCl, če uporabiš metiloranž in fenolftalein.
+
+Čim bolj je koncentrirana kislina, tem daljša je titracijska krivulja, več možnosti imamo za izbiro indikatorja.
+
+Izračunaj indikatorsko napako pri titraciji NH4OH s HCl, če uporabiš metiloranž in fenolftalein.
+

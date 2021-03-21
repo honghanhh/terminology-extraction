@@ -1,0 +1,101 @@
+Izvirni znanstveni članek
+
+VPLIV PAKIRANJA ZGOREVALNE ZMESI NA POTEK SINTEZE PRI CITRATNO NITRATNEM POSTOPKU 
+
+Lastnosti prahov, ki nastanejo pri zgorevalni sintezi v sistemih gorivo/nitrat, niso odvisne le od redukcijsko-oksidacijskega razmerja, temveč tudi od geometrije reakcijske zmesi.
+Te vplive smo spremljali pri zgorevanju citratno-nitratnih gelov lantanovega kromita, dopiranega s stroncijem (LSC).
+Ugotovili smo, da geometrija zgorevalne mešanice določa čas pri temperaturi sinteze ter s tem specifično površino nastalih produktov, vrsto kristalnih faz in stopnjo pretvorbe.
+Sinteza v nasuti plasti poteče za stehiometrijske mešanice v nekaj sekundah, medtem ko so sinteze v tableti potekale nekaj deset sekund.
+Naravo aglomeratov v produktu smo spremljali z elektronsko mikroskopijo zelenih tablet, stisnjenih pri tlaku 300 MPa.
+S termično analizo smo ugotavljali zreagiranost produktov sinteze.
+
+Ključne besede: lantanov kromit, geometrija zgorevalne zmesi, zgorevalna sinteza 
+
+1 UVOD
+
+Material, ki se dandanes največ uporablja za vmesnik v visokotemperaturnih gorivnih celicah s trdnim elektrolitom (SOFC), je lantanov kromit, substituiran z elementi zemljoalkalijskih kovin (Ca, Sr in Mg).
+Zamenjava na mestih A ali B v perovskitni strukturi izboljša sposobnost sintranja lantanovega kromita, tako da dodani elementi upočasnijo odparevanje kromovega oksida oziroma s kromitom tvorijo tekočo fazo1.
+Dodani elementi povečajo električno prevodnost kromita, ki se rabi za odvajanje v celici nastalih elektronov.
+Kljub prednostim lantanovega kromita pred drugimi materiali pa je izdelava plinskotesnega vmesnika med posameznimi enotami gorivne celice težavna.
+Nekatere težave pri izdelavi vmesnika je mogoče odpraviti z uporabo zelo drobnih aktivnih prahov (pod 1µm).
+Dobre rezultate pri sintranju dosegajo predvsem neaglomerirani prahovi ali pa tisti iz t.i. krhkih aglomeratov, ki jih je mogoče z lahkoto zdrobiti.
+Kakšna bo narava prahov, pa je odvisno od vrste in poteka sinteze.
+Če so v surovcu trdi in gosti aglomerati, nastanejo pri sintranju velike medaglomeratne pore.
+
+Keramične prahove je mogoče pripraviti na različne načine.
+Najpogosteje se uporablja kalcinacijska metoda, uveljavljajo pa se tudi drugi kemijski načini priprave, npr. sol-gel sinteza, metoda trdnih raztopin prekurzorjev, koprecipitacija in druge metode.
+Vsaka od izbranih sinteznih poti daje produkte s karakteristično homogenostjo, morfologijo, stopnjo aglomeriranosti.
+Med obetavne metode spada tudi zgorevalna sinteza, saj poleg manjše energijske porabe in krajših časov sinteze omogoča pripravo t.i. krhkih aglomeratov.
+Nastanek trdih aglomeratov preprečujejo velike množine plinov, ki se sproščajo pri zgorevalni sintezi v sistemih nitratreducent.
+Na lastnosti končnih produktov po zgorevalni sintezi vplivata predvsem redukcijsko/oksidacijsko razmerje ter oblika zgorevalne zmesi pred sintezo.
+Izbira teh parametrov določa temperaturo sinteze, čas pri njej, stopnjo pretvorbe, nastanek faz, morfologijo nastalih delcev ter naravo aglomeratov.
+
+V prispevku smo opisali vpliv oblike reakcijske zmesi pred zgorevalno sintezo iz citratno-nitratnega gela na njen potek in nekatere lastnosti lantanovega kromita, dopiranega s stroncijem (LSC), za različna citratnonitratna razmerja.
+Izbrani postopek je izveden iz metode citratnih prekurzorjev in ga je prvi uporabil S. Roy za pripravo superprevodnika.
+
+2 EKSPERIMENTALNO DELO
+
+Slika 1: Oblika vzorca pred sintezo 
+
+Vzorce lantanovega kromita, dopirane s stroncijem z nominalno sestavo La0.7Sr0.3CrO3 (LSC), smo pripravili z zgorevalno sintezo citratno-nitratnih gelov.
+Reakcijske zmesi smo pripravili tako, da smo kovinske nitrate v ustreznem molskem razmerju raztopili v minimalni količini vode ter v hladnem dodali 2,9-molarno raztopino citronske kisline.
+Molsko razmerje med citronsko kislino in nitratnimi ioni (c/n) je bilo 0,28, 0,23 in 0,18.
+Podrobnejši opis postopka je podan drugje9.
+Pred vžigom smo citratno nitratne gele oblikovali na dva načina.
+V prvem primeru smo gela stisnili v tableto (17 MPa), v drugem pa smo ga narahlo zdrobili ter pripravili približno 5 mm debelo nasutje.
+Gele smo enakomerno segrevali na korundni podlagi, dokler ni potekla zgorevalna sinteza.
+
+TG/DTA- analize vzorcev po sintezi smo izvedli s termoanalizatorjem tipa NETZSCH STA 904C, rentgenske praškovne spektre pa smo posneli z rentgenskim praškovnim difraktometrom Philips PW-1710 (30mA, 40kV in CuKα-radiacija).
+Vzorce smo po zgorevalni sintezi stisnili pri tlaku 300 MPa ter jih analizirali z vrstičnim elektronskim mikroskopom Jeol T300.
+Specifične površine smo določali po metodi BET na aparaturi Perkin Elmer Sorptmeter 212D.
+
+3 REZULTATI IN DISKUSIJA
+
+Materiale na osnovi lantanovega kromita, dopiranega s stroncijem z nominalno sestavo La0,7Sr0,3CrO3 (LSC), smo pripravili z zgorevalno sintezo citratno-nitratnih gelov.
+Slika 1 prikazuje oba načina priprave: v nasutju in v tableti.
+Molska razmerja med citronsko kislino in nitratom (c/n) 0,18, 0,23 in 0,28 smo izbrali, upoštevajoč možnost, da se oksidacijsko stanje produktov zgorevalne reakcije lahko spreminja.
+Tako reakcijsko shemo je predložil Zhang s sodelavcem10 za primer, ko ni mogoče določiti točne sestave in deleža posameznih faz.
+Tako lahko npr. oksidacijsko stanje dušika v produktu variira od 0 do 4+.
+Zmesi z razmerjem c/n 0,18 in 0,23 spadata v stehiometrijsko področje in gorita pri višji temperaturi in hitreje, medtem, ko zmes z razmerjem 0,28 vsebuje presežek reducenta ter gori pri nižji temperaturi in počasneje od stehiometrijskih zmesi.
+To so potrdila tudi optična opazovanja sintez.
+
+Slika 2: Časi trajanja sintez in specifične površine vzorcev v odvisnosti od razmerja c/n za različne oblike reakcijske zmesi 
+
+Slika 3: TG/DTA vzorcev po sintezi 
+
+Slika 2 prikazuje odvisnost časa trajanja sinteze in specifične površine produkta od molskega razmerja c/n za različne oblike reakcijske zmesi ter so v skladu z optičnim opazovanjem sintez.
+Časi gorenja so bili daljši pri sintezi v tableti (od 20 do 87 sekund) medtem, ko je sinteza v plasti potekala od 6 do 60 sekund.
+Pri tableti so časi sinteze daljši kot v plasti zaradi počasnejšega prenosa toplote iz notranjosti tablete na površino ter počasnejšega odvajanja reakcijskih produktov.
+Pri vzorcih, pripravljenih v nasutju, razmerje c/n bistveno ne vpliva na specifično površino, ki je gibljejo od 11,7 do 12,5 m2/g. Specifične površine vzorcev, pripravljenih v tableti, so nižje od tistih, pripravljenih v nasutju, ter naraščajo z rastočim razmerjem c/n od 7,2 do 10,5 m2/g. Učinek plinov, ki se pri zgorevalni reakciji sproščajo ter preprečujejo sintranje in rast delcev, je bolj opazen pri produktih, pripravljenih v tableti, kot pri vzorcih, pripravljenih v nasutju.
+
+Tabela 1: Pogoji priprave vzorcev ter kristalne faze v vzorcih po sintezi 
+
+Kristalne faze v vzorcih po sintezi navajamo v tabeli 1. V vseh primerih je glavna kristalna faza lantanov kromit, kot sekundarni fazi pa smo identificirali SrCrO4 in La2CrO6.
+V vzorcih 0.18p, 0.18t in 0.23t smo našli tudi t.i. Ruddlesden-Popper-jevo fazo Sr2CrO411, medtem, ko drugi vzorci vsebujejo le sledove te faze, ki nastaja v atmosferi s primanjkljajem kisika.
+Plini, ki se sproščajo med sintezo, ter sinteza v tableti otežujejo dostop zračnega kisika do vzorca, kar ima za posledico nastanek faze, bogate s stroncijem.
+Vzorci 0.23p, 0.28p in 0.28t vsebujejo tudi stroncijev karbonat, ki nastaja zaradi presežka citronske kisline predvsem pri vzorcih z razmerjem c/n 0,28 ter zaradi kratkega časa pri temperaturi sinteze pri vzorcu 0.23p.
+
+Slika 4: SEM posnetki vzorcev pripravljenih v tableti (0.18t, 0.23t in 0.28t) in v plasti (0.18p, 0.23p in 0.28p) stisnjenih s tlakom 300 MPa
+
+Oblika vzorca pred sintezo ter razmerje c/n precej vplivata na termične lastnosti vzorcev po sintezi.
+Končne izgube mase so za vzorce, pripravljene v tableti, od 1,8 do 3,2% (Slika 3 a), medtem ko so izgube mase vzorcev, pripravljenih v plasti, od 3 do 6,2% (Slika 3b), kar kaže na manjšo zreagiranost vzorcev, pripravljenih v plasti.
+Končna izguba mase raste z naraščajočim citratnonitratnim razmerjem, kar potrjuje, da je razmerje c/n 0,28 bogato z reducentom (citronsko kislino).
+Izguba mase v temperaturnem območju od 400 do 700°C za vzorec 0.28p, ki je 2,9%, spremlja tudi eksotermna toplotna sprememba zaradi gorenja ostankov citronske kisline.
+Podoben toplotni učinek smo opazili tudi pri vzorcu 0.23p, razlog za to pa so krajši časi pri temperaturi sinteze.
+Vzorci, ki so vsebovali fazo, bogato s stroncijem, so v temperaturnem območju od 365 do 700°C pridobivali maso, na DTA-krivulji pa smo v tem istem temperaturnem območju opazili blag eksotermni proces.
+Predvidevamo, da je potekla oksidacija Sr2CrO4 do SrCrO4 in SrO, o čemer smo že poročali12.
+Izgube mase nad 1000°C pa so povezane z reakcijami sekundarnih faz SrCrO4, SrCO3 in La2CrO6.
+
+Vzorce, ki smo jih po sintezi stisnili s 300 MPa, prikazuje slika 4. Vzorca 0.23t in 0.18t, pripravljena v tableti, se po stiskanju bistveno razlikujeta od drugih.
+Sta manj porozna, delci v njih pa enakomerno zapolnjujejo prostor.
+Vsi drugi vzorci pa izkazujejo mikrostrukturo, ki vsebuje področja gostih aglomeratov ter vmesne pore in razpoke.
+Pri stiskanju teh vzorcev pri izbranem tlaku še ni prišlo do drobljenja nekaterih aglomeratov oziroma prerazporeditve delcev v njih.
+To kaže, da so aglomerati, nastali pri sintezi v plasti, trši od tistih pripravljenih v tableti, material po sintezi pa je bil bolj nehomogen zaradi kratkih časov sinteze in velikih temperaturnih gradientov v vzorcu med sintezo.
+
+4 SKLEP
+
+Gostota vzorca pred sintezo in citratno-nitratno razmerje določata potek zgorevalne sinteze citratno nitratnega gela ter lastnosti vzorcev po sintezi.
+Nižjo stopnjo pretvorbe in bolj porozno strukturo po stiskanju pri 300 MPa imajo vzorci, pripravljeni v plasti, zaradi temperaturnih gradientov med sintezo.
+Ugotovili smo, da je primerno citratno/nitratno razmerje za sinteze, izvedene v tableti, med 0,18 in 0,23.
+V tem primeru nastajajo t.i. krhki aglomerati, boljša pa je tudi stopnja pretvorbe, saj zaradi daljših časov pri temperaturi sinteze dodatna kalcinacija ni nujno potrebna.
+

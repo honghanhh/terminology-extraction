@@ -1,0 +1,1063 @@
+Matej Supej ; likovni material Matej Supej, Ivan Čuk, Stanko Štuhec. - Ljubljana : Fakulteta za šport, Inštitut za šport,
+
+Po sklepu dekana je delo Biomehanika 1 - učbenik za študente Fakultete za šport avtorja M. Supeja, prvi učbenik za študente Fakultete za šport za predmet Biomehanika 1.
+
+Vse pravice so pridržane.
+Ponatis (grafični, elektronski ali mehanski, vključno s fotokopiranje, snemanjem ali prenosom v baze podatkov) celotne ali posameznih delov je dovoljen le s pisnim soglasjem nosilcev avtorskih pravic.
+
+Knjigo posvečam svoji mali princeski Uli in se ji opravičujem za vse zamujene ure ob njenem nastajanju.
+Vse to ne bi bilo mogoče, če moja draga Tina ne bi prevzela vloge mamice in očija hkrati.
+
+Zahvalil bi se svojim staršem, ki so mi stali ob strani pri izbiri študija fizike in me podpirali pri moji športni poti.
+
+Šport v širšem smislu niso le »gladiatorska« tekmovanja, kjer se vrhunski športniki bojujejo za stotinke in milimetre, ampak je to tudi zdrav in aktiven način življenja.
+Šport izboljšuje kakovost življenja in omogoča zdravo interesno druženje ljudi.
+Tako na ravni vrhunskega kot tudi rekreativnega športa sta izjemno pomembna njegovo proučevanje in razumevanje, saj lahko le tako zagotovimo na eni strani vrhunske rezultate in na drugi zdravo udejstvovanje s športom.
+
+Izkaže se, da je ravno razumevanje naravnih zakonitosti gibanja eno temeljnih področij razumevanja športa.
+Povezanost športnika z okoljem v športnih strokah večkrat spregledajo, kar vodi v mnogo zmotnih interpretacij dogajanj, ki smo jim priča, še posebno takrat, kadar prihaja do večjih sprememb.
+Te so navadno povezane s tehnološkim napredkom, ki ga brez razumevanja težko optimalno uporabimo.
+Če se spomnimo bližnje zgodovine alpskega smučanja, je bilo kar nekaj takšnih primerov.
+Začnimo z izjemnimi rezultati norveškega smučarja v devetdesetih letih prejšnjega stoletja, ki je brezkompromisno zmagoval na tekmovanjih v veleslalomu.
+Ker je tekmoval s precej razklenjenimi smučmi, je mnogo trenerjev menilo, da je to razlog za njegov uspeh, zato so začeli smučarje množično učiti razklenjene drži smuči.
+Na smučarsko žalost pa je bila glavna prednost Norvežana uporaba smuči z bolj poudarjenim stranskim lokom, kot so ga imeli sotekmovalci.
+Torej rezultati niso imeli neposredne povezave z razklenjeno držo smuči.
+Še več, niti tekmovalni servisi proizvajalcev smuči niti vrhunski tekmovalci niso verjeli v pohod »karvinga« v tekmovalno smučanje, vse dokler mlajši tekmovalci z rekreativnimi smučmi, kupljenimi v običajnih trgovinah, niso začeli hitreje smučati od svojih starejših in sicer boljših kolegov na klasičnih smučeh.
+Šele takrat so se tekmovalna industrija in vrhunski tekmovalci skupaj s trenerji zbudili iz zgodovine klasičnih smuči.
+
+Naslednji korak, ki je na žalost negativno zaznamoval tudi slovensko tekmovalno smučanje, pa je prilagoditev smučarske tehnike novim smučem.
+Izkazalo se je, da te zavijajo po popolnoma drugačnem fizikalnem načelu.
+To je pravzaprav ključna sprememba pri povezavi smučarja z okolico, saj se spremeni mehanika zavijanja.
+Ker se izkoriščajo drugačna mehanska načela pri zareznem smučanju glede na klasično tehniko z oddrsavanjem, se mora z načeli zavijanja spremeniti tudi smučarska tehnika.
+Ta mora optimalno izkoriščati nove mehanske pogoje.
+Ob tem se seveda nismo vprašali, kako so se s prihodom novih smuči spremenile varnost smučanja in z njo ustreznost prog za različne kategorije smučarjev, metodika poučevanja itd., saj je vse to neposredno vezano na spremembe biomehanike smučanja.
+
+Podobno kot v alpskem smučanju se tehnološki napredek dogaja tudi v drugih športnih panogah, saj so vse tehnološko postale podobne formuli 1, zato lahko v prihodnje pričakujemo vse več tehnoloških sprememb in prilagoditev gibalnih verig, ki jih izkoriščajo bolje in na bolj zdravi način.
+Tako pridemo do pomena biomehanike v športu in njenega osnovnega poslanstva, ko nam priskrbi odgovore na vprašanja zakaj.
+
+Kineziologija je vedenje o gibanju ljudi.
+Včasih se imenuje tudi kinetika ljudi.
+Beseda izvira iz grških pojmov »kinesis« (gibanje) in »kinein« (pomakniti).
+Kineziološka znanost obravnava fiziološke, mehanske in psihološke mehanizme, ki so povezani z gibanjem ljudi.
+Znanstveniki, ki delujejo na področju kineziologije, se primarno opirajo na biomehaniko, anatomijo, fiziologijo, psihologijo in nevrologijo.
+
+Biomehanika je po definiciji znanost, ki raziskuje in se ukvarja z mehaniko živih organizmov.
+Kot taka je interdisciplinarna ter združuje mehaniko in biologijo.
+Kljub temu, da se je biomehanika zgodovinsko ukvarjala predvsem z osnovnimi zakonitostmi gibanja, kot so težišče telesa, pomen krčenja mišic za gibanje segmentov, aerodinamike letenja ptic in insektov, hidrodinamike plavanja rib, je danes to področje bistveno širše.
+Poleg funkcionalnega razumevanja makro gibanja človeka in živali zajema biomehanika tudi mehanske lastnosti in funkcijo tkiv ter celic, mehanske lastnosti in obnašanje organov, npr. dihal, slušnega aparata, krvnih obtočil.
+
+Običajno delo strokovnjaka v športu, ki želi športniku postreči s povratno informacijo, je razdeljeno na več stopenj.
+Prva je opazovanje izvedbe, za kar strokovnjak uporablja čutila, predvsem oči, večkrat pa tudi ušesa.
+Nato sledi procesiranje, ki ga opravijo možgani glede na svoje izkušnje in znanja.
+Rezultat je kvalitativne narave in je zelo omejen z informacijo, ki jo lahko poda svojemu tečajniku, varovancu ali tekmovalcu.
+S pomočjo tehnologije in biomehanike je mogoče povratno informacijo izboljšati.
+Namesto človeških čutil, ki so razmeroma omejena, lahko uporabimo merilno tehnologijo, ki gibanje športnika kvantizira z objektivnimi izmerki.
+Danes je pestrost senzorjev in merilnih inštrumentov skoraj neomejena.
+V nadaljevanju lahko fazo procesiranja opravimo v računalniku, če ima primerno predpisano nalogo: izračune in obdelave podatkov.
+Sledi naslednja faza procesiranja oziroma analiza podatkov, ki temelji na razumevanju izmerjenih in izračunanih parametrov, torej na temeljih, ki zelo pogosto zajemajo biomehaniko.
+Po potrebi lahko uporabimo tudi ustrezno statistično obdelavo, ki lahko izmerjene parametre dodatno obogati z informacijo.
+Tako je sklenjen krog, ki v nasprotju s kvalitativno sliko opazovanja postreže s kvantitativnimi rezultati, slonečimi na naravnih zakonitostih.
+Prednost takega dela sta seveda objektivnost in primerljivost, ki navadno postrežeta s kakovostnejšo informacijo ter posledično izboljšujeta uspešnost dela.
+
+Če želimo uporabiti tehnologijo in izkoristiti prednosti objektivne informacije, je nujno potrebno razumeti biomehanska načela.
+Še več, več kot želimo razumeti in kakovostnejšo informacijo želimo posredovati, globlje moramo poznati zakonitosti.
+Za primer: če opazujemo dva smučarja na progi na istem mestu, se navadno najprej vprašamo po hitrosti, če nas zanima primerjava kakovosti smučanja.
+Prva ugotovitev bi bila, da je tisti, ki je hitrejši v danem trenutku, boljši tudi v tem trenutku.
+Žal je ta ugotovitev površna in pogosto tudi napačna.
+Vprašati se moramo po pospešku, torej eno raven nižje.
+Zakaj?
+Morda tisti, ki v danem trenutku smuča počasneje, hkrati močno pospešuje, drugi pa zavira.
+Kdo pa je v tem primeru »boljši«?
+Ko se začnemo spraševati po pospeških, pridemo še eno raven nižje – do sile.
+Sile so po 2. Newtonovem zakonu neposredno povezane s pospeškom.
+Sili, ki povzročata zaviranje, sta sili trenja in upora.
+Ko se začnemo ukvarjati z uporom, nas začne zanimati obtekanje zraka, torej tokovnice in vrtinčenje molekul zraka – zopet raven nižje.
+Ravno tako je pri sili trenja.
+Začnemo se zanimati za lastnosti snega in drsne obloge – oboje hitro konča še eno raven nižje – molekulska slika.
+Do podobnih ugotovitev bi prišli tudi, če začnemo razglabljati o tehniki smučanja in prodirati v notranjost človeka, mišičnih sil, lastnosti mišic, celic itd.
+Ugotovimo lahko, da če želimo na neki ravni mehanskega sveta razumeti dogajanje, moramo vedno poznati tudi to, kaj se dogaja na eni ravni nižje.
+To lahko imenujemo koncept razmišljanja »eno raven nižje«.
+
+Učbenik Biomehanika 1 je namenjen razumevanju osnovnih načel biomehanskega modeliranja športnika v povezavi z okolico in športnimi rekviziti.
+Bralca popelje skozi osnove klasične mehanike in njen prenos na šport.
+Ker je biomehanika del fizike, od bralca pričakujemo razumevanje osnovnih konceptov matematike.
+
+Biomehanika se začne z opazovanjem gibanja.
+Področje opazovanja gibanja, kjer se ne menimo za vzroke gibanja, se imenuje kinematika.
+Kinematika sodi v fizikalno področje mehanike.
+
+Splošno se opazovani prostor v fiziki razteza od izjemno majhnih delcev, ki sestavljajo npr. protone atomov, pa vse do galaksij.
+Ne glede na to, kaj opazujemo, moramo v vsakem primeru vpeljati osnovne enote merjenja.
+Za dolžino vpeljemo meter (m), za enoto časa sekundo (s) in za enoto mase kilogram (kg).
+Enote dolžine, časa in mase imenujemo osnovne zato, ker so vse druge enote (hitrost, pospešek, sila, energija …), ki jih sicer uporabljamo v mehaniki, izpeljane iz teh osnovnih enot.
+Dnevno uporabljamo tudi neosnovne enote časa (minute, ure, tedne …), dolžine (milimetre, centimetre, kilometre …) in mase (grame, dekagrame, tone …), ki so v ustreznih velikostnih razredih, da sta predstava in obravnava lažji.
+
+Gibanje v makroskopskem svetu navadno opišemo v tridimenzionalnem vektorskem prostoru, kjer vsaka od koordinat predstavlja eno od smeri gibanja, npr. naprej-nazaj, levo-desno in gor-dol.
+Ob definiranju prostora je pomembna tudi definicija opazovanega sistema.
+Najenostavnejša oblika opazovanega sistema je točkasto telo (slika 2.1.1).
+To je telo, ki ima vso svojo maso zbrano v eni točki in nima dimenzije, torej je njegova velikost neskončno majhna oziroma enaka nič.
+Ena od pomembnih posledic je, da točkastega telesa ne moremo vrteti okoli lastne osi.
+
+V nekaterih primerih opazovani sistem obravnavajo tudi kot sistem točkastih teles (slika 2.1.1), kjer se vsaka točka zase obnaša kot točkasto telo.
+
+Mehansko gledano je od točkastega kompleksnejše togo telo (slika 2.1.1).
+Kadar opazovani sistem obravnavamo kot togo telo, imamo s tem v mislih, da se naš opazovani sistem ne pregiba oz. ne spreminja svoje oblike.
+Njegova masa pa je porazdeljena po vsem volumnu telesa.
+Togo telo je lahko homogeno, takrat je njegova gostota po vsem volumnu enaka, lahko pa je tudi nehomogeno, kadar je gostota po volumnu telesa neenakomerna.
+Za področje biomehanike je večkrat zanimiv tudi sistem togih teles (slika 2.1.1), ki ga sestavlja več med seboj povezanih togih teles.
+
+Za lažjo predstavo lahko nekega športnika v najenostavnejši obliki obravnavamo kot točkasto telo.
+To je navadno kar njegovo težišče telesa (več o tem v poglavju 3.6).
+V tem primeru se predvsem zanimamo, kako se športnik kot celota giblje v prostoru.
+Če ima v roki še kakšen športni rekvizit, lahko opazovani sistem obravnavamo tudi kot sistem dveh masnih točk, če nas na primer ločeno zanima, kako se giblje športnik in kako njegov lopar.
+Kadar pa nas zanima še njegov nagib pri spremembi smeri ali vrtenje okoli lastne osi, moramo športnika obravnavati »najmanj« kot togo telo.
+Če želimo izvedeti več o njegovih kotih v kolenskem, kolčnem in komolčnem sklepu, pa ga moramo obravnavati kot sistem togih teles.
+
+Slika 2.1.1: Od leve proti desni: točkasto telo, sistem točkastih teles, togo telo in sistem togih teles 
+
+Najprej se bomo posvetili translatornemu gibanju, pri katerem se vse točke telesa gibljejo enako.
+V tem primeru je dovolj, če telo obravnavamo kot točkasto.
+Njegovo lego lahko v vsakem trenutku zapišemo s krajevnim vektorjem:
+
+Ker se v splošnem telo s časom t premika, je krajevni vektor odvisen od časa oziroma se vsaka od njegovih koordinat s časom spreminja: r tr( ) =(x t( ), y t( ),z t( )).
+
+Matematično gledano: če je dt dovolj kratek, se točka v času dt premakne v smeri tangente na krivuljo.
+V tem primeru lahko kvocient med drr in dt definiramo kot hitrost gibanja:
+
+Hitrost je fizikalna količina, ki nam pove, koliko se telo premakne na časovno enoto, in ima enoto [m/s].
+Po definiciji ima hitrost smer in velikost, matematično jo zapišemo kot vektor.
+Kadar nas zanima samo njena velikost, lahko izračunamo dolžino vektorja hitrosti oziroma njegovo absolutno vrednost:
+
+Podobno, kot smo definirali hitrost, ki opisuje spremembo položaja, lahko definiramo tudi pospešek, ki opisuje spremembo hitrosti:
+
+ter zapišemo pospešek kot količnik spremembe hitrosti in časa, v katerem se sprememba zgodi:
+
+Enota za pospešek je [m/s2].
+Če je hitrost odvod poti po času oz. krajevnega vektorja po času, potem je pospešek drugi odvod poti po času:
+
+Kadar imamo opravka z enakomerno pospešenim gibanjem, je pospešek konstanten, kadar pa imamo opravka z neenakomerno pospešenim gibanjem, je tudi pospešek odvisen od časa:
+
+Najprej smo zapisali osnovni definiciji za hitrost in pospešek, ki ju lahko izračunamo iz krajevnega vektorja oz. iz vektorja hitrosti.
+Velikokrat pa se sprašujemo tudi o nasprotni poti, kako bi npr. iz hitrosti izračunali pot oz. spremembo položaja.
+To dobimo tako, da v vsakem trenutku pogledamo hitrost gibanja in jo pomnožimo s časom dt : drr= v t dtr( ) .
+
+kjer sta t1 in t2 čas na začetku in čas na koncu ter rr1 položaj na začetku (ob času t1 ) ter rr2 položaj na koncu (ob času t2 ).
+S podobnim razmislekom pridemo tudi do spoznanja, da je končna hitrost:
+
+Razumevanje matematičnega ozadja osnovnih definicij, kot smo jih zapisali v enačbah od 2.1 do 2.5, je izjemnega pomena za razumevanje diagramov.
+Vedno imamo lahko v mislih, da časovni odvod predstavlja smerni količnik tangente na krivuljo ob določenem času.
+Tako npr. zelo preprosto iz diagrama poti v odvisnosti od časa razberemo hitrost.
+Preprosto povedano: kadar je krivulja naraščajoča, je tudi hitrost pozitivna in obrnjeno.
+Kadar krivulja hitreje narašča, je tudi hitrost višja in obrnjeno.
+Kadar imamo npr. maksimum ali minimum, je hitrost enaka nič.
+
+Podobno si lahko pri branju diagramov pomagamo tudi z geometrijsko predstavo integrala.
+Integral predstavlja ploščino pod krivuljo, ki jo lahko razdelimo na enakomerno široke in tanke stolpce ter opazujemo, kako veliko ploščino imajo (kako visoki so).
+Kadar je vrednost funkcije, npr. hitrosti, bolj oddaljena od abscisne osi (stolpci so višji), pot hitreje narašča (pozitivna funkcija) oz. hitreje pada (negativna funkcija) in obrnjeno.
+
+Mnogokrat nas pri gibanju zanima tudi povprečje, npr. povprečna hitrost ali povprečni pospešek.
+Po definiciji lahko povprečno hitrost zapišemo kot količnik med opravljeno potjo ( ) v določenem časovnem intervalu in časovnem intervalu, v katerem je bila pot opravljena:
+
+Opazimo, da je povprečna hitrost na določenem časovnem intervalu odvisna le od začetnega in končnega položaja.
+Posledica tega je, da ima atlet, ki preteče cel krog na krožni atletski stezi, povprečno hitrost enako nič, saj je na začetku in na koncu teka na istem mestu.
+To se morda zdi na prvi pogled presenetljivo, razlaga pa je zelo preprosta.
+Atlet na različnih delih steze teče v različno smer, hitrost pa je vektor (slika 2.2.1).
+Zato se poti med seboj odštejejo.
+Kot smo že zapisali, je ob velikosti hitrosti pomembna tudi njena smer.
+
+Podobno kot povprečno hitrost lahko zapišemo tudi povprečni pospešek, kar lahko bralec naredi za vajo.
+
+Zapisane enačbe v poglavju 2.2 veljajo splošno.
+Kadar imamo opravka z gibanjem v eni smeri, torej z enodimenzionalnim gibanjem, enačbe dobijo enodimenzionalno obliko.
+Kadar sistem zasukamo tako, da os x kaže v smeri gibanja, osnovni definiciji za hitrost in pospešek zapišemo takole:
+
+Pri premočrtnem gibanju pogosteje opustimo vektorsko obliko in enačbe gibanja zapišemo v skalarni obliki: ds v =
+
+Najenostavnejša oblika gibanja v prostoru je enakomerno gibanje.
+Zanj je značilno, da se telo giblje nepospešeno, hitrost pa je konstantna.
+Čeprav je enakomerno gibanje v prostoru, se bomo omejili na premočrtno gibanje.
+V tem primeru enačbe 
+
+Kadar se telo giblje s konstantnim pospeškom, gre za enakomerno pospešeno gibanje.
+V tem primeru se hitrost enakomerno spreminja.
+Enačbe 2.7 za premočrtno enakomerno pospešeno gibanje zapišemo takole: ds v =
+
+Primer enakomerno pospešenega gibanja je navpični met.
+Pospešek nadomestimo z gravitacijskim pospeškom g , pot z višino h , hitrost pa z vertikalno hitrostjo vz ( slika 2.2.2).
+Če je čas ob izmetu enak 0, začetna vertikalna hitrost pa enaka vz1, potem naslednje enačbe opišejo predpostavljeno gibanje:
+
+kjer t predstavlja pretečeni čas od začetka izmeta.
+Negativni predznak gravitacijskega pospeška označuje njegovo smer, ki kaže proti središču Zemlje.
+
+Opomba: navpični met smo obravnavali brez upoštevanja zračnega upora.
+Več o zračnem uporu je zapisano v poglavju 3.2.4.
+
+Pri ravninskem gibanju obravnavamo takšna gibanja, ki potekajo v dveh smereh, torej dvodimenzionalno.
+Zanje navadno izberemo dvodimenzionalni kartezični koordinatni sistem z dvema osema, z absciso x in ordinato y. Splošni definiciji hitrosti in pospeška bi v ravninskemu gibanju zapisali kot:
+
+Poševni met je eden od predstavnikov ravninskega gibanja.
+Pri njem se začne telo gibati poševno navzgor v gravitacijskem polju Zemlje.
+Če zanemarimo zračni upor, lahko poševni met obravnavamo kot enakomerno gibanje v horizontalni smeri, v našem primeru bo to os x, in kot enakomerno pospešeno gibanje v vertikalni smeri, os y. Če poznamo začetno hitrost gibanja vr1, lahko izračunamo velikost hitrosti in izmetni kot oz. začetni kot gibanja:
+
+Če namesto vektorske oblike vsako os gibanja obravnavamo ločeno, lahko začetno hitrost v smereh x in y zapišemo tudi kot:
+
+Za izhodiščno točko gibanja vzamemo položaj (x0, y0 ).
+Ker je hitrost v horizontalni smeri konstantna, velja:
+
+če je čas ob začetku poševnega meta enak 0, x pa predstavlja pot v horizontalni smeri.
+Gibanje v smeri y pa je skladno z navpičnim metom (enačbe 2.10), le da zaradi boljše preglednosti z y označimo gibanje v vertikalni smeri:
+
+predstavljata parametrično obliko tirnice gibanja.
+Če sprejmemo, da se je izmet zgodil v izhodišču koordinatnega sistema (x0, y0 )=(0,0), in iz prve enačbe 2.11. izpostavimo t = x v1x = x v1 cos(φ) ter vstavimo v drugo enačbo (2.11), dobimo:
+
+To je enačba parabole.
+Ugotovimo lahko, da se pri poševnem metu, kadar ne upoštevamo zračnega upora, telo giblje po paraboli.
+Ob tem je hitrost v vsakem trenutku tangencialna na tirnico leta.
+
+Domet pri poševnem metu, kadar je podlaga ravna, lahko izračunamo na dva načina.
+Pri prvem uporabimo enačbo parabole (2.12) in poiščemo, kdaj ima enačba ničle:
+
+Druga možnost izračunavanja dometa je s pomočjo računanja časa leta in dveh predpostavk, ki ju dobimo z opazovanjem.
+Prva predpostavka je, da je vertikalna hitrost na vrhu parabole enaka 0:
+
+Druga predpostavka je, da telo potuje navzgor enako dolgo kot navzdol, tirnica je simetrična.
+Torej je čas leta:
+
+Tudi najvišjo lego (maksimalno višino) gibanja telesa pri poševnem metu lahko dobimo na dva načina.
+Prvi je, da poiščemo maksimum parabole leta oziroma maksimum enačbe 2.12, ki ga poiščemo z odvodom funkcije:
+
+Po kratkem računu bi dobili rešitev, ki je enaka kot po drugi, matematično enostavnejši poti.
+V tem primeru ravnamo podobno kot pri iskanju dometa.
+Poiščemo čas, ki ga potrebuje telo do najvišje lege (enačba 2.14) in ga vstavimo v enačbo za višino (2.11) ob predpostavki, da je izhodišče koordinatnega sistema v začetni točki leta y0 = 0 :
+
+Optimalni met imamo takrat, kadar ima telo takšen izmetni kot oziroma kot začetne hitrosti φ pri poševnem metu, da bo pri enaki začetni hitrosti letelo najdlje, domet bo takrat največji.
+V tem primeru iščemo optimizacijo enačbe D = 2t1/ 2 1v x .
+Če je kot φ velik, bo čas leta dolg, vendar bo horizontalna hitrost majhna in s tem tudi domet.
+Pri majhnih kotih φ bi se zgodilo ravno nasprotno.
+
+Torej iščemo razmerje med horizontalno hitrostjo in časom leta.
+Matematično gledano lahko iščemo maksimum enačbe za domet (2.13).
+To pa že vemo, da je takrat, ko ima odvod funkcije ničlo:
+
+V športu nas večkrat zanima poševni met, ko začetna in končna višina nista enaki (slika 2.2.4).
+Tak primer je npr. met krogle.
+Takrat lahko rečemo: y0 ≠ 0 .
+Tudi v tem primeru lahko domet izračunamo na dva načina.
+Tokrat je preprostejši (krajši), z uporabo enačbe parabole (2.12), kjer iščemo:
+
+Enačba ob pogoju ∆h = 0 preide v znano obliko enačbe za poševni met, ko sta začetna in končna višina enaki (enačba 2.13).
+
+Najvišjo lego pri poševnem metu, ko začetna in končna višina nista enaki, izračunamo po enačbi za višino 2.11 s pogojem 2.14.
+Rezultat je skoraj enak kot pri poševnem metu, kjer sta začetna in končna višina enaki (enačba 2.16), le da prištejemo začetno višino:
+
+odvisnosti od kota ( =0 ).
+Razlika je v tem, da je enačba za domet (2.19) tokrat bolj zapletena.
+Računanje bomo preskočili in zapisali le rezultat za optimalni kot:
+
+Druga, nekoliko lažja, vendar vseeno dovolj zapletena metoda za izračun optimalnega kota, da presega našo raven je, da vzamemo enačbo parabole 2.12 s pogojem y(D)= −∆h .
+Tudi tu velja dx =0 .
+Po nekaj matematičnih korakih dφ
+
+Primer: lokostrelec ustreli puščico v D = 70 m oddaljeno tarčo po kotom φ = 10°.
+Izračunaj, s kolikšno hitrostjo mora puščica odleteti v trenutku, ko zapusti lok.
+Predpostavi, da je tarča na enaki višini kot puščica v trenutku, ko zapusti lok.
+Izračunaj še, kako daleč bi odletela puščica, če bi lokostrelec zgrešil tarčo, višina puščice v trenutku izstrelitve pa je ∆h = 1.4 m.
+
+Za izračun dolžine leta, če lokostrelec zgreši tarčo, uporabimo enako hitrost in enačbo za poševni met, kjer je ∆h = 1.4 m:
+
+Kroženje je drugo ravninsko gibanje, ki ga bomo obravnavali, in je v športnih gibanjih.
+Pri kroženju sprejmemo, da se položaj telesa pomika po krožnici s stalnim polmerom r .
+Če zapišemo, da kot φoklepa kot med absciso in polmerom rr (slika
+
+kjer smo s pikicami označili odvod po času.
+Že od prej vemo, da je hitrost gibanja tangencialna na tirnico gibanja (krožnica).
+Hkrati ugotovimo, da je radij vektor, pravokoten na hitrost, saj velja:
+
+Opomba: skalarni produkt je enak 0, kadar sta vektorja pravokotna.
+Bralec lahko sam preveri, da to pri kroženju drži.
+
+Ugotovimo tudi, da je absolutna hitrost oziroma velikost hitrosti pri kroženju neposredno odvisna od kotne hitrosti in polmera kroženja:
+
+Med kotno hitrostjo in hitrostjo obstaja pomembna razlika.
+Če hitrost pove, koliko poti na časovno enoto opravi telo, potem kotna hitrost pove, za kolikšen kot v radianih se telo zasuka v časovni enoti.
+Enota, ki jo ima kotna hitrost, je tako [s-1], kar nekateri avtorji zapišejo tudi [rad/s].
+
+Po definiciji (enačba 2.1) izračunamo še pospešek pri kroženju: ar r& = r&&r = rφ&&(−sin(φ),cos(φ),0)+ rφ&2(− cos(φ),−sin(φ),0)=
+
+kjer smo pospešek razdelili na radialno in tangencialno smer (slika 2.2.7).
+Definirali smo tudi kotni pospešek:
+
+in zopet označili časovne odvode s pikicami.
+Enota kotnega pospeška je [s-2], kar nekateri avtorji označijo z [rad/s2].
+S skalarnim produktom preverimo, ali sta radialni in tangencialni pospešek pravokotna drug na drugega, saj velja:
+
+Pri kroženju nas pogosto zanima tudi obhodni čas, ki ga definiramo s količnikom med opravljeno potjo L in hitrostjo kroženja v , iz česar dobimo povezavo s kotno hitrostjo:
+
+kroženje imenujemo enakomerno.
+Takrat je tudi kotni pospešek enak nič.
+Skupni pospešek je enak radialnemu, kar je pogoj, da telo kroži:
+
+Pospešek pri enakomernem kroženju kaže v nasprotni smeri radija vektorja oz. neposredno proti središču kroženja.
+Velikost pospeška pa je enaka:
+
+saj se radij kroženja in kotna hitrost ne spreminjata.
+Začetni odmik v kotu ob času 
+
+Kroženje, pri katerem imamo stalen tangencialni pospešek art = konst. in s tem tudi kotni pospešek α= konst., imenujemo enakomerno pospešeno, ki ga v polarnih koordinatah opišemo:
+
+saj se radij kroženja ne spreminja.
+Ob času t = 0 smo odmik v kotu označili s φ0 , začetno kotno hitrost pa z ω0 .
+Pospešek pri enakomerno pospešenem kroženju je vsota tangencialnega in radialnega pospeška:
+
+Po kratkem razmisleku in pregledu zgornjih enačb ugotovimo, da je kroženje matematično enostavneje opisati v polarnih kot v kartezičnih koordinatah.
+Enakomerno kroženje tako zapišemo v polarnem sistemu le z linearnimi enačbami, kjer se spreminja ena koordinata (enačbe 2.38), medtem ko je v kartezičnem koordinatnem sistemu za opis potrebno obravnavati zahtevnejše enačbe s spreminjanjem v dve smereh (v x in y).
+
+Mehansko gledano lahko kroženje obravnavamo na enak način kot premočrtno gibanje, če uporabimo polarne koordinate.
+Torej pot, hitrost in pospešek ( s,v,a ) v enačbah zamenjamo s/z (φ,ω,α).
+
+Primer: Metalec krogle se z mirovanja začne vrteti s kotnim pospeškom α = 2 s-1.
+Izračunaj, s kolikšno tangencialno hitrostjo se bo vrtelo kladivo po dveh obratih.
+Upoštevaj, da je dolžina roke in kladiva (radij kroženja) r = 2 m.
+
+Najprej moramo izračunati, koliko časa bo metalec kladiva potreboval, da se zasuka za dva obrata.
+Uporabimo enačbo za enakomerno pospešeno kroženje: αt 2
+
+Upoštevali smo, da sta dva obrata enaka kotu 4π radianov.
+Iz tega izračunamo kotno hitrost:
+
+V nasprotju s kinematiko dinamika obravnava zakone o gibanju teles pod vplivom sil oziroma se zanima za vzroke za gibanje in s tem predstavlja glavno vejo mehanike.
+To področje biomehanike nam postreže z odgovori na vprašanja zakaj.
+V dinamiki je treba najprej definirati silo.
+To je fizikalna količina, ki nam pove kako
+
+r eno telo učinkuje na drugo, in jo označimo s F .
+Koncept sile je izjemno pomemben, saj pospešenega gibanja brez delovanja sil ni oziroma lahko za pospešeno gibanje nekega telesa vedno poiščemo vzrok v drugem telesu, ki učinkuje na prvo.
+Pri obravnavanju sil ne smemo spregledati, da ima sila poleg velikosti tudi smer, zaradi česar jo zapišemo z vektorjem.
+Kasneje bomo ugotovili, da je poleg velikosti in smeri pri sili pomembno tudi njeno prijemališče, oz. to v kateri točki na telo deluje.
+Enota za silo je Newton [N] in je enaka [kg·m/s2].
+Ker silo zapišemo kot vektor, lahko množico sil seštejemo kot seštevamo vektorje,
+
+r r r po paralelogramskem pravilu (slika 3.1 zgoraj), kjer je FR = F1 + F2 .
+Po drugi strani lahko sile seštejemo z vzporednimi premiki tako, da se konec enega vektorja sile ujame z vektorjem naslednje sile (slika 3.1 spodaj).
+
+Telo miruje ali se giblje premo enakomerno, če nanj ne deluje nobena sila oziroma je vsota vseh sil, ki delujejo na to telo, enaka nič:
+
+Vsota vseh sil, ki delujejo na neko telo, je premo sorazmerna s produktom mase telesa in njegovega pospeška:
+
+Če prvo telo deluje na drugo z neko silo F12 , potem drugo telo deluje na prvo z nasprotno enako silo:
+
+Tretji Newtonov zakon včasih imenujemo tudi zakon o akciji in reakciji ali pa zakon o vzajemnem učinku.
+
+V tem poglavju si bomo ogledali najpogostejše sile, ki delujejo v makroskopski mehaniki športa.
+
+Sila, s katero Zemlja zaradi svojega gravitacijskega polja privlači k sebi vsa telesa 
+
+r maso, ki ni enaka nič, imenujemo sila teže ali gravitacijska sila.
+Označimo jo z Fg ter je enaka zmnožku mase in gravitacijskega pospeška gr : r
+
+Njena smer je enaka smeri gravitacijskega pospeška in kaže v smeri proti središču Zemlje.
+To na Zemljinem površju pomeni navpično navzdol.
+
+Gravitacijska sila deluje med vsemi telesi, ki imajo maso.
+Njeno velikost izračunamo kot:
+
+kjer sta m1in m2 masi teles, κ gravitacijska konstanta, r pa je razdalja med težiščema teles.
+Ker je gravitacijska konstanta κ= 6.6742⋅10−11m3 /kg ⋅s2 majhna, gravitacijske sile med običajnimi telesi na Zemlji ne zaznamo.
+Npr. gravitacijska sila med dvema 100 kg težkima športnikoma, oddaljenima 1 m, bi bila le 6.67·10-7 N. Zaznamo jo, kadar ima eno od teles zelo veliko maso, npr. planeti.
+Zemlja je planet in ima veliko maso, MZemlje = 5.9742⋅1024kg , radij Zemlje pa je »razmeroma« majhen, rZemlje = 6372797m .
+S pomočjo enačb 3.4 in 3.5 lahko izračunamo znan gravitacijski pospešek:
+
+Zapomnimo si še, da je gravitacijska sila vedno privlačna in je vzporedna z daljico, ki povezuje težišči dveh opazovanih teles.
+
+Kadar imamo opravka s telesom na klancu, silo teže pogosto razdelimo na statično
+
+če je φ naklonina klančine.
+Pravokotno na statično komponento sile teže pa definiramo še dinamično komponento sile teže, ki je tako vzporedna s klančino in jo
+
+Sila podlage Fp je reakcija, ki jo povzroči podlaga na opazovano telo.
+Kadar imamo opravka s statičnim primerom na ravni podlagi (velja 1. Newtonov zakon), na telo deluje sila teže, ki kaže navpično navzdol, in nasproti njej po 3. Newtonovem zakonu reakcija podlage, ki kaže navpično navzgor.
+To silo imenujemo normalna sila 
+
+r ali kratko normala in jo označimo s FN .
+Normalna sila zato, ker vedno kaže v smeri normalnega vektorja podlage, to je pravokotno na podlago.
+
+Kadar je telo na klančini in miruje, sila teže deluje navpično navzdol, sila podlage pa mora biti nasprotno enaka sili teže, da zadostimo 1. Newtonovemu zakonu.
+Vendar po definiciji normalna sila predstavlja reakcijo le nasproti statični komponenti sile teže, saj je njena smer pravokotna na podlago.
+Pomembno si je zapomniti, da normalna sila ni vedno nasprotno enaka sili teže ali njeni statični komponenti, ampak predstavlja reakcijo podlage v pravokotni smeri na podlago.
+Ker normalna sila izniči le sile v pravokotni smeri na podlago, potrebujemo še komponento sile reakcije podlage, ki deluje vzporedno s podlago.
+To pa je sila trenja (slika 3.2.2).
+
+Trenje se pojavi takrat, kadar eno telo drsi po drugem.
+Pri tem prihaja do sile, ki se upira gibanju.
+Imenujemo jo sila trenja.
+Posledično deluje v nasprotni smeri gibanja in vzporedno s podlago.
+Poznamo statično trenje (relativna hitrost med opazovanima telesoma je enaka nič), ki ga pogosto imenujemo lepenje in ga
+
+r označimo s Fl , ter kinetično trenje (relativna hitrost med opazovanima telesoma je
+
+r različna od nič), ki ga označimo s Ftr .
+V prejšnjem primeru mirujočega telesa na klancu bi govorili o sili lepenja, saj imamo opravka s statičnim primerom.
+Sila
+
+r lepenja je po velikosti enaka zmnožku velikosti normalne sile FN in koeficienta lepenja kl :
+
+Koeficient lepenja je kvocient med silo lepenja in normalno silo.
+Na enak način definiramo kinetično trenje, kjer je sila trenja po velikosti enaka zmnožku velikosti
+
+Tudi tu je koeficient trenja definiran kot kvocient med silo trenja in normalno silo.
+
+Amontonov 2. zakon: sila trenja je neodvisna od kontaktne površine.
+To velja v idealnem primeru, kadar imamo opravka s popolnoma togimi in neelastičnimi telesi.
+
+Coloumbovo trenje: kinetično trenje je neodvisno od hitrosti.
+Tudi Coloumbovo trenje je idealiziran primer, saj je trenje pogosto odvisno od hitrosti.
+
+Poseben primer trenja je tudi kotalno trenje, to je takrat, kadar se telo okrogle oblike kotali po ravni podlagi.
+Do kotalnega trenja pride zaradi: 1) deformacije telesa, ki se kotali, 2) podlage ali 3) obojega hkrati.
+Kotalno trenje definiramo na enak način kot produkt koeficienta kotalnega trenja in normalne sile:
+
+kjer je z globina ugreza in d premer togega kolesa (slika 3.2.3).
+Npr. koeficient kotalnega trenja avtomobilske gume je v območju med 0.0062 in 0.015, kolesa železniškega vagona po tirih med 0.0002 in 0.0001 ter športnega kolesa med
+
+Vsako telo spremeni obliko oziroma se deformira, kadar nanj delujejo zunanje sile.
+Če se po delovanju zunanjih sil telo povrne v prvotno obliko, govorimo o elastični deformaciji.
+Velikost deformacije ∆l je pri dovolj omejenih deformacijah sorazmerna velikosti zunanje sile: lF
+
+kjer je l prvotna dolžina, E prožnostni modul in S prečni presek (Slika 3.2.4).
+
+Enačba 3.13 je znana tudi kot Hookov zakon prožnosti.
+Pogosto ga zasledimo zakon zapisanega v obliki:
+
+Telesa se v praksi navadno obnašajo tako, da imajo območje deformacije oziroma raztezka, kjer se obnašajo elastično (območje veljave Hookovega zakona).
+Meja, do koder velja Hookov zakon, se imenuje meja prožnosti.
+Pri večjih raztezkih pride do plastične deformacije oziroma do deformacije po kateri se telo ne vrne več v prvotno obliko.
+Pri nadaljnjem povečevanju raztezka pride do porušitve oziroma do pretrganja.
+
+Kadar imamo več elastičnih teles (npr. vzmeti) vezanih v sistem, lahko izračunamo tudi njihov skupni koeficient prožnosti.
+Za primer dveh vzporedno vezanih prožnih teles dobimo:
+
+V športu navadno opazujemo gibanje, ki se dogaja v različnih medijih.
+Najpogostejša sta zrak in voda.
+Pri gibanju telesa v tekočini ali kadar se tekočina giblje mimo, telesa se obmejna plast tekočine prilepi na opazovano telo in se giblje z njim.
+Plasti tekočine bolj stran od telesa pa drsijo ena ob drugi.
+Zato se ustvari sila, ki deluje na telo in ima nasprotno smer relativni hitrosti med telesom in tekočino.
+Če je tok laminaren (slika 3.2.6), takšno silo imenujemo viskozni upor.
+S pomočjo viskozne sile:
+
+dv kjer je η viskoznost tekočine, S stična površina in gradient hitrosti, lahko dz
+
+Kadar imamo opravka z višjo relativno hitrostjo gibanja telesa v mediju in/ali manjšo viskoznostjo tekočine, se začnejo tokovnice vrtinčiti.
+Tak tok imenujemo turbulentni (slika 3.2.7).
+V primeru turbulentnega toka sila upora ni več sorazmerna s hitrostjo, ampak s kvadratom hitrosti.
+Dobimo kvadratni zakon upora:
+
+kjer je cu koeficient upora, ρ gostota medija in S prečni presek.
+Kvadratni zakon upora se sicer izpelje iz zastojnega tlaka in Bernoullijeve enačbe, vendar to presega našo razpravo.
+
+Čeprav upor po definiciji kaže v nasprotni smeri relativne hitrosti gibanja telesa v tekočini, imamo lahko tudi »pogonski upor«.
+Tega s pridom izkoriščamo npr. pri plavanju, kadar plavalec dlan prečno na tekočino močno potisne nazaj glede na gibanje težišče telesa.
+S tem se ustvari sila, ki kaže v smeri naprej.
+Če je ta sila večja od sile čelnega upora plavalca, bo s tem pospešil v smeri naprej.
+
+kjer je l značilna linearna razsežnost telesa, ki omejuje tok tekočine (za kroglo ali cev je enak premeru), v relativna hitrost tekočine glede na opazovano telo, ρ gostota tekočine in η njena viskoznost.
+Reynoldsovo število je brez dimenzije in velja, da je tok obtekanja okrog krogle laminaren, če je Re < 0.5, in turbulenten, če je Re > 2000.
+
+Primer: padalec z maso m = 80 kg skoči s padalom, ki ima prečni presek S = 25 m2.
+
+Izračunaj, kolikšna bo ravnovesna hitrost padalca.
+Upoštevaj, da je viskoznost zraka
+
+-5 2 3 η = 1.72·10 Ns/m , gostota zraka ρ = 1.293 kg/m in koeficient upora cu=1.1.
+
+Z Reynoldsovim številom še preverimo, ali je bilo primerno uporabiti kvadratni zakon upora:
+
+Dinamični vzgon je produkt upora tekočine v prečni smeri na tokovnice.
+Nastane zaradi nesimetričnega poteka tokovnic okoli opazovanega telesa, kar zgosti tokovnice na eni strani in povzroči silo v prečni smeri glede na tokovnice:
+
+kjer je v nasprotju z enačbo 3.16 cv koeficient dinamičnega vzgona.
+Pri letalskem krilu (slika 3.2.7) je koeficient dinamičnega vzgona v območju med 0.5 in 1.
+
+Magnusov efekt je posledica obtekanja tekočine (zraka) okoli rotirajočega projektila.
+Za primer lahko uporabimo žogo, ki leti po zraku in se hkrati vrti okoli lastne osi, ki je pravokotna na tok zraka mimo nje (slika 3.2.8).
+Na strani, kjer se žoga vrti v isto smer, kot je njena smer potovanja po zraku, se del zraka prilepi na žogo.
+Lokalno se zato zrak počasneje giblje ob tej strani kot na drugi strani, kjer se dogaja ravno nasprotno.
+Na strani, kjer je obtekanje počasnejše, se v skladu z Bernoullijevo enačbo ustvari višji tlak, na drugi strani pa je tlak nižji.
+To povzroči sile, ki so prečne na gibanje žoge in jo potiskajo od višjega k nižjemu tlaku.
+
+Če telo potopimo v mirujočo tekočino, ta nanj pritiska z vseh smeri pravokotno na njegovo površino.
+Ugotovimo, da se sile v prečni smeri izničijo.
+V navpični smeri pa ni tako, saj je tlak na zgornji in spodnji strani telesa, ki je potopljeno v tekočino, različen (je različno globoko).
+Zaradi tega se ustvari hidrostatičen vzgon, ki je enak sili izpodrinjene tekočine: r
+
+kjer je ρ gostota tekočine, V prostornina izpodrinjene tekočine (prostornina potopljenega telesa, kadar je celo pod vodo) in gr gravitacijski pospešek.
+
+Hidrostatični vzgon je nasprotno usmerjen gravitacijskemu pospešku (slika 3.2.9), prijemlje v težišču izpodrinjene tekočine in je neodvisen od tega, kako globoko je telo potopljeno v tekočino (razen pri zelo velikih globinah, ko bi se lahko spremenil gravitacijski pospešek).
+
+Primer: izračunaj, kolikšen je vzgon športnika z maso m = 80 kg na zraku.
+Upoštevaj, da je gostota človekovega telesa ρt = 1.05 kg/dm3 in gostota zraka ρz = 1.293 kg/m3.
+
+Ugotovimo, da vzgon na športnika deluje tudi na zraku, vendar je zaradi majhne gostote zraka zanemarljiv.
+
+V poglavju 2.2.2 smo si ogledali kinematiko kroženja.
+Torej vemo, da je kroženje gibanje, kjer imamo v splošnem tangencialni in radialni pospešek.
+Kadar govorimo o enakomernem kroženju, je tangencialni pospešek enak nič, radialni pospešek pa je po enačbi 2.36:
+
+Tako lahko na osnovi 2. Newtonovega zakona trdimo, da mora biti vsota vseh sil v radialni smeri enaka marr , da bo telo krožilo:
+
+Produkt marr mnogokrat imenujemo centripetalna sila Fcp , čeprav je to rezultat desne strani 2. Newtonovega zakona.
+Razlog tiči v tem, da mora v radialni smeri skupno delovati sila, ki je enaka centripetalni sili, da bo telo z maso m krožilo po polmeru r .
+
+Slika 3.2.10: Vsota vseh sil pri enakomernem kroženju v inercialnem sistemu kaže proti središču kroženja 
+
+Zgornji opis pripišemo sistemu zunanjega opazovalca oz. opazovalca, ki se ne giblje pospešeno.
+Bolj učeno tak sistem imenujemo inercialni.
+Ker pa je kroženje razmeroma zapleteno za obravnavo, ga mnogokrat raje obravnavamo v neinercialnem sistemu oziroma v pospešenem sistemu, ki ga imenujemo tudi sistem notranjega opazovalca.
+V njem enakomerno kroženje obravnavamo tako, da se sistem vrti hkrati z opazovanim telesom.
+Posledica tega je, da opazovano telo v tem sistemu miruje in je vsota vseh sil ter s tem tudi sil v radialni smeri enaka nič: r
+
+čeprav telo kroži.
+Posledica izbire krožečega neinercialnega sistema je sistemska
+
+r sila, ki se imenuje centrifugalna sila Fcf (slika 3.2.11).
+Po velikosti je enaka centripetalni sili, le da ima smer nasprotno enako in tako kaže v smeri radij-vektorja oz. iz središča kroženja radialno navzven.
+Deluje na vsa telesa, ki jih obravnavamo v takem krožečem sistemu.
+
+Slika 3.2.11: Vsota sile, ki povzroča kroženje, in centrifugalne sile je v neinercialnem sistemu enaka nič
+
+Obstoj centrifugalne sile si lahko ponazorimo s preprostim primerom premega gibanja.
+Kadar se opazovalec vozi v pospešujočem vozilu, zanj telesa, ki sicer mirujejo, pospešujemo v nasprotni smeri pospeška vozila.
+V takem sistemu (neinercialnem – pospešenem) na mirujoča telesa deluje sistemska sila, ki je nasprotno enaka produktu mase telesa in pospeška sistema (vozila) r F sistemska = −mar .
+To lahko pojasnimo tako, da v takem neinercialnem sistemu mora delovati sila, ki povzroči pospešek telesa, čeprav to telo sicer miruje.
+Sistemska sila pa ne deluje le na mirujoča, ampak na vsa telesa v takem neinercialnem sistemu.
+Če bi ta isti opazovalec opazoval vozilo, ki ima enak pospešek kot tisto, v katerem se vozi opazovalec, bi na drugo vozilo ravno tako delovala sistemska sila nasprotno enaka produktu mase in pospeška.
+Ker pa v tem neinercialnem sistemu drugo vozilo miruje, bi bila vsota vseh sil nanj enaka nič.
+Enak razmislek lahko opravimo tudi v krožečem sistemu, le da je tam pospešek sistema enak radialnemu pospešku, sistemska sila pa je enaka centrifugalni.
+
+Kadar imamo opravka s pospešenim kroženjem, imamo ob radialnem pospešku tudi tangencialnega.
+Zato 2. Newtonov zakon za pospešeno kroženje zapišemo v obliki:
+
+Zaradi lažjega računanja tudi tu sistem navadno obravnavamo v tangencialni in radialni smeri (slika 3.2.12).
+Zopet lahko trdimo, da je pogoj za kroženje vsota vseh sil v radialni smeri v vsakem trenutku kroženja enaka produktu marr : r
+
+Slika 3.2.12: Vsota vseh sil v radialni in tangencialni smeri pri pospešenem kroženju 
+
+Primer: vozilo se giblje po cestišču v ovinek.
+Razmisli, kako se bo gibalo, ko pripelje na poledenelo cestišče sredi ovinka.
+
+Vozilo ima med pnevmatikami in cestiščem prečno trenje, ki omogoča zavijanje (slika 3.2.13).
+Ko zapelje na poledenelo cestišče, sile v prečni smeri ni več, če upoštevamo, da je trenje v prečni smeri takrat enako nič.
+Zato se vozilo od tistega trenutka giblje naravnost.
+
+3.2.13: Sila trenja v prečni smeri med vozilom in cestiščem je prisotna, dokler imajo gume oprijem
+
+Primer: smučar s stalno hitrostjo smuča skozi radius na smučišču.
+Nariši sile, ki delujejo nanj v inercialnem in neinercialnem sistemu, ter v obeh sistemih izračunaj, kolikšna je velikost sile normale.
+Upor zraka in trenje zanemari.
+
+Na sliki 3.2.14 so narisane sile, ki delujejo na smučarja: sila teže, sila normale in v neinercialnem sistemu še centrifugalna sila.
+V inercialnem sistemu je označena tudi rezultanta vseh sil v radialni smeri – centripetalna sila.
+
+Kot smo se učili, je v inercialnem sistemu vsota vseh sil v radialni smeri enaka centripetalni sili oziroma produktu mase in radialnega pospeška:
+
+Drugi Newtonov zakon preoblikujmo tako, da pospešek zapišemo kot odvod hitrosti po času:
+
+Količino na levi strani enačbe imenujemo sunek sile, na desni strani pa dobimo razliko produktov mase in hitrosti ob končnem in začetnem času, ki ju imenujemo sprememba gibalne količine:
+
+Enačba 3.28 hkrati predstavlja tudi izrek o spremembi gibalne količine, ki pravi, da se gibalna količina telesa spremeni, kadar je sunek zunanjih sil različen od nič.
+Nasprotno tudi velja, da se gibalna količina telesa ohrani natanko takrat, kadar je sunek zunanjih sil enak nič.
+
+Izrek o sunku sile in spremembi gibalne količine je zelo uporaben pri obravnavi trkov teles.
+Za primer obravnavajmo dve telesi z masama m1in m2, ki se centrično trčita med seboj.
+Pred trkom imata hitrosti vr1 in vr2 (slika 3.4.1).
+Nato se trčita med
+
+r seboj, kjer prvi deluje s silo F12 na drugega po 3. Newtonovem zakonu drugi na prvega z nasprotno enako silo:
+
+Po trku pa se telesi gibljeta s hitrostma vr1' in vr2'.
+Na telesi sicer delujeta še zunanji sili, to sta sila teže in sila normale, ki pa se v vsakem trenutku izničita.
+
+Slika 3.4.1: Centrični trk dveh teles: gibanje pred trkom (zgoraj), trk (sredina) in gibanje po trku (spodaj)
+
+Sedaj pa obravnavajmo obe telesi, ki trčita med seboj, kot naš opazovani sistem.
+V tem primeru seštejemo oba sunka teles na levi strani enačbe in obe spremembi gibalnih količin na desni strani:
+
+Zaradi 3. Newtonovega zakona (enačbi 3.32) tudi velja, da je vsota sunkov sil enaka nič:
+
+Zato velja, da je 0 =m2 2vr '−m2 2vr +m1 1vr '−m1 1vr .
+Če enačbo preuredimo, dobimo:
+
+Kar pomeni, da se gibalna količina sistema dveh teles med trkom ohrani, saj je gibalna količina pred trkom enaka gibalni količini po njem:
+
+Na osnovi izreka o sunku sile in spremembi gibalne količine to drži, kadar je vsota zunanjih sil enaka nič.
+Ker pa so trki zelo kratki, lahko v dobrem približku trdimo, da je sunek zunanjih sil med trkom enak nič.
+Torej bi lahko izrek, da se gibalna količina sistema dveh teles med trkom ohrani, uporabili tudi takrat, kadar imamo zunanje sile (npr. sila teže in sila upora pri trku dveh letal v zraku).
+
+Za obravnavo trkov je uporabno definirati tudi relativno hitrost.
+Kadar se telesi približujeta (slika 3.4.2), je relativna hitrost višja, vrr =vr1−vr2 , saj velja:
+
+Kadar se telesi gibljeta v isto smer (slika 3.4.3), je relativna hitrost manjša:
+
+Pri obravnavi trkov vpeljemo koeficient prožnosti trka oziroma restitucijski koeficient trka:
+
+kjer indeksa 1 in 2 označujeta hitrosti prvega in drugega telesa, nadpisano »po« označuje hitrosti po trku in nadpisano »pred« hitrosti pred trkom.
+Kadar eno telo ves čas miruje oziroma je neskončno večje od drugega, navadno velikemu telesu pripišemo hitrost nič.
+Tak primer je trk ob tla.
+Enačbo 3.35 v takem primeru poenostavimo:
+
+Na osnovi koeficienta prožnosti trka lahko definiramo tri različne trke (slika 3.4.4):
+
+delno prožni trk, velikost hitrosti po trku je manjša od velikosti hitrosti pred njim
+
+prožni trk (popolnoma prožni trk), velikost hitrosti po trku je enaka kot velikost hitrosti pred njim.
+
+Slika 3.4.4: Plastični trk (zgoraj), delno prožni trk (sredina), prožni trk (spodaj)
+
+Primer: obravnavajmo drsalca in drsalko z masama m1 = 45kgin m2 = 60kg , ki se zaletita pod kotom α= 60o s hitrostma v1 = 3m/ s in v2 = 2m/ s (slika 3.4.5).
+
+Med trkom se primeta in se po njem gibljeta naprej kot eno telo s skupno maso.
+Primer obravnavamo kot neprožni (plastični) trk.
+
+Slika 3.4.5: Shema trka drsalca in drsalke Ker vemo, da se gibalna količina med trkom ohrani, lahko zapišemo:
+
+(vx ,vy )=  m1 1v + m2v2 cos( )α , 0 − m2v2 sin( )α  = (1.81m / s,−1.02m / s).
+
+Primer: pravila košarkarske zveze NCAA zahtevajo, da ima žoga primeren odboj.
+Test je videti tako, da žogo izpustijo z višine H1 =1.83m, ki se mora odbiti nazaj na višino 1.24m<H2 <1.37m (glej sliko 3.4.6).
+Izračunajmo, kolikšen mora biti koeficient prožnosti trka za žogo, da ustreza pravilom NCAA.
+
+Primer: športnik skoči z višine h na ravno in trdo podlago (slika 3.4.7).
+Poznamo njegov čas kompenzacije doskoka ∆t in njegovo maso m. Kolikšna bo povprečna sila podlage na športnika pri doskoku in kolikšna bo pot težišča telesa, ki jo bo telo opravilo med kompenzacijo doskoka?
+
+S pomočjo kinematike lahko zapišemo hitrost, ki jo bo imel športnik po padanju z višine h:
+
+in enačbo zapišimo za vertikalno smer, kjer smo označili, da je navzgor pozitivno:
+
+Zapišimo izrek o spremembi gibalne količine za vertikalno smer, kjer vemo, da je hitrost športnika na koncu kompenzacije enaka 0:
+
+Ker pri doskoku deluje tudi sila teže, F∆t pa je po definiciji vsota vseh zunanjih sunkov navorov, je sila podlage po 2. Newtonovem zakonu enaka:
+
+Vsota gibalnih količin masnih točk je enaka gibalni količini sistema masnih točk:
+
+kjer indeks i teče po vseh masnih točkah in je vr hitrost sistema.
+Če obe strani enačbe odvajamo po času:
+
+Zdaj sile v sistemu masnih točk razdelimo na notranje (sile med masnimi točkami) in zunanje, torej sile, ki od zunaj delujejo na sistem masnih točk:
+
+Zunanje sile so označene z indeksom i, notranje pa z indeksoma ij, ki ponazarjata delovanje i-te masne točke na j-to telo.
+Ker po tretjem Newtonovemu zakonu velja (glej tudi sliko 3.5.1):
+
+dobimo, da je vsota vseh zunanjih sil, ki delujejo na sistem masnih točk, enaka produktu mase vseh točk m in skupnega pospeška ar :
+
+Na enak način, kot smo pokazali za sistem točkastih teles, bi lahko naredili tudi za togo telo.
+V tem primeru bi morali uporabiti neskončne vsote neskončno majhnih točk, ki skupaj sestavljajo togo telo.
+Za lažjo predstavo bi lahko vsak delec telesa obravnavali kot masno točko.
+Rezultat na koncu pa je enak: vsota vseh sil, ki delujejo na togo telo, je enaka produktu mase tega telesa in njegovega pospeška.
+
+Slika 3.5.1: Dve točki v sistemu masnih točk in delovanje notranjih ter zunanjih sil 
+
+Pri razumevanju 2. Newtonovega zakona je za sistem masnih točk in togega telesa zelo pomembno naslednje: ne glede na to, kje sile prijemljejo na togo telo oz. na katero točko sistema masnih točk delujejo, se bo ves sistem oz. togo telo gibalo v skladu z 2. Newtonovim zakonom.
+
+Tudi tokrat bomo najprej zapisali vsoto gibalnih količin masnih točk, ki je enaka gibalni količini sistema masnih točk (enačba 3.37):
+
+le da bomo uporabili definicijo za hitrost vr = drri oziroma vr = drr in jo vstavili v
+
+kjer z rri označimo krajevni vektor i-te točke in z rr skupni krajevni vektor sistema masnih točk.
+Ker se mase in skupna masa sistema s časom ne spreminjajo, dobimo:
+
+Enačba 3.39 pravi, da je vsota produktov mas posameznih točk z njihovim krajevnim vektorjem enaka produktu skupne mase in skupnega krajevnega vektorja.
+Skupni krajevni vektor sistema masnih točk predstavlja težišče sistema in ga simbolično označimo z rrt :
+
+Za definiranje težišča telesa togega telesa le-to razdelimo na neskončno majhne mase dm.
+Če postopek ponovimo za neskončno majhne mase, dobimo, da je težišče togega telesa definirano kot:
+
+Ugotovimo, da je težišče telesa oziroma težišče sistema masnih točk tista točka, ki se vede v skladu z 2. Newtonovim zakonom kot smo ga opisali v poglavju 3.5 (enačba 3.38).
+Torej, vsota vseh sil, ki delujejo na določeno telo oz. na sistem masnih točk, bo povzročila, da se bo težišče telesa oz. sistema z maso m gibalo s pospeškom ar .
+
+Primer: izračunaj težišče človeškega telesa v dvodimenzionalnem sistemu, če predpostavimo, da lahko telo opišemo s štirimi segmenti, kot prikazuje slika 3.6.1.
+Segmente obravnavamo kot toga telesa, za katere poznamo njihova težišča.
+
+Slika 3.6.1: Človeško telo, razdeljeno na štiri segmente z masami in koordinatami točk 
+
+Enačbo 3.4 zapišemo za vsako koordinato posebej in upoštevamo, da je m = m1+ m2+ m3+ m4:
+
+Ker obravnavamo sistem v dveh dimenzijah, je položaj težišča v smeri z enak nič.
+
+Za primer obravnavajmo točkasto telo, ki pospešeno kroži po krožnici s polmerom r. Vsoto vseh sil, ki delujejo na telo, lahko po 2. Newtonovem zakonu zapišemo z radialno in tangencialno komponento (enačba 3.22):
+
+Vsoto vseh sil lahko tako na enak način zapišemo kot vsoto vseh sil v radialni in tangencialni smeri:
+
+Radij vektor od središča kroženja do telesa, ki kroži, označimo z rr in imenujmo ročica.
+Če silo z leve strani vektorsko pomnožimo z ročico, dobimo fizikalno
+
+r količino, ki jo imenujemo navor in ga označimo z M .
+Če po opisanem postopku enačbo 3.37 vektorsko pomnožimo z ročico, dobimo:
+
+Ugotovimo, da navor povzročijo le sile, ki delujejo v tangencialni smeri, sile v radialni smeri pa ne.
+Velikost navora iz vektorskega produkta lahko zapišemo kot produkt sile, ročice in sinusa vmesnega kota:
+
+Med navorom in kotnim pospeškom dobimo sorazmernostni koeficient mr2 , ki ga imenujemo vztrajnostni moment, označimo ga z J in ima enoto [kg·m2].
+V našem primeru je to vztrajnostni moment za točkasto telo glede na zunanje osišče vrtenja.
+
+Primer: obremenitev kolenskega sklepa pri alpskem smučanju je odvisna od vzdolžnih in prečnih sil, ki delujejo na smučko (slika 3.7.1).
+Izračunaj, ali je relativna sprememba obremenitve na koleno večja, če stojno višino znižamo s 6.5 na 5.5 cm (za 1 cm) oziroma če 60 mm široko smučko razširimo za 2 mm.
+
+Slika 3.7.1: Navor, ki ga povzroča vzdolžna sila (levo), in navor, ki ga povzroča prečna sila (desno)
+
+Ker je vzdolžna sila pravokotna na smučko, lahko zapišemo, da je navor, ki ga povzroča okoli robnika, enak:
+
+Ker je ročica v tem primeru le polovica širine smučke, je ročica enaka 30 mm oz. se s spremembo poveča za 1 mm.
+Razmerje med novim in starim navorom je tako:
+
+kjer je M1' navor po spremembi.
+Relativna sprememba je 3.3 % pri enako veliki vzdolžni sili.
+
+Zavedati pa se moramo, da ročica zdaj ni odvisna le od stojne višine smučke, ampak tudi od dolžine goleni.
+Če vzamemo, da je golen dolga 45 cm, dobimo razmerje:
+
+Kar znese 1.9 % relativne spremembe.
+Ugotovimo, da razmeroma majhna sprememba širine smuči bolj vpliva na relativno obremenitev kolena kot razmeroma velika sprememba stojne višine.
+Po drugi strani moramo imeti še v mislih, da so vzdolžne sile pri smučanju za nekaj velikostnih razredov višje od prečnih, ročice pa so pri vzdolžnih silah približno 15-krat manjše.
+
+r r rr1 in rr2 .
+Prvo deluje na drugo s silo F12 , drugo na prvo pa s silo F21 (glej sliko
+
+Ker je razlika krajevnih vektorjev vzporedna s F12 , je vsota obeh navorov enaka nič.
+
+Slika 3.8.1: Notranji navori sistema dveh točkastih teles kot posledica delovanja notranjih sil 
+
+Tudi če zapišemo vsoto notranjih navorov za sistem več masnih točk, je vsota notranjih navorov enaka nič, saj navori vedno nastopajo v parih, ki se med seboj odštejejo.
+
+Zamislimo si togo telo, ki je sestavljeno iz neskončnega števila neskončno majhnih delov, ki jih obravnavamo kot točkasta telesa.
+Tudi pri togem telesu pridemo do spoznanja, da je vsota vseh notranjih navorov enaka nič.
+S temi ugotovitvami
+
+r zapišimo vsoto vseh navorov dM za delček togega telesa z maso dm, ki je od nepremične osi odmaknjeno za ročico rr (glej tudi sliko 3.8.2): r
+
+Ker je kotni pospešek okoli nepremične osi za vse masne delce enak, lahko zapišemo, da je vsota vseh navorov enaka produktu vztrajnostnega momenta togega telesa in njegovega kotnega pospeška: r
+
+Ugotovimo, da se bo togo telo vrtelo s sorazmerno večjim kotnim pospeškom, če bo nanj delovala večja vsota vseh zunanjih navorov, in sorazmerno z manjšim kotnim pospeškom, če bo imelo večji vztrajnostni moment.
+Vztrajnostni moment togega telesa pa je po enačbi 3.46 tem večji, čim bolj je masa telesa oddaljena od osišča vrtenja.
+
+V mehaniki navadno izračunamo vztrajnostni moment okoli osišča, ki seka težišče telesa.
+Računanje različnih geometrijskih oblik bomo izpustili, saj lahko njihove rezultate poiščemo v različnih preglednicah.
+Pomembno pa se je zavedati, da ima telo v splošnem tri lastne vrednosti vztrajnostnega tenzorja, ali nekoliko bolj poljudno, tri različne vztrajnostne momente za tri različne osnovne osi vrtenja.
+Če pa ima telo simetrije, je teh lastnih vrednosti vztrajnostnih momentov manj.
+Npr. krogla (žoga), ki je sferno simetrična, ima le eno lastno vrednost vztrajnostnih momentov, valj (palica) pa dve (okoli vzdolžne in okoli prečne osi).
+
+Pri obravnavi človeka imamo vztrajnostne momente, ki so različni za različne rotacije.
+Npr. podlaket ima tri vztrajnostne momente: prvega, kadar prihaja do upogibanja in iztegovanja v komolcu, drugega pri odmikanju in primikanju in tretjega pri notranji in zunanji rotaciji.
+
+Pomembna ugotovitev je tudi, da so vztrajnostni momenti teles okoli nepremične osi aditivni.
+To pomeni, da jih lahko preprosto seštevamo.
+Če imamo metalca kladiva, ki se vrti okoli stalne nepremične osi, in poznamo vztrajnostni moment metalca Jm in kladiva Jk, ju lahko preprosto seštejemo:
+
+Primer: drsalka se vrti okoli svoje navpične vzdolžne osi.
+Ali ima večji vztrajnostni moment, ko ima roke priročene ali odročene?
+
+Če ima roke odročene in se vrti okoli svoje navpične osi, so masni deli roke bolj oddaljeni od osišča vrtenja kot v primeru, ko ima roke odročene.
+Zato je vztrajnostni moment večji.
+
+Mnogokrat nas pri računanju v kineziologiji zanimajo primeri, kjer se telo ali deli teles ne vrtijo okoli osi, ki gre skozi težišče obravnavanega telesa.
+V teh primerih telo obravnavamo tako, da os koordinatnega sistema, okoli katere kroži, vzporedno prestavimo v težišče sistema.
+S kratkim računom, ki presega naše zanimanje, lahko pokažemo, da je rezultat vztrajnostni moment J, ki je sestavljen iz vztrajnostnega momenta okoli lastne težiščne osi J* in vztrajnostnega momenta težiščne točke okoli nepremične osi mr2:
+
+Primer: metalec krogle se v rotacijski tehniki vrti okoli stalne osi.
+Izračunaj vztrajnostni moment krogle s polmerom R in mase m, ki kroži po krožnici s polmerom r.
+
+Iz preglednic lahko poiščemo, da je vztrajnostni moment krogle okoli lastne osi:
+
+Vztrajnostni moment težišča, ki kroži po krožnici s polmerom r, pa je mr2 .
+Po Steinerjevem izreku je vztrajnostni moment krogle, ki kroži po krožnici:
+
+Z enačbo 3.41 so zapisali obliko 2. Newtonovega zakona za kroženje točkastega telesa:
+
+r označimo z Γ .
+Indeks 2 pri kotni hitrosti pomeni končno hitrost in indeks 1 začetno.
+Dobimo izrek, ki pravi, da je vsota vseh sunkov navora enaka spremembi vrtilne količine:
+
+Vrtilna količina ima pri kroženju podobno vlogo kot gibalna količina pri premem gibanju.
+Razlikuje se v tem, da se vrtilna količina spremeni, kadar imamo zunanji sunek navora različen od nič, torej potrebujemo ekscentrične sile.
+Po drugi strani pa velja, da kadar je vsota zunanjih sunkov navorov enaka nič, se vrtilna količina ohrani:
+
+Kadar na telo delujejo navori, ki se s časom ne spreminjajo, lahko enačbi 3.49 in
+
+Izreka, zapisana v enačbah 3.49 in 3.50, veljata tudi za toga telesa.
+Še več, izrek o ohranitvi vrtilne količine velja tudi, če telo spremeni obliko.
+Za take primere zapišemo: r
+
+kjer se vrtilna količina ohranja, spremenita pa se tako vztrajnostni moment kot kotna hitrost.
+
+Pri modeliranju prevrata prosto naprej mehansko gledano ločimo dve fazi (slika 3.10.1).
+Prva je odriv, ko ima telovadec stik s podlago.
+Takrat imamo ob centričnem delovanju sile teže še ekscentrično silo podlage, ki povzroči rotacijo.
+Druga faza je brezoporna faza, torej čas, ko je telovadec v zraku in nanj deluje le sila teže, če upor zraka zanemarimo.
+Zato v drugem delu sile na telovadca delujejo le centrično in ne povzročajo nobenega sunka navora.
+
+Opomba: če bi tudi v prvi fazi sile delovale le centrično, bi se telovadec gibal le translatorno, brez rotacije.
+
+kjer smo čas začetka odriva označili s t0, čas konca odriva, ki je hkrati tudi začetek brezoporne faze, s t1.
+Sili, ki delujeta na telo pa sta sili podlage in teže:
+
+V navpični smeri delujeta sila teže in sila podlage, zato je vertikalna hitrost:
+
+kjer je ∫ Fzdt sunek sile podlage v navpični smeri, ki ga izmerimo s pomočjo pritiskovne plošče.
+
+kjer je ∫ Fxdt sunek sile podlage v vodoravni smeri, ki ga ravno tako izmerimo s pomočjo pritiskovne plošče.
+
+Navor ob odrivu povzroča le sila podlage, ki je ekscentrična, sila teže pa je centrična.
+Sunek navora sile podlage tako povzroči spremembo vrtilne količine:
+
+kjer je J vztrajnostni moment telesa.
+Iz vektorskega produkta dobimo navor, ki kaže le v osi y – to je os, ki je pravokotna na sagitalno ravnino človeka:
+
+Če poznamo sunek navora, lahko izračunamo kotno hitrost vrtenja telesa ob času t1,
+
+Iz navpične hitrosti lahko s pomočjo enačbe 2.15 izračunamo čas leta v brezoporni fazi:
+
+ob predpostavki, da je težišče telesa ob koncu odriva na enaki višini kot v trenutku pristanka po izvedbi prevrata prosto naprej.
+
+ωy ( )t1 = ∫ M ydt , je zasuk telesa v zraku enak produktu časa leta in kotne hitrosti: J
+
+Vzemimo, da ima telovadec maso m = 75 kg ter se odrine s sunkom sile ∫ Fzdt =320Ns in sunkom navora ∫ M ydt = −96Nms .
+
+Če bi bil telovadec v pokrčenem položaju z vztrajnostnim momentom J = 6.2kgm2 , bi bila njegova kotna hitrost vrtenja:
+
+kar predstavlja skoraj dva obrata.
+V praksi ves čas prevrata prosto naprej telovadec ni niti pokrčen niti iztegnjen.
+Če bi položaj spreminjal v pravem razmerju, bi se lahko zavrtel ravno za en obrat in uspešno izvedel prevrat prosto naprej.
+
+Drsalko mase m = 55 kg in višine h = 170 cm lahko enostavno mehansko modeliramo s homogenimi valji.
+Glavni pokončni valj je trup drsalke, dva manjša valja pa predstavljata dve roki, ki sta najprej ob telesu, nato se odročita (slika 3.10.2).
+Izračunaj, kako se spremeni začetna frekvenca kroženja ν = 3 s-1, če so spremenljivke, ki jih dobimo s pomočjo antropometrijskih preglednic, naslednji:
+
+Trup: glavni valj dolžine h = 170 cm s polmerom Rt = 21.9 cm in mase mt = 49.5 kg.
+
+Vztrajnostni moment valja okoli njegove vzdolžne osi je J= = mr 2 , okoli prečne
+
+Slika 3.10.2: Model drsalke, sestavljen iz treh valjev za priročene (levo) in odročene roke (desno)
+
+Ker se vrtilna količina ohranja (vsota zunanjih sunkov navorov je enaka nič), velja, da je vrtilna količina s priročenimi rokami enaka vrtilni količini z odročenimi rokami:
+
+kjer indeks 1 predstavlja dogajanje s priročenimi, indeks 2 pa z odročenimi rokami.
+Vrtenje opazujemo le okoli vzdolžne osi z, zato lahko enačbo zapišemo kot:
+
+Sedaj pa zapišimo vztrajnostni moment za velik valj (trup), ki je v obeh primerih enak:
+
+Za vztrajnostni moment malih valjev (roke) uporabimo Steinerjev izrek, ker se težišče valja vrti okoli zunanje osi (osi skozi sredino trupa), ob tem pa še okoli lastne osi.
+Najprej za priročene roke:
+
+kjer se tudi majhna valja (roki) vrtita okoli vzdolžne osi, težišče pa kroži s polmerom (Rt + rt).
+Zdaj zapišimo vztrajnostni moment še za odročene roke, kjer se majhna valja vrtita okoli prečne osi:
+
+Pri izreku o sunku sile smo se zanimali za časovni potek delovanja sile na telo, pri opazovanju gibanja pa nas mnogokrat zanima, kako sila deluje na določeni poti.
+
+Takrat govorimo o delu sile, ki ga definiramo kot skalarni produkt sile F in premika njenega prijemališča sr :
+
+kadar se sila ne spreminja.
+Kadar pa se sila s krajem spreminja, z integralom seštejemo vse majhne prispevke:
+
+Kadar sta sila in premik vzporedna, je delo, torej skalarni produkt, kar enak navadnemu množenju velikosti sile in premika.
+Previdno je treba ravnati le s smermi, saj je mehansko delo oz. delo sile negativno, če sta sila in premik nasprotno usmerjana.
+Po drugi strani je delo vedno enako nič, kadar sta sila in premik pravokotna eden na drugega, kar je posledica skalarnega produkta.
+
+Primer: koliko mehanskega dela opravi planinec, če nosi nahrbtnik z maso m po vodoravni poti?
+Koliko pa takrat, ko nahrbtnik iz doline prinese na vrh Triglava in ob tem premaga višinsko razliko h?
+
+Sila, s katero planinec opravlja delo, je po 3. Newtonovem zakonu nasprotno enaka sili teže nahrbtnika.
+Ker sila teže deluje navpično navzdol, planinec na nahrbtnik deluje navpično navzgor.
+Zato je v prvem primeru delo sile planinca enako nič, saj je premik po vodoravni poti pravokoten na silo.
+V drugem primeru pa je delo sile enako:
+
+ker je skalarni produkt sile teže in premika enak produktu velikosti sile in višinske razlike.
+Pozitiven predznak je posledica tega, da je sila teže nahrbtnika obrnjena navzdol in s tem sila planinca navzgor, kar je enako kot premik.
+
+Pri gibanju v športu imamo največkrat opraviti s silo teže Fg .
+Zato za začetek izračunajmo njeno delo, ki ga opravi na težišče telesa:
+
+Če kot φ opisuje kot med premikom in navpično smerjo navzdol, kamor kaže gravitacijski pospešek gr , potem velja: −dscos(φ)=dz , kar predstavlja projekcijo premika na smer gravitacijskega pospeška.
+Dobimo, da je:
+
+ki ni odvisna od poti, temveč le od začetne in končne višine težišča telesa glede na izbrano izhodišče.
+Produkt mase telesa, težnostnega pospeška in višine pa je potencialna energija:
+
+Za določitev kinetične energije ravnamo podobno kot pri potencialni energiji.
+Le da tokrat začnemo pri 2. Newtonovem zakonu in obravnavamo telo, ki se giblje
+
+r pospešeno.
+Vsota vseh sil F , ki delujejo na telo, je enaka produktu mase in pospeška: r
+
+Primer: kako visoka bo hitrost gibanja težišča telesa atleta v vertikalni smeri, če se mu pri skoku v višino za prečko težišče telesa najvišje do najnižje točke spusti za višino h = 2 m?
+Predpostavi, da je upor zraka zanemarljiv, in upoštevaj, da je hitrost v najvišji točki enaka nič.
+
+Slika 3.11.1: Višinska razlika padanja težišča telesa pri skoku v višino (kinogram: S. Štuhec)
+
+Ker na telo v tem primeru deluje le sila teže, lahko trdimo, da se atletova potencialna energija neposredno spremeni v kinetično.
+Zato lahko zapišemo, da je vsota sprememb potencialne in kinetične energije enaka nič:
+
+Pri kroženju točkastega telesa lahko zapišemo, da je mehansko delo vsote vseh sil:
+
+Če vsoto vseh sil razdelimo na tangencialno in radialno smer, ugotovimo, da je delo radialnih sil enako nič, saj sta premik in sila vedno pravokotna drug na drugega.
+
+kjer rezultat predstavlja spremembo kinetične energije za kroženje točkastega telesa:
+
+Do kinetične energije togega telesa, ki se vrti s kotno hitrostjo ω okrog nepremične osi, pridemo takole: telo razdelimo na majhne masne elemente dm, od katerih vsak kroži z enako kotno hitrostjo in po polmeru r. Zato ima vsak masni element obodno hitrost v=ωr in kinetično energijo:
+
+kjer vemo, da je ∫ r dm2 = J vztrajnostni moment telesa.
+Tako dobimo kinetično energijo rotirajočega telesa, ki jo imenujemo rotacijska kinetična energija in jo označimo z:
+
+Kadar imamo telo, ki se vrti okoli lastne osi in se hkrati premika tudi translatorno, ima tako kinetično rotacijsko kot tudi kinetično translacijsko energijo:
+
+Obravnavajmo telo, ki se brez trenja giblje po podlagi in je na eni strani pripeto na
+
+r vzmet s prožnostnim koeficientom k. Delo sile prožnosti vzmeti Fpr zapišemo kot:
+
+r kjer smo silo prožnosti zapisali kot Fpr = ksr (glej poglavje 3.2.3), s1 in s1 pa sta začetni in končni odmik od nenapete vzmeti.
+Na desni strani smo dobili spremembo prožnostne energije:
+
+Na telo lahko v splošnem delujejo konzervativne in nekonzervativne sile.
+Konzervativne so tiste, pri katerih je delo na zaključeni poti enako nič.
+Npr. delo sile teže je enako nič, če telo dvignemo in ga nato spustimo nazaj na enako višino.
+Po drugi strani pa lahko delujejo še nekonzervativne sile, katerih delo na zaključeni poti ni enako nič.
+Taki sili sta npr. sili upora in trenja.
+Kadar na telo ne delujejo nekozervativne sile oziroma je vsota nekozervativnih sil enaka nič:
+
+velja, da se vsota kinetične, potencialne in prožnostne energije telesa ohranja:
+
+To pomeni, da se energije med seboj pretvarjajo ena v drugo.
+Če pri smuku smučarja naravnost po klancu navzdol zanemarimo upor in trenje, se bo potencialna energija neposredno pretvarjala v kinetično.
+Vsota obeh energij pa bo v vsakem trenutku enaka.
+Po drugi strani to pomeni, da je vsota sprememb potencialne in kinetične energije enaka nič.
+Bolj splošno lahko zapišemo, da je vsota sprememb posameznih energij enaka nič:
+
+Telovadec izvaja veletoč na drogu (slika 3.11.2).
+Na vrhu ima kotno hitrost ω0.
+Izračunaj, kako se kotna hitrost spreminja med izvajanjem veletoča, če zanemarimo silo upora zraka in trenja med rokami in drogom.
+
+Zapišimo energijo telovadca v stoji, ki je sestavljena iz kinetične rotacijske in potencialne energije:
+
+kjer je R oddaljenost težišča telesa od droga in J vztrajnostni moment telovadca.
+Potencialno energijo smo postavili na nič v najnižjo lego težišča.
+
+kjer je ω1 kotna hitrost telovadca pri kotu φ, produkt R(1 + cos(φ)) pa višina težišča telesa pri kotu φ.
+Ker je vsota nekonzervativnih sil enaka nič, velja, da je energija v stoji enaka energiji pri kotu φ:
+
+Iz enačbe za ω1 lahko tudi razberemo, da večji vztrajnostni moment telesa pomeni nižjo kotno hitrost vrtenja telovadca ob enaki energiji.
+
+Postavljalci skoka za elastiko želijo z mostu nastaviti ustrezno dolžino elastike za skok.
+Višina med mostom in tlemi je natanko h = 40 m. Elastika ima koeficient prožnosti k = 200 N/m. Ali je nastavitev dolžine elastike na L = 20 m primerna za skok 70 kg težkega športnika?
+Športnik se pri skoku ne sme poškodovati, torej se ne sme dotakniti tal v najnižji točki.
+Sistem obravnavaj kot točkasto telo brez zračnega upora; elastika se razteza po Hookovem zakonu.
+
+Biomehansko gledano skakalec najprej z višine L prosto pada in spreminja potencialno energijo v kinetično.
+Ko se elastika napenja, pa se začne energija pretvarjati tudi v prožnostno.
+V najnižji točki se skakalec ustavi, zato je kinetična energija enaka nič (Wk = 0), prožnostna pa največja (Wpr = maks.), saj je elastika tam najbolj raztegnjena.
+Postavimo potencialno energijo na nič v najnižjo točko in zapišimo mehansko energijo na vrhu:
+
+saj velja, da sta prožnostna in kinetična energija na vrhu enaki nič, raztezek elastike pa smo označili s s. V najnižji točki je energija:
+
+kjer pričakujemo pozitivno rešitev za raztezek in dobimo s = 15.84 m. Vsota L + s < h, zato je elastika primerno nastavljena.
+
+Za vajo lahko bralec izračuna še, koliko je najdaljša nastavitev elastike pri istih pogojih, da se skakalec ne bo dotaknil tal pri skoku z njo.
+
+Pri analizi gibanja je pogosto pomembno, v kolikšnem času sila ali navor opravi delo.
+Zato v biomehaniki vpeljemo količino, ki jo imenujemo moč in je definirana kot opravljeno delo na časovno enoto:
+
+Enota za moč je »watt« [W] in je po enotah enaka [J/s], torej koliko joulov na sekundo dela opravimo.
+Če imamo opravka s stalno močjo, lahko opravljeno delo neposredno izračunamo:
+
+kjer je t čas trajanja.
+V splošnem pa moramo delo iz moči izračunati s pomočjo integrala:
+
+Pri premem gibanju moč izrazimo kot produkt sile in hitrosti njenega prijemališča vr :
+
+To velja ne glede na to, ali je gibanje pospešeno oziroma pojemajoče, in ne glede na to, v katero smer kažeta sila in hitrost.
+
+Podobno izrazimo tudi moč pri vrtenju, kjer delo opravlja navor M pri kotni hitrosti vrtenja ωr :
+
+Primer: smučar z maso m = 80 kg se v smuku naravnost spusti po klancu navzdol z naklonom φ = 10°.
+Koeficient trenja med smučmi in podlago je kt = 0.02, njegov prečni presek je S = 0.5 m2, koeficient upora pa cu = 0.7.
+Izračunaj, kolikšna je moč sile trenja in moč sile upora, ko smučar doseže ravnovesno hitrost.
+Gostota zraka je ρ = 1.2 kg/m3.
+
+Na smučarja delujejo sila teže, sila upora in sila podlage, ki je sestavljena iz trenja in sile normale (slika 3.11.4).
+Uporabimo 1. Newtonov zakon, ker je smučar v ravnovesju vseh sil:
+
+Sistem zasukamo tako, da je os x poravnana z naklonom terena, os y pa je pravokotna nanj.
+Silo teže razdelimo na dinamično in statično komponento:
+
+Vstavimo dobljeno silo trenja v sile, ki nastopajo v smeri x, in uporabimo kvadratni zakon upora za silo upora.
+Dobimo:
+
+V obravnavanem primeru je moč sile upora skoraj 8-krat večja od moči sile trenja.
+
+Kladnik R. (1991).
+Visokošolska fizika.
+Del 1, Mehanski in toplotni pojavi.
+Ljubljana : Državna založba Slovenije.
+
+Kugovnik O., Supej M. in Nemec B. (2003).
+Biomehanika alpskega smučanja.
+Ljubljana : Fakulteta za Šport.
+
+Enoka R. (1994).
+Neuromechanical basis of kinesiology.
+Champaign, IL : Human Kinetics.
+
+Winter D. (2005).
+Biomechanics and motor control of human movement.
+Biomechanics and motor control of human movement.
+
+Zaciorskij V.M. (2002).
+Kinetics of human motion.
+Champaign, IL : Human Kinetics.
+
+Biomehanika predstavlja eno temeljnih kinezioloških znanosti, ki proučuje gibanje človeka.
+Učbenik »Biomehanika 1« tako predstavlja dolgo pričakovani učbenik za študente Fakultete za Šport, za katere predstavlja razumevanje biomehanskih konceptov eno od temeljnih znanj.
+To je prvi učbenik na področju Slovenije, ki obravnava tematiko Biomehanike športa.
+
+Avtor v svojem učbeniku združi razumevanje osnovnih mehanskih zakonitosti in njihove razlage s športno tematiko.
+Večji del učbenika se ukvarja z interakcijo športnika z njegovimi športnimi rekviziti in okolico v kateri se nahaja.
+Razdeljen je na dve osnovni veji mehanike: kinematiko, ki se ukvarja z opisom gibanja, in dinamiko, ki se zanima za vzroke za gibanje.
+
+Učbenik sledi standardni razdelitvi kinematike in dinamike ter zadovolji tudi zahtevnejše bralce z natančno definiranimi zakonitostmi in izpeljavami.
+Manj zahtevi študenti pa bodo predvsem hvaležni vmesnih opomb in razlag.
+Za vse študente pa so zanimivi primeri neposredno povezani z aktualno problematiko v športu, ki jih avtor sproti obravnava skupaj z napredovanjem po vsebini.
+
+Za popestritev učbenika je vključenih tudi nekaj zanimivih fotografij in kinogramov vrhunskih športnikov, ki so posledica vrste meritev opravljenih v okviru Fakultete za šport.
+To dodaja pečat aktualnosti učbenika in nakazuje na pomen razumevanja Biomehanike za študente.
+Avtor že v predgovoru poskuša sicer bolj družboslovno usmerjenim študentom Fakultete za šport pojasniti pomen razumevanja osnovnih naravnih zakonitosti za šport.
+Ob tem predstavi še zanimiv in nov pogled na obravnavanje v Biomehaniki: »eno raven nižje«, ki pravi, da za razumevanje dogajanja na določeni ravni sveta, mora opazovalec vedno razumeti eno raven nižje.
+
+Učbenik za Biomehaniko 1 bo lahko bistveno pripomogel k študiju in razumevanju osnovnih konceptov gibanja v prostoru bodočih strokovnjakov na področju športa, ki jim je ponavadi ta tematika na žalost preveč tuja.
+To se še posebej pokaže v športih, kjer prihaja do velikih in naglih tehnoloških sprememb in napredovanj.
+Ljubljana, 28.
+Februar, 2011
+
+Za kakovostno strokovno delo v športu je nujno dobro poznavanje nekaterih temeljnih naravoslovnih ved, kot so funkcionalna anatomija, fiziologija, biomehanika in druge.
+Z učbenikom Biomehanika 1 smo dobili prvi slovenski visokošolski učbenik s področja biomehanike v kineziologiji športa.
+V njem so na jasen način predstavljene temeljne biomehanske vsebine in aplikativni primeri iz športa.
+Avtor doc. dr. Matej Supej, po svoji temeljni izobrazbi fizik, je odličen raziskovalec svetovnega kova, bil pa je tudi tekmovalec, demonstrator in trener v alpskem smučanju.
+Ob svojem poglabljanju v znanstveno-raziskovalna vprašanja nenehno ohranja uporabno naravnanost in posledično ohranja stik z vrhunskim športom kot strokovni svetovalec in predavatelj doma in v svetu.
+
+Učbenik najprej poda osnove kinematike, ki se ne sprašuje o izvorih gibanja, temveč gibanje kot takšno zgolj opiše s fizikalnimi količinam.
+Opredelitvi različnih oblik in kompleksnosti teles sledijo predstavitve enakomernega, pospešenega premočrtnega in ukrivljenih gibanj na primerih različnih vrst metov.
+Sledi poglavje o dinamiki, v katerem so predstavljene sile, ki povzročajo spremembe smeri oziroma hitrosti gibanja.
+Avtor učbenika seznani s ključnimi zakonitostmi o delovanju sil, kot so osnovni zakoni o gibanju, trenju, obtekanju tekočine in drugi.
+Skozi tekst se vrstijo nazorni praktični primeri, kot so let rotirajoče žoge za ponazoritev Magnusovega efekta; globinski doskok in drsalni par za boljše razumevanje sunka sile, gibalne količine in trka teles; valgusni navor kolenskega sklepa v odvisnosti od širine smučke in številni drugi.
+Avtor vsebine vseskozi nadgrajuje, kot na primer, ko s predhodnimi razlagami pripravi osnovo za razumevanje pomena Steinerjevega zakona ali pa pomena ekscentričnega odriva za kakovostno izvedbo prevrata prosto naprej v gimnastiki.
+V zadnjem delu učbenika doc. dr. Matej Supej predstavi vsebine s področja mehanskega dela, energije in moči.
+S primeri (skok v višino, veletoč, skok z elastiko) podkrepljene razlage potencialne, kinetične in prožnostne energije zaključi z izrekom ohranitvi mehanske energije.
+
+Učbenik zapolnjuje vrzel na področju biomehanike športa in je zaradi svoje aplikativne usmerjenosti dobrodošlo učno gradivo ne le za študente športa, temveč tudi za mnoge druge študente in strokovnjake iz področij fizikalne medicine, ergonomije, športne tehnologije, ortopedije idr.
+Matej, kot kolega in kineziolog, se ti zahvaljujem za Biomehaniko 1 in mislim, da lahko tudi v imenu mnogih drugih kolegov rečem: več kot dobrodošla bi bila tudi učbenika Biomehanika 2 in 3. Takšne učbenike potrebujemo, da bomo lahko še bolj učinkovito razvijali na znanosti temelječo športno stroko v Sloveniji in bili prepričljivi v komunikaciji s sebi sorodnimi strokami.
+
+doc. dr. Matej Supej je diplomiral na Fakulteti za Matematiko in Fiziko na Univerzi v Ljubljani iz »Spektrometra pozitronske anihilacije«, magistriral iz »Povezave prostega volumna z mehanskimi lastnostmi viskoelastičnih materialov« na Fakulteti za Strojništvo na Univerzi v Ljubljani in doktoriral iz »Vpliva spremenjenih biomehanskih parametrov na tekmovalno slalomsko tehniko« na Fakulteti za Šport na Univerzi v Ljubljani.
+Je docent za področje znanost o športu – kineziologija.
+
+kjer je vodja Laboratorija za Biomehaniko in nosilec predmetov Biomehanika 1, Biomehanika 2 in Biomehanika športa na dodiplomskem študiju ter nosilec predmeta Raziskovalne metode in modeliranja v biomehaniki športnih gibanj na doktorskem študiju.
+Hkrati je delno zaposlen tudi na Fakulteti za Matematiko in Informacijske tehnologije, Univerza na Primorskem, kjer je nosilec predmeta Analiza gibanja in obremenitev človeškega telesa.
+V svojem znanstveno-raziskovalnem delu s pridom izkorišča znanje o športu, ki ga je pridobil kot vrhunski tekmovalec v alpskem smučanju, član nekdanje Jugoslovanske reprezentance in kot dolgoletni član A demonstratorske vrste pri Zvezi Učiteljev in Trenerjev Slovenije.
+O njegovi znanstveno-raziskovalni uspešnosti priča vrsta mednarodno priznanih in odmevnih objav v mednarodnih revijah najvišje ravni, mednarodna nagrada za inovativnost in vabljena predavanja na znanstvenih konferencah.
+Strokovno uspešnost pa izkazuje preko vrste povabil za izobraževanje trenerjev širom po svetu, meritev in svetovanju vrhunskih tekmovalcev in trenerjev.
+Svojo strokovno kariero je pred leti kronal z znanstveno monografijo »Biomehanika alpskega smučanja«, ki jo je kot glavni avtor napisal ob pomoči kolegov dr. B. Nemca in dr. O. Kugovnika.
+

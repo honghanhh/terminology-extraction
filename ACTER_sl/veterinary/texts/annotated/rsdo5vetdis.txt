@@ -1,0 +1,2208 @@
+Danijela Rihtarič, dr. vet. med.
+
+PROUČEVANJE MOLEKULARNO-EPIDEMIOLOŠKIH ZNAČILNOSTI VIRUSA STEKLINE PRI DIVJIH IN DOMAČIH ŽIVALIH V SLOVENIJI
+
+Doktorska disertacija 
+
+Ljubljana, 2013
+
+Proučevanje molekularno-epidemioloških značilnosti virusa stekline pri divjih in domačih živalih v Sloveniji
+
+Delo je bilo opravljeno na Inštitutu za mikrobiologijo in parazitologijo Veterinarske fakultete v Ljubljani.
+
+Javni zagovor je bil opravljen:
+
+Mentor: prof. dr. Peter Hostnik
+
+Somentor: viš. zn. sod. dr. Ivan Toplak
+
+Izjavljam, da je doktorska disertacija rezultat lastnega raziskovalnega dela, da so rezultati korektno navedeni in nisem kršila avtorskih pravic in intelektualne lastnine drugih.
+
+Člani strokovne komisije za oceno in zagovor:
+
+Predsednik: prof. dr. Jože Grom
+
+Članica: prof. dr. Darja Barlič Maganja
+
+Član: doc. dr. Gorazd Vengušt
+
+Član: prof. dr. Srečko Koren
+
+IZVLEČEK 
+
+Ključne besede: Molekularna epidemiologija; steklina – epidemiologija – veterinarska; steklina, virus – genetika – klasifikacija; molekulsko zaporedje, podatki; zaporedje, analiza, DNA, RNA; filogeneza; polimeraza, verižna reakcija – metode; živali – virologija; Slovenija – epidemiologija.
+
+Z molekularno-epidemiološko analizo 93 virusnih sevov stekline, zbranih med letoma 1994 in 2012, smo ugotovili, da slovenski virusi stekline spadajo med klasične evropske seve in so vsi uvrščeni v vrsto RABV.
+Primerjali smo nukleotidna zaporedja virusov stekline, ki smo jih ugotovili pri različnih živalskih vrstah, in potrdili, da je v Sloveniji glavni rezervoar virusa stekline rdeča lisica (Vulpes vulpes).
+S filogenetsko analizo smo ugotovili, da slovenski sevi oblikujejo tri genetske skupine.
+V prvo in drugo genetsko skupino je uvrščenih 91 divjih sevov virusa stekline, v tretjo pa dva cepna seva virusa stekline.
+Izbrali smo trideset virusnih sevov, izoliranih na različnih geografskih lokacijah, iz različnih živalskih vrst v različnih obdobjih in pripravili filogenetski analizi nukleotidnih zaporedij v odseku gena za nukleoprotein (1092 nt) in v odseku gena za glikoprotein RVG (672 nt).
+Ugotovili smo, da je razporeditev virusnih sevov v obeh filogenetskih drevesih skoraj identična, zato lahko za zanesljivo filogenetsko razvrstitev virusov stekline uporabimo oba odseka virusnega genoma.
+Z molekularno analizo smo ugotovili, da sta dva odvzeta vzorca možganov lisic vsebovala cepni sev virusa stekline.
+Ugotovljena primera cepnega seva v možganih lisic po naši oceni nimata velikega epidemiološkega pomena.
+Primerjali smo različne metode za ugotavljanje virusa stekline v živalskih vzorcih.
+Med metodami dIF, IVCK in RT-PCR se je metoda RT-PCR izkazala za najbolj občutljivo in najbolj primerno predvsem za dokazovanje virusov v vzorcih, ki smo jih trideset dni hranili pri sobni temperaturi.
+Za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo modificirali postopek po Wakeleyu in sodelavcih, za dokazovanje cepnih sevov pa smo razvili nov postopek RT-PCR v realnem času.
+Modificirani in razviti postopki za RT-PCR v realnem času so namenjeni razlikovanju med cepnimi in divjimi sevi virusa stekline in tipizaciji virusov stekline, razen za seve RABV, ki izvirajo iz Južne in Severne Amerike.
+
+SEZNAM OKRAJŠAV 
+
+ABLV - avstralski netopirski lisavirus; angl. Australian bat lyssavirus
+
+AchR - acetilholinski receptor 
+
+ARAV - virus Aravan; angl. Aravan virus
+
+Arg - arginin 
+
+ATCC - ameriška zbirka celičnih kultur; angl. American type culture collection
+
+BHK - ledvične celice hrčka; angl. baby hamster kidney cells
+
+bp - bazni pari 
+
+CD56 - adhezijska molekula živčnih celic 
+
+cDNA - komplementarna DNA; angl. complementary DNA
+
+Cq - cikel kvantifikacije; angl. quantification cycle value
+
+Da - dalton 
+
+dIF - test direktne imunofluorescence 
+
+DNA - deoksiribonukleinska kislina 
+
+dsDNA - dvojnoverižna DNA; angl. double stranded DNA
+
+DUVV - virus Duvenhage; angl. Duvenhage virus
+
+EBLV 1 - evropski netopirski virus 1; angl. European bat lyssavirus 1
+
+EBLV 2 - evropski netopirski virus 2; angl. European bat lyssavirus 2
+
+ELISA - encimsko imunski test; angl. enzyme-linked ImmunoSorbent Assay
+
+ER - endoplazemski retikulum 
+
+EU - Evropska unija 
+
+FAVN - virus nevtralizacijski test; angl. fluorescent antibody virus neutralization test
+
+FLI - Inštitut Friedricha Loefflerja
+
+FRET - fluorescenčni resonančni prenos enerfije; angl. fluorescent resonance energy transfer
+
+GA - Golgijev aparat 
+
+Glu - glutamin 
+
+Gly - glicin 
+
+GPS - navigacijski sistem; angl. global positioning system
+
+I.E. - internacionalne enote 
+
+ICTV - Mednarodni komite za taksonomsko uvrstitev; angl. International Committee on Taxonomy of Viruses
+
+Ile - izolevcin 
+
+IRKV - virus Irkut; angl. Irkut virus
+
+IVCK - izolacija virusa na celični kulturi; angl. virus isolation in cell culture (VI)
+
+KHUV - virus Khujand; angl. Khujand virus
+
+L - od RNA odvisna polimeraza RNA 
+
+LBV - netopirski virus Lagos; angl. Lagos bat virus
+
+le - nekodirajoča sekvenca; angl. Leader
+
+Lys - lizin 
+
+M - protein matriksa 
+
+Met - metionin 
+
+MNA - nevroblastomske celice; angl. murine neuroblastoma cells
+
+MOKV - virus Mokola; angl. Mokola virus
+
+mRNA - informacijska RNA; angl. messenger RNA
+
+N - nukleoprotein 
+
+N2a - nevroblastomske celice; angl. neuroblastoma cells
+
+nt - nukleotid 
+
+ORF - odprt bralni okvir; angl. open reading frame
+
+P - fosfoprotein 
+
+PBS - fosfatni pufer; angl. phosphate buffered saline
+
+PCR - verižna reakcija s polimerazo; angl. polymerase chain reaction
+
+p75 - nevrotropinski receptor 
+
+RABV - klasični sevi virusov stekline; angl. rabies virus
+
+RFLP - polimorfizem dolžin restrikcijskih fragmentov; angl. restriction fragment length polymorphism
+
+RPMI - medij inštituta Roswell Park Memorial; angl. Roswell Park Memorial Institute medium
+
+RT-PCR - reverzna transkripcija in verižna reakcija s polimerazo; angl. reverse transcription and polymerase chain reaction
+
+RVG - glikoprotein virusa stekline; angl. rabies virus glycoprotein
+
+Ser - serin 
+
+SHBV - virus Shimoni; angl. Shimoni virus
+
+SP - signalni peptid 
+
+SPF - prost specifičnih antigenov; angl. specific antigen free
+
+tr - nekodirajoča sekvenca; angl. trailer
+
+UVHVVR - Uprava za varno hrano, veterinarstvo in varstvo rastlin 
+
+WCBV - zahodnokavkaški netopirski virus; angl. West-Caucasian bat virus
+
+WHO - Svetovna zdravstvena organizacija; angl. World health organization
+
+ZDA - Združene države Amerike
+
+ψ - psevdogena regija 
+
+1 UVOD
+
+Steklina je virusna bolezen sesalcev, ki jo povzroča virus iz rodu Lyssavirus, uvrščen v družino Rhabdoviridae.
+V preteklem desetletju so v Evropi opravili številne molekularnoepidemiološke študije virusa stekline (Bourhy in sod., 1999; Pastoret in Brochier, 1999; Kuzmin in sod., 2004; Marston in sod., 2007; Matouch, 2008), s katerimi so potrdili, da so sevi RABV najbolj razširjeni pri sesalcih; vrsti evropski netopirski lisavirus 1 (EBLV 1) in evropski netopirski lisavirus 2 (EBLV 2) pa sta prisotni predvsem med žužkojedimi netopirji.
+Opisali so tudi posamezne primere prenosa EBLV 1 z netopirja na ovco (Ronsholt, 2002), jazbeca (Muller in sod., 2002a) in domačo mačko (Dacheux in sod., 2009).
+
+Prvič so molekularno-epidemiološke značilnosti virusov stekline s področja Slovenije opisali leta 1999 (Bourhy in sod., 1999).
+V raziskavi so določili delno nukleotidno zaporedje dveh slovenskih virusnih sevov (9494SLN, 94100SLN) in ju primerjali s 93 sevi iz 25 različnih držav.
+Seve so razvrstili glede na geografsko lokacijo v štiri razrede.
+Slovenska seva 9494SLN in 94100SLN so uvrstili v razred zahodnoevropskih sevov.
+
+Glavni prenašalec virusa stekline v Sloveniji je rdeča lisica (Vulpes vulpes).
+Virus stekline lahko z ugrizom prenese na divje in domače živali ali celo na človeka.
+Bolezen je smrtna, zato je za njeno ugotavljanje in njen uspešen nadzor bistvenega pomena uporaba hitrih metod za dokazovanje virusa in specifičnih protiteles.
+Med klasične metode za diagnostiko virusa stekline sodijo izolacija virusa na celični kulturi (IVCK), test direktne imunofluorescence (dIF), protitelesa pa ugotavljamo s serološkimi metodami (virus nevtralizacijski test (FAVN, angl. fluorescent antibody virus neutralisation test) in encimsko imunski test (ELISA)).
+
+V rutinski diagnostiki kužnih bolezni se je v zadnjem desetletju uspešno uveljavila metoda verižne reakcije s polimerazo (PCR) v realnem času (Belak, 2007).
+Največja prednost te metode je sprotno spremljanje pomnoževanja tarčnega zaporedja, nadaljnje rokovanje z nastalimi produkti pa ni potrebno, kar zmanjša možnost kontaminacije med vzorci.
+Metoda je hitra, občutljiva, zanesljiva in ponovljiva.
+
+Namen raziskave
+
+Namen našega dela je proučiti molekularno-epidemiološke značilnosti virusa stekline pri divjih in domačih živalih v Sloveniji v letih 1994−2012.
+Na podlagi nukleotidnega zaporedja določenih odsekov na genomu virusov stekline bomo lahko primerjali slovenske seve s sevi, shranjenimi v podatkovni zbirki GenBank.
+Z analizo nukleotidnih zaporedji bomo lahko razlikovali med divjimi in cepnimi sevi virusov stekline, ki se pojavljajo na področjih, na katerih se izvaja peroralno cepljenje lisic v Sloveniji.
+
+Uvedli bomo metodo reverzne transkripcije in verižne reakcije s polimerazo (RT-PCR) za ugotavljanje genoma virusa stekline v arhivskih vzorcih.
+Občutljivost in robustnost metode bomo primerjali z metodama IVCK in dIF.
+Dobljeni rezultati nam bodo v pomoč pri izbiri ustrezne metode za uporabo v rutinski diagnostiki, zlasti pri ugotavljanju virusa v neprimerno hranjenih vzorcih.
+
+Uvedli in validirali bomo tudi metodo RT-PCR v realnem času za dokazovanje in razlikovanje virusov stekline iz vrst RABV, EBLV 1 in EBLV 2. 
+
+Razvili bomo tudi metodo RT-PCR v realnem času, s katero bomo lahko razločevali med divjimi in cepnimi sevi brez nadaljnjega določanja nukleotidnega zaporedja.
+
+Molekularne metode za dokazovanje različnih virusov stekline nam bodo omogočile hitro in učinkovito diagnostiko, ki je nujna za načrtovanje poizpostavitvene terapije.
+
+Hipoteze 
+
+• Predvidevamo, da spadajo slovenski sevi virusa stekline med seve RABV.
+
+• Predvidevamo, da je na območju, na katerem se izvaja peroralno cepljenje lisic, občasno mogoče ugotoviti tudi lisice, ki so pozitivne na cepni sev virusa stekline.
+
+• Predvidevamo, da bomo virus stekline lahko dokazali z metodo RT-PCR tudi v vzorcih, ki bodo z metodama IVCK in s testom dIF ovrednoteni kot negativni.
+
+• Predvidevamo, da je s kombinacijo specifičnih metod RT-PCR v realnem času mogoče razlikovati med cepnimi in divjimi sevi virusa stekline.
+
+2 PREGLED LITERATURE
+
+2.1 ZGODOVINSKI ZAPISI O STEKLINI 
+
+Najzgodnejši zapisi z opisom bolezni, katere znaki kažejo na steklino, so v babilonskih spisih, nastalih skoraj pred 4.500 leti.
+Beseda steklina izvira iz latinske besede rabere in pomeni besneti.
+Ta beseda izvira iz sanskrtske besede rabhas, s pomenom nasilje (Wilkinson, 2002).
+Prvi zapisi o vzročni povezavi, ko je pes ugriznil človeka in s tem povzročil njegovo smrt, izvirajo iz časa 2.300 pr. n. št. iz Eshnunna v Mezopotamiji.
+V mezopotamskem zakoniku je bila tudi opisana kazen za lastnika psa, ki je povzročil smrt človeka (Wilkinson, 2002).
+V četrtem stoletju pr. n. št. je Aristotel (384−322 pr. n. št.) opisal bolezen psov, ki lahko z ugrizi povzročijo smrt drugih živali in človeka (Wilkinson, 2002).
+
+Aulus Cornelius Celsus (25 pr. n. št.−50 n. št.) je v prvem stoletju pr. n. št. v knjigi De Medicina Libri Octo opisal priporočeno ravnanje po ugrizu.
+V svojem delu opisuje, da je rano treba pustiti odprto, »da lahko virus prosto odteče«.
+Virus je v tistem času pomenil strup.
+V drugem stoletju pr. n. št. je Klavdij Galen (199−129 pr. n. št.) pisal, da so naravni rezervoar stekline psi in da lahko kapljica sline na človeško kožo povzroči hidrofobijo, pri kateri oboleli človek trpi za žejo, nepremagljivim strahom pred vodo in pri kateri je zelo malo upanja za ozdravitev (Wilkinson, 2002).
+
+Prvi znanstveni opisi o naravi bolezni izvirajo iz leta 1546.
+Tega leta je Girolamo Fracastoro (1478−1553) iz Verone opisal prenos bolezni.
+V svojem delu je zapisal, da je za nastanek bolezni pri človeku potreben ugriz steklega psa.
+Zapisal je tudi, da je »seme« vzrok za bolezen in tako postavil temelje kontagioznosti bolezni.
+Sledilo je obdobje, dolgo več kot tri stoletja, brez napredka na področju poznavanja bolezni, terapije ali preventivnih ukrepov.
+Louis Pasteur (1822−1895) iz Francije je leta 1885 dosegel pomemben preboj, saj je razvil prvo cepivo proti virusu stekline.
+Cepivo je uspešno uporabil najprej na psih in kuncih.
+Leta 1885 pa je cepivo prvič preizkusil tudi na človeku, na devetletnem dečku Josephu Meistru, ki ga je napadel stekli pes.
+Pes mu je povzročil globoke ugrizne rane, zato so menili, da deček nima veliko možnosti za preživetje.
+Edino upanje za njegovo preživetje je bilo poizpostavitveno cepljenje s Pasteurjevim cepivom, ki je vsebovalo inaktiviran virus stekline.
+Cepljenje je povzročilo imunski odziv z nevtralizacijskimi protitelesi proti virusu stekline.
+Leta so se vezala na virus stekline in preprečila vstopanje virusa v živčne celice.
+Terapija s Pasteurjevim cepivom je bila uspešna in deček je preživel.
+Pasteurjev način cepljenja so sprejeli po vsem svetu.
+Še vedno pa so ostali nerešeni problemi, kot so alergijske reakcije in neučinkovitost cepljenja pri globokih ugrizih, zlasti v bližini glave, in možnost pojava bolezni pri človeku ob cepljenju z oslabljenim virusom (Wilkinson, 2002).
+
+Pomembno prelomnico v diagnostiki stekline je prispeval Adelchi Negri (1876−1912) iz Perugie, ki je leta 1903 prvič opisal eozinofilne inkluzije, danes imenovane Negrijeva telesca.
+Identificiral jih je kot protozoje, ki povzročajo steklino.
+Kasneje so se Negrijeva telesca izkazala za diagnostično pomemben patognomoničen znak, ki se pojavi samo pri steklini (Negri, 1903; Negri, 1909).
+Šele z razvojem ultracentrifuge leta 1926, tehnike ultrafiltracije leta 1928 in elektronskega mikroskopa leta 1930 so znanstveniki določili prve morfološke značilnosti virusa stekline.
+Virus stekline so uvrstili med viruse RNA z ovojnico, virion pa ima značilno obliko naboja (slika 1) (Topley in Wilson, 1984).
+Pomemben dosežek so dosegli znanstveniki v ZDA s proizvodnjo cepiva na inštitutu Winstar v Philadelphii.
+Virus so namnožili na človeških diploidnih celicah in tako izdelali varno in učinkovito cepivo.
+Leta 1984 so na istem inštitutu razvili tudi prvo peroralno cepivo za rakunje pse (Findley, 1988).
+
+Slika 1: Elektronsko mikroskopski posnetek virusa stekline (Center Wadsworth, ZDA).
+
+Iz znanstvenih poskusov in opazovanj poteka bolezni so znanstveniki nenehno izboljševali terapijo po ugrizu, s katero so lahko preprečili smrt človeka, ki ga je ugriznila stekla žival.
+Kljub temu da se v današnjem času v večini držav uspešno uporablja cepljenje izpostavljenih ljudi in živali, pa v državah v razvoju letno še vedno umre do 55.000 ljudi zaradi okužbe z virusom stekline (Bourhy in sod., 2010).
+
+2.2 LASTNOSTI VIRUSA STEKLINE 
+
+2.2.1 Taksonomska uvrstitev 
+
+Po trenutno veljavni klasifikaciji mednarodnega komiteja za taksonomsko uvrstitev (ICTV, angl. International Committee on Taxonomy of Viruses) uvrščamo viruse stekline v rod Lyssavirus, v družino Rhabdoviridae.
+Družina Rhabdoviridae skupaj z družinami Paramyxoviridae, Filoviridae in Bornaviridae oblikuje red Mononegavirales.
+V rod Lyssavirus je uvrščenih 11 vrst (tabela 1).
+Taksonomska ureditev virusov stekline temelji na analizi nukleotidnih zaporedij nukleoproteina.
+Virusi, pri katerih se nukleotidna zaporedja nukleoproteina ujemajo manj kot 82-odstotno, oblikujejo vrsto znotraj rodu (Kuzmin in sod., 2005; Kuzmin in sod., 2008).
+V svetu so najpogosteje ugotovljeni sevi vrste klasičnih virusov stekline (RABV), v katero je uvrščenih največ opisanih terenskih izolatov, laboratorijskih in cepnih sevov virusa stekline.
+V preostalih deset vrst sodijo steklini sorodni virusi, to so virus Lagos (LBV), virus Mokola (MOKV), virus Duvenhage (DUVV), evropski netopirski lisavirus 1 (EBLV 1), evropski netopirski lisavirus 2 (EBLV 2), avstralski netopirski lisavirus (ABLV), virus Irkut (IRKV), virus Aravan (ARAV), virus Khujand (KHUV) in zahodnokavkaški netopirski virus (WCBV).
+V letu 2009 so prvič opisali netopirski virus Shimoni (SHBV) in bo uvrščen v lastno vrsto steklini sorodnih virusov (Kuzmin in sod., 2010) (slika 2).
+
+Tabela 1: Vrste, uvrščene v rod Lyssavirus, in njihovi gostitelji ter razširjenost.
+
+Virusi RABV so razširjeni pri sesalcih po vsem svetu.
+Virusi, sorodni virusom stekline, LBV, MOKV in DUVV, so razširjeni na afriški celini.
+Virusi EBLV 1 in 2 so razširjeni med netopirji na področju Evrope, virusi ABLV pa med netopirji na področju Avstralije (Arai in sod., 2003; Kuzmin in sod., 2003).
+Vse vrste steklini sorodnih virusov, razen vrste MOKV, so ugotovili pri netopirjih (Badrane in Tordo, 2001; Nel in Rupprecht, 2007).
+Viruse SHBV so ugotovili pri netopirjih na področju Kenije (Kuzmin in sod., 2010).
+
+V preteklem desetletju so v Evropi opravili številne molekularno-epidemiološke študije virusa stekline (Bourhy in sod., 1999; Pastoret in Brochier, 1999; Kuzmin in sod., 2004; Marston in sod., 2007; Matouch, 2008), s katerimi so potrdili, da je v Evropi najpogosteje ugotovljena vrsta RABV pri sesalcih, vrsti EBLV 1 in 2 pa sta prisotni predvsem pri žužkojedih netopirjih.
+Opisali so tudi posamezne primere prenosa vrste EBLV 1 na ovco (Ronsholt, 2002), jazbeca (Muller in sod., 2002a) in domačo mačko (Dacheux in sod., 2009).
+
+Po trenutno veljavni klasifikaciji je znotraj posameznih vrst rodu Lyssavirus uvrščeno zelo različno število virusnih sevov.
+Štiri opisane vrste (IRKV, ARAV, KHUV in WCBV) imajo samo enega predstavnika.
+Ostale vrste imajo od dva (DUVV) do več tisoč opisanih predstavnikov (RABV) (slika 2).
+Z razvojem molekularnih metod za odkrivanje novih virusov se bo taksonomija rodu Lyssavirus še spreminjala (Nadin-Davis in sod., 2011).
+
+Slika 2: Prikaz filogenetskega drevesa predstavnikov vrst znotraj rodu Lyssavirus, pripravljenega na osnovi primerjave zaporedij 405 nukleotidov gena za nukleoprotein.
+
+Za vsako vrsto so narisane ciljne skupine živalskih vrst (Banyard in sod., 2011).
+
+2.2.2 Zgradba in pomnoževanje virusa stekline 
+
+Zgradbo virusa stekline je prvi opisal Matsumoto (1962).
+Osnovne lastnosti virusa je proučeval z elektronskim mikroskopom.
+Skupna značilnost virusov iz družine Rhabdoviridae je ta, da imajo virioni obliko naboja.
+Širina virusa je 75 nm, njegova dolžina pa se med vrstami znotraj rodu Lyssavirus razlikuje in meri od 100 do 300 nm (Matsumoto, 1962; Matsumoto in sod., 1966; Tordo in Poch 1988).
+Na enem koncu je virus konične oblike, na drugem koncu pa je sploščen (slika 3).
+Molekulska teža viriona je od 300 do 1.000 x 106 daltona (Da).
+
+Slika 3: Shematski prikaz strukture virusa stekline (Albertini in sod., 2011).
+
+Virus je sestavljen iz nukleokapside in plašča.
+Nukleokapsida ima vijačno simetrijo, ki je tudi sicer značilna za velike viruse.
+Plašč tvori dvoslojna lipidna ovojnica, ki se tesno prilega na nukleokapsido.
+Iz plašča štrlijo proteinske peplomere, dolge približno 10 nm (Murphy in Harrison, 1979).
+
+Genom virusa stekline vsebuje nesegmentirano, negativno polarno, enojnovijačno molekulo RNA, ki je dolga približno 12.000 nukleotidov (Mayo in Pringle, 1998).
+Genom je razmeroma preprosto modularno organiziran in vsebuje zapis za pet strukturnih proteinov: nukleoprotein (N), fosfoprotein (P), protein matriksa (M), zunanji glikoprotein (RVG) in od RNA odvisno polimerazo RNA (L) (slika 4).
+Genom virusa stekline ima na 3̕ koncu (začetnih 58 nukleotidov) nekodirajočo sekvenco le (angl. leader), na 5̕ koncu se nahaja nekodirajoča sekvenca tr (angl. trailer).
+Sekvenca le ima vlogo signala, ki začne prepisovanje RNA (Tordo in sod., 1986a, b).
+Med posameznimi geni so kratke intergenske regije dinukleotidov ali pentanukleotidov, ki segajo od 5̕ konca enega gena do 3̕ konca drugega gena.
+Intergenske regije se nahajajo med genoma N in P (dva nukleotida), med genoma P in M (pet nukleotidov), med genoma M in RVG (pet nukleotidov ali 16 nukleotidov za MOKV in LBV) in med genoma RVG in L (423 nukleotidov ali 504 nukleotidov za MOKV) (Le Mercier in sod., 1997).
+Intergenska regija med genoma RVG in L je dovolj dolga, da bi lahko kodirala protein, vendar nima odprtega bralnega okvirja (ORF, angl. open reading frame), zato jo imenujemo psevdogena regija (ψ).
+Iz začetnega signala UUAU ψ in stop signala na informacijski RNA (mRNA, angl. messenger RNA) je mogoče sklepati, da je nekoč kodirala protein (Tordo in sod., 1992).
+Psevdogena regija predstavlja najbolj variabilni del genoma, zato je z analizo nukleotidnega zaporedja te regije mogoče slediti evoluciji virusa stekline (Sacramento in sod., 1991).
+
+Slika 4: Organizacija genoma virusa stekline.
+
+Pomnoževalni ciklus virusa stekline se začne z vstopanjem virusa v celico, nadaljuje se s prepisovanjem in pomnoževanjem ter konča s sestavljanjem in izstopanjem virusa z brstenjem iz celice (slika 5).
+
+Virus stekline vstopi v tarčno celico preko receptorja ali druge celične receptorske enote.
+Prvi receptor, ki so ga raziskovali, je bil acetilholinski receptor (AchR), ki se nahaja na motorični ploščici (Burrage in sod., 1982).
+Vse celice, ki so podvržene okužbi z virusom stekline, nimajo AchR, zato znanstveniki domnevajo, da lahko virus stekline za vstop v celico uporabi več tipov receptorjev (Kucera in sod., 1985; Tsiang in sod., 1986; Lafay in sod., 1991).
+Dva že znana receptorja za virus stekline sta adhezijska molekula živčnih celic CD56 (Thouluze in sod., 1998) in nevrotropinski receptor p75NTR (Tuffereau in sod., 1998).
+Po vezavi virusa na receptor sledi vstop preko zlitja virusne ovojnice s celično membrano in nato še z endosomalno membrano (Marsh in Helenius, 1989) ali vstop preko receptorsko vodene endocitoze (Superti in sod., 1984).
+Vstopanje virusa je mogoče tudi s procesom pinocitoze, pri katerem se oblikujejo mešički, ki lahko vsebujejo od dva do pet virionov (Tsiang in sod., 1983).
+Po vstopu virusa v celico se mešiček odpre in nukleokapsida virusa preide v citoplazmo (Inseni in sod., 1998).
+
+Slika 5: Pomnoževalni ciklus virusa stekline (Aubertini in sod., 2011).
+
+Po vstopu virusa stekline v celico sledi prepisovanje in pomnoževanje virusnih genomov.
+Proces prepisovanja in pomnoževanja virusa poteka s pomočjo od RNA odvisne polimeraze RNA, ki lahko začne prepisovanje na 3' koncu genoma ali na začetku gena, ki kodira zapis za nukleoprotein (Whelan, 2008).
+Vsak od petih genov stekline se prepiše v monocistronske mRNA, ki se prevedejo v virusne proteine (Holloway in Obejski, 1980).
+Na intergenskih povezavah del od RNA odvisne polimeraze RNA (20−30 %) disociira iz virusnega genoma, preskoči intergenski odsek in nadaljuje s prepisovanjem na naslednjem genu.
+Gre za sistem samoregulacije virusne ekspresije, kot neke vrste lokalizirane atenuacije (Iverson in Rose., 1981).
+
+V procesu prepisovanja virusne RNA nastanejo komplementarne kopije RNA enake dolžine, kot je genomska RNA šele potem, ko zadostna količina nukleoproteina zavre preskok intergenskih regij (Blumberg in sod., 1983; Yang in sod., 1999).
+Komplementarne kopije RNA imenujemo antigenom ali replicirajoče intermediarne RNA, ki so pozitivno polarne in služijo kot matrica za nastanek novih negativno polarnih RNA.
+
+Prevajanje N, P, M in L mRNA v virusni protein poteka na prostih ribosomih v citoplazmi celice.
+Prevajanje RVG mRNA poteka na ribosomih, vezanih na membrano endoplazemskega retikuluma (ER).
+Virusni protein RVG se sprosti v lumen ER, kjer se ustvari homotrimerna struktura.
+Končno oblikovanje karbohidratnih verig virusnega proteina RVG poteka v Golgijevem aparatu (GA), kjer se homotrimerna struktura z encimi glikozidaze in glikoziltransferaze spremeni v končno trimerno strukturo (Konfred in Konfred, 1985).
+
+Sestavljanje virionov se začne, ko je v celici dovolj negativno polarnih RNA in virusnih proteinov N, P in L in je že oblikovana nukleokapsida.
+Sestavljanje virionov poteka toliko časa, dokler je gostiteljska celica metabolično aktivna.
+Proces sestavljanja viriona se začne z vrivanjem virusne RNA v kapsido.
+Pri tem nastane kompleks virusne RNA z nukleoproteinom.
+Ko se nukleoprotein veže na nukleotidni skelet, postane RNA popolnoma zaščitena pred razgradnjo, ki bi jo sicer povzročile celične ribonukleaze (Kouznetzoff in sod, 1998).
+V citoplazmi inficirane celice se kopičijo proteini N in P, ki se povežejo v homologne in heterologne komplekse.
+V času sestavljanja virionov je tako v 25−30 % pozitivnih možganov mogoče opaziti Negrijeva telesca, ki so heterologni kompleksi proteinov N in P (Chenik in sod., 1994; Fu in sod., 1994; Yang in sod., 1999).
+Heterologni kompleksi proteinov N in P preprečujejo enkapsulacijo nespecifične nevirusne RNA.
+Protein P, vezan v kompleksu RNAN-P, sproži še vezavo proteina L. Na kompleks RNA-N-P-L se veže še protein M. Sledi pakiranje virusa, pri katerem se proteina M in RVG povežeta (Simons in Garoff, 1980; Mebatsion in sod., 1999).
+Interakcija med proteinoma M in RVG je pomembna za stabilizacijo trimerov proteina RVG na površini viriona.
+Proteina M in RVG sta vezana na membrano celice, ki se pri izstopanju virusa iz celice uviha in oblikuje ovojnico virusa.
+Če pride do pomanjkanja proteina RVG, sestavljanje viriona ni popolno in taki virusi niso infektivni, saj nimajo proteinskih peplomer na površini (Murphy in sod., 1973; Matsumoto in sod., 1974; Gosztonyi, 1994).
+Občasno se lahko pojavi znotrajcelično sestavljanje virusa, ki pridobi svojo ovojnico iz membranskih organelov gostiteljske celice (GA, ER).
+Tako sestavljeni virusi niso infektivni in preidejo iz celice s procesom sekrecije.
+
+Nukleoprotein je sestavljen iz 450 aminokislin s skupno molekulsko težo 57 kDa.
+Odsek genoma za nukleoprotein predstavlja najbolj ohranjeno regijo v genomu virusa stekline, zato je primeren za izvajanje epidemioloških študij in ugotavljanje evolucijskih sorodnosti med virusi stekline (Smith in sod., 1992; Nadin-Davis in sod., 1994; Kissi in sod., 1995).
+Zanesljivo karakterizacijo virusov stekline lahko opravimo s primerjavami aminokislinskih zaporedij nukleoproteina (Sacramento in sod., 1991; Bourhy in sod., 1993).
+Prav tako je za tipizacijo virusov stekline z monoklonalnimi protitelesi pomembna sestava aminokislinskega zaporedja nukleoproteina, saj imajo razlike v aminokislinskem zaporedju lahko za posledico tudi razlike v epitopih, kamor se vežejo monoklonalna protitelesa (Flamand in sod., 1980a, 1980b; Dietzschold in sod., 1987; Smith, 1989).
+Zaradi ohranjenosti nukleoproteina le-tega uporabljajo za proizvodnjo specifičnih konjugatov, ki se uporabljajo v diagnostiki stekline.
+
+Fosfoprotein je sestavljen iz 279 aminokislin in je dobro ohranjena regija virusnega genoma.
+Po mnenju nekaterih znanstvenikov fosfoprotein sodeluje pri aksonskem prenosu virusa, saj se na fosfoproteinu nahaja vezno mesto za proteina dinein in kinezin.
+Ta dva proteina predstavljata molekulski motor, ki sodeluje pri hitrem aksonskem prenosu (Jacob in sod., 2000; Raux in sod., 2000).
+S točkovnimi mutacijami v genomu virusa stekline na fosfoproteinu so znanstveniki poskušali preprečiti vstop in prenos virusa v osrednji živčni sistem, vendar brez uspeha (Mebatsion, 2001; Tan in sod., 2007).
+Z omenjenim eksperimentom je bila teorija o ključni vlogi fosfoproteina pri aksonskem prenosu ovržena.
+Fosfoprotein skupaj z nukleoproteinom predstavlja ključno komponento RNA polimeraznega kompleksa v virionu in deluje kot regulatorni protein pri replikaciji virusa.
+Kot enota RNA polimeraznega kompleksa (L-P) ima fosfoprotein vlogo kofaktorja v procesu prepisovanja in replikacije virusnega genoma (Chenik in sod., 1994; Fu in sod., 1994).
+Fosfoprotein deluje tudi kot šaperon nukleoproteina in s tem preprečuje njegovo polimerizacijo in nespecifično vezavo na RNA (Chenik in sod., 1994; Fu in sod., 1994).
+Najbolj ohranjena regija na fosfoproteinu se nahaja v sredinskem delu med 139. in 170. aminokislino (Conzelmann in sod., 1999).
+
+Protein matriksa je najmanjši izmed proteinov virusa stekline.
+Sestavljena je iz 202 aminokislin s skupno molekulsko težo 25 kDa (Rayssiguer in sod., 1986; Conzelmann in sod., 1990; Bourhy in sod., 1993; Hiramatsu in sod., 1993).
+Protein matriksa oblikuje cevast ovoj okrog jedra in služi kot skelet viriona.
+Protein matriksa daje virionu karakteristično strukturo oblike izstrelka (Barge in sod., 1993; Lyles in sod., 1996), sodeluje pri regulaciji prepisovanja RNA, pri izstopanju virionov iz celice, hkrati je skupaj s proteinom G potreben za učinkovito sestavljanje virusnih delcev (Ito in sod., 1996).
+
+Protein RVG je sestavljen iz 505 aminokislin.
+Začetnih 19 aminokislin predstavlja signalni peptid (SP) za prenos RVG na membrano zrnatega ER in v GA, kjer se SP odcepi. (Benmansour in sod., 1992; Bourhy in sod., 1993).
+Trimeri RVG sestavljajo proteinske peplomere na površini viriona.
+Proteinske peplomere omogočajo pripenjanje virusa na tarčno celico in zlitje virusa s celično membrano.
+RVG se po vezavi na receptor spremeni v aktivno hidrofobno obliko, ki omogoča vezavo virusa na hidrofobno endosomalno membrano.
+Aminokislina arginin (Arg -333) ali lizin (Lys -333) v RVG je pomembna za fenotipsko izražanje virulence virusa stekline.
+Genetske mutacije na RVG imajo pomembno vlogo v virusni patogenezi.
+Virusne variante, ki imajo glutamin (Glu), izoleucin (Ile), glicin (Gly), metionin (Met) ali serin (Ser) namesto arginina (Arg-333) ali lizina (Lys-333), predstavljajo seve, ki so manj patogeni ali celo nevirulentni za odrasle imunokompetentne miši (Dietzschold in sod., 1983; Seif in sod., 1985; Tuffereau in sod., 1989).
+Za indukcijo celične imunosti je RVG najpomembnejši protein virusa stekline.
+RVG sproži nastanek nevtralizacijskih protiteles in stimulira pomočnike limfocite T in citotoksične limfocite T (Dietzschold in sod., 1988; Benmansour in sod.,1991).
+
+Od RNA odvisna polimeraza RNA je največji protein virusa stekline in je sestavljena iz 21272142 aminokislin.
+Je katalitična enota polimeraznega kompleksa.
+Skupaj z nekatalitičnim kofaktorjem fosfoproteina je odgovorna za ključne aktivnosti v procesih prepisovanja in replikacije virusa.
+Iz analize nukleotidnih zaporedij so ugotovili, da od RNA odvisna polimeraza RNA vsebuje ohranjene in variabilne regije (Tordo in sod., 1988; Poch in sod., 1990).
+
+2.3 PATOGENEZA, IMUNOST IN PATOLOGIJA 
+
+Steklina je akutna in neozdravljiva bolezen osrednjega živčevja, ki se konča s smrtjo (Dietzschold in sod., 2005).
+Vstopno mesto virusa stekline je običajno poškodovana koža ali sluznica.
+V podkožje ali mišičje se virus prenese z ugrizom, lizanjem ali praskanjem okužene živali, ki je najpogosteje mesojeda ali netopir (Charlton, 1994).
+V zelo redkih primerih so mogoči prenosi virusa stekline z vdihavanjem kužnega aerosola ali s presaditvijo organov (Gode in Bhide, 1988; Krebs in sod., 1995; Hellenbrand in sod., 2005; Smith in sod., 2006).
+Virus stekline kaže izrazito nevrotropnost, nevroinvazivnost, vendar se v in vivo pogojih na začetku in na koncu okužbe lahko pomnožuje tudi v neživčnem tkivu.
+Na začetku okužbe se na mestu ugriza virus pomnožuje v mišičnih celicah, nato vstopa v živčni sistem preko motoričnih ali senzoričnih nevronov.
+V drugem delu okužbe se virus pomnožuje v acinarnih celicah žleze slinavke in se izloča s slino.
+Po začetnem pomnoževanju na mestu vstopa se virus stekline specifično veže na nikotinske receptorje Ach v živčno-mišičnih stikih (Burrage in sod., 1982) (slika 6).
+Po vstopu v motorične nevrone potuje s hitrim pasivnim retrogradnim aksonskim transportom s hitrostjo od 12 do 100 mm/dan (Kucera in sod., 1985).
+Pri transportu izkorišča motorna proteina dinein in kinezin.
+Transport virusa prekinejo metabolični inhibitorji ali prekinitev živca.
+Virus se znotraj nevronov intenzivno pomnožuje predvsem v hrbtenjači in osrednjem živčevju, od koder potuje v centrifugalni smeri v notranje organe.
+Virus doseže dobro oživčene žleze slinavke in dlačne folikle, respiratorni in prebavni sistem (Krebs in sod., 1995).
+Tako okuži veliko neživčnih celic, vključno z acinarnimi celicami žleze slinavke, zato je prisoten v slini že pred pojavom kliničnih znakov.
+Pri mačkah naj bi se virus izločal v slini tri dni pred pojavom kliničnih znakov (Vaughin in sod., 1963), pri netopirjih 12 dni (Baer in Bales, 1967), pri lisicah pa tudi do 29 dni pred pojavom kliničnih znakov (Aubert in sod., 1994).
+
+Slika 6: Patogeneza virusa stekline (Jackson in Johannsen, 2008).
+
+Med transportom v osrednji živčni sistem poteka pomnoževanje virusa stekline znotraj nevronov, v katerih je nedosegljiv za imunski odgovor.
+Pri človeku lahko po ugrizu stekle živali zaznamo nevtralizacijska protitelesa šele po pojavu simptomatskega encefalitisa.
+Nevtralizirajoča protitelesa so usmerjena proti površinskemu RVG virusa stekline.
+Virus se izogiba imunskemu odgovoru tudi med transportom iz osrednjega živčnega sistema na periferijo.
+
+Steklina se pri živalih pojavlja z živčnimi znaki in konča s smrtjo.
+Smrt po okužbi z virusom stekline nastopi kot posledica encefalomielitisa.
+Okužba limbičnega sistema vpliva na spremenjeno obnašanje živali (agresija, grizenje, nočno aktivne živali postanejo aktivne podnevi, divje živali se ne bojijo človeka).
+V prizadetem tkivu ni večjih patoloških sprememb in nekroze, območja intenzivnih znakov vnetja pa se ne ujemajo z območji pojavljanja Negrijevih telesc.
+Virusna okužba najbolj vpliva na metabolične funkcije in prevajanje signalov živčnih celic (Jackson 1991; 2002).
+Posmrtno lahko ugotavljamo virusni antigen v možganih z imunohistološko metodo, ki omogoča barvanje okuženih nevronov.
+Med različnimi področji možganov se pojavljajo razlike v intenziteti obarvanosti (Charlton, 1988).
+Charlton je ugotovil, da je agresivno vedenje, ki je posledica stekline, kompleksna nevralna disfunkcija nevronov na področju srednjih možganov in nevronov v medialnem hipokampusu, kjer se nahajajo centri za inhibicijo agresivnega vedenja.
+Makroskopske spremembe encefalomielitisa, ki so posledica okužbe z virusom stekline, so nezaznavne.
+Možgani so lahko otečeni, v možganskih ovojnicah se lahko pojavi kongestija krvnih žil, posledica tega pa je odpoved respiratornega in srčnega sistema (Iwasaki in Muneshige, 2000).
+
+Histopatološke spremembe so v možganih po okužbi z virusom stekline običajno nezaznavne.
+Sporadično je opaziti piknozo in nekrozo nevronov.
+Prav tako se lahko pojavi perivaskularna in subarahnoidalna infiltracija vnetnih celic (Iwasaki in Muneshige, 2000).
+
+Med intenzivnim pomnoževanjem virusa stekline znotraj nevronov se kopičijo virusni proteini, ki vodijo v nastanek citoplazemskih vključkov, imenovanih Negrijeva telesca.
+Pri naravnih okužbah človeka z virusom stekline so Negrijeva telesca prisotna pri od 50 do 70 % primerov (Herzog, 1945; Dupont in Earle, 1965).
+Negrijeva telesca so velika od 0,25 do 27 µm, velikost se razlikuje tudi med različnimi živalskimi vrstami (Acton in Harvey, 1925; Goodpasture, 1925).
+
+Čeprav steklina velja za smrtno bolezen, so tudi primeri živali in ljudi, ki so bolezen preboleli.
+Omenjene primere so opisali tudi pri netopirjih iz Trinidada (Pawan, 1936) in Španije (Echevarria in sod., 2001) ter pri psih (Fekadu 1972; 1975).
+V ZDA so opisali primer stekline pri človeku, ki so ga uspešno ozdravili po protokolu Wisconsin, ki ga je razvil dr. Rodney Willoughby, Jr., dr. med (2005).
+Latentna oblika stekline brez kliničnih znakov je redka (Remlinger in Bailey, 1940).
+
+2.4 EPIDEMIOLOGIJA 
+
+Steklina je zoonoza, prisotna na vseh celinah in ugotovljena že v najmanj 150 državah sveta.
+Stekline ni v Avstraliji, Novi Zelandiji, na Norveškem in v Veliki Britaniji.
+Zaradi učinkovitega cepljenja divjih živali narašča število držav, ki jim svetovna zdravstvena organizacija (WHO, angl. World Health Organization) priznava status »država prosta stekline«.
+Pogoj za pridobitev tega statusa je, da v državi v štirih zaporednih letih ni opisanega primera pri domači ali divji živali, z izjemo netopirjev.
+
+Na različnih geografskih področjih se pojavljajo različni prenašalci stekline.
+Steklina se pojavlja v dveh oblikah, in sicer kot urbani in silvatični tip stekline.
+Urbani tip stekline se pojavlja v manj razvitih državah, silvatični tip se pojavlja v razvitih in manj razvitih državah.
+Pri urbanem tipu stekline je glavni prenašalec virusa pes.
+Zaradi tesnega stika psa s človekom se v razvitih državah za preprečevanje prenosa virusa stekline na človeka v populaciji psov izvaja preventivno cepljenje (Hampson in sod., 2009).
+Pri silvatičnem tipu stekline je v Evropi glavni prenašalec virusa lisica (Vulpes vulpes), v ZDA pa poleg lisice še dihurji (Mustela putorius) in rakunji psi (Nyctereutes procyonoides) (Krebs in sod., 2003).
+Tudi v Evropi (na Finskem) so lahko prenašalci virusa rakunji psi (Schuster in sod., 2001; Vos in sod., 2001).
+Silvatični tip stekline se lahko prenese iz divjih na domače živali in te lahko neposredno ogrožajo zdravje ljudi (Pastoret in sod., 1985).
+
+V začetku štiridesetih let prejšnjega stoletja se je steklina začela širiti iz Poljske v države srednje in zahodne Evrope (Pastoret in Brochier, 1999).
+Z vsakim letom se je območje epidemije razširilo za od 20 do 60 km.
+Leta 1967 je epidemija stekline dosegla severozahodni del Švice in se potem razširila na področje celotne države.
+Največje število primerov bolezni, povzročenih z RABV, so ugotovili v letih 1975 in 1976 (Breitenmoser in sod., 1994).
+V sedemdesetih letih se je bolezen širila tudi v ostale evropske države.
+V drugi polovici leta 1950 so steklino najpogosteje ugotavljali pri lisicah.
+Zaradi prehoda urbanega tipa stekline v silvatični tip so znanstveniki razvili nove strategije izkoreninjanja bolezni (Muller in Schluter, 1998).
+
+Velika Britanija ima status država prosta stekline.
+V preteklosti je bila v Veliki Britaniji steklina, povzročena z RABV, razširjena v populaciji psov.
+Med letoma 1886 in 1903 so zabeležili 3.056 steklih živali.
+V populaciji divjih živali pa le dva primera, in sicer leta 1856 in leta 1886 v populaciji jelenov (Meldrum, 1988).
+Država je imela status prosta stekline do leta 1918, ko se je ponovno pojavil urbani tip stekline.
+Leta 1922 so bolezen izkoreninili (Pastoret in Brochier, 1999) in uvedli šestmesečno karanteno za vse mesojede živali, ki vstopajo v državo.
+Steklino so v populaciji divjih živali zadnjič ugotovili leta 1886, zato programa peroralnega cepljenja lisic v Veliki Britaniji niso nikoli izvajali.
+Glede na gostoto lisic nekateri znanstveniki domnevajo, da bo v primeru pojava stekline v populaciji lisic treba uvesti program peroralnega cepljenja lisic (Smith, 1995; Suppo in sod., 2000; Smith in Cheeseman, 2002).
+Smith (2002) predpostavlja, da se v Veliki Britaniji lahko pojavi silvatični tip stekline tudi v populaciji jazbecev.
+Nadzor nad steklini sorodnimi virusi v populaciji netopirjev so začeli izvajati leta 1985 in do leta 2011 ugotovili deset netopirjev, pozitivnih na EBLV 2 (Banyard in sod., 2009; baza podatkov Rabies Bulletin Europe).
+Vrste EBLV 1 v Veliki Britaniji niso nikoli ugotovili, vendar Harris in sodelavci (2009) predvidevajo, da so v državi prisotni tudi virusni sevi vrste EBLV 1, saj so pri netopirjih dokazali specifična nevtralizacijska protitelesa.
+
+Zaradi uspešne izvedbe programa peroralnega cepljenja lisic so v Švici zadnji primer stekline pri lisici ugotovili leta 1996 (Breitenmoser in sod., 2000).
+Steklino, povzročeno z RABV, so opazili tudi v populaciji psov, zadnji primer je bil leta 1997 pri psu, uvoženem iz Maroka.
+V letu 2002 so ugotovili tudi primer EBLV 2 pri netopirju (Fooks in sod., 2003).
+
+V vzhodni Nemčiji so ugotovili steklino, povzročeno z RABV, v populaciji lisic leta 1947.
+Z uvedbo programa peroralnega cepljenja se je število ugotovljenih pozitivnih primerov postopno zmanjševalo iz 5.584 leta 1990 na 12 leta 2006, ko se je steklina pojavila v populaciji lisic zadnjič.
+V letih 2001, 2002, 2004 in 2005 so v Nemčiji pri štirih lisicah ugotovili tudi cepni sev skupine SAD (Muller in sod., 2009a).
+RABV so ugotovili tudi pri domačih živalih, zadnji primer je bil leta 2010 pri psu, ki so ga uvozili iz Bosne in Hercegovine (Eismann in sod., 2010).
+V populaciji netopirjev so ugotovili steklini sorodne viruse vrst EBLV 1 in EBLV 2 že leta 1982.
+Število ugotovljenih pozitivnih netopirjev se je spreminjalo od 17 primerov do 1 primera letno (vir: baza podatkov Rabies Bulletin Europe).
+
+V Italiji so urbani tip stekline, povzročene z RABV, izkoreninili leta 1973.
+Prve primere stekline v populaciji divjih živali pa so ugotovili leta 1977 (Mutinelli, 2002).
+S programom peroralnega cepljenja lisic so steklino izkoreninili že leta 1997, vendar so jo ponovno ugotovili pri lisicah leta 2008 na severovzhodu države ob meji s Slovenijo.
+Na prisotnost EBLV 1 in EBLV 2 so testirali vzorce 500 živih in 135 poginulih netopirjev, vendar EBLV 1 in EBLV 2 v populaciji netopirjev niso ugotovili (Morganti in Prosperi, 1972; Mutinelli in Vernier 1993).
+
+V Belgiji je bilo pred letom 1986 letno okrog 500 primerov stekline, povzročene z RABV, pri domačih in divjih živalih.
+Zadnji primer stekline so pri lisici ugotovili leta 1998, zadnji primer pri psu pa leta 2007.
+
+Silvatični tip stekline so v Franciji ugotovili že leta 1968.
+V letu 1989 je bilo 4.214 pozitivnih primerov.
+Z uvedbo peroralnega cepljenja lisic se je to število postopoma zmanjševalo.
+Leta 1998 je bil ugotovljen zadnji primer stekline pri lisici.
+V populaciji netopirjev so od leta 1989 do 2011 ugotovili 62 primerov netopirjev, okuženih s sevi EBLV 1 (vir: baza podatkov Rabies Bulletin Europe).
+
+V Avstriji so ugotovili steklino, povzročeno z RABV, pri divjih in domačih živalih.
+Z uvedbo peroralnega cepljenja se je število ugotovljenih pozitivnih lisic zmanjšalo iz 2.514 leta 1990 na dva ugotovljena primera v letu 2000.
+Zadnji izbruh stekline v populaciji lisic je bil na mejnem področju s Slovenijo v občini Grebinj leta 2002.
+V Avstriji so ugotovili bolezen, povzročeno s cepnim sevom skupine SAD, pri dveh lisicah leta 2004 in 2006 (Muller in sod., 2009a).
+
+Prisotnost urbanega tipa stekline, povzročenega z RABV, so na Madžarskem ugotovili že leta 1930.
+Z izvajanjem preventivnega cepljenja psov so prvi v Evropi izkoreninili urbani tip stekline.
+Prvi primer silvatičnega tipa stekline je bil ugotovljen leta 1954, število pozitivnih primerov pa se je z uvedbo peroralnega cepljenja lisic postopoma zmanjševalo.
+Med letoma 1999 in 2011 so v populaciji netopirjev ugotovili skupno pet primerov vrste EBLV 1 (vir: baza podatkov Rabies Bulletin Europe).
+
+Na Hrvaškem so ugotovili RABV pri domačih in divjih živalih že pred letom 1933.
+Leta 1934 so uvedli preventivno cepljenje psov in urbani tip stekline izkoreninili leta 1967 (Kodrnja, 1969).
+Silvatični tip stekline so prvič zabeležili leta 1977, od takrat je steklina na Hrvaškem prisotna v populaciji divjih živali.
+
+Med letoma 1946 in 1957 je več kot polovica primerov stekline pri volkovih in več kot tretjina primerov stekline pri lisicah iz področja bivše Jugoslavije izvirala iz Republike Bosne in Hercegovine (Kodrnja, 1959).
+Z zmanjševanjem števila psov in preventivnim cepljenjem psov so število primerov stekline v tej državi zmanjšali iz 304 leta 1954 na samo 32 v letu 1957 (Kodrnja, 1959).
+Od 1964 je bila Bosna in Hercegovina prosta urbane stekline, vendar se je zaradi opuščanja preventivnega cepljenja psov pojavil nov val urbane stekline leta 1971 (Rukavina, 1973).
+Silvatični tip stekline se je razširil iz severnega dela države na celotno območje Bosne in Hercegovine leta 1982 (Djuričić in sod., 1988).
+
+Prvi Pasteurjev inštitut za poizpostavitveno terapijo ljudi v Sloveniji so ustanovili v Celju leta 1925 (Milovanović, 1933).
+Med obema vojnama pa vse do leta 1954 je bil v Sloveniji razširjen urbani tip stekline predvsem v populaciji psov.
+Preventivno cepljenje psov proti steklini smo v Sloveniji začeli izvajati z obveznim cepljenjem z odlokom leta 1947 (Ur. List RS 139/2006), ko je bilo cepljenih 97 % psov.
+Število steklih psov se je v naslednjih letih zmanjševalo iz 133 leta 1946, 126 leta 1947, 26 leta 1948, na 8 primerov leta 1949 (Kodrnja, 1959).
+Zadnji primer urbane stekline v Sloveniji je bil leta 1954.
+
+Po drugi svetovni vojni se je steklina pojavljala v populaciji divjih in domačih živali na področju celotne bivše Jugoslavije.
+Prve stekle lisice so na področju te države ugotovili leta 1972 (Petrović, 1974), na področju Slovenije pa septembra leta 1973 (Železnik in Janc, 1997), ko se je pojavila steklina pri lisicah na meji z Madžarsko (Petrović, 1974).
+Prvi dokazani primer silvatične stekline, povzročene z RABV, smo ugotovili pri rdeči lisici v občini Petrovci, od koder se je steklina razširila po vsem Prekmurju do naravne meje, ki jo je predstavljala reka Mura.
+Leta 1979 je iz smeri Avstrije na področju Jesenic, Žirovnice in Prevalj ter Raven na Koroškem Slovenijo zajel nov val silvatične stekline, ki se je do leta 1981 razširila po celotnem ozemlju Slovenije (Petrović in sod., 1980; Djuričić in sod., 1988).
+Steklina se je v Sloveniji pojavljala ciklično z vrhovi leta 1981 (1.766 primerov), 1988 (805 primerov) in 1995 (1.084 primerov).
+Med letoma 1995 in 2011 je število ugotovljenih pozitivnih primerov upadalo in znova naraščalo, dokler v letu 2011 prvič ni bilo nobenega pozitivnega primera (tabela 2).
+Od leta 1973 do leta 1979 je bila steklina v Sloveniji prisotna le v populaciji divjih živali v Prekmurju, nato se je razširila tudi na druge regije.
+Med domačimi živalmi je bila v Sloveniji med letoma 1987 in 2011 steklina največkrat ugotovljena pri mačkah (124 primerov) in psih (86 primerov), med divjimi živalmi pa pri lisicah (4.856 primerov) in jazbecih (101 primer) (tabela 2, povzeto iz podatkov Virološkega laboratorija Veterinarske fakultete).
+
+Prvi dokaz steklini sorodnih virusov pri netopirju na področju Evrope je bil ugotovljen leta 1954 (Mohr, 1957).
+S tipizacijo virusov, opisanih pri netopirjih v Evropi, so ugotovili, da se le-ti razlikujejo od virusov stekline, ugotovljenih pri lisicah (Schneider in Cox, 1994).
+Prvi opisan primer steklini sorodnega virusa, ugotovljenega pri netopirju, so poimenovali EBLV 1 (Davis in sod., 2005, 2006).
+Viruse EBLV 1 so ugotovili samo na področju Evrope pri netopirjih vrste pozni netopir (Eptesicus serotinus), navadni netopir (Myotis myotis), resasti netopir (Myotis natteri), veliki podkovnjak (Rhinolopus ferrumequinum) in dolgokrili netopir (Miniopterus schreibersii) (Serra-Cobo in sod., 2002; Amengual in sod., 2007).
+EBLV 2 so prvič opisali na Nizozemskem pri netopirju vrste močvirski netopir (Myotis dasicneme) (Nieuwenhuijs, 1987).
+EBLV 2 so ugotovili še v Švici (Amengual in sod., 1997), Veliki Britaniji (Banyard in sod., 2009), Nemčiji (Freuling in sod., 2008) in na Finskem (Jakava-Vijanen in sod., 2010).
+V ZDA krvosesi netopirji prenašajo RABV, na ostalih kontinentih pa so žužkojedi netopirji lahko prenašalci ostalih steklini sorodnih virusov.
+Ugotovljeni so redki primeri (tabela 3), ko so žužkojedi netopirji prenesli steklini sorodne viruse na človeka (Lafon, 2005).
+
+Tabela 2: Pojavljanje stekline pri domačih in divjih živalih v letih 1987–2011 (povzeto iz podatkov Virološkega laboratorija Veterinarske fakultete).
+
+Leta 2008 smo v Sloveniji začeli ugotavljati prisotnost steklini sorodnih virusov v populaciji netopirjev (Hostnik in sod., 2010).
+Z metodo FAVN smo na prisotnost protiteles testirali vzorce krvi, z metodo RT-PCR smo testirali vzorce brisov ustne votline odvzetih pri živih netopirjih, pri poginulih netopirjih pa bris lobanjske votline.
+Leta 2008 smo testirali 219 vzorcev, leta 2009 171 vzorcev, leta 2010 221 vzorcev, leta 2011 pa 160 vzorcev.
+RNA virusa stekline nismo dokazali v nobenem od preiskovanih vzorcev.
+Izmed vseh testiranih krvnih vzorcev z metodo FAVN smo jih sedem ovrednotili kot dvomljive, ostali krvni vzorci so bili negativni na prisotnost specifičnih protiteles (povzeto iz podatkov Virološkega laboratorija Veterinarske fakultete).
+
+Zelo redki so primeri prenosa stekline iz človeka na človeka.
+Poznan je primer prenosa s transplantacijo organov.
+Zadnji opisani primer se je zgodil v Nemčiji leta 2004, ko so organe darovalca presadili trem prejemnikom, ki so nato umrli zaradi okužbe z virusom stekline.
+Darovalec je nekaj mesecev pred smrtjo potoval po Indiji, kjer je steklina endemično prisotna (Hellenbrand in sod., 2005).
+
+Tabela 3: Opisani primeri prenosa steklini sorodnih virusov iz netopirjev na človeka (Banyard in sod., 2011).
+
+2.5 PREPREČEVANJE POJAVA STEKLINE PRI LJUDEH
+
+Za preprečevanje pojava stekline pri ljudeh izvajamo pri izpostavljeni populaciji preventivno cepljenje in poizpostavitveno terapijo.
+Preventivno cepljenje proti virusu stekline je priporočljivo za tiste ljudi, ki pri svojem poklicu prihajajo v stik z domačimi ali divjimi živalmi (veterinarji, delavci v klavnicah, laboratorijsko osebje, biologi, gozdarji, lovci, kmetje).
+V Sloveniji se za ljudi uporablja cepivo, ki vsebuje inaktiviran virus stekline, sev Pitman-Moore, vzgojen na kulturi humanih diploidnih celic.
+Program zaščitnega cepljenja je sestavljen iz treh cepljenj.
+Prvemu cepljenju sledi drugo v razmiku 7. dni in tretje 21. dni po drugem odmerku cepiva.
+Cepivo je učinkovito proti virusom RABV, EBLV 1, EBLV 2, ABLV (Brookes in sod., 2006), IRKV, ARAV, KHUV (Hanlon in sod., 2005).
+Slabo je učinkovito proti virusu DUVV, neučinkovito pa proti virusom MOKV, LBV (King in Crick, 1988; Markotter in sod., 2008) in WCBV (Hanlon in sod., 2005).
+
+Poizpostavitvena terapija je v osnovi sestavljena iz treh delov, in sicer iz takojšnje oskrbe rane, infiltracije imunoglobulinov proti virusu stekline okrog rane in cepljenja proti virusu stekline (CDC, angl. Centers for disease control and prevention, 2008).
+Ugrizno rano ali drugo rano, ki jo je povzročila potencialno stekla žival, je treba sprati z milom in vodo, sledi razkuževanje z virucidnim sredstvom (jodovi preparati).
+Nadaljnji ukrepi so odvisni od imunskega statusa poškodovanega človeka.
+Če je oseba že predhodno cepljena proti virusu stekline, sta potrebna oskrba rane in cepljenje z dvema odmerkoma cepiva.
+Prvi odmerek se aplicira takoj, drugi pa po treh dneh.
+Pri necepljenih osebah je treba pri oskrbi rane le-to dobro infiltrirati z imunoglobulini proti virusu stekline, ki jih dodatno aplicirajo intramuskularno v deltoidno mišico.
+Necepljene osebe je treba zaščititi s cepivom v petih ali šestih odmerkih, ki jih aplicirajo po shemi takoj, tretji, sedmi, štirinajsti in trideseti dan ter opcijsko še devetdeseti dan (Stantič Pavlinič in Hostnik, 2002).
+
+Poizpostavitvena terapija ima lahko neželene učinke, kot so slabost in anafilaktični šok (Wilde in sod., 1989).
+Prav tako poizpostavitvena terapija predstavlja visok strošek v manj razvitih državah, kar je tudi poglavitni razlog, da se jo v Indiji uporabi le v nujnih primerih in jo prejme le 18 odstotkov izpostavljenih oseb (Satpathy in sod., 2005).
+Poizpostavitvena terapija v določenih primerih ni bila učinkovita, zlasti pri nepravilni aplikaciji imunoglobulinov proti virusu stekline (Wilde, 2007).
+Neučinkovita je tudi v primerih, ko je rana na področju glave ali vratu in je virus že vstopil v osrednji živčni sistem (Hooper in sod., 2011).
+
+2.6 PREPREČEVANJE POJAVA STEKLINE PRI DOMAČIH ŽIVALIH 
+
+Da bi preprečili pojav urbanega tipa stekline, so po drugi svetovni vojni v večini evropskih držav uvedli obvezno preventivno cepljenje psov proti steklini (Hampson in sod., 2009).
+V Sloveniji je cepljenje psov obvezno, za ostale domače živali pa priporočljivo.
+Pse je treba proti steklini cepiti najpozneje ob dopolnjenem tretjem mesecu starosti.
+Ponovna cepljenja psov je treba opravljati v rokih, ki jih določajo proizvajalci cepiv.
+Za nadzor izvajanja preventivnega cepljenja je Urad za varno hrano, veterinarstvo in varstvo rastlin (UVHVVR) leta 2001 uvedel centralni register psov, starejših od 3. mesecev, psi pa morajo biti označeni z mikročipom (Pravilnik o označevanju živali, veterinarskem spričevalu in veterinarski napotnici, Ur. l. RS 99/2001).
+
+Sum na steklino pri domačih živalih je, kadar živali kažejo klinične znake, na osnovi katerih je mogoče sumiti, da se je pojavila bolezen, ali ko domača žival poškoduje človeka.
+Veterinarska organizacija v primeru suma bolezni s pisnim navodilom določi osamitev živali, ki kaže klinične znake, vendar ne več kot 10 dni za pse in ne več kot 20 dni za ostale živali.
+Če žival pogine, mora veterinarska organizacija poslati žival na preiskavo v nacionalni referenčni laboratorij za steklino.
+Za pse in mačke, ki so poškodovale človeka, vendar ne kažejo kliničnih znakov, mora veterinarska organizacija odrediti desetdnevni nadzor in tri klinične preglede živali, in sicer prvi, peti in deseti dan po ugrizu.
+Necepljene pse in mačke, za katere se sumi, da so prišli v stik s steklo živaljo, je treba usmrtiti.
+Dokazano cepljenim živalim, ki so prišle v stik s steklo živaljo, se mora določiti zaščitni titer protiteles.
+Če je titer manjši od 0,5 I.E./ml (internacionalnih enot/mililiter), je treba žival ponovno cepiti in opraviti trimesečno veterinarsko kontrolo.
+Če lastnik ne soglaša s cepljenjem ali trimesečno kontrolo, je treba žival usmrtiti (Pravilnik o ukrepih za ugotavljanje, preprečevanje in zatiranje stekline − Rabies (Lyssa), Ur. l. RS 139/06).
+
+Za nekomercialne premike psov, mačk ali belih dihurjev na Irsko, Švedsko, Veliko Britanijo in Malto sta obvezna evropski potni list za živali, ki potrjuje opravljeno preventivno cepljenje živali proti steklini, in potrdilo o testiranju na protitelesa proti virusu stekline, pri čemer mora biti titer nevtralizacijskih protiteles višji ali enak 0,5 I.E./ml (Ur List RS 25/2008).
+Testiranje na protitelesa se izvaja vsaj 30 dni po cepljenju oziroma tri mesece pred potovanjem.
+Za vrnitev v Slovenijo po potovanju znotraj držav članic Evropske unije (EU) ali tretjih držav z ugodnimi razmerami glede stekline se zahteva, da je žival označena in ima evropski potni list, ki potrjuje, da je pes preventivno cepljen.
+Za vrnitev v Slovenijo po potovanju iz ostalih držav, ki niso na nobeni listi, je treba imeti še potrdilo o testiranju na protitelesa proti virusu stekline (Ur List RS 25/2008).
+
+Na podlagi Odredbe o izvajanju sistematičnega spremljanja stanja bolezni in cepljenj živali v letu 2012 je v Sloveniji obvezno preventivno cepljenje proti virusu stekline za govedo, drobnico in kopitarje, ki se pasejo na območjih z izrazitim tveganjem za steklino.
+Cepljenje opravijo tri tedne pred pašo.
+
+2.7 PREPREČEVANJE STEKLINE PRI DIVJIH ŽIVALIH 
+
+V Evropi je med divjimi živalmi glavni prenašalec in rezervoar virusa stekline lisica.
+Sprva so za preprečevanje širjenja stekline uporabljali metodo zmanjševanja populacije lisic (Ballantyne in O'Donoghue, 1954), vendar rezultati niso bili zadovoljivi.
+Sledil je nov koncept preprečevanja stekline z zniževanjem plodnosti lisic, ki so ga razvili v ZDA (Storm in Sanderson, 1969a; 1969b).
+Pomanjkljivost tega koncepta je bila slaba specifičnost (Turner in Kirkpatrick, 1996).
+V sedemdesetih letih so raziskovalci predstavili nov koncept preprečevanja stekline, ki je temeljil na aktivni imunizaciji lisic po peroralni poti (Baer in sod., 1971; Black in Lawson, 1970; Blancou, 1985; Winkler, 1992).
+Sprva so za ovoj vabe uporabljali piščančjo glavo, kasneje se je sestava ovoja vabe spremenila tako, da vsebuje parafin, loj in ribjo moko (Have in sod., 2002).
+Vabe za aktivno imunizacijo lisic so danes pripravljene iz plastične kapsule z živim atenuiranim virusom, obdanem z ovojem, ki služi kot atraktant, da lisica vabo poišče.
+Ovoj vsebuje tudi biomarker tetraciklin, ki se vgradi v zobovje živali, ki vabo zaužijejo.
+Tetraciklin lahko zaznamo v zobovju živali z imunofluorescenčnim mikroskopom in tako določimo odstotek vzorčenih lisic, ki so odvzele vabo.
+Pri grizenju se plastična kapsula predre in cepni virus pride v stik s sluznico.
+Virus nato vstopi v organizem skozi sluznico ustne votline in žrela.
+
+Prvo uspešno cepljenje lisic v Evropi je bilo izvedeno v Švici leta 1978 (Steck in sod., 1982).
+Vabe so prvič polagali v kantonu Valais, na področju 1500 m nad morsko gladino, kjer je gostota populacije lisic največja (Steck in sod., 1982).
+Z desetimi polaganji vab so steklino na tem področju izkoreninili.
+Vabe so polagali v mesecu marcu in oktobru ročno in s helikopterji, gostota vab je bila 15,5/km2.
+Za cepljenje so v Švici uporabili atenuirane virusne seve SAD Bern, SAD B19, SAG 1 in SAG 2 (Steck in sod., 1982; Aubert in sod., 1994).
+Leta 1982 so ugotovili 1.001 pozitivni primer, od tega 652 primerov pri lisicah, leta 1990 pa le 24 pozitivnih primerov pri lisicah, kar je posledica njihovega uspešnega cepljenja (Zanoni in sod., 2000).
+Zaradi dobrih rezultatov peroralnega cepljenja lisic v Švici so podobne programe zaščite uvedle še druge države, in sicer Nemčija leta 1983, Italija leta 1984, Avstrija, Belgija, Francija in Luksemburg leta 1986, Finska, Nizozemska in Slovenija leta 1988, Češka leta 1989, Madžarska in Slovaška leta 1992 in Poljska leta 1993 (Aubert in sod., 1994; Muller in Schluter, 1988; Železnik in Janc 1997; Vos in sod., 2000).
+Leta 1994 so peroralno cepljenje lisic izvajali že v 17 državah Evrope.
+Letno so položili okrog 15 milijonov vab, število ugotovljenih primerov v letu 1994 pa se je zmanjšalo za 20 % glede na število primerov iz leta 1993 (Stohr in Meslin, 1996).
+Za peroralno cepljenje lisic so v evropskem prostoru najpogosteje uporabili živ atenuiran sev SAD B19 (Brochier in sod., 2001; Pastoret in sod., 2004), ki ima visoko imunogeno aktivnost (Vos in sod., 2000; Neubert in sod., 2001).
+Virusni sev SAD so izolirali v Alabami leta 1935 pri steklem psu, iz njega pa izhajajo cepni sevi ERA, Vnukovo-32, SAD Bern, SAD B19, SAD-P5/88; SAG-1 in SAG-2.
+Kljub številnim študijam varnosti cepnih sevov (WHO, 1989; WHO, 2005), ki so pokazale, da je njihova uporaba varna, pa v literaturi zasledimo redke primere stekline po cepljenju (Muller in sod., 2009a).
+Cepivo, ki vsebuje sev SAD Bern ali SAD B19, je lahko patogeno za glodavce in živali z oslabljenim imunskim sistemom (Pastoret in Brochier, 1999; Vos in sod., 1999; Wandeler, 2000; Have in sod., 2002).
+Cepni sev, ki se uporablja za peroralno cepljenje lisic, naj ne bi imel nevropatogenih lastnosti, zato ga pri cepljeni živali ne bi smeli najti v možganskem tkivu.
+Na področju Avstrije in Nemčije so opisali šest primerov, pri katerih so v možganih lisic našli cepni sev virusa stekline (Muller in sod., 2009a).
+Vsa cepiva, ki so jih uporabili v teh državah, so vsebovala sev SAD B19, ki ni patogen za ciljno vrsto (lisice).
+Razlog za pojav bolezni je lahko oslabljen imunski sistem cepljene živali ali sprememba virulence cepnega seva (Muller in sod., 2009a), vendar pa s proučevanjem mutacij in genetske stabilnosti seva SAD B19 skozi več pasaž znanstveniki potrjujejo genetsko stabilnost seva SAD B19 (Beckert in sod., 2009).
+
+Da bi izkoreninili steklino pri rakunjih psih, so leta 1988 na Finskem začeli izvajati program peroralnega cepljenja.
+Pojave stekline pri rakunjih psih so zmanjšali s polaganjem vab v dveh periodah letno vse do leta 1991 (Metlin in sod., 2008).
+
+V Belgiji so program peroralnega cepljenja lisic proti steklini izvajali od leta 1989 do 1991 le na geografskem področju, na katerem je bila steklina ugotovljena.
+Posledično se je število ugotovljenih pozitivnih živali zmanjšalo za 80 odstotkov.
+Med letoma 1992 in 1994 so program peroralnega cepljenja v Belgiji izvajali le še na mejnih področjih z Nizozemsko, Nemčijo, Luksemburgom in Francijo.
+Posamezne primere stekline so ugotovili med letoma 1994 in 1996 v osrednjem delu države, zato so ponovno začeli izvajati peroralno cepljenje po celotnem ozemlju.
+Spremenili so tudi strategijo polaganja vab tako, da so vabe polagali z letali v obdobju od novembra do marca, ko je gostota populacije lisic najnižja.
+Pri tem so uporabljali navigacijski sistem GPS (angl. Global positioning system), zmanjšali so razdalje med zračnimi preleti letal in povečali število vab iz 15 na 17/km2.
+Zadnji primer stekline so ugotovili leta 1999 (Cliquet in Aubert, 2004).
+
+V Franciji so začeli izvajati program peroralnega cepljenja leta 1989, ko je bilo več kot 4.200 primerov stekline.
+Program peroralnega cepljenja so izvajali vse do leta 1996, ko se je število pozitivnih primerov zmanjšalo za 99,7 odstotkov glede na leto 1989.
+Zadnji pozitivni primer so v Franciji ugotovili leta 1998 pri lisici.
+Program eradikacije stekline je v Franciji požel velik uspeh zaradi dobrega medsosedskega sodelovanja z Belgijo, Luksemburgom in Švico (Cliquet in Aubert, 2004).
+
+V Italiji se peroralno cepljenje izvaja od leta 1984.
+Polaganje vab je bilo omejeno le na geografska področja, na katerih so ugotovili steklino.
+Steklino so s peroralnim cepljenjem izkoreninili v populaciji lisic leta 1995, vendar se je ponovno pojavila leta 2008 na severovzhodu države ob meji s Slovenijo (DeBenedictis in sod., 2009).
+Oktobra leta 2008 so ugotovili dve stekli lisici v provinci Udine.
+V letu 2009 se je steklina razširila proti zahodu v regijo Veneto in v letu 2010 zajela še provinci Trento in Bolzano.
+Zaradi ponovnega pojava stekline v populaciji lisic so ponovno začeli izvajati peroralno cepljenje lisic novembra 2009 (Capello in sod., 2010).
+Med steklimi živalmi so ugotovili največ lisic, v manjšem številu primerov pa so steklino ugotovili tudi pri jazbecih, jelenih, mačkah in oslih.
+Največje število pozitivnih živali je bilo v regiji Veneto (Mutinelli, 2010).
+
+V Avstriji so začeli s programom peroralnega cepljenja lisic leta 1986 in v nekaj letih drastično zmanjšali število pozitivnih primerov.
+Steklina se je ponovno pojavila na mejnem področju s Slovenijo leta 2002, ko so ugotovili 24 pozitivnih živali.
+Da bi preprečili širjenje stekline med divjimi živalmi, so ponovno uvedli peroralno cepljenje lisic (Vogl, 2002).
+Zadnji primer stekline pri lisici je bil ugotovljen leta 2006.
+
+Na Madžarskem so uvedli peroralno cepljenje lisic leta 1992.
+Zaradi peroralnega cepljenja so opazili porast populacije lisic.
+Ta se je podvojila tudi na področjih, na katerih cepljenja niso izvajali (Miklos in sod., 2000).
+
+Na Hrvaškem so leta 1977 prvič ugotovili silvatični tip stekline.
+Program peroralnega cepljenja so izvajali med letoma 1991 in 2000, nato so program zaradi pomanjkanja sredstev prekinili.
+Posledično je naraslo število primerov stekline; leta 2008 jih je bilo 1.061.
+Ponovna uvedba peroralnega cepljenja v letu 2010 je vplivala na zmanjšanje števila ugotovljenih primerov leta 2011, ko so ugotovili le 375 primerov stekline (vir: baza podatkov Rabies Bulletin Europe).
+
+V Sloveniji smo program peroralnega cepljenja lisic prvič izvedli na področju Gorenjske v jeseni leta 1988 (Hostnik in sod., 2006).
+V sodelovanju z Avstrijo in Italijo smo pripravili štiriletni program izkoreninjanja stekline v populaciji lisic v smeri od zahoda proti vzhodu.
+Vabe so med letoma 1988 in 1992 polagali lovci ročno po predhodno izdelanem načrtu.
+Ročno polaganje vab se je v Sloveniji izkazalo za uspešno, vendar ne dovolj učinkovito, da bi preprečili pojavljanje stekline (Kovač, 1993).
+
+Uspešnemu prvemu obdobju peroralnega cepljenja lisic v Sloveniji (Curk in Carpenter, 1994) je sledila druga perioda, ki se je začela leta 1995.
+Vabe smo tokrat polagali s posebej prilagojenimi športnimi letali iz višine 300−500 m. Sistem polaganja vab se je skozi leta spreminjal, izpopolnjeval z računalniškim nadzorom GPS, da bi dosegli čim boljšo zaščito lisic.
+Leta 1999 smo program peroralnega cepljenja lisic izvajali na področju celotnega ozemlja Slovenije z izjemo urbanih naselij in področij visokih gora.
+Leta 2000, ko sta Italija in Avstrija steklino izkoreninili, smo v Sloveniji začeli izvajati polaganje vab le na obmejnem področju s Hrvaško v pasu, širokem 12.500 km2.
+Do leta 2001 smo z letali polagali vabe po vzporednicah v razdalji 1.000 m, gostota izmeta vab pa je bila 18−23 vab na km2.
+Od leta 2001 naprej uporabljamo sistem križnega naleta, s katerim se v peroralno cepljenje zajame večji odstotek lisic kot pri predhodnem sistemu, saj vabe polagamo v vodoravnih in navpičnih linijah preleta letal (Hostnik in sod., 2006).
+Med letoma 1995 in 2012 smo na ozemlju Slovenije s peroralnim cepljenjem lisic položili več kot 9 milijonov kosov vab za lisice.
+Program peroralnega cepljenja lisic v Sloveniji od leta 2009 ponovno izvajamo na področju celotne države zaradi pojava stekline v sosednji Italiji (DeBenedictis in sod., 2009).
+Program v Sloveniji izvajamo vsako leto v dveh terminih, in sicer spomladi (maja in junija) in jeseni (oktobra in novembra).
+Sprva smo spomladansko cepljenje izvajali marca in aprila, vendar v tem obdobju ni bilo mogoče zajeti populacije mladih lisic (Hostnik in sod., 2003).
+Zato so nekateri avtorji raziskav priporočali, da bi spomladansko cepljenje razdelili v dva dela, pri katerem se prvi del cepljenja izvede marca in drugi del konec maja ali začetek junija, ko mlade lisice že iščejo hrano in tako pridejo v stik z vabo (Muller in sod., 1999; Vos in sod., 2001).
+
+V Sloveniji smo od leta 1988 do leta 2006 uporabljali dve vrsti cepiv, in sicer Lysvulpen (Bioveta, Češka), ki vsebuje sev SAD Bern, in Fuchsoral (IDT Biologika GmbH, Nemčija), ki vsebuje sev SAD B19.
+Zahodno od Ljubljane smo uporabljali cepiva Lysvulpen, vzhodno od Ljubljane pa cepiva Fuchsoral.
+Po letu 2006 v Sloveniji uporabljamo le eno cepivo − Fuchsoral (Hostnik in sod., 2011).
+
+Za oceno programa cepljenja lisic v Sloveniji izvajamo aktivni in pasivni monitoring.
+V okviru aktivnega monitoringa UVHVVR financira odlov lisic, katerih možgane testiramo s testom dIF na prisotnost antigena virusa stekline.
+Pri odlovu lisic se upošteva priporočilo WHO, da je treba vzorčiti vsaj 8 lisic na 100 km2.
+Prav tako se v okviru aktivnega monitoringa določa prisotnost biomarkerja tetraciklina v kosti lisic.
+V ta namen z žago za rezanje mineralov (Buehler Isomet, Nemčija) pripravimo 1,0 mm debele rezine čeljusti in prisotnost tetraciklina ovrednotimo s fluorescenčnim mikroskopom.
+V okviru aktivnega monitoringa s testom ELISA testiramo serumske vzorce lisic na prisotnost protiteles proti virusu stekline in tako ocenimo odstotek lisic, ki so po peroralnem cepljenju ustvarile zaščitni nivo protiteles proti virusu stekline.
+
+V okviru pasivnega monitoringa v Sloveniji preverjamo prisotnost stekline pri poginulih živalih.
+S testom dIF testiramo vzorce možganov poginulih živali na prisotnost antigena virusa stekline.
+Prav tako v okviru pasivnega monitoringa na prisotnost virusa z metodo IVCK testiramo živali, ki so ugriznile človeka ali pri katerih je bilo ugotovljeno nenavadno obnašanje ali sum na steklino zaradi stika z divjo živaljo.
+
+Hostnik in sodelavci (2011) smo testirali stabilnost vab glede na temperaturo, ki je odvisna od rastlinja na mestu polaganja.
+Testirali smo vabe, položene na nizko travo, visoko travo in v senco pod drevo in grmičevje.
+Vabe smo položili ročno v opisane okoliščine in v intervalih nekaj dni vzorce pobirali ter z metodo IVCK določili titer virusa v vabah.
+Titer virusa v vabah je padel na 0 v 3−4 dneh v nizki travi, v 15−17 dneh v visoki travi in v 45−53 dneh v senčni lokaciji.
+Razgradnja vab se je pojavila že v prvih 24 urah v nizki travi oziroma v šestih dneh v visoki travi in v senčni lokaciji.
+V študiji smo ugotovili, da ni primerno polaganje vab v dneh, ko je dnevna temperatura višja od 30 °C, saj se pri visokih temperaturah ovoj vabe hitreje razgradi (Hostnik in sod., 2011).
+
+Od leta 1995, ko se je v Sloveniji začelo drugo obdobje peroralnega cepljenja lisic, se je število lisic, pozitivnih na virus stekline, zmanjševalo vsako leto.
+Leta 1999 je bilo pozitivnih samo pet lisic (tabela 2).
+Število ugotovljenih primerov stekline se je nato v letih 2000 in 2001 ponovno povišalo na 114 oziroma na 135.
+V letu 2002 smo ugotovili 15, v letu 2003 pa 8 primerov.
+Nizko število ugotovljenih primerov stekline je bilo vse do leta 2008, ko se je število steklih živali ponovno povišalo na 55.
+V istem letu (2008) so prvič po letu 1997 ponovno ugotovili steklino tudi v sosednji Italiji, ki je bila prosta stekline od leta 1997 (DeBenedictis in sod., 2009).
+Leta 2009 smo v Sloveniji ugotovili 35 primerov, v letu 2010 16, v letu 2011 pa ni bilo nobenega primera stekle živali.
+Letu 2012 sta bila do konca meseca julija ugotovljena dva primera stekline pri lisicah.
+Po uvedbi cepljenja lisic na celotnem področju Slovenije večino pozitivnih primerov ugotavljamo v obmejnem področju s Hrvaško, število pozitivnih primerov na steklino se je zmanjšalo (Hostnik in sod., 2011).
+Izven območja cepljenja smo leta 2008 ugotovili primer stekle lisice v občini Kanal ob Soči v bližini italijanske meje (Hostnik in sod., 2011).
+
+Prvo obdobje izvajanja peroralnega cepljenja lisic v Sloveniji med 1988 in 1992 ni bilo dovolj učinkovito, da bi bolezen izkoreninili v populaciji lisic.
+Po začetku polaganja vab s pomočjo letal, ki se je začelo 1995, se je število ugotovljenih primerov stekline zmanjševalo na skupno šest primerov leta 1999.
+Pri načrtovanju števila položenih vab na km2 je treba vsako leto število vab prilagajati spreminjanju populacije lisic.
+Med letoma 2000 in 2001, ko se je povečala populacija lisic, število vab pa je ostalo enako, se je posledično število ugotovljenih primerov stekline povečalo (Hostnik in sod., 2011).
+
+2.8 KLINIČNA SLIKA 
+
+Inkubacijska doba bolezni je pri živalih in človeku lahko zelo kratka, do 5 dni, ali pa ekstremno dolga, tudi do več let.
+V povprečju je inkubacijska doba dolga 20−90 dni.
+Odvisna je od količine virusa in od mesta ugriza.
+Inkubacijska doba je krajša v primerih, ko je mesto ugriza blizu glave, saj je pot virusa do osrednjega živčnega sistema krajša.
+Pri človeku je inkubacijska doba po ugrizu stekle živali na področju vratu ali glave 25−48 dni, po ugrizu v zgornjo okončino 46 dni, po ugrizu v spodnjo okončino pa 78 dni (povzeto po Petrovec, 2011).
+
+Bolezen pri divjih in domačih živalih poteka v treh fazah:
+
+• Prodormalna faza traja 1−3 dni.
+Pojavijo se povišana telesna temperatura, zmanjšan apetit in spremembe v obnašanju živali.
+V tej fazi nočno aktivne živali postanejo dnevno aktivne.
+
+• Ekscitacijska faza traja 2−4 dni.
+Kaže se s povečano razdražljivostjo živali, povečane so zenice, pospešen je pulz, pojavi se drhtenje, mišična inkoordinacija (Tepsumethanon in sod., 2005).
+Živali postanejo nemirne, grizejo premikajoče se objekte (predmete, živali, ljudi), divje živali izgubijo strah pred človekom in zahajajo v naselja.
+
+• Paralitična faza je zadnja faza bolezni in traja 2−4 dni.
+Živali kažejo znake paralize spodnje čeljusti, grla in žvekalnih mišic.
+Zaradi nezmožnosti požiranja se pojavi slinjenje.
+Sledi paraliza okončin, koma in smrt.
+
+Bolezen se pri živalih lahko pojavi v tihi obliki, ki je sestavljena le iz prodormalne in paralitične faze.
+
+Pri netopirjih so opisali klinične znake: mišični krči, drhtenje, agresivno vedenje in dnevna aktivnost (Brass, 1994; Whitby in sod., 2000; Shankar in sod., 2004).
+Pri netopirjih lahko steklina poteka tudi brez kliničnih znakov (Ronsholt in sod., 1998).
+
+2.9 LABORATORIJSKA DIAGNOSTIKA 
+
+Klinične znake bolezni je pri živalih in človeku po okužbi z virusom stekline težko razlikovati od ostalih okužb osrednjega živčnega sistema.
+Diferencialna diagnoza pri psih je pasja kuga, pri človeku pa sindrom Guillain-Barre, poliomielitis in ostali virusni encefalitisi (Plotkin, 2000).
+Postavitev zanesljive dokončne diagnoze je mogoča le z laboratorijsko diagnostiko.
+S posameznimi metodami lahko ocenimo uspešnosti programa peroralnega cepljenja lisic ter spremljamo epidemiološko situacijo v državi.
+
+Steklino lahko dokažemo z metodami za dokazovanje prisotnosti virusa stekline (IVCK, biološki poskus), metodami za dokazovanje prisotnosti virusnega antigena (dIF, test ELISA) ali metodami za dokazovanje virusnega genoma (RT-PCR ali RT-PCR v realnem času).
+V začetnih fazah okužbe lahko z naštetimi testi dobimo lažno negativen rezultat, zato je pomembno, da žival ob sumu osamimo in šele po poginu odvzamemo vzorce za preiskavo.
+Vsi vzorci, odvzeti pri sumu na steklino, lahko vsebujejo infektiven virus, zato je potrebna posebna previdnost pri rokovanju z vzorci.
+WHO (2004) priporoča uporabo zaščitne mikrobiološke komore v laboratoriju 2. varnostne stopnje, za delo z živim virusom z visokim titrom, kot je pri proizvodnji cepiv, pa priporoča uporabo laboratorijev 3. varnostne stopnje.
+
+WHO (2005) za spremljanje epidemiološke situacije in oceno uspešnosti programa cepljenja lisic priporoča uporabo klasičnih viroloških metod (dIF, ELISA, IVCK, biološki poskus).
+Uporabo molekularnih metod (RT-PCR, RT-PCR v realnem času) WHO za zdaj priporoča le za potrditev rezultatov klasičnih viroloških metod (Fooks in sod., 2009).
+
+Pred uporabo mikrobioloških metod v diagnostične namene je treba le-te validirati in optimizirati.
+V okviru optimizacije postopkov je treba preveriti številne parametre, kot so različne koncentracije reagentov in različne temperature inkubacij oziroma pomnoževanja pri molekularnih metodah.
+Z validacijo testiramo pravilnost, ponovljivost, občutljivost, robustnost in specifičnost metod.
+
+2.9.1 Dokazovanje virusa stekline s histološko in imunohistološko preiskavo 
+
+Prisotnost okužbe z virusom stekline lahko dokažemo s histološko ali imunohistološko preiskavo vzorcev.
+V histoloških rezinah, barvanih po Sellerju (Tierkel in Atanasiu, 1996), preverjamo prisotnost Negrijevih telesc (slika 7).
+Negrijeva telesca niso prisotna pri vseh bolnikih in živalih s steklino, kar pomeni, da lahko dobimo lažno negativne rezultate.
+Pri okužbi z virusom pasje kuge lahko rezultat ocenimo kot lažno pozitiven na virus stekline, saj so znotrajcelične inkluzije zelo podobne Negrijevim telescem (Hamir in sod., 1998).
+Imunohistološko dokazovanje temelji na uporabi specifičnih označenih protiteles proti virusu stekline.
+Protitelesa so lahko označena z biotinom, za vrednotenje rezultatov pa potrebujemo le svetlobni mikroskop.
+Metoda se v sodobnih laboratorijih ne uporablja več.
+
+Slika 7: Negrijevo telesce (CDC).
+
+2.9.2 Test direktne imunofluorescence (dIF) za dokaz virusnih antigenov 
+
+Test dIF sta opisala Goldwasser in Kissling že leta 1958.
+Po priporočilih WHO (2005) je test dIF standardna in osnovna metoda, ki se uporablja v diagnostiki stekline.
+Velja za najhitrejšo metodo za dokazovanje virusnih antigenov stekline pri živi živali v biopsatu kože, odtisu roženice ali razmazu možganov (Goldwasser in sod., 1959; Warrel in sod., 1988).
+Posmrtno lahko s testom dIF dokažemo virusne antigene v možganskem tkivu.
+Pri poginulih in usmrčenih živalih preiskujemo tkivo Amonovega rogu, možganskega debla, možganskega mostu, podaljšane hrbtenjače in malih možganov.
+Test temelji na specifični vezavi označenih protiteles na virusni antigen (WHO, 2004).
+
+Test dIF za dokazovanje virusnih antigenov v vzorcu izvedemo tako, da pripravimo odtis ali razmaz na predmetnici, ga fiksiramo s hladnim acetonom ali toploto in nanesemo monoklonalna ali poliklonalna protitelesa, označena s fluorescein izotiocianatom.
+Rezultate odčitamo s fluorescenčnim mikroskopom (Dean in sod., 1996).
+Rezultat testa dIF je pozitiven, kadar so v vidnem polju prisotna zelena zrnca različnih velikosti in ostrih robov (slika 8).
+Če ne najdemo zrnc, ocenimo rezultat testa dIF za negativen.
+Vzorce, pri katerih rezultat testa dIF ni jasno pozitiven ali jasno negativen, ovrednotimo dvomljivo.
+Take vzorce je priporočeno testirati z drugo metodo, saj so Hostnik in sodelavci (2001) ugotovili, da je od 37 vzorcev ovrednotenih dvomljivo 17 reagiralo pozitivno v testu IVCK.
+
+Vzorci možganskega tkiva za preiskavo s testom dIF morajo biti testirani znotraj 48 ur, v nasprotnem primeru jih je treba hraniti v zamrzovalniku pri temperaturi pod −15 °C (CDC, 2006).
+Odstopanje od predpisanega načina hranjenja vzorca in večkratno zamrzovanje in tajanje vzorca zmanjša zanesljivost rezultata (CDC, 2006).
+Pri vzorcih, ki niso hranjeni na predpisan način, negativen rezultat s testom dIF ne izključuje bolezni.
+Če se v takih vzorcih potrdi prisotnost virusnega antigena, je diagnoza potrjena (CDC, 2006).
+Rojas in sodelavci (2006) so izvedli poskus tako, da so hranili pozitivne vzorce pri temperaturi 25−27 °C do 26 dni in jih testirali s testom dIF 1., 2., 3., 4., 7., 10., 12., 16., 18., 23. in 26. dan.
+Pozitiven rezultat so dobili le do 7. dneva.
+
+Vzorci, fiksirani v formalinu, so pogojno primerni za preiskavo s testom dIF, saj se med fiksacijo tvorijo navzkrižne povezave med proteini.
+Za sprostitev vezi med proteini je fiksirane vzorce v formalinu treba pred analizo s testom dIF obdelati z encimom proteinazo K (Kulonen in sod., 1999).
+
+V zgodnji fazi okužbe z virusom stekline, pred pojavom kliničnih znakov, je število virusnih delcev pod pragom detekcije z metodo dIF, zato lahko dobimo lažno negativne rezultate.
+V primeru negativnega rezultata pri živali, ki je poškodovala človeka, se priporoča še izvedba IVCK ali biološkega poskusa (Cliquet in Barrat, 2008).
+
+Slika 8: Rezultati testa dIF pri vzorcu, pozitivnem na virus stekline (Virološki laboratorij, Veterinarska fakulteta).
+
+2.9.3 Biološki poskus 
+
+Z biološkim poskusom na miškah lahko dokazujemo prisotnost infektivnega virusa stekline (Webster in Dawson, 1953; Surreau in sod., 1991).
+Za biološki poskus najpogosteje uporabljajo sesne miši, kunce, budre, podgane in hrčke.
+Po priporočilih OIE je treba petim do desetim mišim, starim 3−4 tedne (12−14 g), ali dva dni starim sesnim mišim intracerebralno aplicirati supernatant suspenzije vzorca.
+20-odstotno suspenzijo vzorca pripravimo z izotonično raztopino fosfatnega pufra (PBS; angl. phosphate buffered saline), jo centrifugiramo in za biološki poskus uporabimo le supernatant.
+Vzorci za preiskavo so Amonov rog, mali možgani in podaljšana hrbtenjača (WHO, 2004).
+3−4 tedne stare miši, ki jim intracerebralno inokuliramo supernatant, opazujemo 28 dni, možgane vsake poginule miši pa pregledamo s testom dIF.
+Pri uporabi dva dni starih sesnih miši, le-te žrtvujemo 5., 7., 9. in 11. dan po inokulaciji miši, možgane vsake žrtvovane miši pregledamo s testom dIF.
+Pogin miši v prvih štirih dneh je lahko posledica stresa ali bakterijske okužbe, pogin od petega dne po inokulaciji je posledica okužbe z virusom stekline.
+
+Z izvedbo biološkega poskusa so povezani visoki stroški, še posebno kadar uporabljamo živali, ki so proste specifičnih patogenov (SPF, angl. specific pathogen free).
+Rezultate dobimo šele po 28 dneh oziroma pri uporabi dva dni starih sesnih miši po 11 dneh.
+V primeru pozitivnega rezultata z biološkim poskusom pridobimo veliko količino virusa za nadaljnjo tipizacijo virusa.
+
+2.9.4 Izolacija virusa stekline na celični kulturi (IVCK)
+
+Z IVCK dokazujemo prisotnost infektivnega virusa stekline v vzorcu tako, da virus namnožimo na celični kulturi.
+Živalski vzorci, ki jih uporabljamo za IVCK, so slina, bris žrela, bris traheje ali bris očesa in cerebrospinalna tekočina.
+Za dokaz virusa stekline po smrti je najprimernejši vzorec tkiva možganov.
+
+Test IVCK se najpogosteje izvaja na mišjih nevroblastomskih celicah (N2a, angl. neuroblastoma cells) (American Type Culture Collection, ATCC) (WHO, 2004).
+Za test IVCK pripravimo suspenzijo vzorca z medijem za gojenje celic.
+Supernatant te suspenzije nanesemo na sloj celic ali pa suspenzijo pomešamo s sveže tripsiniziranimi celicami.
+Sledi inkubacija vsaj štiri dni pri 37 °C in 5 % CO2.
+Po inkubaciji celični sloj fiksiramo z acetonom, nato nanesemo monoklonalna ali poliklonalna protitelesa, označena s fluorescein izotiocianatom.
+Rezultate odčitamo s fluorescentnim mikroskopom.
+Rezultat IVCK je pozitiven, kadar so v vidnem polju v citoplazmi celic prisotne zelene inkluzije različnih velikosti in ostrih robov (slika 9).
+Če v citoplazmi celic ni inkluzij, označimo rezultat IVCK za negativen.
+
+Za preiskavo s testom IVCK so primerni le sveži vzorci.
+Rezultati testa IVCK so lahko lažno negativni pri vzorcih, ki niso hranjeni po priporočilih CDC (Rubb in Trimarchi, 1989).
+
+Slika 9: IVCK na celicah N2a: primer vzorca, pozitivnega na virus stekline (Virološki laboratorij, Veterinarska fakulteta).
+
+2.9.5 Tipizacija virusov stekline z monoklonalnimi protitelesi 
+
+Prva monoklonalna protitelesa za dokazovanje virusnega antigena sta proizvedla Wiktor in Koprowski (1978).
+Z njimi so opravili prve tipizacije virusov stekline in steklini sorodnih virusov (Flamand in sod., 1980a, 1980b).
+
+Z monoklonalnimi protitelesi proti nukleoproteinu virusa stekline je mogoče razlikovati med divjimi in cepnimi sevi stekline.
+Prav tako je z njimi mogoče razlikovati med različnimi vrstami virusov stekline.
+Za tipizacijo virusov stekline uporabljamo monoklonalna protitelesa W239.17, W187.5 in MW187.6.1 (Cox in sod., 1992; Driesel in sod., 1995).
+Tipizacijo virusov stekline z monoklonalnimi protitelesi lahko izvajamo na fiksiranem odtisu ali razmazu vzorca na predmetnici ali na fiksiranem sloju celic po zaključeni IVCK.
+Monoklonalna protitelesa (W239.17, W187.5 ali MW187.6.1) se vežejo na antigen virusa stekline, če je le-ta prisoten v preiskovanem vzorcu.
+Na vezana monoklonalna protitelesa se nato vežejo označena protitelesa (FITC anti-rabies monoclonal globulin; FDI, ZDA).
+Rezultate ovrednotimo s fluorescenčnim mikroskopom.
+Vzorce, pri katerih so prisotne zeleno obarvane inkluzije različnih velikosti, ovrednotimo kot pozitivne na virus stekline, vzorce, pri katerih zelenih inkluzij ni, ovrednotimo kot negativne.
+
+2.9.6 Molekularne metode za dokaz nukleinskih kislin virusa stekline
+
+Molekularne metode za dokaz nukleinskih kislin virusa stekline temeljijo na pomnoževanju specifičnega odseka genoma (Remick in sod., 1990).
+Z uvedbo molekularnih metod v laboratorijsko diagnostiko stekline so skrajšali čas, ki je potreben za zanesljiv dokaz virusa stekline.
+
+Molekularne metode omogočajo tudi hitro genetsko tipizacijo virusa stekline, kar je pomembno zlasti v deželah, kjer se pojavlja več različnih vrst virusov stekline.
+Z metodo določanja nukleotidnega zaporedja dobimo vpogled v genetsko sorodnost virusov, kar je nujno potrebno za opis epidemiološke situacije na določenem področju (Fooks in sod., 2009).
+
+Molekularne metode so uporabne tudi za pregled vzorcev, ki niso primerno hranjeni (Whitby in sod., 1997; David in sod., 2002; Araujo in sod., 2008), in za arhivske vzorce (Kulonen in sod., 1999).
+Z molekularnimi metodami lahko preiskujemo tudi vzorce likvorja, ki ni primeren za preiskavo s testom dIF (Crepin in sod., 1998; Noah in sod., 1998).
+
+2.9.6.1 Reverzna transkripcija in verižna reakcija s polimerazo (RT-PCR)
+
+Metodo PCR je zasnoval Kary Mullis leta 1983 (Mullis, 1990).
+V praksi so metodo začeli uporabljati dve leti pozneje (Saiki in sod., 1985).
+Leta 1993 je za svoje odkritje Kary Mullis prejel Nobelovo nagrado na področju kemije.
+Na tržišču so dostopni kompleti kemikalij in aparatur različnih proizvajalcev, ki omogočajo enostavno izvedbo metode PCR v kratkem času (Tang in sod., 1997; Fredricks in Relman, 1999).
+Metoda je mednarodno priznana in splošno uporabna v rutinski virološki diagnostiki za določanje prisotnosti virusne nukleinske kisline (Mackay in sod., 2002).
+
+Za dokazovanje virusne RNA je treba pred izvedbo PCR virusno RNA prepisati v DNA.
+Postopek imenujemo reverzna transkripcija.
+
+Pred izvedbo RT-PCR moramo iz vzorca najprej ekstrahirati nukleinske kisline.
+Poznamo več različnih metod.
+Pri metodi ekstrakcije izkoriščamo selektivno vezavo RNA na membrano silikatnega gela, ki se nahaja v kolonah.
+Po vezavi RNA na membrano silikatnega gela sledijo faze spiranja.
+Na koncu se RNA, vezana na membrano silikatnega gela, eluira v vodno raztopino.
+Metode ekstrakcije RNA lahko temeljijo tudi na vezavi nukleinskih kislin na površino paramagnetnih delcev, ki jih po vezavi z magnetom ločimo od nečistoč v vzorcu.
+RNA shranjujemo pri temperaturi pod −50 °C.
+
+Virusno RNA prepišemo v komplementarno DNA (cDNA, angl. complementary DNA) z encimom reverzna transkriptaza, pomnoževanje specifičnih odsekov tarčne cDNA pa izvedemo z encimom DNA polimeraza.
+Za uspešno pomnoževanje z metodo PCR je potrebno predhodno poznavanje tarčnih delov nukleotidnega zaporedja virusnega genoma (Remick in sod., 1990).
+Poznavanje nukleotidnega zaporedja nam omogoča pravilno izbiro začetnih oligonukleotidov, komplementarnih z zaporedjem začetnega in končnega odseka virusnega genoma, ki ga želimo pomnožiti.
+Pomnoževanje poteka v več ciklih, vsak cikel pa je sestavljen iz treh korakov: denaturacija DNA, prileganje začetnih oligonukleotidov in podaljševanje verige.
+Pri denaturaciji se dvojnovijačna DNA razklene in nastaneta dve enovijačni DNA, ki služita kot matrici pri pomnoževanju tarčnega odseka.
+V drugi fazi se na matrično DNA vežejo začetni oligonukleotidi.
+V tretji fazi encim polimeraza DNA sintetizira verigo, komplementarno matrični DNA.
+Število pomnoženih molekul se v vsakem ciklu podvoji in tako eksponentno narašča (Saiki in sod., 1988).
+
+Največ postopkov RT-PCR za diagnostiko stekline temelji na pomnoževanju odseka na genu za nukleoprotein, ki predstavlja najbolj ohranjen odsek v genomu virusa stekline (Kulonen in Boldina, 1993; Bourhy in sod., 1993, 1999; Ito in sod., 2003).
+Občutljivost metod povečamo z dodatnim pomnoževanjem produktov RT-PCT s t. i. vgnezdenim PCR (Heaton in sod., 1997; Vasquez-Moron in sod., 2006).
+Pri metodi vgnezdenega PCR obstaja velika nevarnost kontaminacije med pozitivnimi in negativnimi vzorci in s tem pojav lažno pozitivnih rezultatov (Hughes in sod., 2006).
+
+Po končani reakciji RT-PCR sledi ločevanje produktov z elektroforezo v agaroznem gelu.
+Velikost specifičnih produktov določimo tako, da jih primerjamo z velikostjo produktov molekularnega označevalca in z velikostjo produkta pozitivne kontrole.
+Če je prisoten produkt specifične velikosti, je rezultat pozitiven, če produkta ni ali pa je nespecifične velikosti, je rezultat negativen.
+
+Vzorce za preiskavo z metodo RT-PCR hranimo pri temperaturi 4 °C (do dva dni), za daljše hranjenje pa jih zamrznemo (pod −50 °C).
+Hranjenje pri temperaturi okrog −20 °C ne prepreči razgradnje RNA.
+Ugotovili so, da se po dveh letih hranjenja na −20 °C razgradi 50 % RNA (Araujo in sod., 2008).
+
+2.9.6.2 Reverzna transkripcija in verižna reakcija s polimerazo v realnem času 
+
+Metodo RT-PCR v realnem času so prvič uporabili leta 1993 kot nadgradnjo metode RT-PCR.
+Metoda omogoča sprotno spremljanje količine nastajajočih produktov RT-PCR med pomnoževanjem (Higuchi in sod., 1993).
+Dokazovanje produktov RT-PCR v agaroznem gelu ni potrebno, kar časovno skrajša postopek dokazovanja virusne nukleinske kisline.
+Za dokazovanje produktov RT-PCR v realnem času lahko uporabimo specifična barvila, ki se vežejo na dvojnovijačno DNA (dsDNA, angl. double stranded DNA) in po osvetlitvi s svetlobo določene valovne dolžine oddajajo fluorescentno svetlobo.
+Produkte RT-PCR lahko dokazujemo tudi z uporabo specifičnih začetnih oligonukleotidov in sond.
+Označen začetni oligonukleotid ali sonda se specifično veže na nukleotidno zaporedje tarčnega dela genoma in pri pomnoževanju oddaja fluorescentno svetlobo.
+Določanje produktov RT-PCR poteka na osnovi merjenja višine signala, ki pri pozitivnih vzorcih med pomnoževanjem eksponentno narašča.
+Ko količina produktov RT-PCR narašča, se sorazmerno povečuje signal poročevalskega barvila.
+Rezultat pomnoževanja pri pozitivnih vzorcih se kaže kot krivulja, na kateri je izražena jakost fluorescence poročevalskega barvila v posameznem ciklu pomnoževanja.
+Krivulja je sestavljena iz treh faz.
+V prvi fazi je fluorescentni signal poročevalskega barvila zaradi nizke količine produkta RT-PCR pod pragom določljivosti.
+Druga faza predstavlja eksponentni del krivulje, kjer količina produktov RT-PCR eksponentno narašča.
+V tretji fazi krivulja doseže t. i. plato, saj se komponente reakcije sčasoma porabijo.
+V začetnem delu eksponentne faze, kjer začne fluorescenca nastalega produkta naraščati, je prag določljivosti.
+Število ciklov, ki so potrebni za dvig signala fluorescence nad prag določljivosti, predstavlja vrednost Cq (angl. quantification cycle value).
+Število kopij tarčne molekule v preiskovanem vzorcu določa, koliko ciklov reakcije bo potrebnih, da bo fluorescentni signal presegel prag določljivosti.
+Kadar je vrednost Cq visoka, je v vzorcu prisotna nizka količina tarčne nukleinske kisline.
+Pri negativnih vzorcih ne dobimo krivulje.
+
+Z metodo RT-PCR v realnem času dokazujemo krajše odseke nukleinske kisline, kar zagotavlja večjo občutljivost in specifičnost metode v primerjavi s klasično metodo RT-PCR.
+Krajši odseki nukleinskih kislin lažje denaturirajo, kar omogoča učinkovito vezavo začetnih oligonukleotidov in sonde za vezavna mesta na tarčnem odseku, prav tako je čas podaljševanja kratkih odsekov krajši (Bustin, 2000; Ginzinger, 2002).
+
+2.9.6.3 Uporaba DNA-vezalnih barvil za dokazovanje produktov RT-PCR v realnem času 
+
+Prvo poznano DNA-vezalno barvilo je etidijev bromid.
+Danes so v uporabi še barvila SYBR Green I, Sybr Gold, BEBO, BOXTO in druga.
+
+Dokazovanje produktov RT-PCR v realnem času z uporabo od sekvence neodvisnih DNAvezalnih barvil je cenovno bolj ugodno.
+Med pomnoževanjem produktov RT-PCR izmerjeni signal narašča, ko se število novo nastalih dsDNA povečuje.
+Barvilo se veže v vse nastale dsDNA, tudi v vse nespecifične dsDNA in dimere začetnih oligonukleotidov.
+Prisotnost nespecifičnih dsDNA in dimerov začetnih oligonukleotidov preverimo po končani reakciji RT-PCR z določitvijo temperature tališča produkta RT-PCR (Kubista in sod., 2006; Mackay, 2007).
+Temperatura tališča se med različnimi produkti pomnoževanja razlikuje, saj je odvisna od deleža GC, od dolžine produkta RT-PCR in od nukleotidnega zaporedja (Ririe in sod., 1997).
+
+2.9.6.4 Uporaba označenih specifičnih začetnih oligonukleotidov in sond za dokazovanje produktov RT-PCR v realnem času 
+
+Za dokazovanje produktov RT-PCR v realnem času se lahko uporabljajo označeni specifični začetni oligonukleotidi ali sonde.
+Pri tej metodi je optimalna dolžina pomnoženega odseka 50−150 bp, vendar dopušča dolžino tudi do 250 bp.
+Sonda in začetna oligonukleotida se prilegajo nukleotidnemu zaporedju tarčnega odseka genoma, ki ga želimo pomnožiti.
+Za diagnostične namene izberemo začetna oligonukleotida in sondo v zelo ohranjenem odseku virusnega genoma.
+Za dokazovanje razlik med virusnimi sevi izberemo sondo na odseku tarčnega genoma, kjer se pojavlja največ razlik med virusnimi sevi.
+Sonde so lahko označene z dvema barviloma ali z enim samim barvilom (Kubista in sod., 2006).
+
+Hidrolizne sonde ali sonde TaqMan®, molekularne svetilke, hibridizacijske sonde in škorpijoni (Arya in sod., 2005) so označeni z barvilom in dušilcem, ki delujeta kot donor in prejemnik.
+Energija poteka iz aktivnega donorja na prejemnika, kadar je razdalja med njima 10−100 Å (Kubista in sod., 2006).
+To je mehanizem fluorescenčnega resonančnega prenosa energije z donorske molekule na prejemnika (FRET, angl. fluorescence resonance energy transfer).
+Ko se razdalja med poročevalskim barvilom in dušilcem poveča na več kot 100 Å, bodisi zaradi hidrolize sonde ali zaradi strukturne spremembe v sondi, mehanizem FRET preneha delovati in donor začne ob vzbujanju oddajati energijo v obliki fluorescence.
+
+Hidrolizne sonde ali sonde TaqMan® so osnovane tako, da imajo na 5' koncu poročevalsko barvilo, ki oddaja energijo preko mehanizma dušilcu FRET, ki je vezan na 3' koncu (slika 10).
+
+Dušilec je drug fluorofor, ki oddaja prejeto energijo v obliki svetlobe druge valovne dolžine, vendar le-te ne merimo.
+Pri načrtovanju sonde TaqMan® je priporočena dolžina sonde 20−30 bp, na mestu vezave poročevalskega barvila pa se izogibamo gvaninu, ki deluje kot naravni dušilec.
+Najprimernejši čas za branje signala je med fazo podaljševanja verige.
+Metoda RT-PCR v realnem času z uporabo hidroliznih sond je robustna in se velikokrat uporablja pri dokazovanju virusov v veterinarski medicini (Belak, 2007).
+
+Slika 10: Potek RT-PCR v realnem času z uporabo hidrolizne sonde.
+
+2.9.6.5 Kvantitativno in kvalitativno določanje produktov RT-PCR v realnem času 
+
+Produkte RT-PCR v realnem času lahko določamo kvalitativno in kvantitativno.
+Kvalitativen pristop določanja produktov RT-PCR v realnem času nam odgovori na vprašanje, ali je nukleinska kislina iskanega organizma prisotna v testiranem vzorcu.
+Kvalitativno določanje produktov RT-PCR v realnem času uporabljamo tudi v primerih, ko želimo razlikovati med različnimi virusnimi sevi (Wakeley in sod., 2005).
+
+S kvantitativnim pristopom lahko določimo količino iskanega organizma v testiranem vzorcu.
+Pri tem lahko uporabljamo absolutno in relativno kvantifikacijo.
+Pri absolutni kvantifikaciji določamo točno število kopij v testiranem vzorcu (Mackay in sod., 2002).
+S testiranjem serij razredčin standarda pripravimo standardno umeritveno krivuljo, iz katere lahko določimo natančno število kopij.
+Vrednost Cq je namreč obratno sorazmerna logaritmu začetnega števila tarčnih molekul (Bustin, 2000).
+Pri metodi kvantifikacije s standardom lahko pride do napak zaradi prisotnosti inhibitorjev v bioloških vzorcih (Nolan in sod., 2006).
+Drugi princip je relativna kvantifikacija.
+Pri relativni kvantifikaciji količina standarda ni podana, zato količino tarče določimo glede na izbrani kalibrator.
+
+2.9.6.6 Uporaba metode RT-PCR v realnem času v diagnostiki stekline 
+
+Metoda RT-PCR v realnem času je hitra, visoko občutljiva, ponovljiva in specifična (Fooks in sod., 2009).
+Večina opisanih postopkov RT-PCR v realnem času za dokazovanje virusov stekline temelji na uporabi hidroliznih sond ali sond TaqMan® (Hughes in sod., 2004; Shankar in sod., 2004; Wakeley in sod., 2005; Nagaraj in sod., 2006; Orlowska in sod., 2008; Wacharapluesadee in sod., 2008; Fooks in sod., 2009).
+
+Z metodo RT-PCR v realnem času lahko dokazujemo in razlikujemo vrste EBLV 1, EBLV 2 in RABV (Wakeley in sod., 2005).
+V objavljenem postopku so za pomnoževanje virusne nukleinske kisline uporabili dva začetna oligonukleotida in tri različne sonde, specifične za posamezno vrsto.
+Metoda je zelo specifična, kljub temu pa se pojavljajo tudi lažno negativni rezultati pri vzorcih, v katerih se nahajajo virusi, ki na odseku za vezavo sonde nimajo popolnoma komplementarnega zaporedja nukleotidov (Hughes in sod., 2004).
+
+2.9.6.7 Genetsko razvrščanje virusov stekline 
+
+Z določanjem nukleotidnega zaporedja lahko ugotavljamo genetske značilnosti virusov stekline in jih razvrščamo v različne razrede.
+Dobljena nukleotidna zaporedja določenega odseka virusnega genoma primerjamo z nukleotidnimi zaporedji različnih sevov, ki so dostopna v podatkovni banki GenBank.
+Z metodo primerjanja nukleotidnih zaporedij, vsakega z vsakim, določimo za vsak par odstotek identičnosti in divergence.
+Odstotek identičnosti in divergence nukleotidnih zaporedij virusov stekline je kriterij za filogenetsko razvrščanje v razrede znotraj 11 vrst virusov stekline.
+
+Prve filogenetske analize virusov stekline so opravili na odsekih gena za nukleoprotein in nato šele leta 1981 na odsekih gena za RVG (Brookes in sod., 2004).
+Gena za nukleoprotein in RVG so izbrali, saj njuna produkta izzoveta imunski odziv organizma.
+Za razlikovanje virusov stekline med različnimi geografskimi področji so znanstveniki določili analizo nukleotidnega zaporedja psevdogena, gena za nukleoprotein, gena za RVG in gena za fosfoprotein (Brookes in sod., 2004).
+Za natančno genetsko razvrstitev virusov pa so znanstveniki določili nukleotidna zaporedja celotnih genomov virusov stekline.
+Ugotovili so, da je nukleoprotein virusa stekline najbolje ohranjen protein in je zato najbolj primeren za filogenetske primerjave (Nadin-Davis in sod., 1994; Kissi in sod., 1995).
+
+Na podlagi proučevanja in primerjanja nukleotidnih zaporedij genov za nukleoprotein virusov stekline iz različnih delov sveta so izdelali tudi filogenetska drevesa, s katerimi so predstavili raznolikost RABV (Badrane in Tordo, 2001; Bourhy in sod., 2008; Kissi in sod., 1995; NadinDavis in sod., 2002).
+Bourhy in sodelavci (1999) so virusnim sevom RABV, dokazanim v
+
+Evropi, določili nukleotidna zaporedja odseka na genu za nukleoprotein.
+Virusne seve so nato razvrstili v štiri razrede.
+Razrede so poimenovali glede na geografsko lokacijo sevov v razred severozahodnoevropskih sevov, razred zahodnoevropskih sevov, razred vzhodnoevropskih sevov in razred centralnoevropskih sevov.
+V omenjeni študiji so tudi prvič določili nukleotidno zaporedje dveh slovenskih virusnih sevov 9494SLN (U43008) in 94100SLN (U43009).
+Sev 9494SLN so ugotovili pri rdeči lisici, sev 94100SLN pa pri konju leta 1994.
+Slovenska seva so uvrstili v razred zahodnoevropskih sevov (Bourhy in sod., 1999).
+Podobno razvrstitev virusov stekline iz področja nekdanje Sovjetske zveze so izvedli Kuzmin in sodelavci (2004).
+Na osnovi nukleotidnih zaporedij odsekov v genu za nukleoprotein so razdelili virusne seve iz nekdanje Sovjetske zveze v razrede A, B, C, D in E (Kuzmin in sod., 2004).
+Seve, ki so jih opisali na področju Arktike, so glede na nukleotidna zaporedja odsekov v genu za nukleoprotein razdelili v dva razreda, in sicer v razred arktičnih sevov in razred sevov podobnih arktičnim sevom (Mansffield in sod., 2006).
+Vse analize so pokazale, da se virusni sevi, ki se pojavljajo na isti geografski lokaciji, uvrščajo v isti razred (Metlin in sod., 2007).
+
+Nadin-Davis in sodelavci (2011) so opravili obsežno primerjavo nukleotidnih zaporedij RABV, opisanih po vsem svetu.
+Glede na geografsko lokacijo opisanih sevov so seve uvrstili v sedem razredov.
+Prvi razred so avtohtoni ameriški sevi, opisani pri žužkojedih in krvosesih netopirjih ter pri neletečih sesalcih.
+Drugi razred so indijski sevi, opisani pri psih, zlasti iz področja južne Indije in Šri Lanke.
+Tretji razred predstavljajo sevi iz Azije, opisani pri psih iz Kitajske, jugovzhodne Azije, Filipinov in Indonezije.
+Razred Afrika 2 predstavljajo sevi iz zahodne in centralne Afrike, razred Afrika 3 predstavljajo sevi opisani pri mungih iz južne Afrike.
+Šesti razred predstavljajo sevi, sorodni arktičnim, opisani pri arktičnih lisicah in psih iz področja centralne in zahodne Azije.
+Sedmi razred je kozmopolitanski in je opisan pri živalih in ljudeh iz Afrike, Amerike, Srednjega vzhoda in Evrope.
+
+3 MATERIAL IN METODE 
+
+3.1 VZORCI 
+
+3.1.1 Vzorci za proučevanje molekularno-epidemioloških značilnosti virusov stekline 
+
+V preiskavo smo vključili izbrane vzorce možganov divjih in domačih živali.
+Vzorci so bili predhodno testirani s testom dIF in opredeljeni kot pozitivni na virus stekline.
+Izbranih 93 vzorcev izvira iz različnih geografskih področij v Sloveniji, odvzeti pa so bili med letoma 1994 in 2012.
+Največ pozitivnih vzorcev izvira od lisic (82), preostali vzorci izvirajo od goveda (3), jazbecev (3), psov (2), konja (1), mačke (1) in kune (1).
+V tabeli 4 so predstavljeni virusni sevi, živalske vrste, geografska lokacija (občina) in leto ugotovitve virusa stekline.
+
+Tabela 4: Vzorci za proučevanje molekularno-epidemioloških značilnosti virusov stekline.
+
+Nukleotidna zaporedja sevov iz podatkovne zbirke GenBank, ki smo jih vključili v filogenetsko primerjavo, so opisana v tabeli 5.
+
+Tabela 5: Nukleotidna zaporedja virusov stekline iz podatkovne zbirke GenBank.
+
+3.1.2 Vzorci za ugotavljanje občutljivosti in robustnosti metod dIF, IVCK in RT-PCR 
+
+Za primerjavo občutljivosti metod dIF, IVCK in RT-PCR smo izbrali 12 vzorcev možganov, ki so pri rutinski preiskavi s testom dIF reagirali pozitivno na virus stekline (tabela 6).
+Vzorce smo hranili pri temperaturi pod −15 °C. Tri pozitivne vzorce (1466-10SVN, 2153-10SVN in 215610SVN) smo razdelili na dva dela, enega smo hranili pri temperaturi pod −15 °C, drugega pa pri temperaturi pod −50 °C (1466-10SVNa, 2153-10SVNa, 2156-10SVNa).
+Pripravili smo desetkratne razredčine iz originalnega vzorca (od 10-1 do 10-10), tako da smo 1 g posameznega vzorca združili z 10 ml 5-odstotne suspenzije možganov, negativnih na virus stekline, pripravljene z RPMI (Gibco®, Invitrogen CorporationTM, ZDA).
+
+Za testiranje robustnosti metod dIF, IVCK in RT-PCR smo uporabili dva vzorca možganov, pozitivnih na virus stekline (404-10SVN in 2153-10SVN).
+Suspenzijo smo pripravili tako, da smo združili 1 g posameznega vzorca in 10 ml RPMI (Gibco®, Invitrogen CorporationTM, ZDA).
+Suspenziji smo razdelili na sedem enakih delov in jih nato hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+
+Tabela 6: Vzorci za primerjavo občutljivosti metod dIF, IVCK in RT-PCR.
+
+3.1.3 Referenčni material za validacijo postopkov RT-PCR v realnem času 
+
+Za validacijo različnih postopkov RT-PCR v realnem času za dokazovanje in razlikovanje RABV, EBLV 1, EBLV 2 in cepnih sevov virusov stekline smo uporabili skupno 55 vzorcev možganov ali ekstrahirane RNA.
+Triindvajset vzorcev smo izbrali iz treh medlaboratorijskih testiranj, ki jih je med letoma 2009 in 2011 organiziral Evropski referenčni laboratorij (EURL) za diagnostiko stekline (Nancy, Francija).
+Devetindvajset vzorcev ekstrahirane RNA smo dobili iz Inštituta Friedricha Loefflerja (Fridrich Loeffer Institut, FLI, Nemčija) v okviru evropske raziskovalne mreže Epizone (http://www.epizone-eu.net) v letu 2011.
+Uporabili smo tudi tri cepiva: Fuchsoral, Lysvulpen in Bio 10.
+Za validacijo postopkov RT-PCR v realnem času smo uporabili tudi 8 negativnih vzorcev možganov in ekstrahirane RNA, 33 virusnih sevov RABV, 4 virusne seve EBLV 1, 4 virusne seve EBLV 2, 2 virusna seva ABLV in 4 cepne virusne seve (tabela 7).
+
+Tabela 7: Vzorci, uporabljeni za validacijo metod RT-PCR v realnem času.
+
+Z rumeno barvo so označeni vzorci vrste RABV in cepni sevi, z zeleno vzorci vrste EBLV 1, z modro vzorci vrste EBLV 2, z oranžno vzorci vrste ABLV, z belo pa negativni vzorci.
+
+3.2 METODE 
+
+3.2.1 Test direktne imunofluorescence (dIF)
+
+Uporabljali smo komercialni konjugat proizvajalca Bio Rad (Marnes-la-coquette, Francija) proti nukleoproteinu virusa stekline.
+Pri vsakem testu smo vključili tudi dve kontroli.
+Negativno kontrolo (NK) smo pripravili iz možganskega tkiva, negativnega na virus stekline.
+Pozitivno kontrolo (PK) smo pripravili iz možganskega tkiva, pozitivnega na virus stekline.
+
+Navodila za izvajanje testa dIF:
+
+• Za testiranje robustnosti in občutljivost testa dIF smo pripravili suspenzije vzorcev možganov.
+Za posamezni vzorec suspenzije možganov smo pripravili dva odtisa z gumijastim zamaškom na predmetno stekelce in ju sušili 15–30 minut v zaščitni mikrobiološki komori pri sobni temperaturi.
+
+• Pripravljene odtise na predmetnih stekelcih smo fiksirali 30 minut v hladnem acetonu (pod −15 °C).
+
+• Po fiksaciji smo ponovili postopek sušenja (15–30 minut pri sobni temperaturi).
+
+• Na odtise smo nanesli komercialni konjugat z imenom ''Lyophilised, adsorbed AntiRabies nucleocapsid conjugate'' (Bio Rad, Marnes-la-coquette, Francija).
+Vzorce s konjugatom smo inkubirali 30 minut v vlažni komori pri temperaturi 37 °C ± 1 °C.
+
+• Konjugat smo sprali z raztopino PBS (angl. phosphate buffered saline), pH = 7,4.
+
+• Predmetna stekelca smo 10 minut spirali v kopeli s PBS, jih nato pazljivo sprali z deionizirano vodo in sušili 10 minut pri sobni temperaturi.
+
+• Na vsak odtis smo dodali kapljico 50-odstotnega glicerola (50 % glicerola in 50 % PBS) in pokrili s krovnim stekelcem.
+Rezultate smo ovrednotili s fluorescenčnim mikroskopom (Nikon Eclipse 80i, Japonska) pri povečavi 40 x 10.
+Vzorce, pri katerih smo ugotovili prisotnost zeleno obarvanih inkluzij različnih velikosti, smo ovrednotili kot pozitivne na virus stekline, vzorce, pri katerih nismo ugotovili zeleno obarvanih inkluzij, smo ovrednotili kot negativne na virus stekline.
+
+3.2.2 Izolacija virusa na celični kulturi (IVCK)
+
+IVCK smo izvajali po navodilih in priporočilih OIE ter EURL-ja za diagnostiko stekline (WHO, 2004).
+Uporabili smo celično kulturo N2a (ATCC, CCL-131).
+Za določanje občutljivosti testa IVCK smo testirali razredčine 15 izbranih vzorcev možganov (opisani v tabeli 6).
+Za določanje robustnosti testa IVCK smo testirali dva vzorca možganov (404-10SVN in 2153-10SVN), ki smo ju hranili pri sobni temperaturi od 0 do 30 dni.
+Pri izvajanju IVCK smo vključili dve kontroli.
+NK smo pripravili iz 1 g možganskega tkiva, negativnega na virus stekline, in 10 ml RPMI.
+PK smo pripravili iz 1 g možganskega tkiva, pozitivnega na virus stekline, in 10 ml RPMI.
+
+Navodilo za izvajanje IVCK:
+
+• Pripravili smo homogeno suspenzijo vzorca možganov, tako da smo združili 1 del vzorca in 9 delov RPMI (Gibco®, Invitrogen CorporationTM, ZDA).
+Suspenzijo smo centrifugirali 15 minut pri 25.000 x g in za IVCK uporabili le supernatant.
+
+• Supernatantu smo dodali mešanice antibiotika in antimikotika (Antibiotic/Antimycotic Solution, Gibco®,Invitrogen CorporationTM, ZDA).
+
+• Tako pripravljene supernatante smo redčili v gojišču za gojenje celic N2a v razmerjih 1 : 2, 1 : 4 in 1 : 8.
+
+• Pripravili smo suspenzijo celic N2a v gostoti 5 x 105celic/ml.
+
+• V vsako vdolbinico 96-mestne mikrotiterske plošče (TPP, Švica) smo nanesli 200 µl suspenzije celic.
+
+• V vdolbinice s suspenzijo celic N2a smo dodali 100 µl posamezne redčine supernatanta suspenzije vzorca.
+
+• Mikrotiterske plošče smo inkubirali 96 ur pri 37 °C in 5 % CO2.
+
+• Vsak dan inkubacije smo s svetlobnim mikroskopom preverili stanje celic, morebitni toksični efekt ali kontaminacijo s plesnimi.
+
+• Po končani inkubaciji smo s pipeto odstranili suspenzijo iz vdolbinic.
+Mikrotitersko ploščo smo sušili 30 minut pri sobni temperaturi v zaščitni mikrobiološki komori.
+
+• Po sušenju smo na sloj celic nanesli 200 µl 85-odstotnega hladnega acetona in inkubirali 30 minut pri temperaturi nižji od −15 °C.
+
+• Aceton smo odstranili in mikrotitersko ploščo sprali s 300 µl raztopine PBS.
+
+• V vsako vdolbinico mikroplošče smo nanesli 50 µl monoklonalnih protiteles FITC antirabies monoclonal globulin (FDI, ZDA) proti antigenu virusa stekline, označenih s fluorescein izotiocianatom.
+
+• Rezultate smo ovrednotili s fluorescenčnim mikroskopom (Nikon Eclipse 80i, Japonska).
+Vzorce, pri katerih smo ugotovili prisotnost zeleno obarvanih inkluzij različnih velikosti v citoplazmi celic, smo ovrednotili kot pozitivne na virus stekline, vzorce, pri katerih nismo ugotovili zeleno obarvanih inkluzij, smo ovrednotili kot negativne na virus stekline.
+
+Če smo dobili negativen rezultat, smo pripravili še dve pasaži vzorca na celični kulturi.
+
+3.2.3 Tipizacija virusov stekline z monoklonalnimi protitelesi 
+
+Tipizacijo virusov stekline z monoklonalnimi protitelesi smo izvajali po postopku, razvitem v Inštitutu Friedricha Loefflerja (Wusterhausen, Nemčija).
+Za potrjevanje laboratorijskih, cepnih, evropskih lisičjih, pasjih in polarnih sevov ter MOKV, LBV, DUVV in sevov EBLV 1 ali EBLV 2 smo uporabili monoklonalna protitelesa W239.17.
+Za potrjevanje laboratorijskih, evropskih lisičjih, pasjih in polarnih sevov smo uporabili monoklonalna protitelesa MW187.6.1.
+Analizirali smo štiri vzorce (537-08SVN, 7448-10SVN, 467-12SVN, 3511-12SVN) in tri kontrole (NK, cepivo SAD B19, PK).
+NK smo pripravili iz 1 g možganskega tkiva, negativnega na virus stekline, in 10 ml RPMI.
+PK smo pripravili iz 1 g možganskega tkiva, pozitivnega na virus stekline, in 10 ml RPMI.
+Najprej smo izvedli IVCK in sloj celic fiksirali s hladnim 85-odstotnim acetonom 30 minut pri temperaturi nižji od −15 °C.
+
+Navodilo za tipizacijo virusov stekline z monoklonalnimi protitelesi:
+
+• IVCK smo izvedli po postopku, opisanem v poglavju 3.2.2.
+
+• Fiksiran sloj celic smo sprali s PBS, pH=7,4.
+
+• Nanesli smo 50 µl monoklonalnih protiteles W239.17 v razredčini 1 : 80 oziroma MW187.6.1 v razredčini 1 : 10.
+
+• Sledila je inkubacija 1 uro pri 37 °C in nato spiranje s PBS.
+
+• Nanesli smo označena protitelesa FITC antirabies monoclonal globulin (FDI, ZDA) in inkubirali 1 uro pri 37 °C.
+
+• Sledilo je spiranje s PBS.
+
+• Rezultate smo ovrednotili s fluorescenčnim mikroskopom (Nikon Eclipse 80i, Japonska).
+Vzorce, pri katerih smo ugotovili prisotnost zeleno obarvanih inkluzij različnih velikosti v citoplazmi celic, smo ovrednotili kot pozitivne na virus stekline, vzorce, pri katerih nismo ugotovili zeleno obarvanih inkluzij, smo ovrednotili kot negativne na virus stekline.
+
+3.2.4 Molekularne metode 
+
+3.2.4.1 Izolacija RNA 
+
+Pred začetkom izolacije RNA smo najprej pripravili homogeno suspenzijo vzorcev možganov v raztopini RPMI (Gibco®, Invitrogen CorporationTM, ZDA) v razmerju 1 del možganov in 10 delov RPMI.
+Za izolacijo RNA smo uporabili komercialni komplet reagentov QIAamp Viral RNA mini kit (Qiagen, Nemčija).
+Pri tej metodi se RNA selektivno veže na membrano iz silikatnega gela v koloni, ki je sestavni del kompleta reagentov.
+S postopkom spiranja odstranimo nečistoče in na koncu z raztopino AVE sprostimo vezano RNA iz kolone v epruveto.
+
+Postopek izolacije smo izvajali po navodilih proizvajalca komercialnega kompleta reagentov:
+
+• Pripravili smo ustrezno količino mešanice pufra AVL in ''Carrier RNA'' in jo po 560 µl prenesli v 1,5 ml epruvete (Eppendorf, Nemčija).
+
+• Dodali smo 140 µl pripravljene suspenzije vzorca in vsebino epruvete dobro premešali na vibracijskem mešalniku in inkubirali 10 minut pri sobni temperaturi.
+S postopkom kratkega centrifugiranja smo odstranili vsebino s pokrova epruvete.
+
+• Vsebini epruvete smo dodali 560 µl absolutnega etanola (96−100-odstotnega, Merck, ZDA).
+Vsebino smo nato premešali in kratko centrifugirali.
+
+• 630 µl mešanice smo nanesli na kolono in centrifugirali 1 minuto pri 6.000 x g. Filtrat v zbirni epruveti smo zavrgli in postopek ponovili.
+
+• Na kolono smo nanesli 500 µl pufra AW1 in centrifugirali 1 minuto pri 6.000 x g. Filtrat smo zavrgli, zamenjali zbirno epruveto in nanesli še 500 µl pufra AW2.
+Sledilo je centrifugiranje 3 minute pri 20.000 x g.
+
+• Kolono smo prenesli v novo epruveto in na membrano kolone nanesli 60 µl pufra AVE.
+Sledila je inkubacija 1 minuto in nato centrifugiranje 1 minuto pri 6.000 x g. Kolono smo zavrgli, izolirano RNA pa shranili pri temperaturi nižji od −50 °C.
+
+3.2.4.2 Metoda reverzne transkripcije in verižne reakcije s polimerazo (RT-PCR)
+
+Metodo RT-PCR smo izvajali v eni stopnji.
+Uporabljali smo komplet komercialnih reagentov One-Step RT-PCR Kit (Qiagen, Germany).
+
+Začetne oligonukleotide so sintetizirali v podjetju Evrofins MWG Synthesis GmbH (Nemčija).
+Pri vsakem izvajanju RT-PCR smo vključili dve kontroli.
+NK smo pripravili iz 5 g možganskega tkiva, negativnega na virus stekline, in 50 ml RPMI.
+PK smo pripravili iz 5 g možganskega tkiva, pozitivnega na virus stekline, in 50 ml RPMI.
+
+Reakcijsko mešanico smo pripravljali v volumnu 25 µl.
+Reakcijska mešanica je vsebovala:
+
+• 15 µl DEPC vode,
+
+• 5 µl 5 x pufra PCR,
+
+• 1 µl 10 mM mešanice dNTP-jev,
+
+• 0,5 µl 20 pmol/µl vsakega od začetnih oligonukleotidov,
+
+• 1 µl mešanice encimov RT-PCR.
+
+Reakcijski mešanici smo dodali 2 µl izolirane RNA.
+
+Pomnoževanje odsekov na genu, ki kodira nukleoprotein 
+
+Nukleotidno zaporedje odseka gena, ki kodira nukleoprotein, smo določili 93 virusnim sevom (tabela 4).
+Uporabili smo dva para začetnih oligonukleotidov (tabela 8).
+Par začetnih oligonukleotidov N7 in N4 (Bourhy in sod., 1993) smo uporabili za pomnoževanje 1313 bp dolgega odseka.
+Temperatura prileganja začetnih oligonukleotidov N4 in N7 v programu pomnoževanja je bila 52 °C.
+
+Par začetnih oligonukleotidov GRAB1F in GRAB1R (Vasquez-Moron in sod., 2006) pa smo uporabili za pomnoževanje 373 bp dolgega odseka v genu za nukleoprotein.
+Za določitev občutljivosti smo testirali razredčine izbranih 15 vzorcev (opisanih v tabeli 6).
+Za določitev robustnosti pa smo testirali dva vzorca (404-10SVN in 2153-10SVN), ki smo ju hranili pri sobni temperaturi 0−30 dni.
+Temperatura prileganja začetnih oligonukleotidov GRAB1F in GRAB1R v programu pomnoževanja je bila 53 °C.
+
+Tabela 8: Začetni oligonukleotidi za pomnoževanje odsekov na genu, ki kodira nukleoprotein.
+
+Pomnoževanje odseka v genu, ki kodira terminalni del nukleoproteina in začetni del fosfoproteina 
+
+Za pomnoževanje 418 bp dolgega odseka v genu, ki kodira terminalni del nukleoproteina in začetni del fosfoproteina, smo uporabili par začetnih oligonukleotidov N1161P in N1579M (East in sod., 2001).
+Za pomnoževanje izbranega odseka smo izbrali štiri vzorce (537-08SVN, 7448-10SVN, 467-12SVN, 3511-12SVN) in tri kontrole (NK, cepivo SAD B19, PK).
+Dobljene produkte smo obdelali z metodo RFLP (opisano v poglavju 3.2.4.6), s katero smo razlikovali med cepnimi in divjimi sevi virusov stekline.
+Temperatura prileganja začetnih oligonukleotidov je bila 56 °C. Nukleotidno zaporedje začetnih oligonukleotidov je opisano v tabeli 9.
+
+Tabela 9: Začetna oligonukleotida za pomnoževanje odseka na genu, ki kodira terminalni del nukleoproteina in začetni del fosfoproteina.
+
+Pomnoževanje odseka na genu, ki kodira glikoprotein RVG 
+
+Za pomnoževanje v odseku gena, ki kodira RVG, smo uporabili par začetnih oligonukleotidov GH3 in GH4 (Kissi in sod., 1995).
+S tem parom začetnih oligonukleotidov smo pomnožili 730 bp dolge odseke 30 virusnim sevom (tabela 4).
+Temperatura prileganja začetnih oligonukleotidov GH3 in GH4 v programu pomnoževanja je bila 56 °C. Nukleotidno zaporedje začetnih oligonukleotidov je navedeno v tabeli 10.
+
+Tabela 10: Začetna oligonukleotida za pomnoževanje odseka na genu za RVG.
+
+Pomnoževanje produktov RT-PCR pri vseh štirih postopkih je potekalo v avtomatskem termopomnoževalniku T3 ali T1 (Biometra, Nemčija).
+Program pomnoževanja se je pri različnih postopkih razlikoval v temperaturi prileganja začetnih oligonukleotidov.
+
+Program pomnoževanja:
+
+• 1 cikel 30 minut pri 50 °C,
+
+• 1 cikel 15 minut pri 95 °C,
+
+• 40 ciklov 
+
+• 15 sekund pri 94 °C,
+
+• 30 sekund pri temperaturi prileganja začetnih oligonukleotidov,
+
+• 1 minuta pri 72 °C,
+
+• 1 cikel 10 minut pri 72 °C,
+
+• ohranjanje reakcije pri 4 °C.
+
+3.2.4.3 Analiza produktov RT-PCR z elektroforezo v agaroznem gelu 
+
+Za analizo produktov RT-PCR smo pripravili 1,8-odstotni agarozni gel tako, da smo 100 ml 1 x pufra TAE (Tris-acetat EDTA) dodali 1,8 g agaroze v prahu (Merck, ZDA).
+S segrevanjem v mikrovalovni pečici smo agarozo raztopili in jo ohlajeno na
+
+50−60 °C zlili v nosilec z nameščenim glavničkom.
+Po 30 minutah se je gel strdil.
+Z nosilcem smo ga vstavili v kadičko z 1 x pufrom TAE in odstranili glavniček.
+V posamezno vdolbinico smo nanesli 12 µl produkta RT-PCR, pomešanega s 3 µl 6-kratnega nanašalnega pufra (0,025 % brom-fenol modro, 0,25 % ksilen cianol, 40 % saharoza v EDTA).
+V eno vdolbinico smo nanesli molekularni označevalec DNA (GenRuler 100 bp DNA ladder, Fermentas, Nemčija).
+Elektroforeza je potekala pri napetosti 105 voltov 45 minut.
+Po končani elektroforezi smo produkte RT-PCR obarvali z etidijevim bromidom tako, da smo vstavili gel v kadičko z raztopino etidijevega bromida (0,5 µg/ml) za 15 minut.
+Etidijev bromid se je v tem času vezal med baze v dvojni vijačnici DNA.
+Obarvani gel smo sprali z vodo in ga prenesli v UV-transiluminator E-BOX VX2 (Vilber Lourmat, Nemčija) ter z računalniškim programom in kamero dokumentirali rezultate.
+
+Velikost produktov RT-PCR smo določili s primerjavo velikosti produktov molekularnega označevalca DNA in pozitivne kontrole.
+
+Rezultate smo ovrednotili glede na pričakovano dolžino produkta RT-PCR.
+Če smo dobili produkt pričakovane velikosti, smo rezultat ocenili kot pozitiven, če produkta ni bilo ali pa je bil nespecifične velikosti, smo rezultat ocenili kot negativen.
+
+3.2.4.4 Določanje nukleotidnega zaporedja 
+
+Nukleotidno zaporedje v odseku gena za nukleoprotein (z začetnima oligonukleotidoma N4 in N7) smo določili 93 virusnim sevom, v odseku gena za RVG pa 30 virusnim sevom (tabela 4).
+Specifične produkte RT-PCR smo pred določanjem nukleotidnega zaporedja očistili s komercialnim kompletom QIAquick Gel Extraction Kit (Qiagen, Nemčija).
+Metoda temelji na vezavi molekul DNA na delce silicijevega dioksida v membrani kolone.
+
+Postopek čiščenja produktov RT-PCR smo izvajali po navodilih proizvajalca:
+
+• Po končani elektroforezi v agaroznem gelu smo produkte RT-PCR iz gela izrezali in jih vstavili v 1,5 ml epruvete.
+
+• Izrezane produkte v agaroznem gelu smo stehtali in na 100 mg teže dodali 600 µl pufra QG.
+Mešanico smo inkubirali 10 minut pri 50 °C v termopomnoževalniku T3 ali T1 (Biometra, Nemčija), pomešali in kratko centrifugirali.
+
+• Na 100 mg gela smo dodali 100 µl izopropanola (Merck, ZDA).
+Vsebino smo vstavili v kolono in centrifugirali 1 minuto.
+
+• Filtrat smo zavrgli, na kolono dodali 500 µl pufra QG in inkubirali 5 minut pri sobni temperaturi.
+
+• Ponovno smo centrifugirali, zavrgli filtrat in na kolono nanesli 750 µl pufra PE.
+
+• Sledilo je centrifugiranje 1 minuto na 10.000 x g, odstranjevanje filtrata in ponovno centrifugiranje.
+
+• Kolono smo vstavili v čisto 1,5 ml epruveto, dodali 30 µl pufra EB, inkubirali 4 minute pri sobni temperaturi in centrifugirali 1 minuto.
+
+• Kolono smo po čiščenju zavrgli, filtrat pa ponovno analizirali z elektroforezo na agaroznem gelu in ga do nadaljnje uporabe shranili pri temperaturi pod −15 °C.
+
+Določanje nukleotidnega zaporedja so izvedli v podjetju Macrogen (Amsterdam, Nizozemska).
+
+3.2.4.5 Analiza nukleotidnih zaporedij 
+
+Analizirali smo odseke ne genu za nukleoprotein, dolge 1092 nukleotidov, in odseke na genu za glikoprotein, dolge 672 nukleotidov.
+Kromatografe nukleotidnih zaporedij smo pregledali in uredili s programi SeqMan II in EditSeq, ki so del računalniškega paketa DNASTAR (verzija 5.05; DNASTAR Inc., ZDA).
+Urejena nukleotidna zaporedja smo primerjali z nukleotidnimi zaporedji, objavljenimi v podatkovni zbirki GenBank, s spletnim orodjem BLAST (angl. Basic Local Alignment Search Tool) (http://www.ncbi.nlm.nih.gov/BLAST/).
+Nukleotidna zaporedja slovenskih sevov virusov stekline smo poslali v podatkovno zbirko GenBank, kjer so jim podelili kodo (angl. accession number).
+
+Zaporedja smo poravnali med seboj s programom Clustal X (verzija 1.83) (Thompson in sod., 1997), pri čemer smo izbrali kriterij Neighbour-joining.
+S programom MegAlign (DNASTAR, ZDA) smo določili odstotek identičnosti in divergence med nukleotidnimi zaporedji.
+S programi računalniškega paketa Phylip program (Felsenstein, 1989) smo izrisali filogenetska drevesa.
+
+3.2.4.6 Polimorfizem dolžin restrikcijskih fragmentov (RFLP)
+
+Metodo RFLP smo izvajali po postopku Inštituta Friedricha Loefflerja (Wusterhausen, Nemčija).
+Z metodo RFLP smo analizirali štiri produkte RT-PCR (537-08SVN, 7448-10SVN, 467-12SVN, 3511-12SVN) in tri kontrole (NK, cepivo SAD B19, PK).
+Metoda omogoča razlikovanje med cepnimi in divjimi sevi virusa stekline.
+Produkte RT-PCR v specifični velikosti 418 bp smo razrezali z restrikcijskim encimom Tsp45I (NmuCl, Fermentas, Nemčija), ki specifično prepozna zaporedje 5'- GTGAC-3'.
+
+Reakcijska mešanica za RFLP je vsebovala:
+
+• 18 µl vode DEPC,
+
+• 2 µl 10 x pufra B,
+
+• 0,4 µl encima Tsp45l.
+
+Reakcijski mešanici smo dodali 2 µl produkta RT-PCR in inkubirali 1 uro pri temperaturi 37 °C. Sledila je inkubacija 20 minut pri 65 °C. Po končani reakciji smo izvedli elektroforezo v agaroznem gelu.
+Rezultate smo ocenili glede na število in specifično velikost produktov.
+Če je bil v vzorcu prisoten virusni sev skupine SAD, smo dobili dva produkta velikosti 259 in 159 bp.
+Pri vzorcih, v katerih so bili prisotni divji sevi virusa stekline, pa smo dobili samo en produkt v velikosti 418 bp.
+
+3.2.4.7 Metoda reverzne transkripcije in verižne reakcije s polimerazo (RT-PCR) v realnem času
+
+3.2.4.7.1 Začetni oligonukleotidi in sonde za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 
+
+Za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo uporabili postopek po Wakeleyu in sodelavcih (2005).
+Za dokazovanje RABV, EBLV 1 in EBLV 2 smo uporabili RT-PCR v realnem času z začetnima oligonukleotidoma JW12 in N165-146 (Wakeley in sod., 2005).
+Pomnoževali smo 100 bp na genu za nukleoprotein.
+Za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo uporabili tri sonde (Wakeley in sod., 2005).
+Sonda LysGT1 je specifična za RABV, sonda LysGT5 za EBLV 1 in sonda LysGT6 za EBLV 2. Sonde smo označili z barvili FAM-TAMRA (LysGT1), Cy5-BHQ2 (LysGT5) in Cy3-BHQ1 (LysGT6).
+RT-PCR v realnem času smo izvajali v treh ločenih reakcijah.
+
+Pri vseh treh postopkih RT-PCR v realnem času smo uporabili tudi notranjo kontrolo.
+Kadar smo analizirali isti vzorec z vsemi tremi metodami, smo zaradi znižanja stroškov izvedbe notranjo kontrolo vključili le pri metodi za dokazovanje EBLV 1. Za notranjo kontrolo smo uporabili pomnoževanje gena za β-aktin, ki je prisoten v vseh celicah sesalcev.
+Uporabili smo začetna oligonukleotida β-act intronic , β-act reverse in sondo β-act (Wakeley in sod., 2005).
+Nukleotidno zaporedje začetnih oligonukleotidov in sond je opisano v tabeli 11.
+
+RT-PCR v realnem času za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo izvajali v treh ločenih reakcijah, in sicer reakcija za RABV, reakcija za EBLV 1 in β-aktin ter reakcija za EBLV 2. 
+
+Tabela 11: Začetni oligonukleotidi in sonde za dokazovanje RABV, EBLV 1 in EBLV 2. 
+
+3.2.4.7.2 Začetna oligonukleotida in sonda za dokazovanje cepnih sevov virusov stekline 
+
+Metodo RT-PCR v realnem času za dokazovanje cepnih sevov virusov stekline smo razvili za razlikovanje cepnih in divjih sevov virusov stekline.
+Nukleotidna zaporedja na genu za nukleoprotein 15 divjih in 3 cepnih sevov virusa stekline, iz podatkovne zbirke GenBank, smo poravnali s programom Clustal X (verzija 1.83) (Thompson in sod., 1997).
+Poiskali smo odseke na genu za nukleoprotein, na katerih se cepni sevi razlikujejo od divjih sevov.
+Določili smo tarčno zaporedje za sondo za dokazovanje cepnih sevov.
+V neposredni bližini tarčnega zaporedja sonde smo poiskali ohranjena mesta za načrtovanje začetnih oligonukleotidov.
+Pri načrtovanju postopka RT-PCR v realnem času smo upoštevali osnovna priporočila (Bustin, 2004; Mackay in sod., 2007).
+
+Pri načrtovanju začetnih oligonukleotidov in sonde smo uporabljali spletno orodje OligoAnalyzer 3.1 (IDTSciTools,http://eu.idtdna.com/analyzer/Applications/OligoAnalyzer/Default.aspx).
+Preverili smo nastanek sekundarnih struktur in upoštevali termodinamske kriterije.
+Le-ti določajo, da morajo biti talilne temperature sekundarnih struktur nizke pri prosti Gibbsovi energiji (ΔG), ki ne sme biti nižja od −3 kcal/mol.
+S programom Primer Express (verzija 2.0) (Applied Biosystems, Foster City, CA, ZDA) smo preverili ustreznost izbrane kombinacije začetnih oligonukleotidov in sonde.
+Specifičnost načrtovanih oligonukleotidov in sonde smo preverili in silico s poizvedbo v iskalniku BLAST.
+Nukleotidno zaporedje začetnih oligonukleotidov in sonde, ki smo jih načrtovali, je opisano v tabeli 12.
+
+Tabela 12: Začetna oligonukleotida in sonda za dokazovanje cepnih sevov virusov stekline.
+
+Poudarjeno so označeni nukleotidi, ki so specifični za vakcinalne seve.
+
+3.2.4.7.3 Enostopenjski RT-PCR v realnem času 
+
+Za izvajanje RT-PCR v realnem času smo uporabljali komercialni komplet reagentov SuperScript III Platinum One-Step Quantitative RT-PCR System (Invitrogen) in aparaturo MX3005P (Stratagene).
+Reakcijsko mešanico za en vzorec smo pripravili v volumnu 24 µl, ki smo mu dodali 1 µl izolirane RNA.
+
+Reakcijska mešanica za dokazovanje RABV je vsebovala:
+
+• 7,5 µl vode DEPC,
+
+• 12,5 µl 2 x reakcijske mešanice,
+
+• 0,5 µl 50mM MgSO4,
+
+• 1 µl začetnega oligonukleotida JW12 (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida N165-146 (20 pmol/µl),
+
+• 0,5 µl sonde LysGT1 (5 pmol/µl),
+
+• 0,5 µl referenčnega barvila ROX, redčenega 1 : 10,
+
+• 0,5 µl mešanice encimov SuperScript III RT/ Platinum Taq Mix.
+
+Reakcijska mešanica za dokazovanje EBLV 1 in β-actina je vsebovala:
+
+• 4,5 µl vode DEPC,
+
+• 12,5 µl 2 x reakcijske mešanice,
+
+• 0,5 µl 50 mM MgSO4,
+
+• 1 µl začetnega oligonukleotida JW12 (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida N165-146 (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida β-act intronic (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida β-act reverse (20 pmol/µl),
+
+• 0,5 µl sonde LysGT5 (5 pmol/µl),
+
+• 0,5 µl sonde β-act (5 pmol/µl),
+
+• 0,5 µl referenčnega barvila ROX, redčenega 1:10,
+
+• 0,5 µl mešanice encimov SuperScript III RT/ Platinum Taq Mix.
+
+Reakcijska mešanica za dokazovanje EBLV 2 je vsebovala:
+
+• 7,5 µl vode DEPC,
+
+• 12,5 µl 2 x reakcijske mešanice,
+
+• 0,5 µl 50 mM MgSO4,
+
+• 1 µl začetnega oligonukleotida JW12 (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida N165-146 (20 pmol/µl),
+
+• 0,5 µl sonde LysGT6 (5 pmol/µl),
+
+• 0,5 µl referenčnega barvila ROX, redčenega 1:10,
+
+• 0,5 µl mešanice encimov SuperScript III RT/ Platinum Taq Mix.
+
+Reakcijska mešanica za dokazovanje cepnih sevov je vsebovala:
+
+• 7,5 µl vode DEPC,
+
+• 12,5 µl 2 x reakcijske mešanice,
+
+• 0,5 µl 50 mM MgSO4,
+
+• 1 µl začetnega oligonukleotida STK V1 (20 pmol/µl),
+
+• 1 µl začetnega oligonukleotida STK V2 (20 pmol/µl),
+
+• 0,5 µl sonde STK V3 (5 pmol/µl),
+
+• 0,5 µl referenčnega barvila ROX, redčenega 1 : 10,
+
+• 0,5 µl mešanice encimov SuperScript III RT/ Platinum Taq Mix.
+
+Pomnoževanje je potekalo:
+
+• reverzna transkripcija 15 minut pri 50 °C,
+
+• denaturacija 2 minuti pri 95 °C,
+
+• 45 ciklov pomnoževanja 
+
+• 15 sekund 95 °C,
+
+• 1 minuta pri temperaturi prileganja začetnih oligonukleotidov in sond.
+
+Temperatura prileganja začetnih oligonukleotidov in sond je bila za RT-PCR v realnem času za dokazovanje cepnih sevov 60 °C, za dokazovanje RABV, EBLV 1 in β-aktina ter za dokazovanje EBLV 2 55 °C.
+
+3.2.4.7.4 Določanje optimalne koncentracije začetnih oligonukleotidov in sond 
+
+Za posamezno metodo RT-PCR v realnem času smo določili optimalne koncentracije začetnih oligonukleotidov in sonde v posamezni reakcijski mešanici.
+Uporabili smo referenčne virusne seve 1103B3463, 1103B4622, 1103B7824 in SAD B19.
+Matrika različnih kombinacij koncentracij začetnih oligonukleotidov in sonde je prikazana v tabeli 13.
+
+Pri določanju optimalne koncentracije začetnih oligonukleotidov in sonde za posamezni postopek RT-PCR v realnem času smo izbrali tisto, ki je med pomnoževanjem izražala najvišjo normirano fluorescenco poročevalskega barvila (ΔRn) pri najnižji vrednosti Cq.
+
+Tabela 13: Testirane koncentracije začetnih oligonukleotidov in sonde.
+
+Z modro je označena optimalna koncentracija začetnih oligonukleotidov in sond.
+
+3.2.4.7.5 Določanje optimalne koncentracije MgSO4
+
+Optimalno koncentracijo MgSO4 smo določali za štiri ločene postopke RT-PCR v realnem času, in sicer za dokazovanje RABV, za dokazovanje EBLV 1 in β-aktina, za dokazovanje EBLV 2 ter za dokazovanje cepnih sevov.
+Preverili smo vpliv različnih koncentracij MgSO4: 4 pmol/µl, 5 pmol/µl in 6 pmol/µl.
+Uporabili smo referenčne virusne seve 1103B3463, 1103B4622, 1103B7824 in SAD B19.
+Izbrali smo tisto koncentracijo MgSO4, pri kateri je bila vrednost ΔRn najvišja in vrednost Cq najnižja.
+
+3.2.4.7.6 Preverjanje pravilnosti, specifičnosti in zanesljivosti metode RT-PCR v realnem času za dokazovanje RABV, EBLV 1, EBLV 2 in cepnih sevov 
+
+Pravilnost postopkov RT-PCR v realnem času za dokazovanje RABV, EBLV 1, EBLV 2 in cepnih sevov smo preverjali s 55 vzorci, opisanimi v tabeli 7. Rezultat smo ocenili kot pravilen, kadar smo z metodo RT-PCR v realnem času za dokazovanje RABV, ali EBLV 1, ali EBLV 2 ,ali cepnih sevov dobili pozitiven rezultat pri vzorcih, ki so vsebovali virusne seve vrste RABV, ali EBLV 1, ali EBLV 2, ali cepne seve.
+Rezultat smo ocenili kot nepravilen, kadar smo dobili negativen rezultat pri vzorcih, ki so vsebovali virusne seve vrste RABV, ali EBLV 1, ali EBLV 2, ali cepne seve.
+Rezultat smo ocenili kot nepravilen tudi, ko smo dobili pozitiven rezultat pri vzorcih, ki niso vsebovali virusnih sevov vrste RABV ali EBLV 1 ali EBLV 2 ali cepnih sevov.
+
+3.2.4.7.7 Preverjanje ponovljivosti rezultatov RT-PCR v realnem času 
+
+Ponovljivost rezultatov postopkov RT-PCR v realnem času smo preverili tako, da smo primerjali rezultate osmih zaporednih preiskav znanega referenčnega virusnega seva.
+Za dokazovanje RABV smo uporabili referenčni virusni sev 1103B3463, za dokazovanje EBLV 1 referenčni virusni sev 1103B4622, za dokazovanje EBLV 2 referenčni virusni sev 1103B7824, za dokazovanje cepnih sevov pa virusni sev SAD B19.
+V enem poskusu smo posamezno reakcijo ponovili osemkrat in iz vrednosti Cq med ponovitvami izračunali standardno deviacijo (SD) ter iz nje koeficient variacije (KV).
+
+Xi = vrednost posamezne meritve,
+
+N = število meritev,
+
+Xp = povprečna vrednost meritev.
+
+3.2.4.7.8 Določitev meje zaznavnosti postopkov RT-PCR v realnem času 
+
+Mejo zaznavnosti RT-PCR v realnem času smo določili tako, da smo testirali 10-kratne razredčine referenčnih virusnih sevov 110B3463, 110B4622, 110B4622, 110B7824 in cepnega seva SAD B19 v štirih ponovitvah.
+Mejo zaznavnosti smo izračunali po metodi za določanje titra virusa, ki sta jo opisala Reed in Muench (1938).
+Za posamezni postopek smo iz regresijske krivulje izračunali tudi učinkovitost reakcije po formuli:
+
+K = naklon regresijske premice.
+
+3.2.4.7.9 Preverjanje robustnosti postopkov RT-PCR v realnem času 
+
+Iz referenčnih virusnih sevov 110B3463, 110B4622, 110B4622, 110B7824 in cepnega seva SAD B19 smo pripravili homogene suspenzije (1 : 10), ki smo jih razdelili na sedem enakih delov.
+Serijo sedmih vzorcev smo nato hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+Vzorce smo testirali s postopki RT-PCR v realnem času in ovrednotili rezultate kot pozitivne ali negativne.
+
+3.2.4.7.10 Določanje diagnostične specifičnosti in občutljivosti postopkov RT-PCR v realnem času 
+
+Na osnovi preverjanja pravilnosti postopkov RT-PCR v realnem času smo določili število pravilno opredeljenih rezultatov in nepravilno opredeljenih rezultatov, to je število lažno pozitivnih in lažno negativnih rezultatov.
+Za vsak postopek smo nato izračunali diagnostično specifičnost in diagnostično občutljivost.
+
+Diagnostično specifičnost metode smo izrazili kot odstotek znano negativnih vzorcev, pri katerih je bil rezultat negativen.
+Enačba za izračun diagnostične specifičnosti:
+
+Diagnostično občutljivost smo izrazili kot odstotek znano pozitivnih vzorcev, pri katerih je bil rezultat pozitiven.
+Enačba za izračun diagnostične občutljivosti:
+
+4 REZULTATI
+
+4.1 REZULTATI PROUČEVANJA MOLEKULARNO-EPIDEMIOLOŠKIH ZNAČILNOSTI VIRUSOV STEKLINE 
+
+V okviru proučevanja molekularno-epidemioloških značilnosti virusov stekline v Sloveniji smo analizirali 93 virusnih sevov, opisanih v tabeli 4. Kriteriji za izbor virusnih sevov so bili leto najdbe, živalska vrsta in geografska lokacija.
+Izbrane arhivske virusne seve smo testirali z metodo RT-PCR za pomnoževanje odseka na genu za nukleoprotein.
+Pri vseh 93 virusnih sevih smo dobili produkt specifične velikosti 1313 bp (slika 11).
+Vsem produktom RT-PCR smo določili nukleotidna zaporedja in jih uredili s programi SeqMan in EditSeq.
+Geografska lokacija 93 virusnih sevov je prikazana na sliki 12.
+
+Slika 11: Analiza produktov pomnoževanja 1313 bp odseka, ki kodira nukleoprotein, na 1,8-odstotnem agaroznem gelu.
+
+Slika 12: Geografska lokacija analiziranih sevov virusov stekline.
+
+Številke označujejo imena virusnih sevov, opisanih v tabeli 4.
+
+Primerjali smo 1092 nt vseh 93 slovenskih sevov in sevov, ki so dostopni v podatkovni zbirki GenBank.
+Ugotovili smo, da spadajo vsi slovenski sevi virusa stekline med RABV.
+
+Pripravili smo tudi filogenetsko analizo, v katero smo vključili nukleotidna zaporedja vseh 93 slovenskih virusnih sevov.
+S programom Phylip smo izrisali filogenetsko drevo (slika 13).
+Analizirani slovenski sevi oblikujejo tri genetsko sorodne skupine.
+Prvo genetsko skupino predstavlja 89 virusnih sevov, drugo predstavljata virusna seva 664-02SVN in 467-12SVN, tretjo pa virusna seva 537-08SVN in 3511-12SVN, ki sta identična cepnim sevom skupine SAD.
+Pri primerjavi ostalih 91 virusnih sevov s cepnim sevom SAD B19 smo ugotovili 91,8− 92,5-odstotno podobnost (rezultati niso prikazani).
+Prva in druga genetska skupina sta si podobni v 95,9−96,4 %, prva in tretja pa v 91,8−92,3 % (rezultati niso prikazani).
+Druga in tretja genetska skupina sta si podobni v 92,5 % (rezultati niso prikazani).
+
+Slika 13: Filogenetsko drevo nukleotidnih zaporedij odseka za nukleoprotein.
+
+Vključenih je 93 slovenskih sevov virusov stekline in pet sevov iz GenBank (8653YOU, 86111YOU, PV, SAD B19 in SAD Bern).
+
+Nukleotidni zaporedji virusnih sevov 537-08SVN in 3511-12SVN sta povsem enaki z nukleotidnim zaporedjem cepnega seva SAD B19, od cepnega seva SAD Bern se razlikujeta v štirih nukleotidih (razlike so na 121., 207., 464. mestu in na mestu 1036), od seva PV pa v 8 nukleotidih (razlike so na 51., 96., 100., 121., 150., 207., 395. in 645. mestu) (slika 14).
+
+Slika 14: Primerjava nukleotidnih zaporedij odseka na genu za nukleoprotein slovenskih sevov 537-08SVN, 3511-12SVN in cepnih sevov SAD B19, SAD Bern in PV (146–1238 glede na sev PV).
+
+Želeli smo preveriti, kako se virusni sevi razvrstijo v filogenetskih drevesih, ko primerjamo nukleotidna zaporedja odseka na genu za nukleoprotein in nukleotidna zaporedja odseka na genu za RVG.
+Izbrali smo 30 virusnih sevov, ki se razlikujejo glede na geografsko lokacijo, živalsko vrsto in leto najdbe.
+Le-te smo pomnožili tudi z metodo RT-PCR v odseku gena za RVG.
+Pri vseh virusnih sevih smo dobili produkt specifične velikosti 730 bp (slika 15).
+Vsem produktom smo določili nukleotidna zaporedja in jih uredili s programi SeqMan in EditSeq.
+
+Slika 15: Analiza produktov pomnoževanja 730 bp dolgega odseka, ki kodira RVG, na 1,8-odstotnem agaroznem gelu.
+
+Nukleotidna zaporedja 23 različnih slovenskih sevov virusov stekline smo poslali v podatkovno zbirko GenBank, kjer so jim dodelili individualno kodo (tabela 14).
+
+Tabela 14: Kode (accession number) nukleotidnih zaporedij odseka v genu za nukleoprotein in odseka v genu za RVG slovenskih sevov stekline v podatkovni zbirki GenBank.
+
+Urejena nukleotidna zaporedja izbranih trideset slovenskih sevov virusov stekline smo primerjali med seboj in z nukleotidnimi zaporedji sevov, dostopnih v podatkovni zbirki GenBank (tabela 5).
+
+Pripravili smo dve filogenetski analizi s programom Phylip.
+V prvo smo vključili 41 nukleotidnih zaporedij 1092 nt dolgega odseka gena za nukleoprotein, v drugo pa 37 nukleotidnih zaporedij 672 nt dolgega odseka v genu za RVG (tabela 5, tabela 14).
+Statistično moč izdelanih dreves in zanesljivost postavljenih vej smo preverili s 1.000-kratnimi ponovitvami (angl. bootstraping).
+Razporeditev virusnih sevov je v obeh filogenetskih drevesih skoraj povsem enaka (slika 16).
+
+V obeh filogenetskih drevesih so se slovenski virusni sevi uvrstili v dve genetsko sorodni skupini (slika 16).
+Trideset nukleotidnih zaporedij odseka za nukleoprotein slovenskih virusnih sevov je enakih v 95,9–100 %.
+Njihova podobnost z devetimi virusnimi sevi iz podatkovne zbirke GenBank (08RS-1981/Udine/2008, Dog/09RS-1459/Udine/2009, 86111YOU, 8653YOU, 8661FRA, 9202ALL, 9244FRA, 86106YOU, 86107YOU) (tabela 5) je 94,8−100-odstotna.
+
+Znotraj ene genetske skupine je 29 nukleotidnih zaporedij odseka za nukleoprotein enakih v 99,0–100 %, od virusnega seva 86111YOU, ki izvira iz Bosne in Hercegovine (tabela 5), pa se razlikuje le 0,1−0,5-odstotno.
+Nukleotidno zaporedje slovenskega virusnega seva 275-08SVN je povsem enako zaporedjema 08RS-1981/Udine/2008 in Dog/09RS-1459/Udine/2009, ki izvirata iz Italije (slika 16).
+
+V drugo genetsko skupino se je uvrstil le en slovenski virusni sev, in sicer sev 664-02SVN, ki je v 99,31 % enak sevu 8653YOU, ki so ga ugotovili pri volku leta 1986 v Bosni in Hercegovini (tabela 5).
+
+Trideset nukleotidnih zaporedij odseka za RVG slovenskih sevov je enakih v 94,6–100 %.
+Njihova podobnost s petimi virusnimi sevi iz podatkovne zbirke GenBank (9202ALL, 9244FRA, 86107YOU, 9339EST in 8653YOU) (tabela 5) je 93,8−98,4 %.
+
+Slika 16: Filogenetski drevesi, ki vključujeta nukleotidna zaporedja tridesetih izbranih slovenskih sevov virusov stekline in sevov iz GenBank.
+
+Slovenski sevi so označeni poudarjeno.
+
+Nukleotidna zaporedja odsekov na genu za nukleoprotein sedmih slovenskih sevov (49894SVN, 696-15-95SVN, 1116-00SVN, 1339-00SVN, 275-08SVN, 1085-09SVN, 52-10SVN) smo primerjali tudi s hrvaškim sevom CRO_09SK (Lojkič in sod., 2009) in ugotovili 99,5–100odstotno podobnost (slika 17).
+
+Slika 17: Podobnost nukleotidnih zaporedij sedmih slovenskih sevov in hrvaškega seva CRO_09SK.
+
+Podobnost med nukleotidnimi zaporedji slovenskih sevov virusa stekline in cepnih sevov SAD B19 in SAD Bern je bila 91,8–92,5-odstotna v odseku na genu za nukleoprotein in 91,7–93,1odstotna v odseku na genu za RVG.
+
+Nukleotidna zaporedja na odseku gena za nukleoprotein in na odseku gena za RVG smo prevedli v aminokislinska zaporedja in jih primerjali.
+Zaporedja aminokislin na nukleoproteinu 29 slovenskih sevov in sevov 08RS-1981/Udine/2008, Dog/09RS1459/Udine/2009 in 86111YOU so bila popolnoma enaka.
+Pri slovenskem sevu 664-02SVN smo ugotovili zamenjavo aminokisline Asp-35 z Asn-35 in zamenjavo Ala-101 s Ser-101 (štetje glede na sev SAD B19) (slika 18).
+
+Slika 18: Primerjava prevedenih aminokislinskih zaporedij dela nukleoproteina tridesetih slovenskih sevov in štirih sevov iz GenBank.
+
+Pri RVG smo pri slovenskem sevu 1386-04SVN ugotovili zamenjavo Leu-202 s Pro-202.
+Pri slovenskih sevih 52-10SVN, 332-08SVN, 339-08SVN, 348-08SVN, 755-10SVN, 1209-08SVN, 1647-07SVN, 2440-09SVN in 2441-08SVN smo ugotovili zamenjavo His-250 z Leu-250.
+Pri sevu 664-02SVN pa smo ugotovili zamenjavo Ala-206 z Thr-206 (slika 19).
+
+Slika 19: Primerjava prevedenih aminokislinskih zaporedij dela RVG tridesetih slovenskih sevov in seva SAD B19.
+
+4.1.1 Rezultat analize cepnih sevov z monoklonalnimi protitelesi in RFLP 
+
+Z monoklonalnim protitelesom W239.17, ki prepozna laboratorijske, cepne, evropske lisičje, pasje in polarne seve ter MOKV, LBV, DUVV in seve EBLV 1 in EBLV 2, smo dobili pozitiven rezultat pri štirih vzorcih (537-08SVN, 7448-10SVN, 467-12SVN, 3511-12SVN) in pri dveh kontrolah (cepivo SAD B19 in PK).
+Z monoklonalnim protitelesom MW187.6.1, ki prepozna laboratorijske, evropske lisičje, pasje in polarne seve, smo dobili pozitiven rezultat pri dveh vzorcih (7448-10SVN, 467-12SVN) in pri PK.
+Iz rezultatov analize z monoklonalnimi protitelesi W239.17 in MW187.6.1 lahko sklenemo, da sta vzorca 537-08SVN, 3511-12SVN enaka cepnemu sevu SAD B19.
+
+Pri restrikcijski analizi odseka, ki kodira terminalni del gena za nukleoprotein in začetni del gena za fosfoprotein, z encimom Tsp45l, smo dobili dva produkta velikosti 259 bp in 159 bp pri virusnih sevih 537-08SVN, 3511-12SVN in cepilnem sevu SAD B19.
+En sam produkt v velikosti 418 bp smo dobili pri virusnih sevih 7488-10SVN, 467-12SVN in PK.
+Iz rezultatov RFLP (slika 20) lahko sklepamo, da sta virusna seva 537-08SVN in 3511-12SVN cepna seva virusa stekline tako kot sev SAD B19.
+
+Slika 20: Analiza produktov RFLP na 1,8-odstotnem agaroznem gelu.
+
+4.2 REZULTATI PRIMERJAVE OBČUTLJIVOSTI IN ROBUSTNOSTI METOD DIF, IVCK IN RT-PCR 
+
+4.2.1 Občutljivost testa direktne imunofluorescence (dIF)
+
+Testirali smo razredčine izbranih 15 vzorcev (opisanih v tabeli 6).
+Testirane vzorce, hranjene pri temperaturi nižji od −15 °C (od 17 mesecev do 11 let) smo ovrednotili kot pozitivne do razredčitve 10-1 (1254-10SVN), 10-2 (404-03SVN, 2337-03SVN, 1090-08SVN, 3283-09SVN), 10-3 (1386-04SVN, 675-05SVN, 2440-09SVN, 1327-10SVN, 2153-10SVN), 10-4 (2156-10SVN) in 10-5 (1466-10SVN) (tabela 15).
+Vzorce hranjene pri temperaturi nižji od −50 °C (od 17 do 19 mesecev) smo ovrednotili kot pozitivne do razredčitve 10-3 (2153-10SVNa), 10-4 (215610SVNa) in 10-5 (1466-10SVNa) (tabela 15).
+
+Tabela 15: Določanje občutljivosti testa dIF.
+
+4.2.2 Robustnost testa direktne imunofluorescence (dIF)
+
+Za določitev robustnosti testa dIF smo testirali dva vzorca (404-10SVN in 2153-10SVN), ki smo ju hranili pri sobni temperaturi 0−30 dni.
+Test smo izvedli v sedmih časovnih obdobjih, in sicer takoj, po 5, 10, 15, 20, 25 in 30 dneh.
+Rezultat testiranja obeh vzorcev s testom dIF je bil pozitiven pri obeh vzorcih, ki sta bila hranjena 0 in 5 dni pri sobni temperaturi, po desetih dneh in kasneje pa je bil rezultat negativen (tabela 16).
+Test dIF ni primeren za analizo vzorcev, ki jih hranimo pri sobni temperaturi več kot 5 dni.
+Sobno temperaturo smo izmerili vsak dan testiranja ob 14. uri.
+Sobna temperatura je bila med 24 in 27 °C.
+
+Tabela 16: Določanje robustnosti testa dIF.
+
+4.2.3 Občutljivost metode IVCK 
+
+Za določitev občutljivosti metode IVCK smo testirali razredčine izbranih 15 vzorcev (opisanih v tabeli 6).
+Testirane vzorce, hranjene pri temperaturi nižji od −15 °C, smo ovrednotili kot negativne v vseh razredčitvah od 10-1 do 10-10.
+Vzorce hranjene pri temperaturi nižji od −50 °C smo ovrednotili kot pozitivne do razredčitve 10-1 (2153-10SVNa, 2156-10SVNa) in 10-3 (1466-10SVNa) (tabela 17).
+
+Tabela 17: Določanje občutljivosti metode IVCK.
+
+4.2.4 Robustnost metode IVCK 
+
+Testirali smo dva vzorca (404-10SVN in 2153-10SVN), ki smo ju hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+Sobno temperaturo smo izmerili vsak dan testiranja ob 14. uri.
+Sobna temperatura je bila med 24 in 27 °C. Do začetka testiranja sta bila vzorca 404-10SVN in 2153-10SVN hranjena pri temperaturi nižji od −50 °C. Z metodo IVCK smo dokazali virus le v vzorcu, ki smo ga takoj nanesli na celično kulturo, iz vseh ostalih vzorcev, ki smo jih hranili pri sobni temperaturi 5 dni in več, pa virusa nismo izolirali.
+
+4.2.5 Občutljivost metode RT-PCR 
+
+Testirali smo razredčine 15 izbranih vzorcev (opisani v tabeli 6).
+Vzorce, hranjene pri temperaturi nižji od −15 °C (tabela 18), smo z metodo RT-PCR ovrednotili kot pozitivne v razredčitvah 10-2 (1254/00SVN), 10-3 (404-03SVN, 2337-03SVN, 1090-08SVN, 3283-09SVN), 10-4 (1386-04SVN, 675-05SVN, 2440-09SVN), 10-5 (1327-10SVN, 2153-10SVN, 2156-10SVN) in 10-6 (1466-10SVN).
+Vzorce, hranjene pri temperaturi nižji od −50 °C, smo z metodo RT-PCR ovrednotili kot pozitivne v razredčitvah 10-5 (2153-10SVNa, 2156-10SVNa) in 10-6 (146610SVNa).
+
+Tabela 18: Določanje občutljivosti metode RT-PCR.
+
+4.2.6 Robustnost metode RT-PCR 
+
+Testirali smo dva vzorca (404-10SVN in 2153-10SVN), ki smo ju hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+Sobno temperaturo smo izmerili vsak dan testiranja ob 14. uri.
+Sobna temperatura je bila med 24 in 27 °C. Rezultati testiranja vzorcev z metodo RT-PCR so bili pozitivni v vseh obdobjih testiranja, to je vseh 30 dni ob hranjenju pri sobni temperaturi (tabela 19).
+
+Tabela 19: Rezultati preverjanja robustnosti metode RT-PCR.
+
+4.3 REZULTATI VALIDACIJE IN OPTIMIZACIJE METOD RT-PCR V REALNEM ČASU 
+
+4.3.1 Rezultati določanja optimalne koncentracije začetnih oligonukleotidov in sond 
+
+Optimalno koncentracijo začetnih oligonukleotidov in sonde smo določali za štiri ločene postopke RT-PCR v realnem času, in sicer za dokazovanje RABV, EBLV 1 in β-aktina, EBLV 2 ter za dokazovanje cepnih sevov.
+Za posamezni test smo izbrali tiste koncentracije začetnih oligonukleotidov in sonde (tabela 12), ki so med pomnoževanjem izražali najvišjo normalizirano fluorescenco poročevalskega barvila (ΔRn) pri najnižji vrednosti Cq (tabela 20).
+Pri vseh testih RT-PCR v realnem času smo dobili najvišjo vrednost ΔRn in najnižjo vrednost Cq pri 800 pmol/µl vsakega začetnega oligonukleotida in 100 pmol/µl sonde.
+
+Tabela 20: Določanje optimalne koncentracije začetnih oligonukleotidov in sond.
+
+4.3.2 Rezultati določanja optimalne koncentracije MgSO4
+
+Optimalno koncentracijo MgSO4 smo določali za štiri ločene postopke RT-PCR v realnem času, in sicer za dokazovanje RABV, EBLV 1 in β-aktina, EBLV 2 ter za dokazovanje cepnih sevov.
+Pri določanju optimalne koncentracije MgSO4 smo izbrali tisto koncentracijo, pri kateri je bila vrednost ΔRn najvišja in vrednost Cq najnižja (tabela 20).
+Pri vseh testih RT-PCR smo dobili najvišjo vrednost ΔRn in najnižjo vrednost Cq pri koncentraciji 4 pmol/µl MgSO4.
+
+4.3.3 Rezultati preverjanja pravilnosti postopkov RT-PCR v realnem času 
+
+Pravilnost štirih ločenih postopkov RT-PCR v realnem času smo ugotavljali s 55 znanimi vzorci, opisanimi v tabeli 7. Rezultati so prikazani v tabeli 21.
+V testiranje smo vključili tudi vzorce suspenzij možganov in ekstrahirane RNA, ki niso vsebovali virusa stekline oziroma nukleinske kisline virusa stekline.
+
+Tabela 21: Rezultati postopkov RT-PCR v realnem času.
+
+Z rumeno barvo so označeni vzorci vrste RABV in cepni sevi, z zeleno vzorci vrste EBLV 1, z modro vzorci vrste EBLV 2, z oranžno vzorci vrste ABLV, z belo pa negativni vzorci.
+Lažno negativni rezultati so označeni z roza barvo.
+
+Rezultate RT-PCR v realnem času za dokazovanje RABV smo ovrednotili kot pozitivne pri tridesetih virusnih sevih RABV in pri štirih cepnih sevih.
+Pri treh virusnih sevih RABV (L5, L12 in L29) smo dobili negativen rezultat.
+Prav tako smo dobili negativen rezultat pri ostalih sevih, ki ne spadajo med RABV.
+
+Rezultate RT-PCR v realnem času za dokazovanje EBLV 1 smo ovrednotili kot pozitivne pri štirih virusnih sevih EBLV 1 (7095208, L39 5109291, 1103B4622 in L18), pri ostalih sevih, ki ne spadajo med EBLV 1, smo dobili negativen rezultat.
+
+Rezultate RT-PCR v realnem času za dokazovanje vrste EBLV 2 smo ovrednotili kot pozitivne pri štirih virusnih sevih EBLV 2 (7098627, L39 5104840, 1103B7824 in L24) in negativne pri vseh ostalih 51 vzorcih, ki ne sodijo v vrsto EBLV 2. 
+
+Rezultate postopka RT-PCR v realnem času za dokazovanje cepnih sevov virusa stekline smo ovrednotili kot pozitivne pri virusnih sevih L23, Fucshoral, Lysvulpen in Bio 10 in kot negativne pri vseh ostalih 51 vzorcih.
+
+Gen za β-aktin smo dokazali v vseh vzorcih, ki so vsebovali suspenzijo možganov.
+
+4.3.4 Rezultati določanja ponovljivosti metode RT-PCR v realnem času 
+
+Ponovljivost rezultatov smo preverili tako, da smo primerjali rezultate osmih ponovitev vseh štirih RT-PCR v realnem času za znane referenčne vzorce.
+Uporabili smo referenčne virusne seve 1103B3463, 1103B4622, 1103B7824 in cepivo SAD B19.
+Dobili smo pozitiven rezultat v vseh osmih ponovitvah za vse referenčne virusne seve.
+
+Standardna deviacija (tabela 22) za RT-PCR v realnem času za dokazovanje RABV je 0,59, za EBLV 1 in EBLV 2 0,37, za dokazovanje cepnih sevov pa 0,32.
+Koeficient variacije je najvišji pri testu za dokazovanje EBLV 2, saj je 8,2 %.
+Najnižji je pri testu za dokazovanje cepnih sevov, in sicer 1,5 %.
+
+Najboljšo ponovljivost in najnižji koeficient variacije ima metoda RT-PCR v realnem času za dokazovanje cepnih sevov, najslabšo ponovljivost in najvišji koeficient variacije pa metoda RT-PCR v realnem času za dokazovanje EBLV 2. 
+
+Tabela 22: Standardna deviacija in koeficient variacije pri preverjanju ponovljivosti rezultatov RT-PCR v realnem času.
+
+4.3.5 Rezultati določanja občutljivosti RT-PCR v realnem času 
+
+Občutljivost metode RT-PCR v realnem času smo določili tako, da smo testirali 10-kratne razredčine vzorcev (1103B3463, 1103B4622, 1103B7824 in cepivo SAD B19).
+Za dokazovanje RABV smo uporabili vzorec 110B3463 s titrom 10-5,875 TCID50/ml.
+Virusno nukleinsko kislino smo določili pri razredčitvi 10-6,25.
+Učinkovitost reakcije (E) je bila 0,86 (tabela 23).
+
+Za dokazovanje EBLV 1 smo uporabili vzorec 110B4622 s titrom 10-4,75 TCID50/ml.
+Virusno nukleinsko kislino smo določili pri razredčitvi 10-6,75.
+Učinkovitost reakcije (E) je bila 0,92 (tabela 23).
+
+Za dokazovanje EBLV 2 smo uporabili vzorec 110B7824 s titrom 10-5,5 TCID50/ml.
+Virusno nukleinsko kislino smo določili pri razredčitvi 10-5,25.
+Učinkovitost reakcije (E) je bila 0,97 (tabela 23).
+
+Za dokazovanje cepnih sevov smo uporabili cepivo SAD B19 s titrom 10-3,875 TCID50/ml.
+Virusno nukleinsko kislino smo določili pri razredčitvi 10-4. Učinkovitost reakcije (E) je bila 0,91 (tabela 23).
+
+Tabela 23: Določanje občutljivosti metod RT-PCR v realnem času.
+
+4.3.6 Rezultati preverjanja robustnosti postopkov RT-PCR v realnem času 
+
+Nukleinsko kislino RABV, EBLV 1, EBLV 2 in cepne seve virusov stekline smo dokazali s specifičnimi ločenimi postopki RT-PCR v realnem času v vseh vzorcih, hranjenih pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+
+Za vsak test smo izračunali standardno deviacijo in koeficient variacije (tabela 24).
+
+Tabela 24: Standardna deviacija in koeficient variacije pri preverjanju robustnosti postopkov RT-PCR v realnem času.
+
+Daljši, kot je bil čas hranjenja vzorcev pri sobni temperaturi, višje so bile vrednosti Cq.
+Standardna deviacija je bila najvišja pri postopku RT-PCR v realnem času za dokazovanje cepnih sevov virusov stekline.
+Koeficient variacije je bil med 3,3 in 6,1 %.
+
+4.3.7 Rezultati preverjanja specifičnosti postopkov RT-PCR v realnem času 
+
+Na osnovi preverjanja pravilnosti štirih ločenih postopkov RT-PCR v realnem času smo določili število pravilno opredeljenih rezultatov in nepravilno opredeljenih rezultatov, to je število lažno pozitivnih in lažno negativnih rezultatov.
+Za preverjanje specifičnosti postopkov RT-PCR v realnem času za dokazovanje EBLV1, EBLV 2 in cepnih sevov smo uporabili 55 vzorcev, opisanih v tabeli 7. Za preverjanje specifičnosti postopka RT-PCR v realnem času za dokazovanje RABV smo uporabili le 52 vzorcev (tabela 7).
+Izključili smo tri vzorce, ki izvirajo iz Amerike.
+Za vsak postopek smo izračunali diagnostično specifičnost in diagnostično občutljivost.
+
+Pri postopkih RT-PCR v realnem času za dokazovanje RABV, EBLV 1, EBLV 2 in cepnih sevov sta bili diagnostična specifičnost in diagnostična občutljivost enaki 1.
+
+5 RAZPRAVA
+
+5.1 PROUČEVANJE MOLEKULARNO-EPIDEMIOLOŠKIH ZNAČILNOSTI VIRUSA STEKLINE 
+
+Prvič so molekularno-epidemiološke značilnosti virusov stekline na področju Evrope proučevali že leta 1999 (Bourhy in sod., 1999).
+V raziskavo so vključili 95 sevov iz 26 različnih držav in ugotovili, da so med divjimi in domačimi živalmi najpogosteje prisotni klasični sevi virusa stekline (RABV).
+Na področju Evrope so poleg vrste RABV ugotovili tudi vrsti EBLV 1 in EBLV 2, ki sta primarno razširjeni med žužkojedimi netopirji.
+Prvič so določili tudi nukleotidno zaporedje dveh slovenskih virusnih sevov (9494SLN, 94100SLN).
+Nukleotidno zaporedje odseka na genu za nukleoprotein so prvič objavili leta 1999 (Bourhy in sod., 1999).
+V omenjeni študiji so virusne seve, dokazane v Evropi, razvrstili glede na geografsko lokacijo v štiri razrede.
+Slovenska seva 9494SLN in 94100SLN so razvrstili v razred zahodnoevropskih sevov.
+
+Poglobljeno molekularno-epidemiološko raziskavo virusnih sevov stekline, ki smo jih zbrali med letoma 1994 in 2010 pri divjih in domačih živalih v Sloveniji, smo objavili leta 2011 (Rihtarič in sod., 2011).
+Raziskavo smo kasneje še razširili na večje število sevov.
+Pregledali smo 93 sevov, izoliranih pri različnih vrstah živali, in ugotovili, da sodijo vsi slovenski sevi virusov stekline v vrsto RABV.
+
+V filogenetsko analizo smo vključili trideset virusnih sevov.
+Izbrali smo jih glede na geografsko lokacijo, živalsko vrsto in leto najdbe (slika 16).
+Proučevali smo dva različna dela genoma, in sicer odsek na genu za nukleoprotein in odsek na genu za RVG.
+Gen za nukleoprotein smo izbrali, ker je po podatkih iz literature najbolje ohranjen v genomu virusa stekline in je zato primeren za ugotavljanje epidemioloških in evolucijskih sorodnosti med virusi stekline (Smith in sod., 1992; Nadin-Davis in sod., 1994; Kissi in sod., 1995).
+Gen za RVG smo izbrali za razlikovanje med cepnimi in divjimi sevi virusov stekline.
+Iz literature je znano, da določene mutacije na genu za RVG lahko vplivajo na virulenco virusa.
+Tako se lahko namesto aminokisline arginin ali lizin na mestu 333 pojavi glutamin, izolevcin, glicin, metionin ali serin, kar naj bi zmanjšalo virulenco virusa (Dietzschold in sod., 1983; Seif in sod., 1985; Tuffereau in sod., 1989).
+
+Razporeditev virusnih sevov v filogenetskih drevesih je bila skoraj identična (slika 16).
+Ugotovili smo, da lahko za zanesljivo filogenetsko primerjavo virusov stekline uporabimo tako odsek gena za nukleoprotein kot tudi odsek gena za RVG.
+
+Viruse stekline smo dokazali pri različnih živalskih vrstah, večinoma pri rdeči lisici, ki je glavni rezervoar virusa stekline v Sloveniji (Hostnik in Bidovec 1999).
+Pri domačih živalih, ki so bile okužene z virusom stekline, smo v večini primerov ugotovili, da so bile v stiku z lisico.
+Prav tako so molekularne analize nukleotidnih zaporedij obeh genov pokazale, da so virusni sevi dokazani pri različnih domačih in divjih živalih zelo podobni ali pa celo povsem enaki virusnim sevom, izoliranim pri rdeči lisici (slika 13).
+
+V filogenetskem drevesu (slika 13), v katerem smo primerjali 93 sevov, so se slovenski virusni sevi razvrstili v tri genetsko sorodne skupine.
+V prvo genetsko skupino je uvrščenih 89 virusnih sevov, v drugo virusna seva 664-02SVN in 467-12SVN in v tretjo virusna seva 53708SVN in 3511-12SVN.
+Virusne seve, uvrščene v prvo genetsko skupino, lahko razvrstimo glede na geografsko lokacijo v razred zahodnoevropskih sevov virusov stekline (Bourhy in sod., 1999).
+
+Virusna seva, uvrščena v drugo genetsko skupino, sta sorodna virusnemu sevu 8653YOU, ki so ga izolirali pri volku iz Bosne in Hercegovine leta 1986.
+Na nivoju nukleotidnih zaporedij tako v genu za nukleoprotein kot v genu za RVG lahko opazimo zelo veliko podobnost med virusnimi sevi 664-02SVN, 467-12SVN in 8653YOU (slika 13).
+Predpostavljamo, da virusna seva 664-02SVN in 467-12SVN izvirata iz Bosne in Hercegovine, v Slovenijo pa sta prišla z naravnimi premiki živali preko Hrvaške.
+Glede na geografsko lokacijo lahko razvrstimo seva 664-02SVN in 467-12SVN v razred vzhodnoevropskih sevov virusov stekline (Bourhy in sod., 1999).
+Virusni sevi, ki so uvrščenih v tretjo genetsko skupino, spadajo med cepne seve virusov stekline iz skupine SAD.
+
+S filogenetsko analizo virusov stekline smo ugotovili, da slovenski sevi spadajo v tri genetsko sorodne skupine: zahodnoevropski sevi (prva genetska skupina), vzhodnoevropski sevi (druga genetska skupina) in cepni sevi (tretja genetska skupina) (slika 13).
+
+Številne primere stekline smo v zadnjem desetletju v Sloveniji ugotovili v bližini hrvaške meje.
+V tem obdobju sosednja Hrvaška še ni izvajala programa peroralnega cepljenja lisic.
+Lojkić in sodelavci (2009) poročajo, da je 20 odstotkov vseh testiranih vzorcev lisic pozitivnih na steklino.
+Ugotovili so silvatično obliko bolezni, pri kateri je rdeča lisica glavni rezervoar bolezni.
+V naši raziskavi smo primerjali nukleotidna zaporedja 422 nt dolgega odseka gena za nukleoprotein sedmih slovenskih virusnih sevov (498-94SVN, 696-15-95SVN, 1116-00SVN, 1339-00SVN, 275-08SVN, 1085-09SVN, 52-10SVN) in enega hrvaškega seva CRO_09SK (Lojkič in sod., 2009) ter potrdili 99,5–100-odstotno podobnost (slika 17).
+Iz tega lahko sklenemo, da so slovenski sevi zelo sorodni hrvaškemu predstavniku CRO_09SK.
+Pričakujemo lahko, da bodo na Hrvaškem ugotavljali podobne seve kot v Sloveniji.
+
+Steklino so v sosednji Italiji izkoreninili leta 1995, vendar so oktobra leta 2008 potrdili nov primer bolezni v provinci Udine.
+V istem letu so ugotovili še osem primerov stekline pri lisicah.
+Zaradi potrjenih primerov bolezni so januarja in februarja leta 2009 v Italiji začeli izvajati program peroralnega cepljenja lisic (Capello in sod., 2010).
+Položili so 35.000 vab z virusnim sevom SAG2 na področju 1.618 km2, na katerem so bili ugotovljeni primeri bolezni (DeBenedictis in sod., 2009).
+Program peroralnega cepljenja so zasnovali tako, da so zajeli žarišča bolezni in 20-kilometrski varnostni pas.
+Kljub peroralnemu cepljenju lisic so leta 2009 ugotovili 68 novih primerov bolezni, leta 2010 pa 131.
+Dva italijanska seva, 08RS1981/Udine/2008 in Dog/09RS-1459/Udine/2009, ki so ju v tem obdobju izolirali v Italiji, smo primerjali s 93 slovenskimi sevi (slika 16) in ugotovili 91,8−100-odstotno podobnost (ni prikazano).
+Iz opravljene molekularno-epidemiološke primerjave lahko domnevamo, da se je steklina v letu 2008 razširila z naravnimi premiki živali iz Slovenije v Italijo.
+
+5.2 CEPNA SEVA VIRUSA STEKLINE PRI LISICAH V SLOVENIJI
+
+Program peroralnega cepljenja lisic v Sloveniji izvajamo že od leta 1988.
+V obdobju 1988−2006 smo uporabljali dve različni cepivi, in sicer Lysvulpen (Bioveta, Češka), ki vsebuje sev SAD Bern, in Fuchsoral (IDT Biologika GmbH, Nemčija), ki vsebuje sev SAD B19.
+Zahodno od Ljubljane smo uporabljali cepivo Lysvulpen, vzhodno od Ljubljane pa cepivo Fuchsoral.
+Po letu 2006 v Sloveniji uporabljamo le cepivo Fuchsoral (Hostnik in sod., 2011).
+
+Cepni sev skupine SAD nima nevropatogenih lastnosti, zato ga pri cepljeni živali ne moremo izolirati iz možganov.
+Vendar so na področju Avstrije in Nemčije opisali šest primerov, pri katerih so iz možganov lisic izolirali tudi cepni sev virusa stekline (Muller in sod., 2009a).
+Vsa cepiva, ki so jih uporabili v teh državah, so vsebovala sev SAD B19, ki ni patogen za lisice, a je v opisanih primerih vseeno povzročil bolezen.
+Cepiva z modificiranimi živimi virusi lahko v določenih okoliščinah povzročijo nastanek bolezni, kar je bilo opisano tudi za humano peroralno cepivo s poliovirusom in cepivo proti pasji kugi (Carpenter in sod., 1976; Bush in sod., 1976; Kazacos in sod., 1981; Wane in sod., 1987; Durchfeld in sod., 1990; Driesel in sod, 1995; Georgescu in sod., 1997; Cherkasova in sod., 2002).
+
+V naši raziskavi smo ugotovili dva primera okužb s cepnim virusom stekline pri lisicah.
+Cepni virusni sev (537-08SVN) smo potrdili pri mladi lisici, ki je poginila na dvorišču v Gornjih Dramljah v občini Šentjur.
+Lisica je poginila februarja leta 2008 pred spomladanskim polaganjem vab.
+Drugi primer cepnega virusnega seva (3511-12SVN) smo potrdili pri lisici, stari manj kot eno leto.
+Lisico so zaradi nenavadnega vedenja odstrelili lovci maja 2012 v krajevni skupnosti Most na Soči.
+Prvi primer cepnega seva virusa stekline smo potrdili v možganih lisice tri mesece po polaganju vab, drugi primer pa med izvajanjem peroralnega cepljenja lisic.
+Ugotavljamo, da na območju polaganja vab v Sloveniji občasno lahko potrdimo tudi posamezne primere cepnega seva virusa stekline v možganih lisic.
+
+Muller in sodelavci (2009a) so z metodami IVCK in RT-PCR ugotovili tri cepne seve virusov stekline, ki so jih v testu dIF ovrednotili kot negativne.
+Predpostavljajo, da je vzrok za lažno negativne rezultate nizko število virusnih delcev v vzorcu možganov (Muller in sod., 2009a).
+V našem primeru smo cepna virusna seva 537-08SVN in 3511-12SVN potrdili tudi s testom dIF.
+Sklenemo lahko, da je bilo število virusnih delcev v vzorcih možganov dovolj veliko, da smo jih lahko dokazali s testom dIF.
+
+Različna monoklonalna protitelesa proti nukleoproteinu virusa stekline uporabljamo za razlikovanje med različnimi vrstami virusov stekline.
+Razlikovala naj bi tudi med divjimi in cepnimi sevi stekline.
+Številni znanstveniki ugotavljajo, da je tipizacija z monoklonalnimi protitelesi večkrat nezanesljiva (Cox in sod., 1992; Schneider in sod., 1985; Matouch in sod., 2007).
+Kljub temu da je Muller s sodelavci (2009b) dokazal cepni sev z monoklonalnimi protitelesi MW187.6.1., pa priporoča, da rezultate tipizacije virusov stekline z monoklonalnimi protitelesi primerjamo še z rezultati drugih metod za tipizacijo virusov (RFLP, sekvenciranje).
+Slovenska cepna seva 537-08SVN in 3511-12SVN smo dokazali z monoklonalnimi protitelesi W239.17, nismo pa ju uspeli dokazati z monoklonalnimi protitelesi MW187.6.1., ki ne prepoznajo cepnih sevov.
+Iz rezultatov tipizacije z monoklonalnimi protitelesi lahko potrdimo, da sta seva 537-08SVN in 3511-12SVN cepna seva.
+
+Za tipizacijo RABV lahko uporabljamo tudi metodo RFLP (Fooks in sod., 2009).
+Pri analizi slovenskih cepnih virusnih sevov z metodo RFLP smo dobili dva produkta specifičnih velikosti 259 bp in 159 bp (slika 20) in tako potrdili, da sta virusna seva 537-08SVN in 3511-12SVN v resnici cepna seva virusa stekline.
+
+Tudi z analizo nukleotidnih zaporedij odseka v genu za nukleoprotein smo potrdili, da sta virusna seva 537-08SVN in 3511-12SVN enaka cepnemu sevu SAD B19 (slika 14), ki ga v Sloveniji uporabljamo za peroralno cepljenje lisic že od leta 1988.
+
+Čeprav so znanstveniki že potrdili rekombinacije med cepnimi in divjimi sevi virusa stekline (Chare in sod., 2003), pa se le-te pojavljajo bolj redko.
+Z molekularno-epidemiološkimi raziskavami so potrdili rekombinacije med divjimi sevi stekline in cepnimi sevi SAD B19, SAD Bern, SAD P5/88 in ERA (Wandeler 1988; Fehlner-Gardiner in sod., 2008; Muller in sod., 2009a).
+Ugotovili so, da je na 333. mestu v proteinu RVG pri divjih sevih prisoten glutamin, izolevcin, glicin, metionin ali serin.
+Te aminokisline so odgovorne tudi za patogenost virusa stekline (Dietzschold in sod., 1983; Seif in sod., 1985; Tuffereau in sod., 1989).
+
+Pojav cepnega seva v možganih lisic, ki jih uplenimo na področjih, na katerih izvajamo peroralno cepljenje, je zelo redek.
+Razlogov za take primere je več.
+Prvi razlog je lahko ostanek patogenosti cepiva SAD B19 za glodavce.
+Znanstveniki so potrdili, da cepljenje s cepivom SAD B19 ni povzročilo bolezni na vzorcu 200 testiranih živali, vključno z gravidnimi lisicami in lisičjimi mladiči (Muller in sod., 2002b; Neubert in sod., 2001; Schuster in sod., 2001).
+V varnostnih analizah so mlade in odrasle lisice izpostavili izjemno visokim dozam cepiva.
+Doze cepiva so stokrat presegale minimalno infektivno dozo, vendar živali niso razvile bolezni (Vos in sod., 1999).
+
+Drugi razlog za pojav tovrstnih primerov je lahko ta, da cepimo živali z oslabljenim imunskim sistemom.
+Znanstveniki so potrdili, da je cepivo, ki vsebuje sev SAD Bern ali SAD B19, lahko patogeno za živali z oslabljenim imunskim sistemom (Pastoret in sod., 1999; Vos in sod., 1999; Wandeler, 2000; Have in sod., 2002).
+Pri obeh primerih, pri katerih smo potrdili cepni sev v možganih lisic v Sloveniji, lahko predvidevamo, da sta imeli mladi lisici oslabljen imunski sistem, zato je zaužitje vabe z virusnim sevom SAD B19 lahko povzročilo nastanek bolezni in pogin živali.
+
+Tretji razlog za pojav bolezni bi lahko bil, da cepni sev lahko znova pridobi virulenco.
+Za viruse z RNA je značilna visoka stopnja mutacij zaradi odsotnosti kontrolnega mehanizma encima RNA polimeraze.
+S proučevanjem mutacij in genetske stabilnosti cepnega seva SAD B19 skozi več pasaž pa so znanstveniki potrdili genetsko stabilnost seva, zato je teorija o tem, da cepni virus lahko ponovno pridobi virulenco le malo verjetna (Beckert in sod., 2009).
+
+Opisana primera, pri katerih smo potrdili cepni sev v možganih lisic v Sloveniji, po naši oceni nimata velikega epidemiološkega pomena.
+V situaciji, ko ima 70−80 odstotkov populacije lisic specifična protitelesa proti virusu stekline, ne pričakujemo, da bi se razvilo novo žarišče bolezni.
+
+Prvič smo ugotovili cepni sev v možganih lisice leta 2008.
+Poginjeno lisico smo našli znotraj naselja.
+Podatka o nenavadnem vedenju živali nismo dobili.
+Drugi primer cepnega seva v možganih lisice smo ugotovili leta 2012.
+Lisica se je v dnevnem času sprehajala po naselju, ni bila boječa, bila je napadalna in njena hoja ni bila koordinirana.
+Na osnovi anamnestičnih podatkov in rezultatov laboratorijskih preiskav lahko sklepamo, da cepni virus SAD B19 pri lisici izzove tudi klinično obliko stekline in smrt.
+Znanstveniki še niso uspeli odgovoriti na vprašanje, ali je lisica, okužena s cepnim virusom SAD B19, lahko vir okužbe za neokužene živali.
+Pri primeru cepnega seva v možganih lisice iz leta 2012 smo nukleinsko kislino virusa SAD B19 dokazali tudi v tkivu žleze slinavke (rezultati niso prikazani).
+Sklepamo lahko, da je bil virus prisoten tudi v slini živali, kar pomeni, da bi lisica lahko potencialno okužbo prenesla naprej.
+Znanstveniki predvidevajo, da lahko ti primeri zaradi dolge inkubacijske dobe povzročijo nova žarišča bolezni.
+V državah, v katerih so izvajali program izkoreninjenja stekline s sevom SAD B19, so v končni fazi potrdili nova žarišča bolezni.
+V Franciji in Švici so program izkoreninjenja bolezni končali s cepivom, ki vsebuje virusni sev SAG (Aubert in sod., 2004; Bugnon in sod., 2004).
+
+5.3 PRIMERJAVA OBČUTLJIVOSTI IN ROBUSTNOSTI METOD DIF, IVCK IN RT-PCR 
+
+Za kontrolo in diagnostiko stekline so pomembne hitre in zanesljive laboratorijske metode.
+Ena izmed prvih razvitih imunohistoloških metod je barvanje histoloških preparatov možganov po Sellerju (Tierkel in Atanasiu, 1996).
+Z omenjeno metodo potrjujemo prisotnost Negrijevih telesc v možganih živali, vendar je zaradi nizke specifičnosti in občutljivosti svetovna zdravstvena organizacija ne priporoča več (WHO, 2005).
+Test dIF je hiter in zanesljiv, boljša je tudi njegova specifičnost in občutljivost.
+V številnih laboratorijih ga uporabljajo kot referenčno metodo za diagnostiko stekline (Beauregard in sod., 1965).
+V diagnostiki stekline najprej ugotavljamo prisotnost virusa v možganskem tkivu živali s testom dIF, ki traja manj kot dve uri.
+Izvedba je enostavna, njeni stroški pa so nizki.
+Občutljivost testa dIF smo preverili na izbranih arhivskih vzorcih, ki smo jih hranili pri temperaturi nižji od −15 °C. Njegova občutljivost je bila od 10-1 (1254/00SVN) do 10-5 (1466-10SVN) (tabela 15).
+Najnižja občutljivost je bila pri najstarejšem vzorcu (10-1 pri vzorcu 1254/00SVN), najvišja pa pri vzorcu iz leta 2010 (10-5 pri vzorcu 1466-10SVN).
+Testirali smo tudi vzorce, ki smo jih hranili pri temperaturi nižji od −15 °C in nižji od −50 °C (tabela 5).
+Rezultati občutljivosti testa so bili enaki pri vzorcih, ki smo jih hranili pri temperaturi nižji od −15 °C eno leto, kot tudi pri vzorcih, ki smo jih hranili pri temperaturi nižji od −50 °C daljše časovno obdobje.
+
+Vzorce možganskega tkiva pregledamo s testom dIF v 48 urah ali pa jih hranimo v zamrzovalniku pri temperaturi pod −15 °C (CDC, 2006).
+Odstopanje od predpisanega načina hranjenja vzorca in večkratno zamrzovanje in tajanje vzorca zmanjša zanesljivost dobljenega rezultata (CDC, 2006).
+
+Hranjenje vzorca pri sobni temperaturi več kot 5 dni močno vpliva na rezultat (tabela 16).
+Podobno so ugotovili tudi Rojas in sodelavci (2006); pozitivne vzorce so hranili pri temperaturi 25−27 °C do 26 dni in jih testirali s testom dIF 1., 2., 3., 4., 7., 10., 12., 16., 18., 23. in 26. dan.
+Pozitiven rezultat so dobili le do 7. dneva.
+
+V zgodnji fazi okužbe z virusom stekline lahko s testom dIF dobimo negativne rezultate, saj je število virusnih delcev v tem času še tako nizko, da jih s to metodo ne moremo določiti.
+Dean in sodelavci (1996) so 0,05 % vzorcev ovrednotili s testom dIF kot negativne, z metodo IVCK pa kot pozitivne.
+Kadar postavimo sum na steklino, z metodo dIF pa dobimo negativen rezultat, vzorec pregledamo še z drugo metodo (Cliquet in Barrat, 2008).
+Sum na steklino pri živalih postavimo na osnovi kliničnih znakov bolezni, vendar je klinična slika stekline diferencialno diagnostično podobna pasji kugi in bolezni Aujeszkega (Frolich in sod., 2000).
+Z metodo IVCK dokazujemo zmožnost razmnoževanja virusa stekline na celični kulturi.
+Lahko jo izvajamo na posebnih predmetnih stekelcih (angl. Labtek chamber slides) ali na mikrtotiterskih ploščah.
+Odločili smo se za uporabo mikrotiterskih plošč, saj so enostavne za uporabo, omogočajo pregled večjega števila vzorcev in so cenovno ugodnejše.
+Dovzetnih celičnih kultur je veliko, vendar najpogosteje uporabljamo kulture N2a, MNA, Na42/13 (podatki CRL, Nancy, Francija).
+Odločili smo se za uporabo kulture celic N2a.
+Priprava suspenzije vzorcev se med laboratoriji razlikuje, najpogosteje pa uporabljajo supernatant 10odstotne suspenzije vzorca v RPMI (Gibco®, Invitrogen CorporationTM, ZDA).
+Tudi razmerje med številom celic in količino inokuluma je različno.
+Upoštevali smo priporočila EURL in uporabili 100 µl 10-odstotne suspenzije vzorca in 200 µl suspenzije celic z gostoto 5 x 105 celic/ml.
+Čas inkubacije je odvisen od hitrosti rasti celic.
+Priporočen čas inkubacije je 48−120 ur. V našem primeru smo upoštevali priporočila EURL in inkubirali 96 ur. Za vzorce, ki smo jih z metodo IVCK ovrednotili kot negativne na virus stekline, smo pripravili še dve pasaži na celični kulturi.
+
+CDC (2006) navaja, da so za preiskavo z metodo IVCK primerni le sveži vzorci.
+Pri vseh vzorcih, ki smo jih hranili več kot eno leto pri temperaturi pod −15 °C, smo tudi mi dobili negativen rezultat.
+Le pri treh vzorcih, ki smo jih hranili pod −50 °C, smo dobili pozitivnega (tabela 17).
+Sklenemo lahko, da vzorci, ki jih hranimo več kot 17 mesecev pri temperaturi pod −15 °C, niso primerni za dokazovanje virusa stekline z metodo IVCK.
+
+Robustnost metode IVCK smo ugotavljali tako, da smo dva vzorca hranili pri sobni temperaturi 0−30 dni.
+Negativen rezultat smo dobili pri vseh vzorcih, ki smo jih hranili pet dni in več pri sobni temperaturi.
+Ugotovimo lahko, da vzorci, ki jih hranimo pri sobni temperaturi pet ali več dni, niso primerni za analizo z metodo IVCK.
+
+Zaradi potreb po vse hitrejši diagnostiki stekline v številnih laboratorijih že uporabljajo molekularne metode.
+Za diagnostiko stekline najpogosteje uporabljajo metodo RT-PCR za določanje nukleinske kisline virusa stekline, ki pomnožuje odseke v genu za nukleoprotein (Fooks in sod., 2009).
+Metodo RT-PCR za dokaz nukleinske kisline virusa stekline uporabljajo tudi za analizo vzorcev, ki niso bili primerno shranjeni (Whitby in sod., 1997; David in sod., 2002; Araujo in sod., 2008) in za arhivske vzorce (Kulonen in sod., 1999).
+V naši raziskavi smo z metodo RT-PCR dobili pozitiven rezultat pri vseh vzorcih, ki smo jih hranili pri temperaturi pod −15 °C.
+
+Določili smo tudi mejo zaznavanja, ki je bila v razredčitvi od 10-2 (1254/00SVN) do 10-6 (146610SVN).
+Najnižjo mejo zaznavanja smo določili pri najstarejšem vzorcu iz leta 2000, najvišjo pa pri vzorcu iz leta 2010 (tabela 18).
+Tudi pri vzorcih, ki smo jih hranili pri temperaturi pod −50 °C, smo dokazali virusno nukleinsko kislino, meja zaznavanja pa je bila identična kot pri vzorcih, ki smo jih hranili pod −15 °C (tabela 18).
+
+Kamolvarin in sodelavci (1993) so opisali postopek RT-PCR z dodatnim pomnoževanjem z notranjimi začetnimi oligonukleotidi za vzorce, ki niso bili hranjeni po priporočilih CDC.
+Meja zaznavnosti te metode je ena kopija virusne nukleinske kisline.
+Zaradi dodatnega pomnoževanja nukleinske kisline pa obstaja velika možnost navzkrižne kontaminacije pri izvajanju te metode (Reubel in Studdert, 1998).
+Zaradi opisanih problemov smo v naši raziskavi izbrali metodo RT-PCR, ki poteka v eni stopnji.
+
+Metoda RT-PCR je zanesljiva in učinkovita le takrat, kadar pri pomnoževanju uporabljamo začetne oligonukleotide, ki so komplementarni odseku na genomu virusne RNA.
+Lažno negativne rezultate RT-PCR so dobili, ko so uporabljali začetne oligonukleotide, ki so pomnoževali le nekatere seve virusov stekline iz vrste RABV (Kulonen in sod., 1999).
+Negativne rezultate so dobili pri vzorcih netopirja in rakunjih psov, okuženimi s sevi stekline, ki ne sodijo v vrsto RABV.
+V naši raziskavi smo zato izbrali postopek RT-PCR za dokazovanje vseh enajstih vrst virusov stekline (Vasquez-Moron in sod., 2006).
+Za pomnoževanje smo izbrali gen za nukleoprotein, ki je pri vseh vrstah virusov stekline najbolj ohranjen (Smith in sod., 1992; Nadin-Davis in sod., 1994; Kissi in sod., 1995).
+
+Metoda RT-PCR se je izkazala za primerno tudi pri preiskavi vzorcev možganov, ki jih hranimo do 30 dni pri sobni temperaturi.
+Med vsemi metodami, ki smo jih uporabili za dokazovanje virusa stekline v vzorcih hranjenih pri sobni temperaturi, je najbolj robustna metoda RT-PCR (tabela 19), sledi ji metoda dIF (do 5 dni) (tabela 16).
+Najmanj je robustna metoda IVCK in je primerna le za sveže vzorce.
+
+V povprečju je metoda RT-PCR 10-krat bolj občutljiva kot metoda dIF.
+Le v dveh primerih, ko smo vzorca možganov hranili le krajši čas pri temperaturi pod −15 °C in pod −50 °C, je bila občutljivost obeh testov enaka (tabela 15, tabela 18).
+Ugotovili smo, da je metoda RT-PCR izmed vseh treh metod tudi najbolj robustna in zato primerna za preiskavo vzorcev, ki jih hranimo do trideset dni pri sobni temperaturi (tabela 19).
+Hranjenje vzorcev bistveno vpliva na rezultate testov dIF in IVCK, medtem ko tega vpliva na rezultate RT-PCR nismo opazili.
+Sklepamo lahko, da lipoproteinska ovojnica virusa stekline ščiti virusno nukleinsko kislino, zato smo jo v naši raziskavi z metodo RT-PCR lahko dokazali tudi v vzorcih, ki smo jih hranili do trideset dni pri sobni temperaturi.
+Araujo in sodelavci (2008) so proučevali vpliv hranjenja vzorcev možganov pri temperaturi −20 °C na rezultat RT-PCR.
+V svoji raziskavi so vzorce testirali z metodo RT-PCR po štirih in petih letih hranjenja.
+Po štirih letih hranjenja vzorcev pri −20 °C so dobili lažno negativne rezultate pri 33,3 % testiranih vzorcev, po petih letih hranjenja pa pri 50 % testiranih vzorcev.
+V naši raziskavi smo vzorce hranili pri temperaturi pod −15 °C do 11 let (1254-00SVN).
+Z metodo RT-PCR smo potrdili nukleinsko kislino pri vseh testiranih vzorcih (tabela 18).
+Sklenemo lahko, da je metoda RT-PCR, ki smo jo uporabili v naši raziskavi, občutljivejša od metode RT-PCR, ki so jo uporabili Araujo in sodelavci.
+
+V vzorcih možganov, ki jih hranimo pri sobni temperaturi, poteka avtoliza tkiv, kar vpliva tudi na obstojnost virusa stekline v teh tkivih.
+S hranjenjem vzorcev možganov pri sobni temperaturi 0−30 dni smo simulirali naravne pogoje, ki so podobni tistim, ko živali najdemo poginjene v naravi, čas pogina pa nam ni znan.
+Prav tako lahko z omenjenim poskusom posnemamo pogoje transporta vzorcev v laboratorij, ki traja dalj časa pri sobni temperaturi.
+Kadar hranimo vzorce pri sobni temperaturi več kot pet dni, lahko s testom dIF dobimo lažno negativen rezultat.
+Pri avtolizi vzorca zaradi hranjenja pri sobni temperaturi nastajajo tudi produkti, ki so toksični za kulturo celic in zavirajo njihovo razmnoževanje (Rubb in Trimarchi, 1989).
+Metodi IVCK in dIF torej za dokazovanje virusov stekline v neprimerno hranjenih vzorcih nista primerni.
+V takih primerih se je izkazala za uporabno le metoda RT-PCR.
+
+Na osnovi primerjave občutljivosti in robustnosti treh metod za diagnostiko stekline lahko sklenemo, da lahko metodo IVCK uporabimo le, kadar v laboratorij prejmemo sveže vzorce možganov.
+Za analizo vzorcev, katerih transport traja do pet dni pri sobni temperaturi, lahko uporabimo metodo dIF.
+Za vzorce, ki jih hranimo dalj časa pri sobni temperaturi, pa je najbolj primerna metoda RT-PCR.
+Velikokrat v laboratorij prejmemo vzorce, za katere nimamo podatkov, koliko časa je preteklo od pogina živali do prihoda vzorcev v laboratorij.
+V takih primerih uporabimo metodo RT-PCR.
+Vzorec živali, ki je ugriznila človeka, tudi testiramo z metodo RT-PCR, saj je izmed testiranih metod najbolj občutljiva in zanesljiva.
+
+5.4 RT-PCR V REALNEM ČASU ZA RAZLIKOVANJE MED VRSTAMI RABV, EBLV 1, EBLV 2 IN CEPNIMI SEVI 
+
+Z razvojem metode RT-PCR v realnem času so se pojavili tudi številni opisi postopkov za razlikovanje med različnimi vrstami virusov stekline (Wakeley in sod., 2005) ali pa za hkratno dokazovanje več vrst virusov stekline (Coertse in sod., 2010; Hoffman in sod., 2010).
+Opisani postopki so bolj občutljivi od klasičnih metod RT-PCR (Haymann in sod., 2011), vendar pa za izvedbo potrebujemo veliko različnih začetnih oligonukleotidov in specifičnih sond za prepoznavanje tarčnih zaporedij.
+Mnenja glede uporabe metode RT-PCR v realnem času kot referenčne metode v diagnostiki stekline so različna, saj gre za metodo z visoko mejo zaznavnosti.
+OIE in WHO še vedno ne priporočata izvajanja RT-PCR v realnem času v rutinski diagnostiki stekline, saj s številnimi opisanimi postopki ni mogoče dokazovati vseh vrst virusov stekline.
+Uporabo metode RT-PCR v realnem času priporočajo v tistih laboratorijih, v katerih so virusne seve glede na geografsko področje že molekularno analizirali in metoda služi le za razlikovanje med vrstami virusov stekline (Fooks in sod., 2009).
+V takem primeru lahko s specifično metodo RT-PCR v realnem času, ki jo predhodno validiramo, nadomestimo metodo določanja nukleotidnega zaporedja (Hughes in sod., 2004).
+
+Zaradi težje dostopnosti do različnih sevov virusov stekline so številne postopke RT-PCR v realnem času validirali na majhnem številu sevov (Shankar in sod., 2004; Hughes in sod., 2004, Orlowska in sod., 2008; Wacharapluesadee in sod., 2008).
+Vključitev v evropsko raziskovalno mrežo Epizone (http://www.epizone-eu.net) nam je omogočila dostop do širokega spektra različnih sevov virusov stekline, s katerimi smo lahko testirali štiri različne postopke RT-PCR v realnem času.
+Sevi virusov stekline so izvirali iz 16 različnih držav, in sicer iz Francije, Velike Britanije, Avstralije, Estonije, Združenih arabskih emiratov, Afganistana, Iraka, Čila, Finske, Nigerije, ZDA, Saudske Arabije, Nemčije, Bolgarije, Kitajske in Kanade.
+Uporabili smo metodo RT-PCR v realnem času, ki so jo razvili Wakeley in sodelavci (2005).
+Z metodo smo razlikovali med vrstami RABV, EBLV 1 in EBLV 2. Za dokazovanje virusne nukleinske kisline smo uporabili dva začetna oligonukleotida in tri sonde, specifične za posamezno vrsto, ter dva začetna oligonukleotida in eno specifično sondo za kontrolo pomnoževanja.
+Postopek smo nekoliko modificirali.
+Sonde smo označili z različnimi poročevalskimi barvili, da bi tako lahko razlikovali med vsemi tremi vrstami virusov stekline v eni sami reakcijski mešanici.
+Z izvajanjem metode v eni sami reakcijski mešanici nismo dobili pravilnih rezultatov, zato smo se odločili, da bomo metodo izvajali v treh različnih reakcijskih mešanicah.
+Podobne izkušnje so opisali tudi drugi raziskovalci (Black in sod., 2002).
+
+Postopek, ki smo ga uporabili v naši raziskavi, so leta 2010 modificirali tudi Hoffmann in sodelavci (2010).
+Uporabili so isti par začetnih oligonukleotidov (JW12 in N165-146) in sondo (LysGT1) za dokazovanje vrste RABV.
+Testirali so še dodaten par začetnih oligonukleotidov (RV-N_F in RV-N_R) in sondo (RabGT1-B-FAM), vendar s postopkom, ki so ga razvili sami, niso zaznali nekaterih arktičnih, azijskih in afriških sevov.
+Da bi se izognili lažno negativnim rezultatom, so Hoffman in sodelavci (2010) predlagali združitev obeh postopkov.
+
+Opisan postopek (Wakeley in sod., 2005) so modificirali tudi Haymann in sodelavci (2011).
+Oblikovali so metodo RT-PCR v realnem času z barvilom SybrGreen.
+Uporabili so samo začetne oligonukleotide in s tako modificiranim postopkom dokazali vse vrste virusov stekline (Haymann in sod., 2011).
+
+Za razlikovanje cepnih sevov virusov stekline od ostalih RABV smo načrtovali dva začetna oligonukleotida STK V1 in STK V2 in sondo STK V3 (tabela 12) na odseku gena za nukleoprotein.
+Začetni oligonukleotid STK V1 ima eno neujemanje na 19. mestu nukleotidnega zaporedja med cepnimi in divjimi sevi, STK V2 ima dve neujemanji na 3. in 18. mestu.
+S sondo TaqMan lahko razlikujemo nukleotidna zaporedja že v enem neujemanju (Hughes in sod., 2004), zato smo pri načrtovanju sonde iskali odsek s čim več neujemanji nukleotidov divjih in cepnih sevov RABV.
+Sonda STK V3 ima šest neujemanj v nukleotidnem zaporedju na 1., 19., 21., 32., 33. in 36. mestu, glede na divje seve, s cepnimi sevi SAD B19, SAD Bern pa ima 100-odstotno ujemanje.
+
+Vsem štirim postopkom RT-PCR v realnem času smo določili optimalno koncentracijo začetnih oligonukleotidov, sond in MgSO4.
+Pri tem smo upoštevali najvišjo vrednost ΔRn pri najnižji vrednosti Cq.
+Izbrali smo koncentracijo začetnih oligonukleotidov 800 pmol/µl.
+Prav tako so koncentracijo za začetne oligonukleotide izbrali tudi Wakeley in sodelavci (2005).
+Medtem ko je Wakeley s sodelavci (2005) izbral za sondo koncentracijo 200 pmol/µl, smo mi ugotovili, da je enako učinkovita tudi nižja koncentracija 100 pmol/µl.
+Tako smo znižali količino reagentov v reakcijski mešanici in tudi stroške same metode.
+
+Pri preverjanju pravilnosti oziroma zanesljivosti vseh štirih postopkov RT-PCR v realnem času smo pri treh postopkih dobili pričakovane rezultate, pri postopku za dokazovanje vrste RABV, pa smo dobili pri treh sevih lažno negativen rezultat (tabela 21).
+Vsi trije sevi izvirajo iz Južne in Severne Amerike, in sicer vzorec L5 so izolirali leta 1973 v Čilu, vzorec L12 so izolirali leta 1979 prav tako v Čilu in vzorec L29 leta 1986 v Kanadi.
+Sklenemo lahko, da postopek RT-PCR v realnem času za dokazovanje RABV ni primeren za dokazovanje sevov RABV, ki izvirajo iz Amerike.
+Dokazali smo, da je postopek RT-PCR v realnem času za dokazovanje RABV primeren za dokazovanje sevov RABV, ki so razširjeni v drugih predelih sveta.
+Metodo smo v našem laboratoriju uvedli izključno za razlikovanje med evropskimi vrstami RABV, EBLV 1 in EBLV 2, za dokazovanje vseh sevov RABV vključno z ameriškimi sevi pa bi morali postopek modificirati.
+
+Z vsemi štirimi postopki RT-PCR v realnem času smo v osmih ponovitvah testirali poznane vzorce.
+Pri vseh testiranih vzorcih smo dobili pričakovano ponovljivost.
+Vse postopke RT-PCR v realnem času smo uporabili izključno za namen razlikovanja med vrstami RABV, EBLV 1, EBLV 2 in cepnih sevov, zato smo rezultate vrednotili le kvalitativno.
+Na osnovi rezultatov lahko ugotovimo, da imajo vsi postopki RT-PCR v realnem času dobro ponovljivost (tabela 22).
+
+Občutljivost metode ali meja zaznavnosti pomeni tisto koncentracijo oziroma razredčino tarčne molekule, pri kateri je več kot 50 % rezultatov pozitivnih.
+Mejo zaznavnosti smo določali z redčenjem vzorcev z znanim titrom virusa stekline.
+Meja zaznavnosti za dokazovanje vrst RABV je 10-6,25, za EBLV 1 je 10-6,75, za EBLV 2 je 10-5,25, za cepne seve je 10-4 (tabela 23).
+Na osnovi določenih mej zaznavnosti, lahko sklepamo, da imajo vsi štirje postopki visoko občutljivost.
+Podobno je ugotovila tudi Orlowska s sodelavci (2008).
+Dokazali so, da je metoda RT-PCR v realnem času 10-krat bolj občutljiva od metode vgnezdene RTPCR.
+
+Za ugotavljanje robustnosti metod RT-PCR v realnem času smo testirali referenčne vzorce možganov, ki smo jih hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni.
+Vse testirane vzorce smo ovrednotili pozitivno (tabela 24).
+Ugotovimo lahko, da so vsi štirje postopki RTPCR v realnem času robustni in primerni tudi za testiranje vzorcev, ki jih daljši čas hranimo pri sobni temperaturi.
+
+Pri vseh štirih postopkih RT-PCR v realnem času smo izračunali tudi diagnostično specifičnost in diagnostično občutljivost.
+Diagnostična specifičnost za vse štiri postopke je 1. Sklenemo lahko, da je diagnostična specifičnost zelo dobra, saj nismo dobili nobenega lažno pozitivnega rezultata.
+Diagnostična občutljivost za postopke RT-PCR v realnem času za dokazovanje vrst RABV, EBLV 1 in EBLV 2 ter za dokazovanje cepnih sevov je 1. Na osnovi izračuna lahko ugotovimo, da imajo dobro diagnostično občutljivost vsi štirje postopki RTPCR v realnem času.
+Z razvitim postopkom RT-PCR v realnem času za dokazovanje cepnih sevov pa lahko razlikujemo med cepnimi in divjimi sevi virusa stekline.
+Postopki RT-PCR v realnem času, ki smo jih uvedli v našem laboratoriju, so primerni za testiranje evropskih sevov stekline.
+Primerne vzorce možganov vedno najprej testiramo s testom dIF, nato pa pozitivne vzorce še tipiziramo z uvedenimi postopki RT-PCR v realnem času.
+
+6 ZAKLJUČKI
+
+• Z molekularnimi metodami smo analizirali 93 virusnih sevov stekline in ugotovili, da sodijo slovenski sevi, zbrani med letoma 1994 in 2012, med klasične evropske seve virusov stekline (RABV).
+
+• Na osnovi primerjave nukleotidnih zaporedij 93 virusov stekline, ki smo jih dokazali pri različnih živalskih vrstah, lahko potrdimo, da je v Sloveniji glavni rezervoar virusa stekline rdeča lisica.
+
+• Iz primerjave dveh filogenetskih dreves, ki smo ju izrisali na podlagi odseka gena za nukleoprotein in odseka gena za RVG, lahko sklepamo, da sta za zanesljivo filogenetsko razvrstitev virusov stekline uporabna odseka obeh genov, saj je bila razporeditev tridesetih virusnih sevov v obeh filogenetskih drevesih skoraj identična.
+
+• Z molekularno-epidemiološko analizo smo 93 virusnih sevov stekline razvrstili v tri genetske skupine.
+V prvo (89 virusnih sevov) in drugo (dva virusna seva) genetsko skupino smo uvrstili divje viruse stekline, v tretjo genetsko skupino pa smo uvrstili dva virusna seva, ki sta sorodna cepnemu sevu virusa stekline.
+
+• Nukleotidno zaporedje odseka v genu za nukleoprotein (1092 nt) se je pri dveh virusnih sevih (537-08SVN, 3511-12SVN) iz tretje genetske skupine 100-odstotno ujemalo z nukleotidnim zaporedjem cepnega seva SAD B19, ki ga uporabljamo za peroralno cepljenje lisic.
+
+• Pri primerjavi rezultatov metod dIF, IVCK in RT-PCR smo ugotovili, da ima najvišjo občutljivost metoda RT-PCR.
+
+• Primerjava rezultatov metod dIF, IVCK in RT-PCR je pokazala, da je metoda RT-PCR imed vseh najbolj robustna, zlasti v primerih, ko viruse stekline dokazujemo v vzorcih, ki so bili dalj časa hranjeni pri sobni temperaturi.
+
+• Za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo uporabili modificirani postopek po Wakeleyu in sodelavcih (2005), za dokazovanje cepnih sevov pa smo razvili nov postopek RT-PCR v realnem času.
+Diagnostična specifičnost za vse štiri postopke je 1. Prav tako je diagnostična občutljivost za vse štiri postopke enaka 1.
+
+7 POVZETEK
+
+V preteklem desetletju so v Evropi opravili številne molekularno-epidemiološke študije virusa stekline, s katerimi so potrdili, da so sevi RABV najbolj razširjeni pri sesalcih, vrsti EBLV 1 in EBLV 2 pa sta prisotni predvsem med žužkojedimi netopirji.
+V raziskavi smo določili molekularno-epidemiološke značilnosti virusov stekline, ki smo jih dokazali pri divjih in domačih živalih v Sloveniji.
+Ugotovili smo, da sodijo slovenski sevi med klasične evropske seve, v vrsto RABV.
+Primerjali smo nukleotidna zaporedja odseka za nukleoprotein 93 virusov stekline, ki smo jih izolirali pri različnih živalskih vrstah med letoma 1994 in 2012.
+S filogenetsko analizo nukleotidnih zaporedij smo ugotovili, da slovenski sevi oblikujejo tri genetske skupine.
+V prvo genetsko skupino je razvrščenih 89 virusnih sevov, v drugo dva virusna seva in v tretjo prav tako dva virusna seva.
+
+Natančnejšo filogenetsko analizo smo izvedli pri tridesetih virusnih sevih, ki smo jih izbrali glede na geografsko lokacijo, živalsko vrsto in leto najdbe.
+Proučevali smo dva različna dela genoma, in sicer odsek gena za nukleoprotein in odsek gena za RVG.
+Izrisali smo dve filogenetski drevesi in ugotovili, da je razporeditev virusnih sevov v obeh skoraj identična.
+Iz tega lahko sklenemo, da lahko za razvrščanje virusov stekline v genetske skupine uporabimo oba odseka virusnega genoma.
+
+Številni primeri stekline, ki smo jih v zadnjem desetletju ugotovili v Sloveniji, so bili v bližini hrvaške meje.
+Primerjali smo nukleotidna zaporedja odseka gena za nukleoprotein sedmih slovenskih in enega hrvaškega seva in potrdili 99,5−100-odstotno ujemanje.
+Pričakujemo lahko, da bodo na Hrvaškem ugotavljali podobne seve kot v Sloveniji.
+
+Steklino so v sosednji Italiji izkoreninili leta 1995, vendar so oktobra leta 2008 potrdili nov primer bolezni.
+Nukleotidni zaporedji odseka gena za nukleoprotein dveh italijanskih sevov (08RS-1981/Udine/2008 in Dog/09RS-1459/Udine/2009) smo primerjali z nukleotidnimi zaporedji slovenskih sevov in ugotovili 99−100-odstotno ujemanje.
+Iz opravljene molekularno-epidemiološke primerjave lahko sklepamo, da je prvi primer stekline v Italiji v letu 2008 izviral iz Slovenije ali Hrvaške.
+
+Program peroralnega cepljenja izvajamo v Sloveniji od leta 1988.
+V obdobju 1988−2006 smo uporabljali dve različni cepivi, in sicer Lysvulpen (Bioveta, Češka), ki vsebuje sev SAD Bern, in Fuchsoral (IDT Biologika GmbH, Nemčija), ki vsebuje sev SAD B19.
+Po letu 2006 uporabljamo v Sloveniji le cepivo Fuchsoral.
+Med 93 sevi virusa stekline smo iz nukleotidnih zaporedij odseka na genu za nukleoprotein potrdili dva primera cepnih sevov virusov stekline.
+Opisana primera cepnih sevov virusa stekline, ki smo ju dokazali v možganih lisic, po naši oceni nimata velikega epidemiološkega pomena.
+
+Za kontrolo in diagnostiko stekline so pomembne hitre in zanesljive laboratorijske metode.
+V naši raziskavi smo preverili občutljivost in robustnost metod dIF, IVCK in RT-PCR.
+Ugotovili smo, da je med testiranimi metodami najbolj občutljiva metoda RT-PCR.
+Ko smo primerjali meje zaznavanja metod dIF in RT-PCR, smo ugotovili, da je metoda RT-PCR v povprečju 10-krat bolj občutljiva od metode dIF.
+Pri testiranju občutljivosti metode IVCK smo pri vseh 12 vzorcih, ki smo jih hranili od 17 do 130 mesecev pri temperaturi nižji od −15 °C, dobili negativen rezultat, z metodama dIF in RT-PCR pa smo dobili pozitiven rezultat.
+Pri treh vzorcih, ki smo jih hranili od 17 do 19 mesecev pri temperaturi nižji od −50 °C, smo z metodo IVCK dobili pozitiven rezultat.
+Zato lahko sklenemo, da so za preiskavo IVCK primerni le sveži oziroma primerno shranjeni vzorci.
+Pri testiranju vzorcev možganov, ki smo jih hranili pri sobni temperaturi 0, 5, 10, 15, 20, 25 in 30 dni, smo ugotovili, da je najbolj robustna metoda RT-PCR, sledi dIF (uporabna le za vzorce, ki so hranjeni pri sobni temperaturi do 5 dni) in IVCK (uporabna le za sveže vzorce).
+
+V rutinski diagnostiki stekline se vse bolj uveljavlja metoda RT-PCR v realnem času.
+Če uporabimo specifične sonde, lahko z metodo RT-PCR v realnem času razlikujemo med različnimi vrstami virusov stekline brez določanja nukleotidnega zaporedja.
+Za razlikovanje med vrstami RABV, EBLV 1 in EBLV 2 smo modificirali postopek po Wakeleyu in sodelavcih (2005), za dokazovanje cepnih sevov pa smo razvili nov postopek RT-PCR v realnem času.
+S tremi postopki RT-PCR (EBLV 1, EBLV 2, cepni sevi) v realnem času smo testirali 55 vzorcev in dobili pričakovane rezultate, pri postopku za dokazovanje vrste RABV pa smo pri treh vzorcih dobili lažno negativne rezultate.
+Vsi trije vzorci so izvirali iz Južne in Severne Amerike.
+Postopke RT-PCR v realnem času, ki smo jih razvili in testirali v naši raziskavi, smo uporabili le za tipizacijo virusov stekline vrst RABV, EBLV 1, EBLV 2 in cepnih sevov.
+Z novouvedenimi metodami RT-PCR v realnem času lahko hitro in zanesljivo tipiziramo evropske seve virusov stekline.
+
+9 ZAHVALE
+
+Iskreno se zahvaljujem mentorjema prof. dr. Petru Hostniku in viš. znan. sod. dr. Ivanu Toplaku za strokovno vodstvo in koristne nasvete.
+Z mano sta nesebično delila svoje znanje in mi odgovorila na vprašanja, ki jim nisem bila kos.
+
+Zahvaljujem se članom komisije prof. dr. Jožetu Gromu, prof. dr. Darji Barlič-Maganja, prof., dr. Srečku Korenu in doc. dr Gorazdu Venguštu za prispevek k izboljšanju naloge.
+
+UVHVVR se zahvaljujem za soglasje za uporabo vzorcev, ki so last UVHVVR.
+
+Za financiranje študija se lepo zahvaljujem Inštitutu za mikrobiologijo in parazitologijo na Veterinarski fakulteti.
+
+Zahvaljujem se Ministrstvu za visoko šolstvo, znanost in tehnologijo, ki mi je v okviru javnega razpisa »Inovativna shema za sofinanciranje doktorskega študija za spodbujanje sodelovanja z gospodarstvom in reševanja aktualnih družbenih izzivov – generacija 2010 Univerza v Ljubljani« sofinanciralo doktorski študij.
+
+Za pregled literature se zahvaljujem mag. Brigiti Grics Smole.
+Za lektoriranje se zahvaljujem Vidi Meško in Margit Berlič Ferlinc.
+
+Zahvaljujem se tudi svoji družini in sodelavcem v virološkem laboratoriju, da so mi stali ob strani in me vzpodbujali.
+
