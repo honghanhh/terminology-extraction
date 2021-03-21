@@ -4,7 +4,7 @@ import spacy
 import pickle
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'nl', term = "equi", nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'sl', term = "chemistry", nes=False):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -53,12 +53,14 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'nl', nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'sl', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_lg")
         elif language == 'fr':
             nlp = spacy.load("fr_core_news_lg")
         elif language == 'nl':
+            nlp = spacy.load("nl_core_news_lg")
+        elif language == 'sl':
             nlp = spacy.load("nl_core_news_lg")
         self.sentences = []
         self.labels = []
@@ -101,7 +103,7 @@ class ActerDataset():
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/nl/spacy-lg/processed_nes_data/"
+    path = "../processed_data/nl/spacy-lg/processed_ann_data/"
     if not os.path.exists(path):
             os.mkdir(path) 
     with open(path + "equi.pkl", "wb") as output_file:
