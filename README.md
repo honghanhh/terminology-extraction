@@ -60,10 +60,7 @@ python prepocess.py
 - Output
 
 ```
-    ./preprocessed_data/corp.pkl
-    ./preprocessed_data/equi.pkl
-    ./preprocessed_data/wind.pkl
-    ./preprocessed_data/htfl.pkl
+    ./preprocessed_data/train.pkl
 ```
 
 ### 2. Reformat training data
@@ -87,9 +84,7 @@ The training set contains the texts from 3 domains (corp, equi, wind), which is 
 - Input
 
 ```
-    ./preprocessed_data/corp.pkl
-    ./preprocessed_data/equi.pkl
-    ./preprocessed_data/wind.pkl
+    ./preprocessed_data/train.pkl
 ```
 - Command
 ```
