@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 from tqdm import tqdm
 
-train = ['../processed_data/en/nes_train.pkl']
+train = ['../processed_data/nl/ann_train.pkl']
 train_df = pd.DataFrame(columns=["sentence_id", "words", "labels"])
 final_train_df = pd.DataFrame()
 
@@ -24,4 +24,4 @@ for i in train:
     final_train_df = final_train_df.append(train_df, ignore_index=True)
 
 
-final_train_df.to_csv('../processed_data/en/nes_train.csv', index=False)
+final_train_df.to_csv('../processed_data/nl/ann_train.csv', index=False)

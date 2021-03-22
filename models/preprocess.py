@@ -4,7 +4,7 @@ import spacy
 import pickle
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', term = "equi", nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'nl', term = "equi", nes=False):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -52,7 +52,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'nl', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         elif language == 'fr':
@@ -103,7 +103,7 @@ class ActerDataset():
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/fr/"
+    path = "../processed_data/nl/"
     if not os.path.exists(path):
             os.mkdir(path) 
     with open(path + "ann_train.pkl", "wb") as output_file:
