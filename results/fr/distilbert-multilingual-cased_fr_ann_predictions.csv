@@ -1,0 +1,644 @@
+,predictions
+0,angioscintigraphie
+1,connectivite
+2,codes
+3,hypopnées
+4,homocystéine
+5,cardiopathie
+6,créatininémie
+7,artérielles
+8,activité physique
+9,importance
+10,dipyridamole
+11,hyperéosinophilie
+12,internistes
+13,sphinglopidose
+14,foie
+15,pédiatrie
+16,endocardite
+17,immunoglobuline
+18,hôpital
+19,biologie
+20,témoin
+21,neurohumorale
+22,insuffisance
+23,hémangiomes
+24,galectin-3
+25,vo2
+26,génétique
+27,œdème pulmonaire
+28,enzyme de
+29,hémodynamiques
+30,aldostérone
+31,abdominale
+32,accidents
+33,urodilatine
+34,chirurgicales
+35,itraconazole
+36,clinique
+37,bioélectrique
+38,intratumorale
+39,cardiotoxicity
+40,thallium
+41,cavité
+42,q
+43,dissection coronaire
+44,léiomyomatoseintra
+45,cellules
+46,administration
+47,recours
+48,hémoculture
+49,cardiopathies
+50,angio
+51,circulations pulmonaire
+52,responsable
+53,surpoids
+54,fonction systolique
+55,autopsie
+56,réseau
+57,surcharge
+58,micro-angiopathie
+59,fœtoplacentaire
+60,octogénaires
+61,myocardiques
+62,peptide b natriurétique
+63,traitement médical
+64,post-infarctus
+65,chirurgie
+66,immunoglobuline intraveineuse
+67,justification
+68,stimulateur
+69,techniques
+70,mécanismes
+71,contrebalance
+72,rhumatisme
+73,anticoagulation orale
+74,activité agricole
+75,hypokinésie
+76,hémangiome
+77,propeptide
+78,cliniques
+79,canal
+80,cardiologue
+81,leucémies
+82,radiotherapy
+83,cardiaque(ic
+84,antérieur
+85,fréquence
+86,artériopathie
+87,société
+88,sociétés
+89,hémorragie
+90,hôpital cardiovasculaire
+91,hypervascularisées
+92,antibiothérapie
+93,système
+94,kinase
+95,épidémiologique
+96,hôpitaux
+97,fibroblastique
+98,bisoprolol
+99,contrepulsation externe
+100,pharmacologique
+101,cardiovascule
+102,transplantation
+103,tsm
+104,anticorps
+105,statut
+106,idiopathique
+107,preuves
+108,immunosuppression
+109,télésurveillance médicale
+110,furosémide
+111,artères
+112,tension
+113,coûts
+114,défibrillateur
+115,agent
+116,cérébrales
+117,médicothérapie
+118,épidémiologiques
+119,cyclophosphamide
+120,pharmanet
+121,mécanique
+122,statut nutritionnel
+123,pharmacologie
+124,économiques
+125,ciclosporine
+126,budget
+127,étiopathogéniques
+128,cardiologues
+129,icfep
+130,se
+131,décompensation
+132,endomyocardique
+133,post-charge ventriculaire
+134,extracardiaque
+135,hypo
+136,médecine
+137,aorto
+138,thérapie
+139,chlamydia
+140,infestation
+141,glomérulaire
+142,coronaropathie tritronculaire
+143,questionnaire
+144,intraventriculaires
+145,bronchopneumopathie
+146,immunomodulatoire
+147,biopsier
+148,déformation
+149,allonger
+150,malades
+151,récepteurs
+152,inhibiteur
+153,galectine-3
+154,données
+155,moléculaire
+156,cardiologique
+157,oncopédiatre
+158,artère
+159,implantable ventriculaire
+160,endocarties
+161,hypertrophique
+162,plaquettes
+163,vasodilatatrice
+164,héparine
+165,cavités
+166,myocarde
+167,traumatiques
+168,systèmes
+169,droit
+170,pré-implantation
+171,épidémiologie
+172,transduction
+173,neurohormonale
+174,accidents cerebrovasculaire
+175,dosage
+176,whipple
+177,androgénique
+178,implantation
+179,sance cardiaque
+180,substance
+181,tachycardie
+182,physiopathologique
+183,peptides
+184,muscle
+185,héparines
+186,cardiomyocyte
+187,pathologiques
+188,œsophage
+189,co-morbidités
+190,mcmaster
+191,effet
+192,rémittente
+193,hémoglobinémie
+194,insuffisance cardiaque
+195,transplantation cardiaque
+196,coronaropathie
+197,carcinoïde
+198,urinaire
+199,anomalies
+200,déoxyribonucléotide
+201,asa-1
+202,enquête
+203,pharmacies
+204,récupération
+205,antiplaquettaire
+206,infusions
+207,toxocarose
+208,changement
+209,auteurs
+210,publique
+211,i
+212,cardiomyopathies
+213,cystatine
+214,économique
+215,décision
+216,peptide
+217,technologies
+218,diagnostiques
+219,implanté
+220,staphylocoque
+221,éjection
+222,hépatomégalie
+223,sous-groupe
+224,réseau coronaire
+225,contre-pression
+226,intra
+227,maladie
+228,aps
+229,anesthésie
+230,mitoxantrone
+231,mois
+232,érythropoïétine
+233,étiologie
+234,épreuve
+235,embolisation
+236,maladies cardiaques
+237,diagnostic
+238,réclamations
+239,reins
+240,trompeur
+241,malformation
+242,hypertrophie cellulaire
+243,aspergilloses
+244,pulmonaire
+245,plaques
+246,pharmacoactive
+247,rosiglitazone
+248,hormonale
+249,néonatale
+250,peptides natriurétiques
+251,remède
+252,endothéline
+253,cancérologie
+254,réadaptation segmentaire
+255,calcineurine
+256,aorte abdominale
+257,test
+258,testostérone
+259,étiologies
+260,machines
+261,réfractaire
+262,points
+263,cardiothyréose
+264,glycolipides
+265,cardiology
+266,fabry
+267,tachyarythmie
+268,apoptose
+269,antihypertenseurs
+270,race
+271,contrepulsation
+272,accident
+273,carotidien
+274,anti-vitamines
+275,hmg
+276,antivitamines
+277,intra-ventriculaires
+278,löffler
+279,epidémiologie
+280,thromboembolique
+281,intra-hospitalière
+282,cadence
+283,bnp
+284,revascularisation coronaire
+285,activité
+286,sous-cutanés
+287,infracellulaires
+288,relaxer
+289,arrêt
+290,sténose
+291,anévrisme
+292,énergie
+293,biodisponibilité
+294,marche
+295,nécropsiques
+296,coût
+297,oedemes périphériques
+298,cardiogène
+299,peptide natriurétique
+300,neutrophiles
+301,nucléaire
+302,réticulohistiocytose
+303,hypertrophie
+304,personne
+305,buts
+306,n
+307,régression
+308,cardiotoxicité
+309,biochimique
+310,cerebrovasculaire
+311,crt
+312,méta
+313,complication
+314,thrombose
+315,cardiomyocytes
+316,pathologies
+317,solvd
+318,midodrine
+319,oreillettes
+320,harmonieux
+321,pile
+322,diabétiques
+323,hypertension
+324,pulmonaires
+325,biologiques
+326,flux
+327,cardiomyopathie
+328,radiothérapie
+329,fœtus
+330,cardiaque gauche
+331,neurobiologiques
+332,orthostatique
+333,thromboemboliques
+334,endoprothèse coronaire pharmacoactive
+335,macrophages
+336,implanter
+337,épreuves
+338,rétrospectif
+339,défibrillateur biventriculaire
+340,dysplasie ventriculaire droite
+341,volumineux
+342,hyponatrémie
+343,hypocalcémie
+344,phase
+345,takotsubo
+346,dialyse péritonéale
+347,électrodes
+348,immunosuppresseur
+349,létalité
+350,tion
+351,infirmière
+352,hyperkinésie
+353,pro-inflammatoires
+354,fibrillation
+355,éosinophiles
+356,enzymes
+357,cerveau
+358,avantages
+359,coronarographie
+360,médecine interne
+361,simulait
+362,valvulopathies
+363,laryngée
+364,intoxications
+365,physiopathologiques
+366,inhibiteurs
+367,créatinine
+368,tsubo
+369,conformité
+370,thérapeutique
+371,cardiaque
+372,charge intraopératoire
+373,lésion
+374, 
+375,enzyme
+376,syndromes coronaires
+377,pas
+378,myocytes
+379,cytotoxiques
+380,débit pulmonaire
+381,embryogenèse
+382,tératomes
+383,œdèmes
+384,médicaments
+385,endocardites
+386,cardiopulmonaire
+387,lâge
+388,asynchronisme
+389,ventricule
+390,aki
+391,cardiomyoplastie cellulaire
+392,toxocara
+393,plasmatiques
+394,musculaires
+395,mtor
+396,amiodarone
+397,insuffisances
+398,mcd
+399,relaxation
+400,charge
+401,oedèmes pulmonaires
+402,irm
+403,myocardites
+404,récurrence
+405,tératome sacrococcygien
+406,nécrose
+407,cancer
+408,rhm
+409,dysplasie
+410,arythmie
+411,tapis
+412,pharmacologiques
+413,cardiaques
+414,mise
+415,valve atrioventriculaire
+416,clinic
+417,infiltration
+418,physiologiques
+419,indication
+420,angiotensine
+421,conduction
+422,digestives
+423,medicaux
+424,myocardiopathies
+425,morbimortalité
+426,pathologie
+427,légères
+428,doppler
+429,maladies cardiovasculaires
+430,bibliographique
+431,myofibrillaire
+432,éosinophilie
+433,bradycardie
+434,anthracyclines
+435,bilirubine
+436,femme
+437,cardiovasculaires
+438,agents
+439,pompe
+440,sous-utilisés
+441,nitroglycérine
+442,antiplaquettaires
+443,dysplasie ventriculaire
+444,lymphoplasmocytaires
+445,congénital
+446,décubitus
+447,pharmaciens
+448,protéine
+449,protidémie
+450,échographie
+451,témoins
+452,hémiplégie
+453,néprilysine
+454,échocardiographique
+455,pression
+456,fibrillation atriale
+457,électrocardiographiques
+458,cérébraux
+459,rythmologie
+460,antimétabolites
+461,epi
+462,oreillette
+463,crpus
+464,peptidique
+465,hémodynamique
+466,","
+467,changements
+468,galop
+469,comas
+470,inflammation
+471,asystolie
+472,diagnostique
+473,personnes
+474,aortique
+475,valvulaires
+476,patients
+477,coût financier
+478,isoprotérénol
+479,myocardite
+480,myocardiopathie
+481,antipaludéens
+482,inhomogène
+483,entraînement
+484,endocarditiques
+485,valvulopathie
+486,chirurgien
+487,cave
+488,voies aériennes
+489,cardiomégalie
+490,intrapleurales
+491,poursuite
+492,thiamine
+493,cmh
+494,nyha
+495,oxygénothérapie
+496,idiopathiques
+497,inotropisme
+498,infarctus
+499,pertes sanguines
+500,épidémie
+501,oreillette droite
+502,position
+503,bloc auriculo
+504,fdv
+505,attaque
+506,bolus
+507,palliatifs
+508,groupes
+509,ntg
+510,rétablissement
+511,tachycardies
+512,différenciant
+513,télédiastoliques
+514,implantés
+515,thérapie génique
+516,tropheryma
+517,pied
+518,collapsus
+519,échocardiographie
+520,congénitales
+521,rendement
+522,hygiénodiététiques
+523,congénitale
+524,poumon
+525,fevg
+526,victime
+527,occlusion chirurgicale
+528,cardiogénique
+529,cardiologie
+530,vitesse
+531,tissus
+532,télésurveillés
+533,heart
+534,métabolisme
+535,thérapies
+536,angor
+537,exercice
+538,vasodilatateurs
+539,rhumatismales
+540,questionnaires
+541,hôpital général
+542,lipoïdique
+543,race  
+544,arrêté
+545,valves
+546,appareil
+547,a
+548,angioplastie
+549,torpide
+550,implantable
+551,ic
+552,cardiaque néonatale secondaire
+553,cardiaque systolique
+554,défibrillateurs
+555,neuropathie
+556,grossesses
+557,plainte
+558,échographiques
+559,méthode
+560,car
+561,pneumoniae
+562,transition
+563,ventriculaires
+564,neurologique
+565,administratives
+566,pompe ventriculaire droite
+567,indications
+568,anticoagulation
+569,chimiothérapies
+570,péricardite
+571,amyloïde
+572,symptomatologie
+573,tiers
+574,oncocitémie normale
+575,trompeurs
+576,valve aortique
+577,paroi
+578,droit secondaire
+579,chambre
+580,ultrafiltration
+581,arthrite
+582,génitales
+583,malade
+584,paclitaxel
+585,thérapeutiques
+586,physiopathologie
+587,lésions
+588,cardiospécificité
+589,diabète
+590,système rénine
+591,échocardiographiques
+592,hypoxies
+593,polyarthrite
+594,échocardiographie transoesophagienne
+595,ampoule
+596,vasoconstricteurs
+597,complications
+598,éjection ventriculaire
+599,blocage
+600,trompeuses
+601,léthalité
+602,cardiovasculaire
+603,frais
+604,d'
+605,équipes
+606,acv
+607,infirmières
+608,cœur
+609,responsables
+610,rythme
+611,dissection
+612,adénopathies médiastinales
+613,hôpital principal
+614,chimiothérapie
+615,thrombopénie
+616,médico-économiques
+617,néoplasique
+618,neurologiques
+619,parrainage
+620,contrepulsion
+621,flux aortique
+622,télésurveillance
+623,apoplexie
+624,autorité
+625,pneumologique
+626,réseaux
+627,épiphénomène
+628,histologiques
+629,séquestration
+630,manœuvres
+631,papulonodulaire
+632,lipomes
+633,électrolytes
+634,thérapie cellulaire
+635,diabete
+636,méthodes
+637,grossesse
+638,cmd
+639,fibrose
+640,musculaire
+641,cérébrale
+642,œdème
