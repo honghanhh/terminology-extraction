@@ -1,0 +1,684 @@
+,predictions
+0,ami
+1,quintile
+2,magnetic resonance
+3,metabolic
+4,intolerance
+5,joanna
+6,left ventricular assist
+7,myocardial ischemia
+8,cardiac
+9,rotation
+10,for
+11,madit
+12,sympathetic
+13,heartmate
+14,endothelin
+15,congestive
+16,cardioprotective
+17,overload
+18,gait
+19,quadriceps force
+20,cardiomyocytes
+21,exercise capacity
+22,myocytes
+23,electrical
+24,sickle cell
+25,percutaneous
+26,electrolytes
+27,heart rate
+28,clinical change
+29,cardioverter
+30,natural vasodilatory
+31,inotropes
+32,tnf
+33,neoplastic
+34,right ventricular
+35,cms
+36,endothelial
+37,defibrillators
+38,bisphosphonate
+39,interventricular
+40,nbdmard
+41,etidronate-
+42,peripheral edema
+43,ventricular assist
+44,nbdmards
+45,fpassive)-sarcomere
+46,hemoglobin
+47,calreticulin
+48,twist
+49,intubation
+50,implanted
+51,rotor
+52,jehovah
+53,glucocorticoid
+54,high
+55,western
+56,doppler
+57,nmol
+58,kir
+59,metoprolol
+60,connecticut
+61,nitric oxide
+62,crossover
+63,heart pathology
+64,bat
+65,zsf1
+66,double
+67,fiber
+68,sulfonylureas
+69,sphingosine-1-phosphate
+70,antihyperglycemic agents
+71,β
+72,ed
+73,isoproterenol
+74,adrenomedullin
+75,nonischemic
+76,myocardium
+77,mapk
+78,thoratec
+79,aerobic
+80,rv
+81,angina
+82,bivp
+83,cardiotoxicity
+84,with
+85,candesartan
+86,extracorporeal membrane
+87,a defibrillator
+88,crf
+89,ankle
+90,cardiac output
+91,","
+92,hhf
+93,electric
+94,dithiothreitol
+95,jq1
+96,clinical trial
+97,clcnka
+98,rhythm
+99,atrial
+100,telemonitoring
+101,fontan circulation
+102,amyloidosis
+103,witness
+104,change
+105,appendicular
+106,interatrial
+107,camp
+108,pressure curve
+109,atrial fibrillation
+110,salt loading
+111,peritoneal dialysis
+112,muscular
+113,nonglycosylated
+114,myxoma
+115,interleukin
+116,myocyte
+117,mitral
+118,lean
+119,renal denervation
+120,myocardial infarction
+121,shotgun
+122,outflow
+123,eplerenone
+124,hungary
+125,angiogenesis
+126,ahf
+127,haematopoietic cell
+128,heart  
+129,systolic
+130,gut
+131,pigs
+132,urinary tract
+133,density
+134,wall
+135,medical
+136,emphasis
+137,thromboembolic
+138,hno
+139,creatinine
+140,transplantation
+141,chest
+142,iron deficiency
+143,left
+144,gastrointestinal
+145,administrative health
+146,centrifugal
+147,ecct
+148,bisphosphonates
+149,sparing
+150,and salt
+151,valve
+152,lvas
+153,vasculature
+154,collagen
+155,test
+156,kit+
+157,cardioprotection
+158,renal function
+159,hh
+160,chromatin
+161,pharmaceutically
+162,cytoscape
+163,nicorandil
+164,noncardiologist
+165,pay
+166,caloric
+167,lipolysis
+168,heartware intl
+169,cardiology
+170,filtration rate
+171,ventricularly
+172,dementia
+173,coupling
+174,muscle pump
+175,breathing pulse
+176,vasodilator
+177,bisoprolol
+178,uti
+179,nervous systems
+180,defibrillator
+181,emd
+182,potassium
+183,contractile
+184,discharged
+185,hearts
+186,ra
+187,ventricles
+188,copd
+189,kcal
+190,tonometric
+191,alberta
+192,quadriceps
+193,mineralocorticoid
+194,embolism
+195,shock
+196,iodobenzylguanidine
+197,diuretic
+198,myocarditis
+199,emergency
+200,guanylate cyclase
+201,atherosclerosis
+202,cpr
+203,cpgs
+204,chloride
+205,peak
+206,dawley
+207,tonometry
+208,renal
+209,plasma membrane
+210,angeli
+211,objective
+212,actin
+213,extubated
+214,induced
+215,society
+216,activity
+217,hemocompatibility
+218,antagonism
+219,shift
+220,anemia
+221,red
+222,antiarrhythmic
+223,szeto
+224,partial
+225,shortening
+226,accountable
+227,hfref
+228,implanted monitoring devices
+229,walking
+230,cvd
+231,exercise
+232,muscles
+233,ef
+234,hf
+235,protocol
+236,rabbits
+237,x
+238,ncdr
+239,technology
+240,tgf
+241,adenosine
+242,gadolinium
+243,automatic
+244,oxidative metabolism
+245,physician
+246,ciaraldi
+247,arni
+248,transcatheter
+249,plasma
+250,robot
+251,olmsted
+252,ckd
+253,angiotensin
+254,ventricular assist device
+255,paradigm
+256,university
+257,arthritis
+258,nesiritide
+259,tertiary
+260,exercise testing
+261,dopamine
+262,ambulatory
+263,cardiovascular function
+264,walk
+265,echocardiography
+266,iron
+267,david
+268,polytetrafluoroethylene tube
+269,cardiogenic shock
+270,cardiac volume
+271,flow
+272,rhythm-
+273,tension
+274,arterial elastance
+275,neurohormonal
+276,acetyl
+277,wistar
+278,confidence
+279,ivabradine
+280,intensive
+281,bmi
+282,univariate
+283,aortic
+284,ai
+285,neprilysin inhibitor
+286,arterial
+287,decongestion
+288,cv
+289,sitagliptin
+290,dodson
+291,tuscany
+292,training
+293,pacing
+294,cystatin
+295,energy production
+296,inflammatory
+297,nonpace
+298,chf
+299,rheumatic
+300,cardiologist
+301,sympathetic activity
+302,erythropoiesis
+303,intubated
+304,activators
+305,heart
+306,raf
+307,myosin
+308,balance
+309,israel
+310,hyponatremia
+311,clinical
+312,rvad
+313,thrombosis
+314,charm
+315,intubations
+316,elderly
+317,ecmo
+318,left ventricular assist system
+319,qrs
+320,gill
+321,transplant
+322,dynamics
+323,dogs
+324,relaxation
+325,downstream
+326,aldactone
+327,amyloidotic
+328,malignant
+329,chronic
+330,diabetic
+331,energy expenditure
+332,dhand
+333,voltage
+334,cocoa
+335,hnorm
+336,loop diuretics
+337,penalties
+338,diastole
+339,transfusions
+340,descending
+341,transoesophageal
+342,endoplasmic
+343,limbs
+344,artery stenosis
+345,spearman
+346,blinded
+347,bisphophonates
+348,grade
+349,gdmt
+350,sternotomy
+351,lipoprotein
+352,walked
+353,inpatient
+354,beats
+355,nitrite
+356,hospital
+357,obesity
+358,atp
+359, 
+360,extreme
+361,renin
+362,tachyarrhythmias
+363,reperfusion
+364,transitions
+365,extracorporeal membrane oxygenation
+366,glomerular filtration rate
+367,anthracyclines
+368,epicatechin
+369,myocardial
+370,discharge
+371,bridge
+372,medicare
+373,mlhf
+374,pyridostigmine
+375,nephropathy
+376,energy transfer
+377,anthracycline
+378,comanagement
+379,diastolic
+380,mellitus
+381,interatrial shunt
+382,left ventricular
+383,new
+384,transfusion
+385,respiratory gas
+386,  heart
+387,colon
+388,obese
+389,mechanics
+390,free
+391,dacron patch
+392,beat
+393,taub
+394,leg
+395,stroke
+396,nurses
+397,baroreflex
+398,naviaux
+399,walk test
+400,oxygen
+401,osteoporosis
+402,beta
+403,catecholamine
+404,adipose
+405,right
+406,100
+407,active
+408,endothelial repair
+409,transplants
+410,willebrand factor
+411,outpatient
+412,lokomat
+413,velocity
+414,resting
+415,citrate cycle
+416,congestion
+417,world
+418,fibrillation
+419,fat
+420,pasp
+421,tachycardia
+422,albumin
+423,flow velocity
+424,valsartan
+425,bpm
+426,porcine
+427,unfit
+428,administrative
+429,cardiomyopathic
+430,doxorubicin
+431,ffm
+432,β1ar
+433,transthoracic
+434,attrition
+435,vegf
+436,myocardial ischemic
+437,frailty
+438,mitochondrial
+439,calcineurin
+440,tricuspid valve
+441,thrombotic
+442,adrenergic
+443,continuous
+444,malignancies
+445,rvads
+446,sonographic
+447,uptitration
+448,cardiorespiratory
+449,energy
+450,hyperlipidaemia
+451,trastuzumab
+452,mpsms
+453,beck
+454,aric
+455,prostate
+456,kidney
+457,saxagliptin
+458,aortocaval fistula
+459,testosterone
+460,a
+461,titin
+462,nfat
+463,sandwich
+464,osprey
+465,environment
+466,programmed
+467,hemodynamic
+468,multiorgan
+469,skinfold
+470,methodology
+471,cost
+472,viscoelastic
+473,cardiomyopathy
+474,neoangiogenesis
+475,sprague
+476,gata4
+477,leaflet
+478,coronary syndrome
+479,peripheral
+480,chordal
+481,mitral valve
+482,shunt
+483,myoctyes
+484,cardiovascular
+485,ontario
+486,neurohormones
+487,sham
+488,ctnt
+489,avp
+490,lvad
+491,transitions of care
+492,joint
+493,rvpo
+494,mena
+495,armamentarium
+496,biventricular
+497,insulin
+498,sst2
+499,spironolactone
+500,axis
+501,apoptosis
+502,canine
+503,methods
+504,et
+505,morbidity
+506,ros
+507,speckle
+508,salt
+509,ceballos
+510,anticoagulation
+511,muscle
+512,medications
+513,tricuspid
+514,beck depression
+515,peak oxygen
+516,kaplan
+517,aldosterone
+518,adiponectin
+519,stenotic
+520,renastur
+521,cardiac hypertrophy
+522,troponin
+523,gls
+524,alendronate
+525,lusitropic
+526,eccentric
+527,at
+528,phenylephrine
+529,ar
+530,telehealth
+531,paediatric
+532,hum
+533,choline
+534,framingham
+535,decisions
+536,caspase-3
+537,ref
+538,compliance
+539,cardiomyocyte
+540,bypass
+541,outpatients
+542,aim
+543,raloxifene
+544,coronary artery
+545,pleasanton
+546,acute
+547,uv
+548,scaffolds
+549,hfpef
+550,ejection fraction
+551,artery
+552,reporting
+553,cpet
+554,nitroxyl
+555,western blot
+556,blood pressure
+557,raft
+558,antiplatelet
+559,vasopressin
+560,placebo
+561,murine
+562,fontan
+563,adenylyl cyclase
+564,icu
+565,alendronate-
+566,natriuretic
+567,atrioventricular
+568,sarcomere
+569,expenditure on
+570,crt
+571,icd
+572,tidal
+573,embolectomy
+574,basic
+575,pollution
+576,hand2
+577,myofiber
+578,ethics
+579,coagulability
+580,relevance
+581,kansas
+582,costs
+583,gluconeogenesis
+584,mir-25
+585,chop
+586,hipsc
+587,guanosine
+588,wedge
+589,nervous system activity
+590,adrenoceptor blockade
+591,echocardiographic
+592,magnetically
+593,radial
+594,haemodynamic
+595,propensity
+596,bhlh
+597,nyha
+598,dilatation diameter
+599,monocytes
+600,pump
+601,evidence
+602,infarction
+603,underperfusion
+604,platelet
+605,dynamic
+606,battery
+607,sodium
+608,rose
+609,tunel
+610,antiadrenergic
+611,cardioversions
+612,arrhythmia
+613,coronary
+614,kappa
+615,osteomedullary
+616,jersey
+617,longitudinal
+618,af
+619,ventricular
+620,carvedilol
+621,arteries
+622,kyoto
+623,succinate
+624,cpcs
+625,xanthine
+626,walked distance
+627,idiopathic
+628,contractility
+629,shunts
+630,driveline
+631,transseptal
+632,cardiovascular society
+633,ventricle
+634,myocardial function
+635,vo2
+636,mechanical
+637,aldosterone system
+638,adipokines
+639,bromodomain
+640,grip
+641,glucocorticoids
+642,general anaesthesia
+643,neurohormone
+644,perfusion
+645,induction
+646,transmitral
+647,relax
+648,ethically
+649,swine
+650,pioglitazone
+651,rehabilitation
+652,tidal co2
+653,pressure
+654,ejection
+655,fibrosis
+656,ablation
+657,shah
+658,phosphodiesterase-2
+659,schiller
+660,glomerular
+661,nondiabetic
+662,ventricular assist devices
+663,public health
+664,legal
+665,buddy
+666,mechanically
+667,interventions
+668,insulin resistance
+669,euthanization
+670,resistin
+671,heart failure
+672,breast
+673,stem
+674,dipeptidyl peptidase-4
+675,transition
+676,cava
+677,reverses
+678,urine
+679,tolvaptan
+680,methotrexate
+681,centrimag
+682,cox
