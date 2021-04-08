@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 from tqdm import tqdm
 
-train = ['../processed_data/nl/ann_train.pkl']
+train = ['../processed_data/en/ann_train_lem.pkl']
 train_df = pd.DataFrame(columns=["sentence_id", "words", "labels"])
 final_train_df = pd.DataFrame()
 
@@ -23,5 +23,5 @@ for i in train:
     train_df['labels'] = targets
     final_train_df = final_train_df.append(train_df, ignore_index=True)
 
-
-final_train_df.to_csv('../processed_data/nl/ann_train.csv', index=False)
+print(final_train_df.labels.value_counts())
+final_train_df.to_csv('../processed_data/en/ann_train_lem.csv', index=False)
