@@ -28,12 +28,14 @@ class KeyTerm():
         return lemma_word
 
     def extract(self, tokens, text = None):
+        tokens = [self.lemma(x) for x in tokens]
         if text == None:
             text = ' '.join(tokens)
         z = ['O'] * len(tokens)
-        text = self.lemma(text)
+        # text = self.lemma(text)
         for k in self.keys:
-            if self.lemma(k) in text:
+            k = self.lemma(k)
+            if k in text:
                 if len(k.split())==1:
                     try:
                         z[tokens.index(k.lower().split()[0])] = 'B'
