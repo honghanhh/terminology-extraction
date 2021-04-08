@@ -1,25 +1,39 @@
 import os
+import re
 import pandas as pd
 import spacy
 import pickle
+import stanza
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'nl', term = "equi", nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=False):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
         else:
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
+        self.nlp = stanza.Pipeline(lang='en')
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
     
+    def lemma(self, word):
+        lemma_word = self.nlp(str(word))
+        lemma_word = ' '.join([w.lemma for sent in lemma_word.sentences for w in sent.words])
+        lemma_word = re.sub(' -','-',lemma_word)
+        lemma_word = re.sub('- ','-',lemma_word)
+        lemma_word = re.sub(' \)', '\)',lemma_word)
+        lemma_word = re.sub('\( ', '\(',lemma_word)
+        lemma_word = re.sub(' +', ' ',lemma_word)
+        return lemma_word
+
     def extract(self, tokens, text = None):
         if text == None:
             text = ' '.join(tokens)
         z = ['O'] * len(tokens)
+        text = self.lemma(text)
         for k in self.keys:
-            if k in text:
+            if self.lemma(k) in text:
                 if len(k.split())==1:
                     try:
                         z[tokens.index(k.lower().split()[0])] = 'B'
@@ -52,7 +66,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'nl', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         elif language == 'fr':
@@ -103,8 +117,8 @@ class ActerDataset():
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/nl/"
+    path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train.pkl", "wb") as output_file:
+    with open(path + "ann_train_lem.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
