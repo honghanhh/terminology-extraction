@@ -36,8 +36,8 @@ class KeyTerm():
                 lemma_word = ' '.join([w.lemma for w in sent.words])
                 lemma_word = re.sub(' -','-',lemma_word)
                 lemma_word = re.sub('- ','-',lemma_word)
-                lemma_word = re.sub(' \)', '\)',lemma_word)
-                lemma_word = re.sub('\( ', '\(',lemma_word)
+                lemma_word = re.sub(' \)', ' ',lemma_word)
+                lemma_word = re.sub('\( ', ' ',lemma_word)
                 lemma_word = re.sub(' +', ' ',lemma_word)
 
                 tokens = lemma_word.split()
