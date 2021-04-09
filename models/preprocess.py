@@ -23,8 +23,8 @@ class KeyTerm():
         lemma_word = ' '.join([w.lemma for sent in lemma_word.sentences for w in sent.words])
         lemma_word = re.sub(' -','-',lemma_word)
         lemma_word = re.sub('- ','-',lemma_word)
-        lemma_word = re.sub(' \)', '\)',lemma_word)
-        lemma_word = re.sub('\( ', '\(',lemma_word)
+        lemma_word = re.sub(' \)', ' ',lemma_word)
+        lemma_word = re.sub('\( ', ' ',lemma_word)
         lemma_word = re.sub(' +', ' ',lemma_word)
         return lemma_word
 
