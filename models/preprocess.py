@@ -13,9 +13,9 @@ class KeyTerm():
         else:
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
-        self.df = self.df[self.df['word'].str.split().str.len() == 1]
-        self.df['len'] = [len(x) for x in self.df['word']]
-        self.df = self.df[self.df['len'] >1][['word', 'class']]
+        # self.df = self.df[self.df['word'].str.split().str.len() == 1]
+        # self.df['len'] = [len(x) for x in self.df['word']]
+        # self.df = self.df[self.df['len'] >1][['word', 'class']]
         self.nlp = stanza.Pipeline(lang='en')
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
@@ -178,5 +178,5 @@ if __name__ == '__main__':
     path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem_1_rm_1c.pkl", "wb") as output_file:
+    with open(path + "ann_train_lem1.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
