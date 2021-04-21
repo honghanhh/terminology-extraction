@@ -14,8 +14,8 @@ class KeyTerm():
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
         # self.df = self.df[self.df['word'].str.split().str.len() == 1]
-        # self.df['len'] = [len(x) for x in self.df['word']]
-        # self.df = self.df[self.df['len'] >1][['word', 'class']]
+        self.df['len'] = [len(x) for x in self.df['word']]
+        self.df = self.df[self.df['len'] >1][['word', 'class']]
         self.nlp = stanza.Pipeline(lang='en')
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
