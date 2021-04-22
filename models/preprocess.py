@@ -4,7 +4,7 @@ import pandas as pd
 import spacy
 import pickle
 import stanza
-# stanza.download('en')
+
 class KeyTerm():
     def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=False):
         data_file = os.path.join(data_dir, language, term, 'annotations')
@@ -13,8 +13,6 @@ class KeyTerm():
         else:
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
-        self.df['len'] = [len(x) for x in self.df['word']]
-        self.df = self.df[self.df['len'] > 1][['word', 'class']]
         self.nlp = stanza.Pipeline(lang='en')
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
@@ -25,10 +23,6 @@ class KeyTerm():
         lemma_word = ' '.join([w.lemma for sent in lemma_word.sentences for w in sent.words])
         lemma_word = re.sub(' -','-',lemma_word)
         lemma_word = re.sub('- ','-',lemma_word)
-        # lemma_word = re.sub(' -','-',lemma_word)
-        # lemma_word = re.sub('- ','-',lemma_word)
-        # lemma_word = re.sub('/ ','/',lemma_word)
-        # lemma_word = re.sub(' /','/',lemma_word)
         lemma_word = re.sub(' \)', ' ',lemma_word)
         lemma_word = re.sub('\( ', ' ',lemma_word)
         lemma_word = re.sub(' +', ' ',lemma_word)
@@ -42,10 +36,6 @@ class KeyTerm():
                 lemma_word = ' '.join([w.lemma for w in sent.words])
                 lemma_word = re.sub(' -','-',lemma_word)
                 lemma_word = re.sub('- ','-',lemma_word)
-                # lemma_word = re.sub(' -','-',lemma_word)
-                # lemma_word = re.sub('- ','-',lemma_word)
-                # lemma_word = re.sub('/ ','/',lemma_word)
-                # lemma_word = re.sub(' /','/',lemma_word)
                 lemma_word = re.sub(' \)', ' ',lemma_word)
                 lemma_word = re.sub('\( ', ' ',lemma_word)
                 lemma_word = re.sub(' +', ' ',lemma_word)
@@ -177,5 +167,5 @@ if __name__ == '__main__':
     path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem1.pkl", "wb") as output_file:
+    with open(path + "ann_train_lem_final.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
