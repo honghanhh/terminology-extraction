@@ -177,5 +177,5 @@ if __name__ == '__main__':
     path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem1.pkl", "wb") as output_file:
+    with open(path + "ann_train_lem_1c.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
