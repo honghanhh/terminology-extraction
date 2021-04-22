@@ -109,5 +109,3 @@ if __name__ == '__main__':
     with open(path + "ann_train.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
 
-
-
