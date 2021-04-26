@@ -77,28 +77,28 @@ def get_term(predictions):
                 term.append(token)
             elif len(term) > 0:
                 terms.append(' '.join(term))
-                # Check b_pos = 0 không
                 if b_pos != 0:
-                    # print(tokens[b_pos - 1])
                     if (tokens[b_pos - 1] != '') and (tokens[b_pos - 1] != ' '):
                         if len(nlp(str(tokens[b_pos - 1])).sentences) > 0:
+                            c_word = nlp(str(tokens[b_pos])).sentences[0].words[0]
                             b_word = nlp(str(tokens[b_pos - 1])).sentences[0].words[0]
                             # Check vị trí b_pos - 1: terms.append()
-                            if (b_word.text != 'None') and ((b_word.upos == 'NOUN') or (b_word.upos == 'ADJ')):
+                            if (c_word.upos == 'NOUN') and (b_word.text != 'None') and ((b_word.upos == 'NOUN') or (b_word.upos == 'ADJ')):
                                 terms.append(' '.join([b_word.text] + term))
-                if (tokens[i] != '') and (tokens[i] != ' '):
-                    # Check vị trí i: terms.append()
-                    if len(nlp(str(tokens[i])).sentences) > 0:
-                        a_word = nlp(str(tokens[i])).sentences[0].words[0]
-                        if (a_word.text != 'None') and (a_word.upos == 'NOUN'):
-                            terms.append(' '.join(term + [a_word.text]))
+                    if (tokens[i] != '') and (tokens[i] != ' '):
+                        # Check vị trí i: terms.append()
+                        if len(nlp(str(tokens[i])).sentences) > 0:
+                            c_word = nlp(str(tokens[i-1])).sentences[0].words[0]
+                            a_word = nlp(str(tokens[i])).sentences[0].words[0]
+                            if (c_word.upos == 'NOUN') and (a_word.text != 'None') and (a_word.upos == 'NOUN'):
+                                terms.append(' '.join(term + [a_word.text]))
                 term = []
         if len(term) > 0:
             terms.append(' '.join(term))
             # check b_pos - 1
         all_term.append(terms)
 
-    return all_term        
+    return all_term             
 
 
 path = "/home/tranthh/terminology-extraction/ACTER/en/htfl/texts/annotated/"
