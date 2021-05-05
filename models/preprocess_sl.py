@@ -143,12 +143,12 @@ def get_term(predictions):
                             # Check vị trí b_pos - 1: terms.append()
                             if  (b_word.text != 'None') and ((b_word.upos == 'NOUN') or (b_word.upos == 'ADJ')):
                                 terms.append(' '.join([b_word.text] + term))
-                    if (tokens[i] != '') and (tokens[i] != ' '):
-                        # Check vị trí i: terms.append()
-                        if len(nlp(str(tokens[i])).sentences) > 0:
-                            a_word = nlp(str(tokens[i])).sentences[0].words[0]
-                            if (a_word.text != 'None') and (a_word.upos == 'NOUN'):
-                                terms.append(' '.join(term + [a_word.text]))
+                if (tokens[i] != '') and (tokens[i] != ' '):
+                    # Check vị trí i: terms.append()
+                    if len(nlp(str(tokens[i])).sentences) > 0:
+                        a_word = nlp(str(tokens[i])).sentences[0].words[0]
+                        if (a_word.text != 'None') and (a_word.upos == 'NOUN'):
+                            terms.append(' '.join(term + [a_word.text]))
                 term = []
         if len(term) > 0:
             terms.append(' '.join(term))
