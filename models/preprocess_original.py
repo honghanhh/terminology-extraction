@@ -4,18 +4,18 @@ import pandas as pd
 import spacy
 import pickle
 import stanza
-# stanza.download('en')
+# stanza.download('nl')
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'fr', term = "equi", nes=True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
         else:
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
-        self.df['len'] = [len(x) for x in self.df['word']]
+        self.df['len'] = [len(str(x)) for x in self.df['word']]
         self.df = self.df[self.df['len'] > 1][['word', 'class']]
-        self.nlp = stanza.Pipeline(lang='en')
+        self.nlp = stanza.Pipeline(lang=language)
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
         self.keys_lemma = list(set([self.lemma(x) for x in self.keys]))
@@ -114,10 +114,11 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         elif language == 'fr':
+            print("Load french spacy")
             nlp = spacy.load("fr_core_news_sm")
         elif language == 'nl':
             nlp = spacy.load("nl_core_news_sm")
@@ -174,8 +175,8 @@ class ActerDataset():
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/en/"
+    path = "../processed_data/fr/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem_1c.pkl", "wb") as output_file:
+    with open(path + "ann_train_lem_1c.pkl", "wb") as output_file: 
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
