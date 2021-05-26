@@ -98,9 +98,14 @@ python format_data.py
 ```
 
 ### 3. Train model & evaluation
+
+The worflow of our implementation:
+![Workflow](./architecture/workflow.png)
 - Models trained using SimpleTransformers on English dataset on Collab.
     - Variants of BERTs: BERT, RoBERTa, DistiledBERT
     - XLNet
+
+We tested on both monolingual and bilingual pre-trained model and apply a pattern filtering as postprocessing step in inference.
 
 - Train/val/test:
     - Train/val: texts from 3 domains (corp, equi, wind) with ratio of 80/20 
@@ -114,7 +119,7 @@ python format_data.py
     eval_batch_size: int = 16
     learning_rate: float = 4e-5
     manual_seed: int = 2203
-    max_seq_length: int = 128
+    max_seq_length: int = 512
     num_train_epochs: int = 4
     optimizer: str = "AdamW"
 ```
@@ -124,7 +129,7 @@ python format_data.py
     - Recall = TP/(TP+FN)
     - F1-score = 2 * (Precision * Recall )/ (Precision+Recall)
 
-
+<!-- 
 - Results on heart failure dataset:
     - For English terms only
 
@@ -200,11 +205,11 @@ python format_data.py
   </tr>
 </tbody>
 </table>
-
+ -->
 
 
 ## Discussion
-- Why our models outperform TALN-LS2N?
+- Why our models outperform TALN-LS2N on lower-resourced languages such as French, Dutch?
     - ACTER updated version from v1.2 to v1.4.
     ```
     **Changes version 1.2 > version 1.3**
