@@ -6,7 +6,7 @@ import pickle
 import stanza
 # stanza.download('nl')
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', term = "equi", nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -60,13 +60,20 @@ class KeyTerm():
 
             label, term = self.extract(tokens, text=text, keys=keys)
 
-            if set(label) != {'O'}:
-                results.append({
+            # if set(label) != {'O'}:
+            #     results.append({
+            #         "tokens": tokens,
+            #         "sent": sent.text,
+            #         "labels": label,
+            #         "terms": term
+            #     })
+            
+            results.append({
                     "tokens": tokens,
                     "sent": sent.text,
                     "labels": label,
-                    "terms": term
-                })
+                    "terms": term})
+            
         return results
 
     def extract(self, tokens, text = None, keys = None):
@@ -114,7 +121,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         elif language == 'fr':
@@ -175,8 +182,8 @@ class ActerDataset():
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/fr/"
+    path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem_1c.pkl", "wb") as output_file: 
+    with open(path + "ann_train_lem_1c_full.pkl", "wb") as output_file: 
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)

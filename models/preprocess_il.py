@@ -1,24 +1,76 @@
 import os
+import re
 import pandas as pd
 import spacy
 import pickle
+import stanza
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', term = "equi", nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=False):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
         else:
             data_file = os.path.join(data_file, '{0}_{1}_terms.ann'.format(term, language))
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
+        self.nlp = stanza.Pipeline(lang='en')
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
+        self.keys_lemma = list(set([self.lemma(x) for x in self.keys]))
     
-    def extract(self, tokens, text = None):
+    def lemma(self, doc):
+        lemma_word = self.nlp(str(doc))
+        lemma_word = ' '.join([w.lemma for sent in lemma_word.sentences for w in sent.words])
+        lemma_word = re.sub(' -','-',lemma_word)
+        lemma_word = re.sub('- ','-',lemma_word)
+        lemma_word = re.sub(' \)', ' ',lemma_word)
+        lemma_word = re.sub('\( ', ' ',lemma_word)
+        lemma_word = re.sub(' +', ' ',lemma_word)
+        return lemma_word
+
+    def extract_doc(self, doc, use_lemma=True):
+        doc = self.nlp(doc)
+        results = []
+        for sent in doc.sentences:
+            if use_lemma:
+                lemma_word = ' '.join([w.lemma for w in sent.words])
+                lemma_word = re.sub(' -','-',lemma_word)
+                lemma_word = re.sub('- ','-',lemma_word)
+                lemma_word = re.sub(' \)', ' ',lemma_word)
+                lemma_word = re.sub('\( ', ' ',lemma_word)
+                lemma_word = re.sub(' +', ' ',lemma_word)
+
+                tokens = lemma_word.split()
+                text = lemma_word
+                keys = self.keys_lemma
+            else:
+                tokens = [token.text for token in sent.tokens]
+                text = sent.text
+                keys = self.keys
+
+            label, term = self.extract(tokens, text=text, keys=keys)
+
+            if set(label) != {'O'}:
+                results.append({
+                    "tokens": tokens,
+                    "sent": sent.text,
+                    "labels": label,
+                    "terms": term
+                })
+        return results
+
+    def extract(self, tokens, text = None, keys = None):
+        # tokens = [self.lemma(x) for x in tokens]
         if text == None:
             text = ' '.join(tokens)
+
+        if keys == None:
+            keys = self.keys
+
         z = ['O'] * len(tokens)
-        for k in self.keys:
+        # text = self.lemma(text)
+        for k in keys:
+            # k = self.lemma(k)
             if k in text:
                 if len(k.split())==1:
                     try:
@@ -52,7 +104,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
         if language == 'en':
             nlp = spacy.load("en_core_web_sm")
         elif language == 'fr':
@@ -89,6 +141,7 @@ class ActerDataset():
                 print(data_file)
                 with open(data_file) as f:
                     for line in f:
+                        '''
                         doc = nlp(line.strip().lower())
                         for sent in doc.sents:
                             tokens = [token.text for token in sent]
@@ -98,61 +151,21 @@ class ActerDataset():
                                 labels.append(label)
                                 all_token.append(tokens)
                                 terms.append(t)
+                        '''
+                        results = keyterm.extract_doc(line.strip().lower(), use_lemma=True)
+                        for result in results:
+                            if set(result['labels']) != {'O'}:
+                                sentences.append(result['sent'])
+                                labels.append(result['labels'])
+                                all_token.append(result['tokens'])
+                                terms.append(result['terms'])
 
         return sentences, labels, all_token, terms
 
 if __name__ == '__main__':
     dataset = ActerDataset()
-    path = "../processed_data/fr/"
+    path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train.pkl", "wb") as output_file:
+    with open(path + "ann_train_inl.pkl", "wb") as output_file:
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
-
-def get_term(predictions):
-    all_term = []
-    for sentence in predictions:
-        tokens = []
-        labels = []
-        for d in sentence:
-            tokens.extend(d.keys())
-            labels.extend(d.values())
-
-        for i, label in enumerate(labels):
-            if labels[i] == 'I' and (i == 0 or labels[i - 1] == 'O'):
-                labels[i] = 'O'
-
-        terms = []
-        term = []
-        for i, (token, label) in enumerate(zip(tokens, labels)):
-            if label == 'B': 
-                #Lưu vị trí B
-                b_pos = i
-                term = [token]
-            elif label == 'I':
-                term.append(token)
-            elif len(term) > 0:
-                terms.append(' '.join(term))
-                # if nlp(str(tokens[b_pos])).sentences[0].word[0].upos == 'NOUN':
-                # Check b_pos = 0 không
-                if b_pos != 0:
-                    # print(tokens[b_pos - 1])
-                    if (tokens[b_pos - 1] != '') and (tokens[b_pos - 1] != ' '):
-                        if len(nlp(str(tokens[b_pos - 1])).sentences) > 0:
-                            b_word = nlp(str(tokens[b_pos - 1])).sentences[0].words[0]
-                            # Check vị trí b_pos - 1: terms.append()
-                            if  (b_word.text != 'None') and ((b_word.upos == 'NOUN') or (b_word.upos == 'ADJ')):
-                                terms.append(' '.join([b_word.text] + term))
-                if (tokens[i] != '') and (tokens[i] != ' '):
-                    # Check vị trí i: terms.append()
-                    if len(nlp(str(tokens[i])).sentences) > 0:
-                        a_word = nlp(str(tokens[i])).sentences[0].words[0]
-                        if (a_word.text != 'None') and (a_word.upos == 'NOUN'):
-                            terms.append(' '.join(term + [a_word.text]))
-                term = []
-        if len(term) > 0:
-            terms.append(' '.join(term))
-            # check b_pos - 1
-        all_term.append(terms)
-
-    return all_term        
