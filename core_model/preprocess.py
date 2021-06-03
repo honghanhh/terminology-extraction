@@ -8,7 +8,7 @@ import pandas as pd
 from tqdm import tqdm
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'en', term = "equi", nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nlp = None,term = "equi", nes=True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -17,7 +17,10 @@ class KeyTerm():
         self.df = pd.read_csv(data_file, sep='\t', names=['word', 'class'], header=None)
         self.df['len'] = [len(str(x)) for x in self.df['word']]
         self.df = self.df[self.df['len'] > 1][['word', 'class']]
-        self.nlp = stanza.Pipeline(lang=language)
+        if nlp == None:
+            self.nlp = stanza.Pipeline(lang=language)
+        else:
+            self.nlp = nlp
         self.keys = self.df['word'].to_list()
         self.keys = [str(x) for x in self.keys]
         self.keys_lemma = list(set([self.lemma(x) for x in self.keys]))
@@ -116,13 +119,8 @@ class KeyTerm():
 
 class ActerDataset():
     def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
-        if language == 'en':
-            nlp = spacy.load("en_core_web_sm")
-        elif language == 'fr':
-            print("Load french spacy")
-            nlp = spacy.load("fr_core_news_sm")
-        elif language == 'nl':
-            nlp = spacy.load("nl_core_news_sm")
+        nlp = stanza.Pipeline(lang=language)
+
         self.sentences = []
         self.labels = []
         self.tokens = []
@@ -130,16 +128,16 @@ class ActerDataset():
 
         language_dir = os.path.join(data_dir, language)
         for term in ['corp','equi','wind']:
-            keyterm = KeyTerm(data_dir = data_dir, language=language, term = term, nes=nes)
+            keyterm = KeyTerm(data_dir = data_dir, language=language, term = term, nlp=nlp, nes=nes)
 
-            sentences, labels, tokens, terms = self.extract_term(language_dir, term, keyterm, nlp)
+            sentences, labels, tokens, terms = self.extract_term(language_dir, term, keyterm)
 
             self.sentences.extend(sentences)
             self.labels.extend(labels)
             self.tokens.extend(tokens)
             self.terms.extend(terms)
 
-    def extract_term(self, data_dir, term, keyterm, nlp):
+    def extract_term(self, data_dir, term, keyterm):
         data_dir = os.path.join(data_dir, term, 'texts', "annotated")
         sentences = []
         labels = []
