@@ -60,19 +60,19 @@ class KeyTerm():
 
             label, term = self.extract(tokens, text=text, keys=keys)
 
-            # if set(label) != {'O'}:
-            #     results.append({
-            #         "tokens": tokens,
-            #         "sent": sent.text,
-            #         "labels": label,
-            #         "terms": term
-            #     })
-            
-            results.append({
+            if set(label) != {'O'}:
+                results.append({
                     "tokens": tokens,
                     "sent": sent.text,
                     "labels": label,
-                    "terms": term})
+                    "terms": term
+                })
+            
+            # results.append({
+            #         "tokens": tokens,
+            #         "sent": sent.text,
+            #         "labels": label,
+            #         "terms": term})
             
         return results
 
@@ -185,5 +185,5 @@ if __name__ == '__main__':
     path = "../processed_data/en/"
     if not os.path.exists(path):
             os.mkdir(path) 
-    with open(path + "ann_train_lem_1c_full.pkl", "wb") as output_file: 
+    with open(path + "ann_train_lem_1c.pkl", "wb") as output_file: 
         pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)

@@ -3,6 +3,7 @@ import re
 import spacy
 import pickle
 import stanza
+import argparse
 import pandas as pd
 from tqdm import tqdm
 
@@ -61,14 +62,6 @@ class KeyTerm():
 
             label, term = self.extract(tokens, text=text, keys=keys)
 
-            # if set(label) != {'O'}:
-            #     results.append({
-            #         "tokens": tokens,
-            #         "sent": sent.text,
-            #         "labels": label,
-            #         "terms": term
-            #     })
-            
             results.append({
                     "tokens": tokens,
                     "sent": sent.text,
@@ -148,8 +141,6 @@ class ActerDataset():
 
     def extract_term(self, data_dir, term, keyterm, nlp):
         data_dir = os.path.join(data_dir, term, 'texts', "annotated")
-        # print(term)
-        # print(data_dir)
         sentences = []
         labels = []
         all_token = []
@@ -160,49 +151,34 @@ class ActerDataset():
                 print(data_file)
                 with open(data_file) as f:
                     for line in f:
-                        '''
-                        doc = nlp(line.strip().lower())
-                        for sent in doc.sents:
-                            tokens = [token.text for token in sent]
-                            label, t = keyterm.extract(tokens)
-                            if set(label) != {'O'}:
-                                sentences.append(sent.text)
-                                labels.append(label)
-                                all_token.append(tokens)
-                                terms.append(t)
-                        '''
                         results = keyterm.extract_doc(line.strip().lower(), use_lemma=True)
                         for result in results:
-                            if set(result['labels']) != {'O'}:
-                                sentences.append(result['sent'])
-                                labels.append(result['labels'])
-                                all_token.append(result['tokens'])
-                                terms.append(result['terms'])
+                            # if set(result['labels']) != {'O'}:
+                            sentences.append(result['sent'])
+                            labels.append(result['labels'])
+                            all_token.append(result['tokens'])
+                            terms.append(result['terms'])
 
         return sentences, labels, all_token, terms
 
 if __name__ == '__main__':
-    dataset = ActerDataset()
-    path = "../processed_data/en/"
-    if not os.path.exists(path):
-            os.mkdir(path) 
-    with open(path + "ann_train_lem_1c_full.pkl", "wb") as output_file: 
-        pickle.dump((dataset.sentences, dataset.labels, dataset.tokens, dataset.terms), output_file)
+    parser = argparse.ArgumentParser(description='Map label from gold standard term list to corpus.')
+    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/en_full_spacy_tokenizer.csv")
+    args = parser.parse_args()
 
-    train_df = pd.DataFrame(columns=["sentence_id", "words", "labels"])
-    with open(path + "ann_train_lem_1c_full.pkl", "rb") as input_file:
-        sentences, labels, tokens, terms = pickle.load(input_file)
+    dataset = ActerDataset()
     sentence_id = []
     words = []
     targets = []
 
-    for index, (token, label) in tqdm(enumerate(zip(tokens, labels))):
+    for index, (token, label) in tqdm(enumerate(zip(dataset.tokens, dataset.labels))):
         for t, l in zip(token, label):
             sentence_id.append(index)
             words.append(t)
             targets.append(l)
+    train_df = pd.DataFrame(columns=["sentence_id", "words", "labels"])
     train_df['sentence_id'] = sentence_id
     train_df['words'] = words
     train_df['labels'] = targets
 
-    train_df.to_csv(path + 'nn_train_lem_1c_full.csv', index=False)
+    train_df.to_csv(args.output, index=False)
