@@ -33,6 +33,8 @@ ACTER
 └───fr (equivalent to "en")
 └───nl (equivalent to "en")
 ```
+The distributions of terms per domain per language are demonstrated in [data.exploration.ipynb](./eda/data_exporation.ipynb)
+
 ## Architecture
 
 ### 1. Preprocess data
