@@ -65,11 +65,19 @@ class KeyTerm():
 
             label, term = self.extract(tokens, text=text, keys=keys)
 
-            results.append({
+            if set(label) != {'O'}:
+                results.append({
                     "tokens": tokens,
                     "sent": sent.text,
                     "labels": label,
-                    "terms": term})
+                    "terms": term
+                })
+
+            # results.append({
+            #         "tokens": tokens,
+            #         "sent": sent.text,
+            #         "labels": label,
+            #         "terms": term})
             
         return results
 
@@ -151,11 +159,11 @@ class ActerDataset():
                     for line in f:
                         results = keyterm.extract_doc(line.strip().lower(), use_lemma=True)
                         for result in results:
-                            # if set(result['labels']) != {'O'}:
-                            sentences.append(result['sent'])
-                            labels.append(result['labels'])
-                            all_token.append(result['tokens'])
-                            terms.append(result['terms'])
+                            if set(result['labels']) != {'O'}:
+                                sentences.append(result['sent'])
+                                labels.append(result['labels'])
+                                all_token.append(result['tokens'])
+                                terms.append(result['terms'])
 
         return sentences, labels, all_token, terms
 
