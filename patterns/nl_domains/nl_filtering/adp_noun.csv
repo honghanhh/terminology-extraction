@@ -1,0 +1,9 @@
+,DOMAIN,ADP_NOUN_P,ADP_NOUN_R,ADP_NOUN_F1
+0,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_htfl.pkl,48.77,59.5,53.6
+1,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_wind.pkl,46.55,75.43,57.57
+2,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_equi.pkl,57.58,76.09,65.55
+3,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_corp.pkl,48.8,69.63,57.38
+4,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_htfl.pkl,51.28,58.83,54.8
+5,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_wind.pkl,50.84,68.43,58.34
+6,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_equi.pkl,59.72,72.6,65.53
+7,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_corp.pkl,50.38,66.87,57.47

@@ -72,17 +72,10 @@ class KeyTerm():
                     "labels": label,
                     "terms": term
                 })
-
-            # results.append({
-            #         "tokens": tokens,
-            #         "sent": sent.text,
-            #         "labels": label,
-            #         "terms": term})
             
         return results
 
     def extract(self, tokens, text = None, keys = None):
-        # tokens = [self.lemma(x) for x in tokens]
         if text == None:
             text = ' '.join(tokens)
 
@@ -90,9 +83,7 @@ class KeyTerm():
             keys = self.keys
 
         z = ['O'] * len(tokens)
-        # text = self.lemma(text)
         for k in keys:
-            # k = self.lemma(k)
             if k in text:
                 if len(k.split())==1:
                     try:
@@ -126,7 +117,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'en', nes=False):
+    def __init__(self, data_dir = "../ACTER", language = 'en', nes=True):
         nlp = stanza.Pipeline(lang=language)
 
         self.sentences = []
@@ -135,7 +126,7 @@ class ActerDataset():
         self.terms = []
 
         language_dir = os.path.join(data_dir, language)
-        for term in ['corp','equi','wind']:
+        for term in ['equi','wind']: #['corp','equi','wind']:
             keyterm = KeyTerm(data_dir = data_dir, language=language, term = term, nlp=nlp, nes=nes)
 
             sentences, labels, tokens, terms = self.extract_term(language_dir, term, keyterm)
@@ -169,7 +160,7 @@ class ActerDataset():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Map label from gold standard term list to corpus.')
-    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/en_full_spacy_tokenizer.csv")
+    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/nes_train_equi_wind.csv")
     args = parser.parse_args()
 
     dataset = ActerDataset()
