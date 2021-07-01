@@ -1,6 +1,5 @@
 import os
 import re
-import spacy
 import pickle
 import stanza
 import argparse
@@ -8,7 +7,7 @@ import pandas as pd
 from tqdm import tqdm
 
 class KeyTerm():
-    def __init__(self, data_dir = "../ACTER", language = 'en', nlp = None,term = "equi", nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'fr', nlp = None,term = "equi", nes=True):
         data_file = os.path.join(data_dir, language, term, 'annotations')
         if nes:
             data_file = os.path.join(data_file, '{0}_{1}_terms_nes.ann'.format(term, language))
@@ -117,7 +116,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'en', nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=True):
         nlp = stanza.Pipeline(lang=language)
 
         self.sentences = []
@@ -160,7 +159,7 @@ class ActerDataset():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Map label from gold standard term list to corpus.')
-    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/nes_train_equi_wind.csv")
+    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/fr/nes_train_equi_wind.csv")
     args = parser.parse_args()
 
     dataset = ActerDataset()
