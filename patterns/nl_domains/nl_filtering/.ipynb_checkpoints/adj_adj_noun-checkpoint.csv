@@ -1,0 +1,9 @@
+,DOMAIN,ADJ_ADJ_NOUN_P,ADJ_ADJ_NOUN_R,ADJ_ADJ_NOUN_F1
+0,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_htfl.pkl,59.87,59.98,59.92
+1,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_wind.pkl,54.79,75.43,63.47
+2,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_equi.pkl,64.55,75.95,69.79
+3,/gdrive/MyDrive/TermEval/nl_domains/ann_bert_corp.pkl,59.54,69.72,64.23
+4,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_htfl.pkl,63.08,59.27,61.12
+5,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_wind.pkl,58.29,68.35,62.92
+6,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_equi.pkl,66.43,72.54,69.35
+7,/gdrive/MyDrive/TermEval/nl_domains/nes_bert_corp.pkl,59.93,67.1,63.31
