@@ -1,0 +1,7 @@
+,DOMAIN,NON_PATTERN,ADJ_NOUN,NOUN_ADP_NOUN,NOUN_ADP_DET_NOUN,NOUN_ADP_ADJ_NOUN,ADP_NOUN,ADJ_ADJ_NOUN
+0,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/corp_wind/ann_bert_equi.pkl,45.76,44.85,44.77,45.76,45.62,43.43,45.57
+1,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/corp_wind/nes_bert_equi.pkl,51.86,50.61,50.9,51.86,51.7,49.27,51.71
+2,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/corp_equi/ann_bert_wind.pkl,37.99,35.05,36.2,37.95,37.3,34.15,37.5
+3,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/corp_equi/nes_bert_wind.pkl,42.35,39.66,40.4,42.33,41.64,38.46,41.83
+4,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/equi_wind/ann_bert_corp.pkl,24.24,23.9,23.88,24.24,24.27,23.01,24.15
+5,/Users/hanhtran/Documents/terminology-extraction/patterns/nl_domains/equi_wind/nes_bert_corp.pkl,30.77,30.51,30.32,30.75,30.7,29.69,30.7
