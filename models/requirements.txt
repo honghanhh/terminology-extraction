@@ -38,10 +38,6 @@ jupyter-console==6.4.0
 jupyter-core==4.7.1
 jupyter-server==1.7.0
 jupyter-ui-poll==0.1.2
-jupyterlab==3.0.15
-jupyterlab-pygments==0.1.2
-jupyterlab-server==2.5.1
-jupyterlab-widgets==1.0.0
 kiwisolver==1.3.1
 MarkupSafe==1.1.1
 matplotlib==3.4.2
@@ -57,7 +53,6 @@ nl-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/nl
 nl-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-3.0.0/nl_core_news_sm-3.0.0-py3-none-any.whl
 nltk==3.6.2
 nodejs==0.1.1
-notebook==6.3.0
 numpy==1.20.1
 openpyxl==3.0.7
 optional-django==0.1.0
