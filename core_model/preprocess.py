@@ -126,7 +126,7 @@ class ActerDataset():
         self.terms = []
 
         language_dir = os.path.join(data_dir, language)
-        for term in ['corp','equi','wind']: #['corp','equi','wind']:
+        for term in ['corp','equi','wind']: 
             keyterm = KeyTerm(data_dir = data_dir, language=language, term = term, nlp=nlp, nes=nes)
 
             sentences, labels, tokens, terms = self.extract_term(language_dir, term, keyterm)
