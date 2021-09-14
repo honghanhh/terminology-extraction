@@ -1,85 +1,73 @@
 import os
-import glob
+import glob 
 import spacy
-import stanza
-import pickle
 import pandas as pd
+import numpy as np
+import pickle as pkl
 from sklearn.utils import class_weight
+from sklearn.model_selection import train_test_split
 from collections import Counter
 import torch
 torch.cuda.empty_cache()
-
+# !pip install stanza
 import stanza
-stanza.download('en')
-nlp = stanza.Pipeline(lang='en', processors='tokenize,mwt,pos,lemma')
-
-import en_core_web_sm
-nlp1 = en_core_web_sm.load()
-
-from tqdm.notebook import tqdm
-from sklearn.model_selection import train_test_split
+stanza.download('fr')
+nlp = stanza.Pipeline(lang='fr', processors='tokenize,mwt,pos,lemma')
+# !python -m spacy download fr_core_news_sm
+import fr_core_news_sm
+nlp1 = fr_core_news_sm.load()
+# from tqdm.notebook import tqdm
 from tqdm import tqdm_notebook as tqdm
 from simpletransformers.ner import NERModel, NERArgs
-import pickle as pkl
 
-# P = TP/(TP+FP)
-# R =  TP/(TP+FN)
-def evaluation_metrics(pred, gt):
-  TP = len(set(pred) & set(gt)) 
-  FP = len(set(pred)-set(gt))
-  FN = len(set(gt)-set(pred))
-  print(TP,FP, FN)
-  precision = round((TP/(TP+FP))*100, 2)
-  recall = round((TP/(TP+FN))*100,2)
-  f1_score = round((2 * precision * recall) / (precision + recall),2)
-  return precision, recall, f1_score 
+if __name__ == '__main__':
+  parser = argparse.ArgumentParser(description='Training language models.')
+  parser.add_argument('-in_train_path', type=str, dest='train_input', default="../terminology-extraction/processed_data/fr/ann_train_lem_1c.csv")
+  parser.add_argument('-in_groundtruth_path', type=str, dest='train_data', default="../terminology-extraction/ACTER/fr/htfl/texts/annotated/")
+  parser.add_argument('-out_path', type=str, dest='output', default="../terminology-extraction/results/weighted_results/fr/fr_model.pkl")
+  args = parser.parse_args()
 
-groundtruth = pd.read_csv('/content/terminology-extraction/ACTER/en/htfl/annotations/htfl_en_terms.ann', sep='	', engine='python',header=None)
-gt = list(groundtruth[0]) 
+  
+  train = pd.read_csv(args.train_input)
+  train['words'] = [str(x) for x in train['words']]
+  train_df, eval_df = train_test_split(train, test_size=0.15, random_state=2021)
+  class_weights = class_weight.compute_class_weight('balanced',
+                                                  np.unique(train_df.labels),
+                                                  train_df.labels)
+  model_args = NERArgs(
+                      labels_list = ['B','I', 'O'],
+                      manual_seed = 2021,
+                      num_train_epochs = 4,
+                      max_seq_length = 512,
+                      use_early_stopping = True,
+                      overwrite_output_dir = True,
+                      train_batch_size = 8#,
+                      # do_lower_case = True
+                      )
 
-path = "/content/terminology-extraction/ACTER/en/htfl/texts/annotated/"
-list_of_files = os.listdir("/content/terminology-extraction/ACTER/en/htfl/texts/annotated/")
-lines=[]
-for file in list_of_files:
-    f = open(path+file, "r")
-    #append each line in the file to a list
-    lines.append(f.readlines())
-    f.close()
+  model  = NERModel(
+      "camembert", "camembert-base", args=model_args, weight = list(class_weights), use_cuda=True, cuda_device=-1
+  )
 
-train = pd.read_csv('/content/terminology-extraction/processed_data/en/ann_train_lem_1c.csv')
-train['words'] = [str(x) for x in train['words']]
-train_df, eval_df = train_test_split(train, test_size=0.15, random_state=2021)
-class_weights = class_weight.compute_class_weight('balanced',
-                                                 np.unique(train_df.labels),
-                                                 train_df.labels)
+  model.train_model(train_df)
 
+  result, model_outputs, wrong_predictions = model.eval_model(
+      eval_df
+  )
 
-model_args = NERArgs(
-                    labels_list = ['B','I', 'O'],
-                    manual_seed = 2021,
-                    num_train_epochs = 4,
-                    max_seq_length = 512,
-                    use_early_stopping = True,
-                    overwrite_output_dir = True,
-                    train_batch_size = 8
-                    )
+  list_of_files = os.listdir(args.in_groundtruth_path)
+  lines=[]
+  for file in list_of_files:
+      f = open(path+file, "r")
+      lines.append(f.readlines())
+      f.close()
 
-model  = NERModel(
-    "roberta", "roberta-base", args=model_args, weight = [2.52853895, 12.18978944,  0.39643544], use_cuda=True, cuda_device=-1
-)
+  terms = []
+  preds = []
+  for lines_ in lines:
+    sentences = [[token.text for token in nlp1(line.strip())] for line in lines_]
+    predictions, raw_outputs = model.predict(sentences, split_on_space=False)
+    preds.extend(predictions)
 
-model.train_model(train_df)
-
-result, model_outputs, wrong_predictions = model.eval_model(
-    eval_df
-)
-
-terms = []
-preds = []
-for lines_ in lines:
-  sentences = [[token.text for token in nlp1(line.strip())] for line in lines_]
-  predictions, raw_outputs = model.predict(sentences, split_on_space=False)
-  preds.extend(predictions)
-
-with open('ann_weighted_roberta.pkl', 'wb') as f:
-    pkl.dump(preds, f)
+  with open(args.output, 'wb') as f: 
+      pkl.dump(preds, f)
