@@ -2,6 +2,7 @@ import os
 import re
 import pickle
 import stanza
+# stanza.download('fr')
 import argparse
 import pandas as pd
 from tqdm import tqdm
@@ -116,7 +117,7 @@ class KeyTerm():
         return z, terms
 
 class ActerDataset():
-    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=True):
+    def __init__(self, data_dir = "../ACTER", language = 'fr', nes=False):
         nlp = stanza.Pipeline(lang=language)
 
         self.sentences = []
@@ -125,7 +126,7 @@ class ActerDataset():
         self.terms = []
 
         language_dir = os.path.join(data_dir, language)
-        for term in ['equi','wind']: #['corp','equi','wind']:
+        for term in ['corp','equi','wind']: #['corp','equi','wind']:
             keyterm = KeyTerm(data_dir = data_dir, language=language, term = term, nlp=nlp, nes=nes)
 
             sentences, labels, tokens, terms = self.extract_term(language_dir, term, keyterm)
@@ -159,7 +160,7 @@ class ActerDataset():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Map label from gold standard term list to corpus.')
-    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/fr/nes_train_equi_wind.csv")
+    parser.add_argument('-out_csv_path', type=str, dest='output', default="../training_corpus/fr/ann_train_corp_equi_wind.csv")
     args = parser.parse_args()
 
     dataset = ActerDataset()
